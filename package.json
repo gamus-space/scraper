@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "krzykos",
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^2.6.1",
+    "xmldom": "^0.6.0",
+    "xpath": "0.0.32"
+  }
+}
