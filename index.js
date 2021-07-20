@@ -11,6 +11,9 @@ const sources = {
 
 (async () => {
 	const dir = process.cwd();
+	try {
+		fs.mkdirSync(DATA);
+	} catch {}
 
 	const result = [];
 	for (const source in sources) {
@@ -22,5 +25,5 @@ const sources = {
 	}
 
 	process.chdir(dir);
-	fs.writeFileSync(`${DATA}/db.json`, JSON.stringify(result.flat(), null, 2));
+	fs.writeFileSync(`${DATA}/index.json`, JSON.stringify(result.flat(), null, 2));
 })();

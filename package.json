@@ -7,7 +7,7 @@
     "run": "node index.js"
   },
   "author": "krzykos",
-  "license": "ISC",
+  "license": "BSD-2-Clause",
   "devDependencies": {
     "node-fetch": "^2.6.1",
     "xmldom": "^0.6.0",
