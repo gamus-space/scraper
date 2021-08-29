@@ -21,7 +21,7 @@ const sources = {
 			fs.mkdirSync(`${DATA}/${source}`);
 		} catch {}
 		process.chdir(`${DATA}/${source}`);
-		result.unshift(await fetchUnexotica());
+		result.unshift(await fetchUnexotica(source));
 	}
 
 	process.chdir(dir);

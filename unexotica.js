@@ -7,6 +7,8 @@ const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 const LHA = require('./lib/lha');
 
+const PLATFORM = 'Amiga';
+
 const ARCHIVE_PATH_BUGS = {
 	'Risky_Woods\\mod.Risky Woods - Grand       ': 'Risky_Woods\\mod.Risky Woods - Grand',
 };
@@ -19,7 +21,7 @@ function takeUntil(a, e) {
 	return a.slice(0, a.indexOf(e));
 }
 
-async function fetchGame(url) {
+async function fetchGame(url, source) {
 	if (GAME_DUPLICATES.includes(url))
 		return null;
 
@@ -30,7 +32,7 @@ async function fetchGame(url) {
 	//const composers = xpath.select(".//tr[normalize-space(th/text()) = 'Composer(s)']/td/a/text()", infobox).map(t => t.data);
 	const developers = xpath.select(".//tr[normalize-space(th/text()) = 'Team(s)']/td/a/text()", infobox).map(t => t.data);
 	const publishers = xpath.select(".//tr[normalize-space(th/text()) = 'Publisher(s)']/td/a/text()", infobox).map(t => t.data);
-	const year = xpath.select("normalize-space(.//tr[normalize-space(th/text()) = 'Year published']/td)", infobox);
+	const year = parseInt(xpath.select("normalize-space(.//tr[normalize-space(th/text()) = 'Year published']/td)", infobox)) || null;
 	const music = xpath.select1("//h2/span[normalize-space() = 'UnExoticA Music Files']", doc);
 	const followingHeaders = xpath.select("../following-sibling::*[name() = 'h3' or name() = 'h2' or name() = 'h1']", music);
 	const nextSection = followingHeaders.find(h => h.nodeName != 'h3');
@@ -47,17 +49,19 @@ async function fetchGame(url) {
 		const composer = xpath.select("string(./td[3])", row);
 		const game = xpath.select("string(./td[4])", row);
 		cwd[xpath.select("count(./td[1]/a[contains(@class, 'image')])", row)] = name;
-		const path = xpath.select("./td[1]/a[contains(@class, 'image')]", row).map((n, i) => cwd[i]).concat(name).join('/');
-		const platform = 'Amiga';
-		const source = 'UnExoticA';
-		return dir || /\/(smpl?\.|instruments\/|Art_and_Magic_Player_Source\/)/.test(path) ?
-			null : { path, size, composer, game, platform, source };
+		const path = xpath.select("./td[1]/a[contains(@class, 'image')]", row).map((n, i) => cwd[i]).concat(name);
+		const song_link = path.join('/');
+		const song = path.slice(1).join('/');
+		return dir || /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source\/)/.test(song) ?
+			null : { song, song_link, size, composer };
 	}).filter(song => song));
-	const songs = childHeaders.map((h, i) => songsData[i].map(song => ({ ...song, archive: urls[i] }))).flat();
+	const songs = childHeaders.map((h, i) => songsData[i].map(song => (
+		{ ...song, song_link: `${source}/${song.song_link}`, source_archive: urls[i] }
+	))).flat();
 
 	const songDownloaded = song => {
 		try {
-			return song.size === fs.statSync(song.path).size;
+			return song.size === fs.statSync(song.song_link).size;
 		} catch {
 			return false;
 		}
@@ -69,21 +73,23 @@ async function fetchGame(url) {
 		return LHA.read(new Uint8Array(await (await fetch(url)).arrayBuffer()));
 	}));
 	songsData.forEach((songs, i) => songs.filter(song => !songDownloaded(song)).forEach(song => {
-		const entry = archives[i].find(entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === song.path);
+		const entry = archives[i].find(
+			entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === song.song_link
+		);
 		if (!entry) {
-			console.warn(`file not found: ${song.path}`);
+			console.warn(`file not found: ${song.song_link}`);
 			return;
 		}
 		try {
-			fs.mkdirSync(path.dirname(song.path), { recursive: true });
+			fs.mkdirSync(path.dirname(song.song_link), { recursive: true });
 		} catch {}
-		fs.writeFileSync(song.path, LHA.unpack(entry));
+		fs.writeFileSync(song.song_link, LHA.unpack(entry));
 	}));
 
-	return { title, developers, publishers, year, songs };
+	return { game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url, songs };
 }
 
-async function fetchUnexotica() {
+async function fetchUnexotica(source) {
 	const games = [
 		'https://www.exotica.org.uk/wiki/Agony_(game)',
 		'https://www.exotica.org.uk/wiki/Aladdin',
@@ -184,7 +190,7 @@ async function fetchUnexotica() {
 		'https://www.exotica.org.uk/wiki/Wrath_of_the_Demon',
 		'https://www.exotica.org.uk/wiki/Yo!_Joe!',
 	];
-	return (await games.reduce(async (a, e) => [...await a, await fetchGame(e)], [])).filter(game => game);
+	return (await games.reduce(async (a, e) => [...await a, await fetchGame(e, source)], [])).filter(game => game);
 };
 
 exports.fetchUnexotica = fetchUnexotica;
