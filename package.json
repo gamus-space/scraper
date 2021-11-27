@@ -12,5 +12,8 @@
     "node-fetch": "^2.6.1",
     "xmldom": "^0.6.0",
     "xpath": "0.0.32"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.9"
   }
 }
