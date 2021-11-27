@@ -5,6 +5,7 @@ const fetch = require('node-fetch');
 const path = require('path');
 const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
+const AdmZip = require('adm-zip');
 const LHA = require('./lib/lha');
 
 const PLATFORM = 'Amiga';
@@ -22,6 +23,8 @@ function takeUntil(a, e) {
 }
 
 async function fetchGame(url, source) {
+	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
+	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
 	if (GAME_DUPLICATES.includes(url))
 		return null;
 
@@ -55,12 +58,16 @@ async function fetchGame(url, source) {
 		return dir || /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source\/)/.test(song) ?
 			null : { song, song_link, size, composer };
 	}).filter(song => song));
-	const songs = childHeaders.map((h, i) => songsData[i].map(song => (
-		{ ...song, song_link: `${source}/${song.song_link}`, source_archive: urls[i] }
-	))).flat();
+	const songs = childHeaders.map((h, i) => songsData[i].map(song => ({
+		...song,
+		song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
+		source_archive: urls[i],
+	}))).flat();
 
 	const songDownloaded = song => {
 		try {
+			if (samplesBundle.test(song.song))
+				return fs.existsSync(`${song.song_link}.zip`);
 			return song.size === fs.statSync(song.song_link).size;
 		} catch {
 			return false;
@@ -73,9 +80,10 @@ async function fetchGame(url, source) {
 		return LHA.read(new Uint8Array(await (await fetch(url)).arrayBuffer()));
 	}));
 	songsData.forEach((songs, i) => songs.filter(song => !songDownloaded(song)).forEach(song => {
-		const entry = archives[i].find(
-			entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === song.song_link
+		const findEntry = (path) => archives[i].find(
+			entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === path
 		);
+		const entry = findEntry(song.song_link);
 		if (!entry) {
 			console.warn(`file not found: ${song.song_link}`);
 			return;
@@ -83,6 +91,19 @@ async function fetchGame(url, source) {
 		try {
 			fs.mkdirSync(path.dirname(song.song_link), { recursive: true });
 		} catch {}
+		if (samplesBundle.test(song.song)) {
+			const samplesLink = song.song_link.replace(samplesBundle, (m, s, p, d) => `${s}${samplesPrefix[p]}${d}`);
+			const samplesEntry = findEntry(samplesLink);
+			if (!samplesEntry) {
+				console.warn(`file not found: ${samplesLink}`);
+				return;
+			}
+			const zip = new AdmZip();
+			zip.addFile(path.basename(song.song_link), LHA.unpack(entry));
+			zip.addFile(path.basename(samplesLink), LHA.unpack(samplesEntry));
+			fs.writeFileSync(`${song.song_link}.zip`, zip.toBuffer());
+			return;
+		}
 		fs.writeFileSync(song.song_link, LHA.unpack(entry));
 	}));
 
