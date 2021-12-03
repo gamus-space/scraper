@@ -66,11 +66,15 @@ async function fetchGame(url, source) {
 
 	const songDownloaded = song => {
 		try {
-			if (samplesBundle.test(song.song))
-				return fs.existsSync(`${song.song_link}.zip`);
-			return song.size === fs.statSync(song.song_link).size;
+			if (samplesBundle.test(song.song)) {
+				const zip = new AdmZip(`${song.song_link}.zip`);
+				const entry = zip.getEntry(path.basename(song.song_link));
+				const dir = path.dirname(song.song_link);
+				return song.size === entry.header.size ? zip.getEntries().map(entry => entry.header.size).reduce((a, e) => a+e, 0) : undefined;
+			}
+			return song.size === fs.statSync(song.song_link).size ? song.size : undefined;
 		} catch {
-			return false;
+			return undefined;
 		}
 	};
 	const archives = await Promise.all(urls.map(async (url, i) => {
@@ -79,7 +83,10 @@ async function fetchGame(url, source) {
 		console.info(`downloading ${url} ...`);
 		return LHA.read(new Uint8Array(await (await fetch(url)).arrayBuffer()));
 	}));
-	songsData.forEach((songs, i) => songs.filter(song => !songDownloaded(song)).forEach(song => {
+	const sizes = songsData.map((songs, i) => songs.map(song => {
+		const downloaded = songDownloaded(song);
+		if (downloaded)
+			return { [song.song]: downloaded };
 		const findEntry = (path) => archives[i].find(
 			entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === path
 		);
@@ -102,12 +109,16 @@ async function fetchGame(url, source) {
 			zip.addFile(path.basename(song.song_link), LHA.unpack(entry));
 			zip.addFile(path.basename(samplesLink), LHA.unpack(samplesEntry));
 			fs.writeFileSync(`${song.song_link}.zip`, zip.toBuffer());
-			return;
+			return { [song.song]: entry.length + samplesEntry.length };
 		}
 		fs.writeFileSync(song.song_link, LHA.unpack(entry));
-	}));
+		return { [song.song]: entry.length };
+	})).flat().reduce((a, e) => ({ ...a, ...e }), {});
 
-	return { game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url, songs };
+	return {
+		game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url,
+		songs: songs.map(song => ({ ...song, size: sizes[song.song] })),
+	};
 }
 
 async function fetchUnexotica(source) {
