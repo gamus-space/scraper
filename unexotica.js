@@ -58,11 +58,6 @@ async function fetchGame(url, source) {
 		return dir || /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source\/)/.test(song) ?
 			null : { song, song_link, size, composer };
 	}).filter(song => song));
-	const songs = childHeaders.map((h, i) => songsData[i].map(song => ({
-		...song,
-		song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
-		source_archive: urls[i],
-	}))).flat();
 
 	const songDownloaded = song => {
 		try {
@@ -70,9 +65,10 @@ async function fetchGame(url, source) {
 				const zip = new AdmZip(`${song.song_link}.zip`);
 				const entry = zip.getEntry(path.basename(song.song_link));
 				const dir = path.dirname(song.song_link);
-				return song.size === entry.header.size ? zip.getEntries().map(entry => entry.header.size).reduce((a, e) => a+e, 0) : undefined;
+				return song.size === entry.header.size ? zip : undefined;
 			}
-			return song.size === fs.statSync(song.song_link).size ? song.size : undefined;
+			return song.size === fs.statSync(song.song_link).size ?
+				new Uint8Array(fs.readFileSync(song.song_link)) : undefined;
 		} catch {
 			return undefined;
 		}
@@ -83,10 +79,22 @@ async function fetchGame(url, source) {
 		console.info(`downloading ${url} ...`);
 		return LHA.read(new Uint8Array(await (await fetch(url)).arrayBuffer()));
 	}));
-	const sizes = songsData.map((songs, i) => songs.map(song => {
+	const songs = songsData.map((songs, i) => songs.map(song => {
 		const downloaded = songDownloaded(song);
-		if (downloaded)
-			return { [song.song]: downloaded };
+		if (downloaded) {
+			let size;
+			if (samplesBundle.test(song.song)) {
+				size = downloaded.getEntries().map(entry => entry.header.size).reduce((a, e) => a+e, 0);
+			} else {
+				size = downloaded.length;
+			}
+			return splitSong({
+				...song,
+				size,
+				song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
+				source_archive: urls[i],
+			}, downloaded);
+		}
 		const findEntry = (path) => archives[i].find(
 			entry => (ARCHIVE_PATH_BUGS[entry.name] || entry.name).replace(/\\/g, '/') === path
 		);
@@ -98,6 +106,7 @@ async function fetchGame(url, source) {
 		try {
 			fs.mkdirSync(path.dirname(song.song_link), { recursive: true });
 		} catch {}
+		let file, size;
 		if (samplesBundle.test(song.song)) {
 			const samplesLink = song.song_link.replace(samplesBundle, (m, s, p, d) => `${s}${samplesPrefix[p]}${d}`);
 			const samplesEntry = findEntry(samplesLink);
@@ -109,16 +118,57 @@ async function fetchGame(url, source) {
 			zip.addFile(path.basename(song.song_link), LHA.unpack(entry));
 			zip.addFile(path.basename(samplesLink), LHA.unpack(samplesEntry));
 			fs.writeFileSync(`${song.song_link}.zip`, zip.toBuffer());
-			return { [song.song]: entry.length + samplesEntry.length };
+			file = zip;
+			size = entry.length + samplesEntry.length;
+		} else {
+			file = LHA.unpack(entry);
+			size = entry.length;
+			fs.writeFileSync(song.song_link, file);
 		}
-		fs.writeFileSync(song.song_link, LHA.unpack(entry));
-		return { [song.song]: entry.length };
-	})).flat().reduce((a, e) => ({ ...a, ...e }), {});
+		return splitSong({
+			...song,
+			size,
+			song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
+			source_archive: urls[i],
+		}, file);
+	})).flat(2);
 
 	return {
-		game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url,
-		songs: songs.map(song => ({ ...song, size: sizes[song.song] })),
+		game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url, songs,
 	};
+}
+
+function splitSong(song, file) {
+	const isTFMX = /(^|\/)mdat(\.)/;
+	if (isTFMX.test(song.song)) {
+		const entry = file.getEntry(path.basename(song.song));
+		const data = new entry.getData();
+		if (String.fromCharCode.apply(null, data.slice(0, 10)) !== "TFMX-SONG ")
+			return [song];
+		data.swap16();
+		const data16 = new Uint16Array(data.buffer, data.byteOffset, data.length / 2);
+
+		const songStart = data16.slice(128, 128 + 32);
+		const songEnd = data16.slice(128 + 32, 128 + 64);
+		const songRanges = Array.from(songStart).map((start, i) => {
+			const end = songEnd[i];
+			if (songStart.slice(0, i).includes(start) && songEnd.slice(0, i).includes(end))
+				return [null, null];
+			if ((start === 0 && end === 0) || (start === 511 && end === 511))
+				return [null, null];
+			return [start, end];
+		});
+		const subsongs = songRanges.map(([start, end], i) => {
+			return (start === null && end === null) ? null : i+1;
+		}).filter(i => i != null);
+
+		return subsongs.map(i => ({
+			...song,
+			song: `${song.song} #${i}`,
+			song_link: `${song.song_link}#${i}`,
+		}));
+	}
+	return [song];
 }
 
 async function fetchUnexotica(source) {
@@ -200,6 +250,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Risky_Woods',
 		'https://www.exotica.org.uk/wiki/Road_Rash',
 		'https://www.exotica.org.uk/wiki/Ruff_%27n%27_Tumble',
+		'https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island',
 		'https://www.exotica.org.uk/wiki/The_Settlers',
 		'https://www.exotica.org.uk/wiki/Shadow_Fighter',
 		'https://www.exotica.org.uk/wiki/Shadow_of_the_Beast',
