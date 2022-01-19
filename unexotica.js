@@ -139,36 +139,150 @@ async function fetchGame(url, source) {
 }
 
 function splitSong(song, file) {
-	const isTFMX = /(^|\/)mdat(\.)/;
-	if (isTFMX.test(song.song)) {
-		const entry = file.getEntry(path.basename(song.song));
-		const data = new entry.getData();
-		if (String.fromCharCode.apply(null, data.slice(0, 10)) !== "TFMX-SONG ")
-			return [song];
-		data.swap16();
-		const data16 = new Uint16Array(data.buffer, data.byteOffset, data.length / 2);
+	let subsongs = [];
+	if (/(^|\/)mdat(\.)/.test(song.song))
+		subsongs = splitSongTFMX(song, file);
+	if (/(^|\/)mod(\.)/.test(song.song))
+		subsongs = splitSongMOD(song, file);
+	return subsongs.length <= 1 ? [song] : subsongs.map(i => ({
+		...song,
+		song: `${song.song} #${i}`,
+		song_link: `${song.song_link}#${i}`,
+	}));
+}
 
-		const songStart = data16.slice(128, 128 + 32);
-		const songEnd = data16.slice(128 + 32, 128 + 64);
-		const songRanges = Array.from(songStart).map((start, i) => {
-			const end = songEnd[i];
-			if (songStart.slice(0, i).includes(start) && songEnd.slice(0, i).includes(end))
-				return [null, null];
-			if ((start === 0 && end === 0) || (start === 511 && end === 511))
-				return [null, null];
-			return [start, end];
-		});
-		const subsongs = songRanges.map(([start, end], i) => {
-			return (start === null && end === null) ? null : i+1;
-		}).filter(i => i != null);
+function splitSongTFMX(song, file) {
+	const entry = file.getEntry(path.basename(song.song));
+	const data = new entry.getData();
+	if (String.fromCharCode.apply(null, data.slice(0, 10)) !== "TFMX-SONG ")
+		return [];
+	data.swap16();
+	const data16 = new Uint16Array(data.buffer, data.byteOffset, data.length / 2);
 
-		return subsongs.map(i => ({
-			...song,
-			song: `${song.song} #${i}`,
-			song_link: `${song.song_link}#${i}`,
-		}));
+	const songStart = data16.slice(128, 128 + 32);
+	const songEnd = data16.slice(128 + 32, 128 + 64);
+	const songRanges = Array.from(songStart).map((start, i) => {
+		const end = songEnd[i];
+		if (songStart.slice(0, i).includes(start) && songEnd.slice(0, i).includes(end))
+			return [null, null];
+		if ((start === 0 && end === 0) || (start === 511 && end === 511))
+			return [null, null];
+		return [start, end];
+	});
+	const subsongs = songRanges.map(([start, end], i) => {
+		return (start === null && end === null) ? null : i+1;
+	}).filter(i => i != null);
+	return subsongs;
+}
+
+function splitSongMOD(song, data) {
+	//console.log('*', song.song, data.length);
+	if (String.fromCharCode.apply(null, data.slice(952, 956)) === "KRIS")
+		return chiptracker(data);
+	else
+		return soundtracker(data);
+}
+
+function soundtracker(data) {
+	let samples = 31;
+	let channels = 4;
+	let signature = String.fromCharCode.apply(null, data.slice(1080, 1084));
+	switch (signature) {
+	case "M.K.":
+	case "M!K!":
+	case "4CHN":
+	case "FLT4":
+		break;
+	case "6CHN":
+		channels = 6;
+		break;
+	case "8CHN":
+	case "FLT8":
+		channels = 8;
+		break;
+	case "28CH":
+		channels = 28;
+		break;
+	default:
+		signature = "";
+		samples = 15;
 	}
-	return [song];
+	//console.log(signature || 'orig', { samples, channels });
+
+	let p = 20 + 30*samples + 0;
+	const length = data[p++];
+	const repeat = data[p] === 0x7f ? 0 : data[p];
+	p++;
+	const trackIndex = new Uint8Array(128);
+	let patterns = 0;
+	for (let i = 0; i < trackIndex.length; i++, p++) {
+		trackIndex[i] = data[p];
+		patterns = Math.max(patterns, trackIndex[i]);
+	}
+	patterns++;
+	p += samples === 15 ? 0 : 4;
+	const patternData = data.slice(p, p + patterns*64*channels*4);
+	return scan({ channels, length, trackIndex, patternData }, (track, row, chan) => {
+		const pattern = ((trackIndex[track] * 64 + row) * channels + chan) * 4;
+		return patternData.slice(pattern, pattern+4);
+	});
+}
+
+function chiptracker(data) {
+	//console.log('KRIS');
+	const samples = 31;
+	const channels = 4;
+	let p = 22 + 30*samples + 4;
+	const length = data[p++];
+	const repeat = data[p++];
+	const trackIndex = new Uint8Array(128 * channels);
+	let patterns = 0;
+	for (let i = 0; i < trackIndex.length; i++, p+=2) {
+		trackIndex[i] = data[p];
+		patterns = Math.max(patterns, trackIndex[i]);
+	}
+	patterns++;
+	p += 2;
+	const patternData = data.slice(p, p + patterns*64*4);
+	return scan({ channels, length, trackIndex, patternData }, (track, row, chan) => {
+		const pattern = (trackIndex[track*channels+chan] * 64 + row) * 4;
+		return patternData.slice(pattern, pattern+4);
+	});
+}
+
+function scan({ channels, length, trackIndex, patternData }, play) {
+	const songs = [];
+	const played = new Array(length);
+	let state;
+	while (true) {
+		state = { track: played.findIndex(p => !p), row: 0 };
+		if (state.track < 0)
+			break;
+		songs.push(state.track + 1);
+		do {
+			state = advance(state, channels, length, played, play);
+		} while (state);
+	}
+	return songs;
+}
+
+function advance({ track, row, jump }, channels, length, played, play) {
+	if (jump && played[track])
+		return null;
+	played[track] = true;
+	for (let chan = 0; chan < channels; chan++) {
+		const note = play(track, row, chan);
+		//console.log('play', chan, note);
+		switch (note[2] & 0xf) {
+		case 0xb:
+			return { track: note[3], row: 0, jump: true };
+		case 0xd:
+			return { track: track+1, row: ((note[3]&0xf0)>>4)*10 + (note[3]&0xf), jump: true };
+		}
+	};
+	if (row < 63)
+		return { track, row: row+1 };
+	return track < length-1 ? { track: track+1, row: 0, jump: true } : null;
 }
 
 async function fetchUnexotica(source) {
