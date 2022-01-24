@@ -167,8 +167,29 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FAgony.lha"
       },
       {
-        "song": "Unused/mod.foret",
-        "song_link": "UnExoticA/Agony/Unused/mod.foret",
+        "song": "Unused/mod.foret #1",
+        "song_link": "UnExoticA/Agony/Unused/mod.foret#1",
+        "size": 50400,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FAgony.lha"
+      },
+      {
+        "song": "Unused/mod.foret #20",
+        "song_link": "UnExoticA/Agony/Unused/mod.foret#20",
+        "size": 50400,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FAgony.lha"
+      },
+      {
+        "song": "Unused/mod.foret #28",
+        "song_link": "UnExoticA/Agony/Unused/mod.foret#28",
+        "size": 50400,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FAgony.lha"
+      },
+      {
+        "song": "Unused/mod.foret #30",
+        "song_link": "UnExoticA/Agony/Unused/mod.foret#30",
         "size": 50400,
         "composer": "Martin Iveson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FAgony.lha"
@@ -196,8 +217,78 @@
     "source_link": "https://www.exotica.org.uk/wiki/Aladdin",
     "songs": [
       {
-        "song": "mod.alad.11.100p",
-        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p",
+        "song": "mod.alad.11.100p #1",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#1",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #14",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#14",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #34",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#34",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #45",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#45",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #62",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#62",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #76",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#76",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #91",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#91",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #101",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#101",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #103",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#103",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #104",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#104",
+        "size": 252356,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
+      },
+      {
+        "song": "mod.alad.11.100p #110",
+        "song_link": "UnExoticA/Aladdin/mod.alad.11.100p#110",
         "size": 252356,
         "composer": "Andrew Barnabas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FAladdin.lha"
@@ -652,8 +743,8 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApidya.lha"
       },
       {
-        "song": "mdat.loader #1",
-        "song_link": "UnExoticA/Apidya/mdat.loader.zip#1",
+        "song": "mdat.loader",
+        "song_link": "UnExoticA/Apidya/mdat.loader.zip",
         "size": 1504,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApidya.lha"
@@ -709,29 +800,85 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.arabia",
-        "song_link": "UnExoticA/Arabian_Nights/mod.arabia",
+        "song": "mod.arabia #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia#1",
         "size": 34508,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.arabia2",
-        "song_link": "UnExoticA/Arabian_Nights/mod.arabia2",
+        "song": "mod.arabia #16",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia#16",
+        "size": 34508,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia #17",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia#17",
+        "size": 34508,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia2 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia2#1",
         "size": 39686,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.arabia4",
-        "song_link": "UnExoticA/Arabian_Nights/mod.arabia4",
+        "song": "mod.arabia2 #15",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia2#15",
+        "size": 39686,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia2 #16",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia2#16",
+        "size": 39686,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia2 #21",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia2#21",
+        "size": 39686,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia4 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia4#1",
         "size": 29954,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.arabia6",
-        "song_link": "UnExoticA/Arabian_Nights/mod.arabia6",
+        "song": "mod.arabia4 #9",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia4#9",
+        "size": 29954,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia4 #11",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia4#11",
+        "size": 29954,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia6 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia6#1",
+        "size": 41202,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.arabia6 #11",
+        "song_link": "UnExoticA/Arabian_Nights/mod.arabia6#11",
         "size": 41202,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
@@ -751,36 +898,127 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.introseq",
-        "song_link": "UnExoticA/Arabian_Nights/mod.introseq",
+        "song": "mod.introseq #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.introseq#1",
         "size": 91988,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.level5",
-        "song_link": "UnExoticA/Arabian_Nights/mod.level5",
+        "song": "mod.introseq #10",
+        "song_link": "UnExoticA/Arabian_Nights/mod.introseq#10",
+        "size": 91988,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.introseq #13",
+        "song_link": "UnExoticA/Arabian_Nights/mod.introseq#13",
+        "size": 91988,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.introseq #14",
+        "song_link": "UnExoticA/Arabian_Nights/mod.introseq#14",
+        "size": 91988,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.introseq #18",
+        "song_link": "UnExoticA/Arabian_Nights/mod.introseq#18",
+        "size": 91988,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level5 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level5#1",
         "size": 40092,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.level6",
-        "song_link": "UnExoticA/Arabian_Nights/mod.level6",
+        "song": "mod.level5 #12",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level5#12",
+        "size": 40092,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level5 #13",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level5#13",
+        "size": 40092,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level6 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level6#1",
         "size": 43822,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.level7",
-        "song_link": "UnExoticA/Arabian_Nights/mod.level7",
+        "song": "mod.level6 #12",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level6#12",
+        "size": 43822,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level6 #16",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level6#16",
+        "size": 43822,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level7 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level7#1",
         "size": 34082,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
       },
       {
-        "song": "mod.level8",
-        "song_link": "UnExoticA/Arabian_Nights/mod.level8",
+        "song": "mod.level7 #10",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level7#10",
+        "size": 34082,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level7 #11",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level7#11",
+        "size": 34082,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level8 #1",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level8#1",
+        "size": 41676,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level8 #13",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level8#13",
+        "size": 41676,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level8 #14",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level8#14",
+        "size": 41676,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      },
+      {
+        "song": "mod.level8 #16",
+        "song_link": "UnExoticA/Arabian_Nights/mod.level8#16",
         "size": 41676,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
@@ -1654,8 +1892,57 @@
     "source_link": "https://www.exotica.org.uk/wiki/Chase_H.Q.",
     "songs": [
       {
-        "song": "mod.chase-hq",
-        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq",
+        "song": "mod.chase-hq #1",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#1",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #3",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#3",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #4",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#4",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #8",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#8",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #15",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#15",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #20",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#20",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #31",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#31",
+        "size": 73012,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      },
+      {
+        "song": "mod.chase-hq #33",
+        "song_link": "UnExoticA/Chase_HQ/mod.chase-hq#33",
         "size": 73012,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
@@ -1882,8 +2169,57 @@
     "source_link": "https://www.exotica.org.uk/wiki/Cool_Spot",
     "songs": [
       {
-        "song": "mod.coolp14",
-        "song_link": "UnExoticA/Cool_Spot/mod.coolp14",
+        "song": "mod.coolp14 #1",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#1",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #13",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#13",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #23",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#23",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #32",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#32",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #38",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#38",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #47",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#47",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #55",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#55",
+        "size": 160330,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
+      },
+      {
+        "song": "mod.coolp14 #69",
+        "song_link": "UnExoticA/Cool_Spot/mod.coolp14#69",
         "size": 160330,
         "composer": "Andrew Barnabas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FCool_Spot.lha"
@@ -1940,43 +2276,344 @@
     "source_link": "https://www.exotica.org.uk/wiki/Dojo_Dan",
     "songs": [
       {
-        "song": "mod.DOJOLEV1",
-        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1",
+        "song": "mod.DOJOLEV1 #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#1",
         "size": 79080,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
       },
       {
-        "song": "mod.ORIENTAL.CHIP",
-        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTAL.CHIP",
+        "song": "mod.DOJOLEV1 #2",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#2",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #37",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#37",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #41",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#41",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #43",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#43",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #44",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#44",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #45",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#45",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #47",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#47",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.DOJOLEV1 #48",
+        "song_link": "UnExoticA/Dojo_Dan/mod.DOJOLEV1#48",
+        "size": 79080,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTAL.CHIP #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTAL.CHIP#1",
         "size": 74004,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
       },
       {
-        "song": "mod.ORIENTALEV2.CHIP",
-        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP",
+        "song": "mod.ORIENTAL.CHIP #32",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTAL.CHIP#32",
+        "size": 74004,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTAL.CHIP #36",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTAL.CHIP#36",
+        "size": 74004,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTAL.CHIP #40",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTAL.CHIP#40",
+        "size": 74004,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#1",
         "size": 76926,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
       },
       {
-        "song": "mod.ORIENTALEV4.CHIP",
-        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP",
+        "song": "mod.ORIENTALEV2.CHIP #27",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#27",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #31",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#31",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #33",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#33",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #35",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#35",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #36",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#36",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #37",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#37",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #40",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#40",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV2.CHIP #41",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV2.CHIP#41",
+        "size": 76926,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#1",
         "size": 77980,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
       },
       {
-        "song": "mod.ORIENTALEV5.CHIP",
-        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP",
+        "song": "mod.ORIENTALEV4.CHIP #39",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#39",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #43",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#43",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #47",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#47",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #48",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#48",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #50",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#50",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #51",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#51",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #55",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#55",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV4.CHIP #56",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV4.CHIP#56",
+        "size": 77980,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#1",
         "size": 80688,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
       },
       {
-        "song": "mod.ORIENTALEV3.CHIP",
-        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP",
+        "song": "mod.ORIENTALEV5.CHIP #25",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#25",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #29",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#29",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #33",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#33",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #35",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#35",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #36",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#36",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #37",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#37",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #41",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#41",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV5.CHIP #42",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV5.CHIP#42",
+        "size": 80688,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #1",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#1",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #26",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#26",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #30",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#30",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #32",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#32",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #34",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#34",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #35",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#35",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #36",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#36",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #40",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#40",
+        "size": 78084,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
+      },
+      {
+        "song": "mod.ORIENTALEV3.CHIP #41",
+        "song_link": "UnExoticA/Dojo_Dan/mod.ORIENTALEV3.CHIP#41",
         "size": 78084,
         "composer": "Matthew Simmonds",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FDojo_Dan.lha"
@@ -2026,8 +2663,15 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FDahlgren_Tomas%2FDouble_Dragon_2.lha"
       },
       {
-        "song": "mod.double dragon ii",
-        "song_link": "UnExoticA/Double_Dragon_2/mod.double dragon ii",
+        "song": "mod.double dragon ii #1",
+        "song_link": "UnExoticA/Double_Dragon_2/mod.double dragon ii#1",
+        "size": 256088,
+        "composer": "Tomas Dahlgren / Steve Barrett",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FDahlgren_Tomas%2FDouble_Dragon_2.lha"
+      },
+      {
+        "song": "mod.double dragon ii #40",
+        "song_link": "UnExoticA/Double_Dragon_2/mod.double dragon ii#40",
         "size": 256088,
         "composer": "Tomas Dahlgren / Steve Barrett",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FDahlgren_Tomas%2FDouble_Dragon_2.lha"
@@ -3246,22 +3890,22 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FJim_Power.lha"
       },
       {
-        "song": "mdat.ingame_1 #1",
-        "song_link": "UnExoticA/Jim_Power/mdat.ingame_1.zip#1",
+        "song": "mdat.ingame_1",
+        "song_link": "UnExoticA/Jim_Power/mdat.ingame_1.zip",
         "size": 46744,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FJim_Power.lha"
       },
       {
-        "song": "mdat.ingame_2 #1",
-        "song_link": "UnExoticA/Jim_Power/mdat.ingame_2.zip#1",
+        "song": "mdat.ingame_2",
+        "song_link": "UnExoticA/Jim_Power/mdat.ingame_2.zip",
         "size": 42476,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FJim_Power.lha"
       },
       {
-        "song": "mdat.ingame_3 #1",
-        "song_link": "UnExoticA/Jim_Power/mdat.ingame_3.zip#1",
+        "song": "mdat.ingame_3",
+        "song_link": "UnExoticA/Jim_Power/mdat.ingame_3.zip",
         "size": 40760,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FJim_Power.lha"
@@ -4583,8 +5227,8 @@
     "source_link": "https://www.exotica.org.uk/wiki/Mr._Nutz_-_Hoppin%27_Mad",
     "songs": [
       {
-        "song": "Direct_from_Composer/mdat.map #1",
-        "song_link": "UnExoticA/Mr_Nutz/Direct_from_Composer/mdat.map.zip#1",
+        "song": "Direct_from_Composer/mdat.map",
+        "song_link": "UnExoticA/Mr_Nutz/Direct_from_Composer/mdat.map.zip",
         "size": 29376,
         "composer": "Rudolf Stember",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FMr_Nutz.lha"
@@ -5332,8 +5976,15 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FProject-X.lha"
       },
       {
-        "song": "mod.px.bladswede remix!",
-        "song_link": "UnExoticA/Project-X/mod.px.bladswede remix!",
+        "song": "mod.px.bladswede remix! #1",
+        "song_link": "UnExoticA/Project-X/mod.px.bladswede remix!#1",
+        "size": 117450,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FProject-X.lha"
+      },
+      {
+        "song": "mod.px.bladswede remix! #37",
+        "song_link": "UnExoticA/Project-X/mod.px.bladswede remix!#37",
         "size": 117450,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FProject-X.lha"
@@ -6440,8 +7091,15 @@
     "source_link": "https://www.exotica.org.uk/wiki/Soccer_Kid",
     "songs": [
       {
-        "song": "CD32_Version/mod.cd32cuts",
-        "song_link": "UnExoticA/Soccer_Kid/CD32_Version/mod.cd32cuts",
+        "song": "CD32_Version/mod.cd32cuts #1",
+        "song_link": "UnExoticA/Soccer_Kid/CD32_Version/mod.cd32cuts#1",
+        "size": 25164,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "CD32_Version/mod.cd32cuts #8",
+        "song_link": "UnExoticA/Soccer_Kid/CD32_Version/mod.cd32cuts#8",
         "size": 25164,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
@@ -6496,8 +7154,15 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
       },
       {
-        "song": "mod.skbonus",
-        "song_link": "UnExoticA/Soccer_Kid/mod.skbonus",
+        "song": "mod.skbonus #1",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skbonus#1",
+        "size": 27936,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skbonus #6",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skbonus#6",
         "size": 27936,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
@@ -6524,15 +7189,36 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
       },
       {
-        "song": "mod.skdead",
-        "song_link": "UnExoticA/Soccer_Kid/mod.skdead",
+        "song": "mod.skdead #1",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skdead#1",
         "size": 13104,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
       },
       {
-        "song": "mod.skend",
-        "song_link": "UnExoticA/Soccer_Kid/mod.skend",
+        "song": "mod.skdead #2",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skdead#2",
+        "size": 13104,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skdead #4",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skdead#4",
+        "size": 13104,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skend #1",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skend#1",
+        "size": 29096,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skend #2",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skend#2",
         "size": 29096,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
@@ -6552,8 +7238,43 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
       },
       {
-        "song": "mod.skidsimeon",
-        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon",
+        "song": "mod.skidsimeon #1",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#1",
+        "size": 99308,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skidsimeon #2",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#2",
+        "size": 99308,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skidsimeon #4",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#4",
+        "size": 99308,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skidsimeon #5",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#5",
+        "size": 99308,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skidsimeon #6",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#6",
+        "size": 99308,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.skidsimeon #10",
+        "song_link": "UnExoticA/Soccer_Kid/mod.skidsimeon#10",
         "size": 99308,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
@@ -6615,8 +7336,15 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
       },
       {
-        "song": "mod.sksmash",
-        "song_link": "UnExoticA/Soccer_Kid/mod.sksmash",
+        "song": "mod.sksmash #1",
+        "song_link": "UnExoticA/Soccer_Kid/mod.sksmash#1",
+        "size": 27598,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
+      },
+      {
+        "song": "mod.sksmash #7",
+        "song_link": "UnExoticA/Soccer_Kid/mod.sksmash#7",
         "size": 27598,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSoccer_Kid.lha"
@@ -6672,8 +7400,36 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLowe_Dave%2FStreet_Fighter_2.lha"
       },
       {
-        "song": "Unused/mod.streetfighter-ii",
-        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii",
+        "song": "Unused/mod.streetfighter-ii #1",
+        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii#1",
+        "size": 65546,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
+      },
+      {
+        "song": "Unused/mod.streetfighter-ii #8",
+        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii#8",
+        "size": 65546,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
+      },
+      {
+        "song": "Unused/mod.streetfighter-ii #10",
+        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii#10",
+        "size": 65546,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
+      },
+      {
+        "song": "Unused/mod.streetfighter-ii #18",
+        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii#18",
+        "size": 65546,
+        "composer": "Matthew Simmonds",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
+      },
+      {
+        "song": "Unused/mod.streetfighter-ii #23",
+        "song_link": "UnExoticA/Street_Fighter_2/Unused/mod.streetfighter-ii#23",
         "size": 65546,
         "composer": "Matthew Simmonds",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
@@ -6985,8 +7741,22 @@
     "source_link": "https://www.exotica.org.uk/wiki/SWIV",
     "songs": [
       {
-        "song": "Direct_from_Composer/mod.decimation",
-        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation",
+        "song": "Direct_from_Composer/mod.decimation #1",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#1",
+        "size": 181834,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+      },
+      {
+        "song": "Direct_from_Composer/mod.decimation #30",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#30",
+        "size": 181834,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+      },
+      {
+        "song": "Direct_from_Composer/mod.decimation #32",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#32",
         "size": 181834,
         "composer": "Andrew Barnabas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
@@ -7330,8 +8100,8 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican.lha"
       },
       {
-        "song": "mdat.loader #1",
-        "song_link": "UnExoticA/Turrican/mdat.loader.zip#1",
+        "song": "mdat.loader",
+        "song_link": "UnExoticA/Turrican/mdat.loader.zip",
         "size": 5240,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican.lha"
@@ -7372,8 +8142,8 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican.lha"
       },
       {
-        "song": "Unused/mdat.Bonus #1",
-        "song_link": "UnExoticA/Turrican/Unused/mdat.Bonus.zip#1",
+        "song": "Unused/mdat.Bonus",
+        "song_link": "UnExoticA/Turrican/Unused/mdat.Bonus.zip",
         "size": 87080,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican.lha"
@@ -7415,8 +8185,8 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_2.lha"
       },
       {
-        "song": "mdat.loader #1",
-        "song_link": "UnExoticA/Turrican_2/mdat.loader.zip#1",
+        "song": "mdat.loader",
+        "song_link": "UnExoticA/Turrican_2/mdat.loader.zip",
         "size": 2094,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_2.lha"
@@ -7723,8 +8493,8 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_2.lha"
       },
       {
-        "song": "Unfixed_Loader/mdat.loader #1",
-        "song_link": "UnExoticA/Turrican_2/Unfixed_Loader/mdat.loader.zip#1",
+        "song": "Unfixed_Loader/mdat.loader",
+        "song_link": "UnExoticA/Turrican_2/Unfixed_Loader/mdat.loader.zip",
         "size": 2094,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_2.lha"
