@@ -7,6 +7,12 @@ const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 const AdmZip = require('adm-zip');
 const LHA = require('./lib/lha');
+const process = require('process');
+
+if (require.main === module) {
+	const song = process.argv[2];
+	console.log(splitSong({ song }, new Uint8Array(fs.readFileSync(song))));
+}
 
 const PLATFORM = 'Amiga';
 
@@ -144,6 +150,8 @@ function splitSong(song, file) {
 		subsongs = splitSongTFMX(song, file);
 	if (/(^|\/)mod(\.)/.test(song.song))
 		subsongs = splitSongMOD(song, file);
+	if (/(^|\/)di(\.)/.test(song.song))
+		subsongs = splitSongDI(song, file);
 	return subsongs.length <= 1 ? [song] : subsongs.map(i => ({
 		...song,
 		song: `${song.song} #${i}`,
@@ -153,7 +161,7 @@ function splitSong(song, file) {
 
 function splitSongTFMX(song, file) {
 	const entry = file.getEntry(path.basename(song.song));
-	const data = new entry.getData();
+	const data = entry.getData();
 	if (String.fromCharCode.apply(null, data.slice(0, 10)) !== "TFMX-SONG ")
 		return [];
 	data.swap16();
@@ -175,15 +183,15 @@ function splitSongTFMX(song, file) {
 	return subsongs;
 }
 
-function splitSongMOD(song, data) {
+function splitSongMOD(song, data, options = {}) {
 	//console.log('*', song.song, data.length);
 	if (String.fromCharCode.apply(null, data.slice(952, 956)) === "KRIS")
-		return chiptracker(data);
+		return chiptracker(data, options);
 	else
-		return soundtracker(data);
+		return soundtracker(data, options);
 }
 
-function soundtracker(data) {
+function soundtracker(data, options) {
 	let samples = 31;
 	let channels = 4;
 	let signature = String.fromCharCode.apply(null, data.slice(1080, 1084));
@@ -222,13 +230,13 @@ function soundtracker(data) {
 	patterns++;
 	p += samples === 15 ? 0 : 4;
 	const patternData = data.slice(p, p + patterns*64*channels*4);
-	return scan({ channels, length, trackIndex, patternData }, (track, row, chan) => {
+	return scan({ channels, length, trackIndex, patternData, ...options }, (track, row, chan) => {
 		const pattern = ((trackIndex[track] * 64 + row) * channels + chan) * 4;
 		return patternData.slice(pattern, pattern+4);
 	});
 }
 
-function chiptracker(data) {
+function chiptracker(data, options) {
 	//console.log('KRIS');
 	const samples = 31;
 	const channels = 4;
@@ -244,45 +252,116 @@ function chiptracker(data) {
 	patterns++;
 	p += 2;
 	const patternData = data.slice(p, p + patterns*64*4);
-	return scan({ channels, length, trackIndex, patternData }, (track, row, chan) => {
+	return scan({ channels, length, trackIndex, patternData, ...options }, (track, row, chan) => {
 		const pattern = (trackIndex[track*channels+chan] * 64 + row) * 4;
 		return patternData.slice(pattern, pattern+4);
 	});
 }
 
-function scan({ channels, length, trackIndex, patternData }, play) {
+function scan({ channels, length, trackIndex, patternData, minTrackLength }, play) {
 	const songs = [];
 	const played = new Array(length);
-	let state;
 	while (true) {
-		state = { track: played.findIndex(p => !p), row: 0 };
-		if (state.track < 0)
+		const firstTrack = played.findIndex(p => !p);
+		if (firstTrack < 0)
 			break;
-		songs.push(state.track + 1);
+		let state = { track: firstTrack, row: 0, tracksPlayed: 0 };
 		do {
 			state = advance(state, channels, length, played, play);
-		} while (state);
+		} while (!state.finished);
+		if (state.tracksPlayed >= (minTrackLength || 1))
+			songs.push(firstTrack + 1);
 	}
 	return songs;
 }
 
-function advance({ track, row, jump }, channels, length, played, play) {
+function advance({ track, row, jump, tracksPlayed }, channels, length, played, play) {
 	if (jump && played[track])
-		return null;
+		return { finished: true, tracksPlayed };
 	played[track] = true;
 	for (let chan = 0; chan < channels; chan++) {
 		const note = play(track, row, chan);
 		//console.log('play', chan, note);
 		switch (note[2] & 0xf) {
 		case 0xb:
-			return { track: note[3], row: 0, jump: true };
+			return { track: note[3], row: 0, jump: true, tracksPlayed: tracksPlayed+1 };
 		case 0xd:
-			return { track: track+1, row: ((note[3]&0xf0)>>4)*10 + (note[3]&0xf), jump: true };
+			return { track: track+1, row: ((note[3]&0xf0)>>4)*10 + (note[3]&0xf), jump: true, tracksPlayed: tracksPlayed+1 };
 		}
 	};
 	if (row < 63)
-		return { track, row: row+1 };
-	return track < length-1 ? { track: track+1, row: 0, jump: true } : null;
+		return { track, row: row+1, tracksPlayed };
+	return track < length-1 ?
+		{ track: track+1, row: 0, jump: true, tracksPlayed: tracksPlayed+1 } :
+		{ finished: true, tracksPlayed: tracksPlayed+1 };
+}
+
+function splitSongDI(song, data) {
+	let p = 0;
+	if (data[p++] !== 0) return [];
+	const samples = data[p++];
+	if (samples === 0 || samples > 31) return [];
+	const tracksPtr = (data[p+2]<<8) | data[p+3]; p += 4;
+	const patternsPtr = (data[p+2]<<8) | data[p+3]; p += 4;
+	const samplesPtr = (data[p+2]<<8) | data[p+3]; p += 4;
+	if (tracksPtr >= patternsPtr || patternsPtr >= samplesPtr) return [];
+	if (samplesPtr >= data.length) return [];
+	if (data[patternsPtr-1] != 0xff) return [];
+	p = tracksPtr;
+	const tracks = [];
+	while (p < data.length) {
+		if (data[p] === 0xff) break;
+		tracks.push(data[p++]);
+	}
+	const patterns = Math.max(...tracks) + 1;
+	//console.log(tracks, patterns);
+	const offsets = new Array(patterns+1);
+	p = 14 + samples*8;
+	for (let i = 0; i < patterns; i++) {
+		offsets[i] = (data[p]<<8) | data[p+1];
+		p += 2;
+	}
+	offsets[patterns] = samplesPtr;
+
+	const unpacked = new Uint8Array(1084 + patterns << 10);
+	const signature = "M.K.";
+	const maxSamples = 31;
+	let q = 20 + 30 * maxSamples;
+	unpacked[q++] = tracks.length;
+	unpacked[q++] = 0x7f;
+	for (let i = 0; i < tracks.length; i++) {
+		unpacked[q++] = tracks[i];
+	}
+	q = 1080;
+	for (let i = 0; i < signature.length; i++) {
+		unpacked[q++] = signature.charCodeAt(i);
+	}
+
+	p = patternsPtr;
+	for (let i = 1; i <= patterns; i++) {
+		const limit = offsets[i];
+		do {
+			const b0 = data[p++];
+			if (b0 === 0xff) {
+				q += 4;
+				continue;
+			}
+			const b1 = data[p++];
+			const b2 = ((b0 << 4) & 0x30) | ((b1 >> 4) & 0x0f);
+			const b3 =  (b0 >> 2) & 0x1f;
+			const note = [0, 0];
+			unpacked[q++] = note[0] | (b3 & 0xf0);
+			unpacked[q++] = note[1];
+			unpacked[q++] = ((b3 << 4) & 0xf0) | (b1 & 0x0f);
+			if (b0 & 0x80) {
+				unpacked[q++] = data[p++];
+			} else {
+				q++;
+			}
+		} while (p < limit);
+		q = 1084 + (i << 10);
+	}
+	return splitSongMOD(song, unpacked, { minTrackLength: 2 });
 }
 
 async function fetchUnexotica(source) {
