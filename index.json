@@ -5714,15 +5714,50 @@
     "source_link": "https://www.exotica.org.uk/wiki/Pinball_Dreams",
     "songs": [
       {
-        "song": "di.beatbox",
-        "song_link": "UnExoticA/Pinball_Dreams/di.beatbox",
+        "song": "di.beatbox #2",
+        "song_link": "UnExoticA/Pinball_Dreams/di.beatbox#2",
         "size": 114446,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
       },
       {
-        "song": "di.ignition",
-        "song_link": "UnExoticA/Pinball_Dreams/di.ignition",
+        "song": "di.beatbox #6",
+        "song_link": "UnExoticA/Pinball_Dreams/di.beatbox#6",
+        "size": 114446,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.ignition #4",
+        "song_link": "UnExoticA/Pinball_Dreams/di.ignition#4",
+        "size": 161276,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.ignition #10",
+        "song_link": "UnExoticA/Pinball_Dreams/di.ignition#10",
+        "size": 161276,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.ignition #15",
+        "song_link": "UnExoticA/Pinball_Dreams/di.ignition#15",
+        "size": 161276,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.ignition #23",
+        "song_link": "UnExoticA/Pinball_Dreams/di.ignition#23",
+        "size": 161276,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.ignition #33",
+        "song_link": "UnExoticA/Pinball_Dreams/di.ignition#33",
         "size": 161276,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
@@ -5735,15 +5770,71 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
       },
       {
-        "song": "di.nightmare",
-        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare",
+        "song": "di.nightmare #2",
+        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare#2",
         "size": 107008,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
       },
       {
-        "song": "di.steelwheels",
-        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels",
+        "song": "di.nightmare #11",
+        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare#11",
+        "size": 107008,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.nightmare #19",
+        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare#19",
+        "size": 107008,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.nightmare #40",
+        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare#40",
+        "size": 107008,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.nightmare #52",
+        "song_link": "UnExoticA/Pinball_Dreams/di.nightmare#52",
+        "size": 107008,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.steelwheels #2",
+        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels#2",
+        "size": 107916,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.steelwheels #13",
+        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels#13",
+        "size": 107916,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.steelwheels #45",
+        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels#45",
+        "size": 107916,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.steelwheels #52",
+        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels#52",
+        "size": 107916,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      },
+      {
+        "song": "di.steelwheels #60",
+        "song_link": "UnExoticA/Pinball_Dreams/di.steelwheels#60",
         "size": 107916,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
@@ -5771,22 +5862,106 @@
     "source_link": "https://www.exotica.org.uk/wiki/Pinball_Fantasies",
     "songs": [
       {
-        "song": "AGA_Version/di.billion_dollar_gameshow",
-        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.billion_dollar_gameshow",
+        "song": "AGA_Version/di.billion_dollar_gameshow #2",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.billion_dollar_gameshow#2",
         "size": 213372,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
       },
       {
-        "song": "AGA_Version/di.partyland",
-        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland",
+        "song": "AGA_Version/di.billion_dollar_gameshow #8",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.billion_dollar_gameshow#8",
+        "size": 213372,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.billion_dollar_gameshow #24",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.billion_dollar_gameshow#24",
+        "size": 213372,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.billion_dollar_gameshow #39",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.billion_dollar_gameshow#39",
+        "size": 213372,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #2",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#2",
         "size": 188640,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
       },
       {
-        "song": "di.billion_dollar_gameshow",
-        "song_link": "UnExoticA/Pinball_Fantasies/di.billion_dollar_gameshow",
+        "song": "AGA_Version/di.partyland #8",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#8",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #14",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#14",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #25",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#25",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #26",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#26",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #44",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#44",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "AGA_Version/di.partyland #59",
+        "song_link": "UnExoticA/Pinball_Fantasies/AGA_Version/di.partyland#59",
+        "size": 188640,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.billion_dollar_gameshow #2",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.billion_dollar_gameshow#2",
+        "size": 176192,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.billion_dollar_gameshow #8",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.billion_dollar_gameshow#8",
+        "size": 176192,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.billion_dollar_gameshow #24",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.billion_dollar_gameshow#24",
+        "size": 176192,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.billion_dollar_gameshow #39",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.billion_dollar_gameshow#39",
         "size": 176192,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
@@ -5799,22 +5974,141 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
       },
       {
-        "song": "di.partyland",
-        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland",
+        "song": "di.partyland #2",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#2",
         "size": 167380,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
       },
       {
-        "song": "di.speed_devils",
-        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils",
+        "song": "di.partyland #8",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#8",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.partyland #14",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#14",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.partyland #25",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#25",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.partyland #26",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#26",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.partyland #44",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#44",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.partyland #59",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.partyland#59",
+        "size": 167380,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #1",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#1",
         "size": 171180,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
       },
       {
-        "song": "di.stones_n_bones",
-        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones",
+        "song": "di.speed_devils #3",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#3",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #11",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#11",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #17",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#17",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #35",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#35",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #42",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#42",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #57",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#57",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.speed_devils #63",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.speed_devils#63",
+        "size": 171180,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.stones_n_bones #2",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones#2",
+        "size": 176850,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.stones_n_bones #11",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones#11",
+        "size": 176850,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.stones_n_bones #47",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones#47",
+        "size": 176850,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.stones_n_bones #54",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones#54",
+        "size": 176850,
+        "composer": "Olof Gustafsson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
+      },
+      {
+        "song": "di.stones_n_bones #57",
+        "song_link": "UnExoticA/Pinball_Fantasies/di.stones_n_bones#57",
         "size": 176850,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Fantasies.lha"
