@@ -1551,8 +1551,43 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
       },
       {
-        "song": "rh.Budokan",
-        "song_link": "UnExoticA/Budokan/rh.Budokan",
+        "song": "rh.Budokan #1",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#1",
+        "size": 100826,
+        "composer": "Rob Hubbard",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
+      },
+      {
+        "song": "rh.Budokan #2",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#2",
+        "size": 100826,
+        "composer": "Rob Hubbard",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
+      },
+      {
+        "song": "rh.Budokan #3",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#3",
+        "size": 100826,
+        "composer": "Rob Hubbard",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
+      },
+      {
+        "song": "rh.Budokan #4",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#4",
+        "size": 100826,
+        "composer": "Rob Hubbard",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
+      },
+      {
+        "song": "rh.Budokan #5",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#5",
+        "size": 100826,
+        "composer": "Rob Hubbard",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
+      },
+      {
+        "song": "rh.Budokan #6",
+        "song_link": "UnExoticA/Budokan/rh.Budokan#6",
         "size": 100826,
         "composer": "Rob Hubbard",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FBudokan.lha"
@@ -3662,8 +3697,43 @@
     "source_link": "https://www.exotica.org.uk/wiki/Golden_Axe",
     "songs": [
       {
-        "song": "dw.Golden_Axe",
-        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe",
+        "song": "dw.Golden_Axe #1",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#1",
+        "size": 13794,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      },
+      {
+        "song": "dw.Golden_Axe #2",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#2",
+        "size": 13794,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      },
+      {
+        "song": "dw.Golden_Axe #3",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#3",
+        "size": 13794,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      },
+      {
+        "song": "dw.Golden_Axe #4",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#4",
+        "size": 13794,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      },
+      {
+        "song": "dw.Golden_Axe #5",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#5",
+        "size": 13794,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      },
+      {
+        "song": "dw.Golden_Axe #6",
+        "song_link": "UnExoticA/Golden_Axe/dw.Golden_Axe#6",
         "size": 13794,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
@@ -6946,29 +7016,127 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
       },
       {
-        "song": "dw.the_castle",
-        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.the_castle",
+        "song": "dw.the_castle #1",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.the_castle#1",
         "size": 88194,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
       },
       {
-        "song": "dw.title_and_the_plains",
-        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains",
+        "song": "dw.the_castle #2",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.the_castle#2",
+        "size": 88194,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.the_castle #3",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.the_castle#3",
+        "size": 88194,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.the_castle #4",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.the_castle#4",
+        "size": 88194,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.title_and_the_plains #1",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains#1",
         "size": 84208,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
       },
       {
-        "song": "dw.underground",
-        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground",
+        "song": "dw.title_and_the_plains #2",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains#2",
+        "size": 84208,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.title_and_the_plains #3",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains#3",
+        "size": 84208,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.title_and_the_plains #4",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains#4",
+        "size": 84208,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.title_and_the_plains #5",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.title_and_the_plains#5",
+        "size": 84208,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.underground #1",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground#1",
         "size": 73042,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
       },
       {
-        "song": "dw.water",
-        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.water",
+        "song": "dw.underground #2",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground#2",
+        "size": 73042,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.underground #3",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground#3",
+        "size": 73042,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.underground #4",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground#4",
+        "size": 73042,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.underground #5",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.underground#5",
+        "size": 73042,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.water #1",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.water#1",
+        "size": 93558,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.water #2",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.water#2",
+        "size": 93558,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.water #3",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.water#3",
+        "size": 93558,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
+      },
+      {
+        "song": "dw.water #4",
+        "song_link": "UnExoticA/Shadow_of_the_Beast/dw.water#4",
         "size": 93558,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FShadow_of_the_Beast.lha"
@@ -9269,8 +9437,64 @@
     "source_link": "https://www.exotica.org.uk/wiki/Wrath_of_the_Demon",
     "songs": [
       {
-        "song": "dw.Wrath_of_the_Demon",
-        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon",
+        "song": "dw.Wrath_of_the_Demon #1",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#1",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #2",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#2",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #3",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#3",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #4",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#4",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #5",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#5",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #6",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#6",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #7",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#7",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #8",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#8",
+        "size": 128514,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
+      },
+      {
+        "song": "dw.Wrath_of_the_Demon #9",
+        "song_link": "UnExoticA/Wrath_of_the_Demon/dw.Wrath_of_the_Demon#9",
         "size": 128514,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FWrath_of_the_Demon.lha"
