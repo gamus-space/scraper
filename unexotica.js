@@ -9,6 +9,7 @@ const AdmZip = require('adm-zip');
 const LHA = require('./lib/lha');
 const process = require('process');
 const amiga = require('./lib/amiga');
+const { sequential, takeUntil } = require('./lib/utils');
 
 if (require.main === module) {
 	const song = process.argv[2];
@@ -24,10 +25,6 @@ const ARCHIVE_PATH_BUGS = {
 const GAME_DUPLICATES = [
 	'https://www.exotica.org.uk/wiki/Body_Blows_(AGA)',
 ];
-
-function takeUntil(a, e) {
-	return a.slice(0, a.indexOf(e));
-}
 
 async function fetchGame(url, source) {
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
@@ -172,6 +169,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Alien_Breed_II_-_The_Horror_Continues',
 		'https://www.exotica.org.uk/wiki/Alien_Breed_Special_Edition',
 		'https://www.exotica.org.uk/wiki/Alien_Breed:_Tower_Assault',
+		'https://www.exotica.org.uk/wiki/All_New_World_Of_Lemmings',
 		'https://www.exotica.org.uk/wiki/Another_World',
 		'https://www.exotica.org.uk/wiki/Apidya_(game)',
 		'https://www.exotica.org.uk/wiki/Arabian_Nights',
@@ -192,6 +190,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Chase_H.Q.',
 		'https://www.exotica.org.uk/wiki/Chuck_Rock',
 		'https://www.exotica.org.uk/wiki/Chuck_Rock_2_-_Son_of_Chuck',
+		'https://www.exotica.org.uk/wiki/Christmas_Lemmings_1993',
 		'https://www.exotica.org.uk/wiki/Colorado',
 		'https://www.exotica.org.uk/wiki/Cool_Spot',
 		'https://www.exotica.org.uk/wiki/Crazy_Cars_III',
@@ -215,6 +214,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Gobliiins',
 		'https://www.exotica.org.uk/wiki/Gods_(game)',
 		'https://www.exotica.org.uk/wiki/Golden_Axe',
+		'https://www.exotica.org.uk/wiki/Holiday_Lemmings_1994',
 		'https://www.exotica.org.uk/wiki/IK%2B',
 		'https://www.exotica.org.uk/wiki/Jaguar_XJ220',
 		'https://www.exotica.org.uk/wiki/Jim_Power_in_%22Mutant_Planet%22',
@@ -222,6 +222,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Last_Ninja_2_-_Back_with_a_Vengeance',
 		'https://www.exotica.org.uk/wiki/Last_Ninja_3',
 		'https://www.exotica.org.uk/wiki/Lemmings',
+		'https://www.exotica.org.uk/wiki/Lemmings_2_-_The_Tribes',
 		'https://www.exotica.org.uk/wiki/The_Lion_King',
 		'https://www.exotica.org.uk/wiki/The_Lost_Vikings',
 		'https://www.exotica.org.uk/wiki/Lotus_Esprit_Turbo_Challenge',
@@ -233,6 +234,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Mr._Nutz_-_Hoppin%27_Mad',
 		'https://www.exotica.org.uk/wiki/Myth_-_History_in_the_Making',
 		'https://www.exotica.org.uk/wiki/Nicky_Boom',
+		'https://www.exotica.org.uk/wiki/Oh_No!_More_Lemmings',
 		'https://www.exotica.org.uk/wiki/Pang',
 		'https://www.exotica.org.uk/wiki/Pinball_Dreams',
 		'https://www.exotica.org.uk/wiki/Pinball_Fantasies',
@@ -266,7 +268,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Wrath_of_the_Demon',
 		'https://www.exotica.org.uk/wiki/Yo!_Joe!',
 	];
-	return (await games.reduce(async (a, e) => [...await a, await fetchGame(e, source)], [])).filter(game => game);
+	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
 };
 
 exports.fetchUnexotica = fetchUnexotica;
