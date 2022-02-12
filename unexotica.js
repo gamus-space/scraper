@@ -26,6 +26,10 @@ const GAME_DUPLICATES = [
 	'https://www.exotica.org.uk/wiki/Body_Blows_(AGA)',
 ];
 
+function normalizeName(name) {
+	return name.replace(/^(The)\s+(.*)$/, '$2, $1');
+}
+
 async function fetchGame(url, source) {
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
@@ -35,7 +39,7 @@ async function fetchGame(url, source) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
-	const title = xpath.select("normalize-space(.//tr[1]/th/i)", infobox);
+	const title = normalizeName(xpath.select("normalize-space(.//tr[1]/th/i)", infobox));
 	//const composers = xpath.select(".//tr[normalize-space(th/text()) = 'Composer(s)']/td/a/text()", infobox).map(t => t.data);
 	const developers = xpath.select(".//tr[normalize-space(th/text()) = 'Team(s)']/td/a/text()", infobox).map(t => t.data);
 	const publishers = xpath.select(".//tr[normalize-space(th/text()) = 'Publisher(s)']/td/a/text()", infobox).map(t => t.data);

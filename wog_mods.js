@@ -27,7 +27,8 @@ async function fetchGame(url, source, options) {
 	const publishers = takeUntil(xpath.select("./following-sibling::*[name() = 'a' or name() = 'big']", publishersStart), publishersEnd).map(dev => xpath.select("normalize-space(./text())", dev));
 
 	const musicInfo = xpath.select1("./following::h2[normalize-space(text()) = 'Music info']/following-sibling::p", page);
-	const platform = xpath.select1("normalize-space(./big[normalize-space(text()) = 'Related Plaform:']/following-sibling::a/text())", musicInfo);
+	const platformStr = xpath.select1("normalize-space(./big[normalize-space(text()) = 'Related Plaform:']/following-sibling::a/text())", musicInfo);
+	const platform = options.platformMap[platformStr] || platformStr;
 	const yearStr = xpath.select1("normalize-space(./big[normalize-space(text()) = 'Released:']/following-sibling::text()[1])", musicInfo);
 	const year = yearStr.match(/\d\d\d\d/) && yearStr.match(/\d\d\d\d/)[0];
 	const composersStart = xpath.select1("./big[normalize-space(text()) = 'Composer of these tunes:' or normalize-space(text()) = 'Composers of these tunes:']", musicInfo);
@@ -41,38 +42,38 @@ async function fetchGame(url, source, options) {
 	if (tunesCount === 0) throw 'no tunes!';
 	console.log(game, tunesCount);
 
-	const downloadInfo = xpath.select1("./following::h2[normalize-space(text()) = 'Music download']/following-sibling::p", page);
-	const downloadLink = xpath.select1("string(./a/@href)", downloadInfo);
-	const downloadUrl = new URL(downloadLink, url);
-	const downloadHtml = await (await fetch(downloadUrl)).text();
-	const downloadDoc = new dom({ errorHandler: {
-		warning: w => {},
-		error: e => {},
-		fatalError: e => { console.error(e) },
-	}}).parseFromString(downloadHtml);
-	const downloadLink2 = xpath.select1("string(//a[normalize-space(text()) = 'On Site download']/@href)", downloadDoc);
-	const downloadUrl2 = new URL(downloadLink2, downloadUrl);
-
+	const gameDir = `${platform}/${game.replace(/:/g, '')}`;
 	try {
-		fs.mkdirSync(game, { recursive: true });
+		fs.mkdirSync(gameDir, { recursive: true });
 	} catch {}
-	let files = fs.readdirSync(game).sort();
+	let files = fs.readdirSync(gameDir).sort();
 	if (files.length < tunesCount) {
+		const downloadInfo = xpath.select1("./following::h2[normalize-space(text()) = 'Music download']/following-sibling::p", page);
+		const downloadLink = xpath.select1("string(./a/@href)", downloadInfo);
+		const downloadUrl = new URL(downloadLink, url);
+		const downloadHtml = await (await fetch(downloadUrl)).text();
+		const downloadDoc = new dom({ errorHandler: {
+			warning: w => {},
+			error: e => {},
+			fatalError: e => { console.error(e) },
+		}}).parseFromString(downloadHtml);
+		const downloadLink2 = xpath.select1("string(//a[normalize-space(text()) = 'On Site download']/@href)", downloadDoc);
+		const downloadUrl2 = new URL(downloadLink2, downloadUrl);
+
 		console.info(`downloading ${downloadUrl2} ...`);
 
 		const archive = await (await fetch(downloadUrl2)).arrayBuffer();
 		const entries = new AdmZip(Buffer.from(archive)).getEntries().filter(entry => entry.name !== 'info.txt');
 		entries.forEach(entry => {
-			fs.writeFileSync(`${game}/${entry.name}`, entry.getData());
+			fs.writeFileSync(`${gameDir}/${entry.name}`, entry.getData());
 		});
 		files = entries.map(entry => entry.name).sort();
 	}
 	const songs = files.map(file => ({
 		song: file,
-		song_link: `${source}/${game}/${file}`,
-		size: fs.statSync(`${game}/${file}`).size,
+		song_link: `${source}/${gameDir}/${file}`,
+		size: fs.statSync(`${gameDir}/${file}`).size,
 		composer: composers.join(', '),
-		source_archive: downloadUrl2.href,
 	}));
 
 	return { game, platform, developers, publishers, year, source, source_link: url, songs };
@@ -156,12 +157,42 @@ async function fetchWogMods(source) {
 		'Oh No! More Lemmings': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0MDY=',
 		'Holiday Lemmings': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=',
 	};
-	const options = {
+	const pcDosGames = {
+		'Arnie 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5NTg=',
+		'Crusader: No Regret': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjky',
+		'Crusader: No Remorse': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjkz',
+		'Death Rally': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzIw',
+		'Diggers': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzUx',
+		'Epic Pinball': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NDAx',
+		'FX Fighter': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=',
+		'Jazz Jackrabbit': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc2',
+		'Jazz Jackrabbit: Holiday Hare 1994': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTc=',
+		'Lion King': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTQ=',
+		'Micro Machines 2: Turbo Tournament': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTk=',
+		'One Must Fall 2097': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NzYz',
+		'Pinball Dreams 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAy',
+		'Pinball Dreams Deluxe': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAz',
+		'Screamer': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx',
+		'Teenagent': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM2OTI=',
+		'Terminal Velocity': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA2Ng==',
+		'Ultima 6': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==',
+	};
+	const pcWindowsGames = {
+		//'Jazz Jackrabbit 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc1',
+		'Jazz Jackrabbit 2: The Secret Files': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM4MDU=',
+		//'Jazz Jackrabbit 3': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5MjI=',
+	};
+	const gameOptions = {
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy': { game: 'All New World Of Lemmings' },
 	};
-	const games = { ...newGames };
-	return (await sequential(Object.values(games).map(game => () => fetchGame(game, source, options[game] || {})))).filter(game => game);
+	const commonOptions = {
+		platformMap: { 'PC Dos': 'PC', 'PC Windows': 'PC' },
+	};
+	const games = { ...newGames, ...pcDosGames, ...pcWindowsGames };
+	return (await sequential(Object.values(games).map(game => () =>
+		fetchGame(game, source, { ...commonOptions, ...gameOptions[game] })
+	))).filter(game => game);
 }
 
 exports.fetchWogMods = fetchWogMods;
