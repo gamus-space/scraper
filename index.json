@@ -461,6 +461,149 @@
     ]
   },
   {
+    "game": "All New World Of Lemmings",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis",
+      "DMA Design"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy",
+    "songs": [
+      {
+        "song": "01-FRONTEND.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/01-FRONTEND.mod",
+        "size": 137474,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "CLASSIC1.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC1.mod",
+        "size": 79150,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "CLASSIC2.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC2.mod",
+        "size": 77560,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "CLASSIC3.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC3.mod",
+        "size": 68860,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "EGYPT1.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/EGYPT1.mod",
+        "size": 74748,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "EGYPT2.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/EGYPT2.mod",
+        "size": 56990,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "SHADOW1.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/SHADOW1.mod",
+        "size": 45912,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      },
+      {
+        "song": "SHADOW2.mod",
+        "song_link": "World of Game MODs/All New World Of Lemmings/SHADOW2.mod",
+        "size": 78532,
+        "composer": "Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+      }
+    ]
+  },
+  {
+    "game": "All New World Of Lemmings",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1994,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/All_New_World_Of_Lemmings",
+    "songs": [
+      {
+        "song": "med.CLASSIC1",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.CLASSIC1",
+        "size": 74324,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.CLASSIC2",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.CLASSIC2",
+        "size": 73740,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.CLASSIC3",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.CLASSIC3",
+        "size": 64362,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.EGYPT1",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.EGYPT1",
+        "size": 71136,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.EGYPT2",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.EGYPT2",
+        "size": 53640,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.FRONTEND",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.FRONTEND",
+        "size": 121082,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.SHADOW1",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.SHADOW1",
+        "size": 42550,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      },
+      {
+        "song": "med.SHADOW2",
+        "song_link": "UnExoticA/All_New_World_of_Lemmings/med.SHADOW2",
+        "size": 74730,
+        "composer": "Raymond Usher",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FAll_New_World_of_Lemmings.lha"
+      }
+    ]
+  },
+  {
     "game": "Another World",
     "platform": "Amiga",
     "developers": [
@@ -1112,98 +1255,6 @@
     ]
   },
   {
-    "game": "Les Aventures de Moktar",
-    "platform": "Amiga",
-    "developers": [
-      "Movie Software"
-    ],
-    "publishers": [
-      "Titus"
-    ],
-    "year": 1991,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/Les_Aventures_de_Moktar",
-    "songs": [
-      {
-        "song": "mod.lagbonus",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagbonus",
-        "size": 32584,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagcba1",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagcba1",
-        "size": 18024,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.laggagne",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.laggagne",
-        "size": 32690,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagjeu1",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu1",
-        "size": 35830,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagjeu2",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu2",
-        "size": 37980,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagjeu3",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu3",
-        "size": 35124,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagjeu4",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu4",
-        "size": 39858,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagjeu5",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu5",
-        "size": 40404,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagmort",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagmort",
-        "size": 27894,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagover",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagover",
-        "size": 42140,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      },
-      {
-        "song": "mod.lagpres2",
-        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagpres2",
-        "size": 39494,
-        "composer": "Unknown",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
-      }
-    ]
-  },
-  {
     "game": "Barbarian II",
     "platform": "Amiga",
     "developers": [
@@ -1836,84 +1887,6 @@
     ]
   },
   {
-    "game": "The Chaos Engine",
-    "platform": "Amiga",
-    "developers": [
-      "The Bitmap Brothers"
-    ],
-    "publishers": [
-      "Renegade"
-    ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Chaos_Engine",
-    "songs": [
-      {
-        "song": "mod.k8",
-        "song_link": "UnExoticA/Chaos_Engine/mod.k8",
-        "size": 307558,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.game_end",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip",
-        "size": 183729,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.ingame_1",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip",
-        "size": 226706,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.ingame_2",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip",
-        "size": 217892,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.ingame_3",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip",
-        "size": 229577,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.ingame_4",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip",
-        "size": 224439,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "rjp.menu",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip",
-        "size": 102502,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "Unused/rjp.Chaos_Engine_Demo",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip",
-        "size": 203999,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      },
-      {
-        "song": "Unused/rjp.SHOP_S",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip",
-        "size": 93026,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
-      }
-    ]
-  },
-  {
     "game": "Chase H.Q.",
     "platform": "Amiga",
     "developers": [
@@ -1981,6 +1954,42 @@
         "size": 73012,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FChase_HQ.lha"
+      }
+    ]
+  },
+  {
+    "game": "Christmas Lemmings 1993",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Christmas_Lemmings_1993",
+    "songs": [
+      {
+        "song": "sjs.jb",
+        "song_link": "UnExoticA/Christmas_Lemmings_1993/sjs.jb",
+        "size": 9243,
+        "composer": "Andy Whyte & Toby van der Peer",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhyte_Andy%2FChristmas_Lemmings_1993.lha"
+      },
+      {
+        "song": "sjs.kw",
+        "song_link": "UnExoticA/Christmas_Lemmings_1993/sjs.kw",
+        "size": 5439,
+        "composer": "Andy Whyte & Toby van der Peer",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhyte_Andy%2FChristmas_Lemmings_1993.lha"
+      },
+      {
+        "song": "sjs.rudi",
+        "song_link": "UnExoticA/Christmas_Lemmings_1993/sjs.rudi",
+        "size": 4827,
+        "composer": "Andy Whyte & Toby van der Peer",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhyte_Andy%2FChristmas_Lemmings_1993.lha"
       }
     ]
   },
@@ -3741,6 +3750,78 @@
     ]
   },
   {
+    "game": "Holiday Lemmings 1994",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": "1991",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=",
+    "songs": [
+      {
+        "song": "jb.mod",
+        "song_link": "World of Game MODs/Holiday Lemmings 1994/jb.mod",
+        "size": 40364,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+      },
+      {
+        "song": "kw.mod",
+        "song_link": "World of Game MODs/Holiday Lemmings 1994/kw.mod",
+        "size": 45448,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+      },
+      {
+        "song": "rudi.mod",
+        "song_link": "World of Game MODs/Holiday Lemmings 1994/rudi.mod",
+        "size": 31808,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+      }
+    ]
+  },
+  {
+    "game": "Holiday Lemmings 1994",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1994,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Holiday_Lemmings_1994",
+    "songs": [
+      {
+        "song": "sjs.tune1",
+        "song_link": "UnExoticA/Christmas_Lemmings_1994/sjs.tune1",
+        "size": 5271,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FChristmas_Lemmings_1994.lha"
+      },
+      {
+        "song": "sjs.tune2",
+        "song_link": "UnExoticA/Christmas_Lemmings_1994/sjs.tune2",
+        "size": 5415,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FChristmas_Lemmings_1994.lha"
+      },
+      {
+        "song": "sjs.tune3",
+        "song_link": "UnExoticA/Christmas_Lemmings_1994/sjs.tune3",
+        "size": 5211,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FChristmas_Lemmings_1994.lha"
+      }
+    ]
+  },
+  {
     "game": "IK+",
     "platform": "Amiga",
     "developers": [
@@ -4192,6 +4273,184 @@
     "game": "Lemmings",
     "platform": "Amiga",
     "developers": [
+      "Psygnosis",
+      "DMA Design",
+      "Probe Software"
+    ],
+    "publishers": [
+      "Atari",
+      "Sega",
+      "Psygnosis",
+      "Ocean",
+      "Imagineer",
+      "Sunsoft",
+      "Data East",
+      "EA Victor"
+    ],
+    "year": "1990",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzk=",
+    "songs": [
+      {
+        "song": "awesome.mod",
+        "song_link": "World of Game MODs/Lemmings/awesome.mod",
+        "size": 41886,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "beasti.mod",
+        "song_link": "World of Game MODs/Lemmings/beasti.mod",
+        "size": 45722,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "beastii.mod",
+        "song_link": "World of Game MODs/Lemmings/beastii.mod",
+        "size": 40286,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "cancan.mod",
+        "song_link": "World of Game MODs/Lemmings/cancan.mod",
+        "size": 36076,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "doggie.mod",
+        "song_link": "World of Game MODs/Lemmings/doggie.mod",
+        "size": 37544,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "intro.mod",
+        "song_link": "World of Game MODs/Lemmings/intro.mod",
+        "size": 112330,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "lemming1.mod",
+        "song_link": "World of Game MODs/Lemmings/lemming1.mod",
+        "size": 46930,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "lemming2.mod",
+        "song_link": "World of Game MODs/Lemmings/lemming2.mod",
+        "size": 50906,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "lemming3.mod",
+        "song_link": "World of Game MODs/Lemmings/lemming3.mod",
+        "size": 46886,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "menace.mod",
+        "song_link": "World of Game MODs/Lemmings/menace.mod",
+        "size": 49190,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "mountain.mod",
+        "song_link": "World of Game MODs/Lemmings/mountain.mod",
+        "size": 39974,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tenlemmings.mod",
+        "song_link": "World of Game MODs/Lemmings/tenlemmings.mod",
+        "size": 29198,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim1.mod",
+        "song_link": "World of Game MODs/Lemmings/tim1.mod",
+        "size": 48298,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim10.mod",
+        "song_link": "World of Game MODs/Lemmings/tim10.mod",
+        "size": 40924,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim2.mod",
+        "song_link": "World of Game MODs/Lemmings/tim2.mod",
+        "size": 35754,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim3.mod",
+        "song_link": "World of Game MODs/Lemmings/tim3.mod",
+        "size": 36226,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim4.mod",
+        "song_link": "World of Game MODs/Lemmings/tim4.mod",
+        "size": 38286,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim5.mod",
+        "song_link": "World of Game MODs/Lemmings/tim5.mod",
+        "size": 47718,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim6.mod",
+        "song_link": "World of Game MODs/Lemmings/tim6.mod",
+        "size": 26928,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim7.mod",
+        "song_link": "World of Game MODs/Lemmings/tim7.mod",
+        "size": 36550,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim8.mod",
+        "song_link": "World of Game MODs/Lemmings/tim8.mod",
+        "size": 37186,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      },
+      {
+        "song": "tim9.mod",
+        "song_link": "World of Game MODs/Lemmings/tim9.mod",
+        "size": 39924,
+        "composer": "Tim Wright, Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+      }
+    ]
+  },
+  {
+    "game": "Lemmings",
+    "platform": "Amiga",
+    "developers": [
       "DMA Design"
     ],
     "publishers": [
@@ -4568,172 +4827,345 @@
     ]
   },
   {
-    "game": "The Lion King",
+    "game": "Lemmings 2",
     "platform": "Amiga",
     "developers": [
-      "Virgin Interactive"
+      "Psygnosis",
+      "DMA Design"
     ],
     "publishers": [
-      "Disney"
+      "Psygnosis",
+      "DMA Design",
+      "Nintendo",
+      "Sunsoft"
     ],
-    "year": 1994,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Lion_King",
+    "year": "1993",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMx",
     "songs": [
       {
-        "song": "p4x.level_1",
-        "song_link": "UnExoticA/Lion_King/p4x.level_1",
-        "size": 37454,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "01-Maintune.mod",
+        "song_link": "World of Game MODs/Lemmings 2/01-Maintune.mod",
+        "size": 163128,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_3",
-        "song_link": "UnExoticA/Lion_King/p4x.level_3",
-        "size": 46014,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "beach.mod",
+        "song_link": "World of Game MODs/Lemmings 2/beach.mod",
+        "size": 62416,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_4",
-        "song_link": "UnExoticA/Lion_King/p4x.level_4",
-        "size": 40728,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "cavelem.mod",
+        "song_link": "World of Game MODs/Lemmings 2/cavelem.mod",
+        "size": 35490,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_5",
-        "song_link": "UnExoticA/Lion_King/p4x.level_5",
-        "size": 49912,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "circus.mod",
+        "song_link": "World of Game MODs/Lemmings 2/circus.mod",
+        "size": 54614,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_7",
-        "song_link": "UnExoticA/Lion_King/p4x.level_7",
-        "size": 34050,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "classic.mod",
+        "song_link": "World of Game MODs/Lemmings 2/classic.mod",
+        "size": 61170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_8",
-        "song_link": "UnExoticA/Lion_King/p4x.level_8",
-        "size": 40450,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "egyptian.mod",
+        "song_link": "World of Game MODs/Lemmings 2/egyptian.mod",
+        "size": 54958,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.level_A",
-        "song_link": "UnExoticA/Lion_King/p4x.level_A",
-        "size": 46532,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "endtune.mod",
+        "song_link": "World of Game MODs/Lemmings 2/endtune.mod",
+        "size": 50870,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.lion",
-        "song_link": "UnExoticA/Lion_King/p4x.lion",
-        "size": 12456,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "highland.mod",
+        "song_link": "World of Game MODs/Lemmings 2/highland.mod",
+        "size": 55374,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       },
       {
-        "song": "p4x.title",
-        "song_link": "UnExoticA/Lion_King/p4x.title",
-        "size": 84760,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "lem23.mod",
+        "song_link": "World of Game MODs/Lemmings 2/lem23.mod",
+        "size": 50870,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "lem24.mod",
+        "song_link": "World of Game MODs/Lemmings 2/lem24.mod",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "lem25.mod",
+        "song_link": "World of Game MODs/Lemmings 2/lem25.mod",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "medieval.mod",
+        "song_link": "World of Game MODs/Lemmings 2/medieval.mod",
+        "size": 57084,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "outdoor.mod",
+        "song_link": "World of Game MODs/Lemmings 2/outdoor.mod",
+        "size": 49708,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "polar.mod",
+        "song_link": "World of Game MODs/Lemmings 2/polar.mod",
+        "size": 57238,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "shadow.mod",
+        "song_link": "World of Game MODs/Lemmings 2/shadow.mod",
+        "size": 78810,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "space.mod",
+        "song_link": "World of Game MODs/Lemmings 2/space.mod",
+        "size": 71484,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+      },
+      {
+        "song": "sports.mod",
+        "song_link": "World of Game MODs/Lemmings 2/sports.mod",
+        "size": 47342,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
       }
     ]
   },
   {
-    "game": "The Lost Vikings",
+    "game": "Lemmings 2",
     "platform": "Amiga",
     "developers": [
-      "Silicon and Synapse"
+      "DMA Design"
     ],
     "publishers": [
-      "Interplay"
+      "Psygnosis"
     ],
     "year": 1993,
     "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Lost_Vikings",
+    "source_link": "https://www.exotica.org.uk/wiki/Lemmings_2_-_The_Tribes",
     "songs": [
       {
-        "song": "p4x.death",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.death",
-        "size": 7398,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.beach",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.beach",
+        "size": 54882,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ending",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ending",
-        "size": 35030,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.cavelem",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.cavelem",
+        "size": 31920,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.end_credits",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.end_credits",
-        "size": 32830,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.circus",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.circus",
+        "size": 44664,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ingame1",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame1",
-        "size": 34828,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.classic",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.classic",
+        "size": 54198,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ingame2",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame2",
-        "size": 34456,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.egyptian",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.egyptian",
+        "size": 47074,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ingame3",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame3",
-        "size": 35176,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.endtune",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.endtune",
+        "size": 48586,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ingame4",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame4",
-        "size": 32680,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.highland",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.highland",
+        "size": 48006,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.ingame5",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame5",
-        "size": 35150,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.maintune",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.maintune",
+        "size": 156708,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.intro",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.intro",
-        "size": 35136,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.medieval",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.medieval",
+        "size": 48710,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.title",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.title",
-        "size": 34550,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.outdoor",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.outdoor",
+        "size": 43638,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
       },
       {
-        "song": "p4x.warp",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.warp",
-        "size": 8782,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "med.polar",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.polar",
+        "size": 51156,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
+      },
+      {
+        "song": "med.shadow",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.shadow",
+        "size": 51696,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
+      },
+      {
+        "song": "med.space",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.space",
+        "size": 53134,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
+      },
+      {
+        "song": "med.sports",
+        "song_link": "UnExoticA/Lemmings_2-The_Tribes/med.sports",
+        "size": 36880,
+        "composer": "B. Johnston/R. Usher/D. Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FLemmings_2-The_Tribes.lha"
+      }
+    ]
+  },
+  {
+    "game": "Les Aventures de Moktar",
+    "platform": "Amiga",
+    "developers": [
+      "Movie Software"
+    ],
+    "publishers": [
+      "Titus"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Les_Aventures_de_Moktar",
+    "songs": [
+      {
+        "song": "mod.lagbonus",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagbonus",
+        "size": 32584,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagcba1",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagcba1",
+        "size": 18024,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.laggagne",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.laggagne",
+        "size": 32690,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagjeu1",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu1",
+        "size": 35830,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagjeu2",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu2",
+        "size": 37980,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagjeu3",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu3",
+        "size": 35124,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagjeu4",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu4",
+        "size": 39858,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagjeu5",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagjeu5",
+        "size": 40404,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagmort",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagmort",
+        "size": 27894,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagover",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagover",
+        "size": 42140,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      },
+      {
+        "song": "mod.lagpres2",
+        "song_link": "UnExoticA/Aventures_de_Moktar/mod.lagpres2",
+        "size": 39494,
+        "composer": "Unknown",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
       }
     ]
   },
@@ -4791,119 +5223,6 @@
         "size": 81380,
         "composer": "Shaun Southern & Andrew Morris",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSouthern_Shaun%2FLotus.lha"
-      }
-    ]
-  },
-  {
-    "game": "Lotus Turbo Challenge 2",
-    "platform": "Amiga",
-    "developers": [
-      "Magnetic Fields"
-    ],
-    "publishers": [
-      "Gremlin Graphics"
-    ],
-    "year": 1991,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/Lotus_Turbo_Challenge_2",
-    "songs": [
-      {
-        "song": "Bonus/XM.Lotus_2_Completion_Remix_1",
-        "song_link": "UnExoticA/Lotus_2/Bonus/XM.Lotus_2_Completion_Remix_1",
-        "size": 174827,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "Bonus/XM.Lotus_2_Completion_Remix_2",
-        "song_link": "UnExoticA/Lotus_2/Bonus/XM.Lotus_2_Completion_Remix_2",
-        "size": 193581,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.bootup",
-        "song_link": "UnExoticA/Lotus_2/mod.bootup",
-        "size": 83302,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.gameover",
-        "song_link": "UnExoticA/Lotus_2/mod.gameover",
-        "size": 35882,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle1",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle1",
-        "size": 37992,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle2",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle2",
-        "size": 40964,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle3",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle3",
-        "size": 27090,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle4",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle4",
-        "size": 19458,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle5",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle5",
-        "size": 24312,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle6",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle6",
-        "size": 39662,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle7",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle7",
-        "size": 27756,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.jingle8",
-        "song_link": "UnExoticA/Lotus_2/mod.jingle8",
-        "size": 32296,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "mod.new",
-        "song_link": "UnExoticA/Lotus_2/mod.new",
-        "size": 95602,
-        "composer": "Barry Leitch",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
-      },
-      {
-        "song": "cust.Dux",
-        "song_link": "UnExoticA/Lotus_2/cust.Dux",
-        "size": 1548,
-        "composer": "Shaun Southern",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSouthern_Shaun%2FLotus_2.lha"
       }
     ]
   },
@@ -5087,6 +5406,119 @@
         "size": 39130,
         "composer": "Patrick Phelan",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPhelan_Patrick%2FLotus_3.lha"
+      }
+    ]
+  },
+  {
+    "game": "Lotus Turbo Challenge 2",
+    "platform": "Amiga",
+    "developers": [
+      "Magnetic Fields"
+    ],
+    "publishers": [
+      "Gremlin Graphics"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Lotus_Turbo_Challenge_2",
+    "songs": [
+      {
+        "song": "Bonus/XM.Lotus_2_Completion_Remix_1",
+        "song_link": "UnExoticA/Lotus_2/Bonus/XM.Lotus_2_Completion_Remix_1",
+        "size": 174827,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "Bonus/XM.Lotus_2_Completion_Remix_2",
+        "song_link": "UnExoticA/Lotus_2/Bonus/XM.Lotus_2_Completion_Remix_2",
+        "size": 193581,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.bootup",
+        "song_link": "UnExoticA/Lotus_2/mod.bootup",
+        "size": 83302,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.gameover",
+        "song_link": "UnExoticA/Lotus_2/mod.gameover",
+        "size": 35882,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle1",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle1",
+        "size": 37992,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle2",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle2",
+        "size": 40964,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle3",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle3",
+        "size": 27090,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle4",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle4",
+        "size": 19458,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle5",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle5",
+        "size": 24312,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle6",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle6",
+        "size": 39662,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle7",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle7",
+        "size": 27756,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.jingle8",
+        "song_link": "UnExoticA/Lotus_2/mod.jingle8",
+        "size": 32296,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "mod.new",
+        "song_link": "UnExoticA/Lotus_2/mod.new",
+        "size": 95602,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FLotus_2.lha"
+      },
+      {
+        "song": "cust.Dux",
+        "song_link": "UnExoticA/Lotus_2/cust.Dux",
+        "size": 1548,
+        "composer": "Shaun Southern",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSouthern_Shaun%2FLotus_2.lha"
       }
     ]
   },
@@ -5626,6 +6058,120 @@
         "size": 100924,
         "composer": "Alain Lambin",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLambin_Alain%2FNicky_Boom.lha"
+      }
+    ]
+  },
+  {
+    "game": "Oh No! More Lemmings",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": "1991",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0MDY=",
+    "songs": [
+      {
+        "song": "tune1.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune1.mod",
+        "size": 34132,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      },
+      {
+        "song": "tune2.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune2.mod",
+        "size": 30224,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      },
+      {
+        "song": "tune3.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune3.mod",
+        "size": 39636,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      },
+      {
+        "song": "tune4.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune4.mod",
+        "size": 38752,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      },
+      {
+        "song": "tune5.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune5.mod",
+        "size": 38826,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      },
+      {
+        "song": "tune6.mod",
+        "song_link": "World of Game MODs/Oh No! More Lemmings/tune6.mod",
+        "size": 34316,
+        "composer": "Brian Johnston",
+        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+      }
+    ]
+  },
+  {
+    "game": "Oh No! More Lemmings",
+    "platform": "Amiga",
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Oh_No!_More_Lemmings",
+    "songs": [
+      {
+        "song": "sjs.tune1",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune1",
+        "size": 5271,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      },
+      {
+        "song": "sjs.tune2",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune2",
+        "size": 5415,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      },
+      {
+        "song": "sjs.tune3",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune3",
+        "size": 5211,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      },
+      {
+        "song": "sjs.tune4",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune4",
+        "size": 6015,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      },
+      {
+        "song": "sjs.tune5",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune5",
+        "size": 5283,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      },
+      {
+        "song": "sjs.tune6",
+        "song_link": "UnExoticA/Oh_No_More_Lemmings/sjs.tune6",
+        "size": 3663,
+        "composer": "Brian Johnston",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
       }
     ]
   },
@@ -6685,193 +7231,53 @@
     ]
   },
   {
-    "game": "The Secret of Monkey Island",
+    "game": "SWIV",
     "platform": "Amiga",
     "developers": [
-      "Lucasfilm Games"
+      "Storm",
+      "Random Access"
     ],
     "publishers": [
-      "Lucasfilm Games"
+      "The Sales Curve"
     ],
-    "year": 1990,
+    "year": 1991,
     "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island",
+    "source_link": "https://www.exotica.org.uk/wiki/SWIV",
     "songs": [
       {
-        "song": "mdat.Monkey_Island #1",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#1",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+        "song": "Direct_from_Composer/mod.decimation #1",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#1",
+        "size": 181834,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
       },
       {
-        "song": "mdat.Monkey_Island #2",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#2",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+        "song": "Direct_from_Composer/mod.decimation #30",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#30",
+        "size": 181834,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
       },
       {
-        "song": "mdat.Monkey_Island #3",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#3",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+        "song": "Direct_from_Composer/mod.decimation #32",
+        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#32",
+        "size": 181834,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
       },
       {
-        "song": "mdat.Monkey_Island #4",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#4",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+        "song": "mod.swiv-hiscore",
+        "song_link": "UnExoticA/SWIV/mod.swiv-hiscore",
+        "size": 117558,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
       },
       {
-        "song": "mdat.Monkey_Island #5",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#5",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #6",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#6",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #7",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#7",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #8",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#8",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #9",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#9",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #10",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#10",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #11",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#11",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #12",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#12",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #13",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#13",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #14",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#14",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #15",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#15",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #16",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#16",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #17",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#17",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #18",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#18",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #19",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#19",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #20",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#20",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #30",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#30",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      }
-    ]
-  },
-  {
-    "game": "The Settlers",
-    "platform": "Amiga",
-    "developers": [
-      "Blue Byte"
-    ],
-    "publishers": [
-      "Blue Byte"
-    ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Settlers",
-    "songs": [
-      {
-        "song": "mod.siedler ii",
-        "song_link": "UnExoticA/Settlers/mod.siedler ii",
-        "size": 314126,
-        "composer": "Markus Kludzuweit",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FKludzuweit_Markus%2FSettlers.lha"
-      },
-      {
-        "song": "mod.nintro5",
-        "song_link": "UnExoticA/Settlers/mod.nintro5",
-        "size": 95686,
-        "composer": "Haiko Ruttmann",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRuttmann_Haiko%2FSettlers.lha"
+        "song": "mod.swiv-title",
+        "song_link": "UnExoticA/SWIV/mod.swiv-title",
+        "size": 135166,
+        "composer": "Andrew Barnabas",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
       }
     ]
   },
@@ -7899,162 +8305,6 @@
     ]
   },
   {
-    "game": "Superfrog",
-    "platform": "Amiga",
-    "developers": [
-      "Team17"
-    ],
-    "publishers": [
-      "Team17"
-    ],
-    "year": 1992,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/Superfrog",
-    "songs": [
-      {
-        "song": "p4x.intro_tune_1",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_1",
-        "size": 51352,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_2",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_2",
-        "size": 50860,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_3",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_3",
-        "size": 50832,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_4",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_4",
-        "size": 50928,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_5",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_5",
-        "size": 50884,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_6",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_6",
-        "size": 50900,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.intro_tune_7",
-        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_7",
-        "size": 16884,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L1mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L1mu",
-        "size": 40514,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L2mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L2mu",
-        "size": 40122,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L3mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L3mu",
-        "size": 36282,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L4mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L4mu",
-        "size": 39024,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L5mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L5mu",
-        "size": 41680,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.L6mu",
-        "song_link": "UnExoticA/Superfrog/p4x.L6mu",
-        "size": 38956,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.Lbmu",
-        "song_link": "UnExoticA/Superfrog/p4x.Lbmu",
-        "size": 33876,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.Lfmu",
-        "song_link": "UnExoticA/Superfrog/p4x.Lfmu",
-        "size": 25422,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "p4x.Musc",
-        "song_link": "UnExoticA/Superfrog/p4x.Musc",
-        "size": 60446,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      },
-      {
-        "song": "Unused/p4x.L2mu",
-        "song_link": "UnExoticA/Superfrog/Unused/p4x.L2mu",
-        "size": 53398,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
-      }
-    ]
-  },
-  {
-    "game": "Super Street Fighter II Turbo",
-    "platform": "Amiga",
-    "developers": [
-      "Human Soft"
-    ],
-    "publishers": [
-      "Gametek"
-    ],
-    "year": 1995,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/Super_Street_Fighter_II_Turbo",
-    "songs": [
-      {
-        "song": "pru2.pro.i_riska",
-        "song_link": "UnExoticA/Super_Street_F2T/pru2.pro.i_riska",
-        "size": 176342,
-        "composer": "George Dragon",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FDragon_George%2FSuper_Street_F2T.lha"
-      }
-    ]
-  },
-  {
     "game": "Super Street Fighter II",
     "platform": "Amiga",
     "developers": [
@@ -8189,53 +8439,597 @@
     ]
   },
   {
-    "game": "SWIV",
+    "game": "Super Street Fighter II Turbo",
     "platform": "Amiga",
     "developers": [
-      "Storm",
-      "Random Access"
+      "Human Soft"
     ],
     "publishers": [
-      "The Sales Curve"
+      "Gametek"
     ],
-    "year": 1991,
+    "year": 1995,
     "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/SWIV",
+    "source_link": "https://www.exotica.org.uk/wiki/Super_Street_Fighter_II_Turbo",
     "songs": [
       {
-        "song": "Direct_from_Composer/mod.decimation #1",
-        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#1",
-        "size": 181834,
-        "composer": "Andrew Barnabas",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+        "song": "pru2.pro.i_riska",
+        "song_link": "UnExoticA/Super_Street_F2T/pru2.pro.i_riska",
+        "size": 176342,
+        "composer": "George Dragon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FDragon_George%2FSuper_Street_F2T.lha"
+      }
+    ]
+  },
+  {
+    "game": "Superfrog",
+    "platform": "Amiga",
+    "developers": [
+      "Team17"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Superfrog",
+    "songs": [
+      {
+        "song": "p4x.intro_tune_1",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_1",
+        "size": 51352,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
       },
       {
-        "song": "Direct_from_Composer/mod.decimation #30",
-        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#30",
-        "size": 181834,
-        "composer": "Andrew Barnabas",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+        "song": "p4x.intro_tune_2",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_2",
+        "size": 50860,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
       },
       {
-        "song": "Direct_from_Composer/mod.decimation #32",
-        "song_link": "UnExoticA/SWIV/Direct_from_Composer/mod.decimation#32",
-        "size": 181834,
-        "composer": "Andrew Barnabas",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+        "song": "p4x.intro_tune_3",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_3",
+        "size": 50832,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
       },
       {
-        "song": "mod.swiv-hiscore",
-        "song_link": "UnExoticA/SWIV/mod.swiv-hiscore",
-        "size": 117558,
-        "composer": "Andrew Barnabas",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+        "song": "p4x.intro_tune_4",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_4",
+        "size": 50928,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
       },
       {
-        "song": "mod.swiv-title",
-        "song_link": "UnExoticA/SWIV/mod.swiv-title",
-        "size": 135166,
-        "composer": "Andrew Barnabas",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+        "song": "p4x.intro_tune_5",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_5",
+        "size": 50884,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.intro_tune_6",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_6",
+        "size": 50900,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.intro_tune_7",
+        "song_link": "UnExoticA/Superfrog/p4x.intro_tune_7",
+        "size": 16884,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L1mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L1mu",
+        "size": 40514,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L2mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L2mu",
+        "size": 40122,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L3mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L3mu",
+        "size": 36282,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L4mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L4mu",
+        "size": 39024,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L5mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L5mu",
+        "size": 41680,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.L6mu",
+        "song_link": "UnExoticA/Superfrog/p4x.L6mu",
+        "size": 38956,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.Lbmu",
+        "song_link": "UnExoticA/Superfrog/p4x.Lbmu",
+        "size": 33876,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.Lfmu",
+        "song_link": "UnExoticA/Superfrog/p4x.Lfmu",
+        "size": 25422,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "p4x.Musc",
+        "song_link": "UnExoticA/Superfrog/p4x.Musc",
+        "size": 60446,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      },
+      {
+        "song": "Unused/p4x.L2mu",
+        "song_link": "UnExoticA/Superfrog/Unused/p4x.L2mu",
+        "size": 53398,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      }
+    ]
+  },
+  {
+    "game": "The Chaos Engine",
+    "platform": "Amiga",
+    "developers": [
+      "The Bitmap Brothers"
+    ],
+    "publishers": [
+      "Renegade"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Chaos_Engine",
+    "songs": [
+      {
+        "song": "mod.k8",
+        "song_link": "UnExoticA/Chaos_Engine/mod.k8",
+        "size": 307558,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      }
+    ]
+  },
+  {
+    "game": "The Lion King",
+    "platform": "Amiga",
+    "developers": [
+      "Virgin Interactive"
+    ],
+    "publishers": [
+      "Disney"
+    ],
+    "year": 1994,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Lion_King",
+    "songs": [
+      {
+        "song": "p4x.level_1",
+        "song_link": "UnExoticA/Lion_King/p4x.level_1",
+        "size": 37454,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_3",
+        "song_link": "UnExoticA/Lion_King/p4x.level_3",
+        "size": 46014,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_4",
+        "song_link": "UnExoticA/Lion_King/p4x.level_4",
+        "size": 40728,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_5",
+        "song_link": "UnExoticA/Lion_King/p4x.level_5",
+        "size": 49912,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_7",
+        "song_link": "UnExoticA/Lion_King/p4x.level_7",
+        "size": 34050,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_8",
+        "song_link": "UnExoticA/Lion_King/p4x.level_8",
+        "size": 40450,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_A",
+        "song_link": "UnExoticA/Lion_King/p4x.level_A",
+        "size": 46532,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.lion",
+        "song_link": "UnExoticA/Lion_King/p4x.lion",
+        "size": 12456,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.title",
+        "song_link": "UnExoticA/Lion_King/p4x.title",
+        "size": 84760,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      }
+    ]
+  },
+  {
+    "game": "The Lost Vikings",
+    "platform": "Amiga",
+    "developers": [
+      "Silicon and Synapse"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Lost_Vikings",
+    "songs": [
+      {
+        "song": "p4x.death",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.death",
+        "size": 7398,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ending",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ending",
+        "size": 35030,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.end_credits",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.end_credits",
+        "size": 32830,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame1",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame1",
+        "size": 34828,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame2",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame2",
+        "size": 34456,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame3",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame3",
+        "size": 35176,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame4",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame4",
+        "size": 32680,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame5",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame5",
+        "size": 35150,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.intro",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.intro",
+        "size": 35136,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.title",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.title",
+        "size": 34550,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.warp",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.warp",
+        "size": 8782,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      }
+    ]
+  },
+  {
+    "game": "The Secret of Monkey Island",
+    "platform": "Amiga",
+    "developers": [
+      "Lucasfilm Games"
+    ],
+    "publishers": [
+      "Lucasfilm Games"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island",
+    "songs": [
+      {
+        "song": "mdat.Monkey_Island #1",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#1",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #2",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#2",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #3",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#3",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #4",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#4",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #5",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#5",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #6",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#6",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #7",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#7",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #8",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#8",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #9",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#9",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #10",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#10",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #11",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#11",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #12",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#12",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #13",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#13",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #14",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#14",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #15",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#15",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #16",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#16",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #17",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#17",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #18",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#18",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #19",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#19",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #20",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#20",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #30",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#30",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      }
+    ]
+  },
+  {
+    "game": "The Settlers",
+    "platform": "Amiga",
+    "developers": [
+      "Blue Byte"
+    ],
+    "publishers": [
+      "Blue Byte"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Settlers",
+    "songs": [
+      {
+        "song": "mod.siedler ii",
+        "song_link": "UnExoticA/Settlers/mod.siedler ii",
+        "size": 314126,
+        "composer": "Markus Kludzuweit",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FKludzuweit_Markus%2FSettlers.lha"
+      },
+      {
+        "song": "mod.nintro5",
+        "song_link": "UnExoticA/Settlers/mod.nintro5",
+        "size": 95686,
+        "composer": "Haiko Ruttmann",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRuttmann_Haiko%2FSettlers.lha"
       }
     ]
   },
@@ -8613,6 +9407,316 @@
     ]
   },
   {
+    "game": "Turrican 3",
+    "platform": "Amiga",
+    "developers": [
+      "Rainbow Arts",
+      "Factor 5"
+    ],
+    "publishers": [
+      "Renegade"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Turrican_3",
+    "songs": [
+      {
+        "song": "mdat.intro_and_title #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#1",
+        "size": 97244,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.intro_and_title #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#2",
+        "size": 97244,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.intro_and_title #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#3",
+        "size": 97244,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.loader #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#1",
+        "size": 3326,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.loader #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#2",
+        "size": 3326,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.loader #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#3",
+        "size": 3326,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#1",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#2",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#3",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #4",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#4",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #5",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#5",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #6",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#6",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_1 #7",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#7",
+        "size": 57952,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#1",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#2",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#3",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #4",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#4",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #5",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#5",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #6",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#6",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #7",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#7",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #8",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#8",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_2 #9",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#9",
+        "size": 57044,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#1",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#2",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#3",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #5",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#5",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #6",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#6",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #7",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#7",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_3 #10",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#10",
+        "size": 58178,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#1",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#2",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#3",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #5",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#5",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #6",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#6",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_4 #7",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#7",
+        "size": 50208,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #1",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#1",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #2",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#2",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #3",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#3",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #4",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#4",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #5",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#5",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #6",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#6",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      },
+      {
+        "song": "mdat.world_5 #7",
+        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#7",
+        "size": 50792,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
+      }
+    ]
+  },
+  {
     "game": "Turrican II",
     "platform": "Amiga",
     "developers": [
@@ -8981,316 +10085,6 @@
         "size": 52270,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_2.lha"
-      }
-    ]
-  },
-  {
-    "game": "Turrican 3",
-    "platform": "Amiga",
-    "developers": [
-      "Rainbow Arts",
-      "Factor 5"
-    ],
-    "publishers": [
-      "Renegade"
-    ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/Turrican_3",
-    "songs": [
-      {
-        "song": "mdat.intro_and_title #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#1",
-        "size": 97244,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.intro_and_title #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#2",
-        "size": 97244,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.intro_and_title #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.intro_and_title.zip#3",
-        "size": 97244,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.loader #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#1",
-        "size": 3326,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.loader #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#2",
-        "size": 3326,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.loader #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.loader.zip#3",
-        "size": 3326,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#1",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#2",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#3",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #4",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#4",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #5",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#5",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #6",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#6",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_1 #7",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_1.zip#7",
-        "size": 57952,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#1",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#2",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#3",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #4",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#4",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #5",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#5",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #6",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#6",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #7",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#7",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #8",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#8",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_2 #9",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_2.zip#9",
-        "size": 57044,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#1",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#2",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#3",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #5",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#5",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #6",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#6",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #7",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#7",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_3 #10",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_3.zip#10",
-        "size": 58178,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#1",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#2",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#3",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #5",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#5",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #6",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#6",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_4 #7",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_4.zip#7",
-        "size": 50208,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #1",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#1",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #2",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#2",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #3",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#3",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #4",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#4",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #5",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#5",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #6",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#6",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
-      },
-      {
-        "song": "mdat.world_5 #7",
-        "song_link": "UnExoticA/Turrican_3/mdat.world_5.zip#7",
-        "size": 50792,
-        "composer": "Chris Hülsbeck",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FTurrican_3.lha"
       }
     ]
   },
