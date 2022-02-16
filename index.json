@@ -476,59 +476,51 @@
     "songs": [
       {
         "song": "01-FRONTEND.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/01-FRONTEND.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/01-FRONTEND.mod",
         "size": 137474,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "CLASSIC1.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC1.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/CLASSIC1.mod",
         "size": 79150,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "CLASSIC2.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC2.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/CLASSIC2.mod",
         "size": 77560,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "CLASSIC3.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/CLASSIC3.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/CLASSIC3.mod",
         "size": 68860,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "EGYPT1.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/EGYPT1.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/EGYPT1.mod",
         "size": 74748,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "EGYPT2.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/EGYPT2.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/EGYPT2.mod",
         "size": 56990,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "SHADOW1.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/SHADOW1.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/SHADOW1.mod",
         "size": 45912,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       },
       {
         "song": "SHADOW2.mod",
-        "song_link": "World of Game MODs/All New World Of Lemmings/SHADOW2.mod",
+        "song_link": "World of Game MODs/Amiga/All New World Of Lemmings/SHADOW2.mod",
         "size": 78532,
-        "composer": "Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzIiO2k6MTtpOjE2NDQ2ODc4ODY7aToyO2k6Mzt9"
+        "composer": "Raymond Usher"
       }
     ]
   },
@@ -1165,6 +1157,28 @@
         "size": 41676,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      }
+    ]
+  },
+  {
+    "game": "Arnie 2",
+    "platform": "PC",
+    "developers": [
+      "Zeppelin Games"
+    ],
+    "publishers": [
+      "Zeppelin Games",
+      "Zeppelin"
+    ],
+    "year": "1993",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5NTg=",
+    "songs": [
+      {
+        "song": "Arnie 2.mod",
+        "song_link": "World of Game MODs/PC/Arnie 2/Arnie 2.mod",
+        "size": 81918,
+        "composer": "Andy Rodger"
       }
     ]
   },
@@ -1887,6 +1901,84 @@
     ]
   },
   {
+    "game": "Chaos Engine, The",
+    "platform": "Amiga",
+    "developers": [
+      "The Bitmap Brothers"
+    ],
+    "publishers": [
+      "Renegade"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Chaos_Engine",
+    "songs": [
+      {
+        "song": "mod.k8",
+        "song_link": "UnExoticA/Chaos_Engine/mod.k8",
+        "size": 307558,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      }
+    ]
+  },
+  {
     "game": "Chase H.Q.",
     "platform": "Amiga",
     "developers": [
@@ -2303,6 +2395,431 @@
         "size": 65134,
         "composer": "Unknown",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FCrazy_Cars_3.lha"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Regret",
+    "platform": "PC",
+    "developers": [
+      "Origin"
+    ],
+    "publishers": [
+      "Electronic Arts",
+      "Origin",
+      "EA"
+    ],
+    "year": "1996",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjky",
+    "songs": [
+      {
+        "song": "D3.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/D3.MOD",
+        "size": 414968,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DARK.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/DARK.MOD",
+        "size": 231444,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DEMO.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/DEMO.MOD",
+        "size": 388164,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DISTORT.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/DISTORT.MOD",
+        "size": 323896,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "INTENT.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/INTENT.MOD",
+        "size": 279812,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "METAL.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/METAL.MOD",
+        "size": 419254,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "MK.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/MK.MOD",
+        "size": 272742,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "NINTH.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/NINTH.MOD",
+        "size": 436432,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PARTY.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/PARTY.MOD",
+        "size": 264542,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PHIL.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/PHIL.MOD",
+        "size": 332774,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "REGRET.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/REGRET.MOD",
+        "size": 514998,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RETRO.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/RETRO.MOD",
+        "size": 262648,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RHYTHM.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/RHYTHM.MOD",
+        "size": 371122,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SILVER.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/SILVER.MOD",
+        "size": 361298,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/SPACE.MOD",
+        "size": 325812,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE2.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/SPACE2.MOD",
+        "size": 305116,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STINT.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/STINT.MOD",
+        "size": 382348,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STRAIGHT.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/STRAIGHT.MOD",
+        "size": 314268,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "TECHNO.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/TECHNO.MOD",
+        "size": 192294,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "THIRD.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/THIRD.MOD",
+        "size": 180872,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "XMAS.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Regret/XMAS.MOD",
+        "size": 324356,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Remorse",
+    "platform": "PC",
+    "developers": [
+      "Origin",
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "Electronic Arts",
+      "Origin",
+      "EA"
+    ],
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjkz",
+    "songs": [
+      {
+        "song": "CRED.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/CRED.MOD",
+        "size": 335498,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M01.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M01.MOD",
+        "size": 367192,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M02.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M02.MOD",
+        "size": 197650,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M03.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M03.MOD",
+        "size": 292510,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M04.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M04.MOD",
+        "size": 246322,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M05.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M05.MOD",
+        "size": 280868,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M06.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M06.MOD",
+        "size": 81318,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M07.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD",
+        "size": 147423,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M08.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M08.MOD",
+        "size": 142006,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M09.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M09.MOD",
+        "size": 346098,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M10.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M10.MOD",
+        "size": 170512,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M11.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M11.MOD",
+        "size": 285442,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M12.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M12.MOD",
+        "size": 138196,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M13.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M13.MOD",
+        "size": 336496,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M14.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M14.MOD",
+        "size": 217800,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M15.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M15.MOD",
+        "size": 303284,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16A.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16A.MOD",
+        "size": 247132,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16B.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16B.MOD",
+        "size": 207382,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16C.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16C.MOD",
+        "size": 228168,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "MENU.MOD",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/MENU.MOD",
+        "size": 274382,
+        "composer": "Dan Grandpre, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Death Rally",
+    "platform": "PC",
+    "developers": [
+      "Remedy Entertainment",
+      "Apogee"
+    ],
+    "publishers": [
+      "GT Interactive",
+      "Apogee"
+    ],
+    "year": "1996",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MzIw",
+    "songs": [
+      {
+        "song": "MENUTUNE.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK1.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK1.S3M",
+        "size": 367474,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK2.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK2.S3M",
+        "size": 212904,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK3.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK3.S3M",
+        "size": 279736,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK4.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK4.S3M",
+        "size": 309472,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK5.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK5.S3M",
+        "size": 325036,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK6.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK6.S3M",
+        "size": 326656,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK7.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK7.S3M",
+        "size": 373158,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK8.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK8.S3M",
+        "size": 251720,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK9.S3M",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK9.S3M",
+        "size": 352794,
+        "composer": "Jonne Valtonen"
+      }
+    ]
+  },
+  {
+    "game": "Diggers",
+    "platform": "PC",
+    "developers": [
+      "Millennium",
+      "Millennium Interactive"
+    ],
+    "publishers": [
+      "Millennium",
+      "Millenium",
+      "Millenuim",
+      "Millennium Interactive"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MzUx",
+    "songs": [
+      {
+        "song": "01-TITLE.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/01-TITLE.MOD",
+        "size": 101356,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "02-INGAME.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/02-INGAME.MOD",
+        "size": 29828,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "03-SELECT.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/03-SELECT.MOD",
+        "size": 49508,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "04-SHOP.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/04-SHOP.MOD",
+        "size": 14338,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "05-BANK.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/05-BANK.MOD",
+        "size": 34896,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "06-BOOK.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/06-BOOK.MOD",
+        "size": 68094,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "07-GAMEO.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/07-GAMEO.MOD",
+        "size": 14766,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "08-END.MOD",
+        "song_link": "World of Game MODs/PC/Diggers/08-END.MOD",
+        "size": 67720,
+        "composer": "Richard Joseph"
       }
     ]
   },
@@ -2972,6 +3489,118 @@
     ]
   },
   {
+    "game": "Epic Pinball",
+    "platform": "PC",
+    "developers": [
+      "Epic Megagames",
+      "James Schmalz"
+    ],
+    "publishers": [
+      "Epic Megagames"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NDAx",
+    "songs": [
+      {
+        "song": "SONG0.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG0.S3M",
+        "size": 111104,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG00.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG00.S3M",
+        "size": 134928,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG1.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG1.S3M",
+        "size": 61856,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG10.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG10.S3M",
+        "size": 122880,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG11.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG11.S3M",
+        "size": 140560,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG12.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG12.S3M",
+        "size": 112384,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG13.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG13.S3M",
+        "size": 61648,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG1a.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG1a.S3M",
+        "size": 58976,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG2.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG2.S3M",
+        "size": 47424,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG3.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG3.S3M",
+        "size": 173920,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG4.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG4.S3M",
+        "size": 150960,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG5.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG5.S3M",
+        "size": 18352,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG6.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG6.S3M",
+        "size": 141424,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG7.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG7.S3M",
+        "size": 117024,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG8.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG8.S3M",
+        "size": 46912,
+        "composer": "Robert Allen"
+      },
+      {
+        "song": "SONG9.S3M",
+        "song_link": "World of Game MODs/PC/Epic Pinball/SONG9.S3M",
+        "size": 83920,
+        "composer": "Robert Allen"
+      }
+    ]
+  },
+  {
     "game": "Escape from Colditz",
     "platform": "Amiga",
     "developers": [
@@ -3004,6 +3633,31 @@
         "size": 34696,
         "composer": "Bjørn Lynne",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FEscape_from_Colditz.lha"
+      }
+    ]
+  },
+  {
+    "game": "FX Fighter",
+    "platform": "PC",
+    "developers": [
+      "Argonaut Software",
+      "GTE"
+    ],
+    "publishers": [
+      "Argonaut Software",
+      "Philips Media",
+      "Philips Interactive Media",
+      "GTE Entertainment"
+    ],
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=",
+    "songs": [
+      {
+        "song": "storm-1154.it",
+        "song_link": "World of Game MODs/PC/FX Fighter/storm-1154.it",
+        "size": 3016389,
+        "composer": "Justin Scharnova, Martin Gwynn Jones"
       }
     ]
   },
@@ -3764,24 +4418,21 @@
     "songs": [
       {
         "song": "jb.mod",
-        "song_link": "World of Game MODs/Holiday Lemmings 1994/jb.mod",
+        "song_link": "World of Game MODs/Amiga/Holiday Lemmings 1994/jb.mod",
         "size": 40364,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "kw.mod",
-        "song_link": "World of Game MODs/Holiday Lemmings 1994/kw.mod",
+        "song_link": "World of Game MODs/Amiga/Holiday Lemmings 1994/kw.mod",
         "size": 45448,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "rudi.mod",
-        "song_link": "World of Game MODs/Holiday Lemmings 1994/rudi.mod",
+        "song_link": "World of Game MODs/Amiga/Holiday Lemmings 1994/rudi.mod",
         "size": 31808,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOCI7aToxO2k6MTY0NDY4Nzg4OTtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       }
     ]
   },
@@ -3989,6 +4640,288 @@
         "size": 80792,
         "composer": "Martin Iveson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FJaguar_XJ220.lha"
+      }
+    ]
+  },
+  {
+    "game": "Jazz Jackrabbit",
+    "platform": "PC",
+    "developers": [
+      "Epic Megagames",
+      "Game Titan"
+    ],
+    "publishers": [
+      "Epic Megagames",
+      "Jaleco"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc2",
+    "songs": [
+      {
+        "song": "BONUS.S3M",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/BONUS.S3M",
+        "size": 94224,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Battleships.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Battleships.s3m",
+        "size": 137440,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Boss.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Boss.s3m",
+        "size": 89920,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Chrysilis.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Chrysilis.s3m",
+        "size": 112592,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Deckstar.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Deckstar.s3m",
+        "size": 96256,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Deserto.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Deserto.s3m",
+        "size": 97952,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Diamondus.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Diamondus.s3m",
+        "size": 78976,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Dreempipes.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Dreempipes.s3m",
+        "size": 124896,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "EndLevel.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/EndLevel.s3m",
+        "size": 58080,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Ending.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Ending.s3m",
+        "size": 113408,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Exoticus.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Exoticus.s3m",
+        "size": 37616,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Fanolint.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Fanolint.s3m",
+        "size": 117712,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Industrius.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Industrius.s3m",
+        "size": 116096,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Jungrock.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Jungrock.s3m",
+        "size": 52864,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Lagunicus.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Lagunicus.s3m",
+        "size": 61648,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Letni.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Letni.s3m",
+        "size": 72208,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Marbelara.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Marbelara.s3m",
+        "size": 53904,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Medivo.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Medivo.s3m",
+        "size": 116640,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Megairbase.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Megairbase.s3m",
+        "size": 60048,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Menu.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Menu.s3m",
+        "size": 74720,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Muckamok.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Muckamok.s3m",
+        "size": 82304,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Nippius.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Nippius.s3m",
+        "size": 93360,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Orbitus.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Orbitus.s3m",
+        "size": 30576,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Pezrock.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Pezrock.s3m",
+        "size": 102336,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "READ THIS.txt",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/READ THIS.txt",
+        "size": 231,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Raneforus.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Raneforus.s3m",
+        "size": 129312,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Scraparap.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Scraparap.s3m",
+        "size": 91584,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Sluggion.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Sluggion.s3m",
+        "size": 111520,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Stonar.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Stonar.s3m",
+        "size": 103600,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Technoir.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Technoir.s3m",
+        "size": 160720,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Tubelectric.S3M",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Tubelectric.S3M",
+        "size": 99344,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "Turtemple.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Turtemple.s3m",
+        "size": 48272,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "XMas 1.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/XMas 1.s3m",
+        "size": 137760,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "XMas 2.s3m",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/XMas 2.s3m",
+        "size": 83040,
+        "composer": "Robert Allen, Joshua Jensen"
+      }
+    ]
+  },
+  {
+    "game": "Jazz Jackrabbit 2: The Secret Files",
+    "platform": "PC",
+    "developers": [
+      "Project Two (later Project Three Interactive)"
+    ],
+    "publishers": [
+      "Epic Megagames",
+      "Project Two (later Project Three Interactive)"
+    ],
+    "year": "1999",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM4MDU=",
+    "songs": [
+      {
+        "song": "Boss1.it",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit 2 The Secret Files/Boss1.it",
+        "size": 358063,
+        "composer": "Alexander Brandon"
+      },
+      {
+        "song": "Haunted.it",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit 2 The Secret Files/Haunted.it",
+        "size": 729284,
+        "composer": "Alexander Brandon"
+      }
+    ]
+  },
+  {
+    "game": "Jazz Jackrabbit: Holiday Hare 1994",
+    "platform": "PC",
+    "developers": [
+      "Epic Megagames"
+    ],
+    "publishers": [
+      "Epic Megagames"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTc=",
+    "songs": [
+      {
+        "song": "XMAS2.IT",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS2.IT",
+        "size": 132771,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "XMAS2_enhanced.it",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS2_enhanced.it",
+        "size": 99204,
+        "composer": "Robert Allen, Joshua Jensen"
+      },
+      {
+        "song": "XMAS3.IT",
+        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS3.IT",
+        "size": 174957,
+        "composer": "Robert Allen, Joshua Jensen"
       }
     ]
   },
@@ -4293,157 +5226,135 @@
     "songs": [
       {
         "song": "awesome.mod",
-        "song_link": "World of Game MODs/Lemmings/awesome.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/awesome.mod",
         "size": 41886,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "beasti.mod",
-        "song_link": "World of Game MODs/Lemmings/beasti.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/beasti.mod",
         "size": 45722,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "beastii.mod",
-        "song_link": "World of Game MODs/Lemmings/beastii.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/beastii.mod",
         "size": 40286,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "cancan.mod",
-        "song_link": "World of Game MODs/Lemmings/cancan.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/cancan.mod",
         "size": 36076,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "doggie.mod",
-        "song_link": "World of Game MODs/Lemmings/doggie.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/doggie.mod",
         "size": 37544,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "intro.mod",
-        "song_link": "World of Game MODs/Lemmings/intro.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/intro.mod",
         "size": 112330,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "lemming1.mod",
-        "song_link": "World of Game MODs/Lemmings/lemming1.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/lemming1.mod",
         "size": 46930,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "lemming2.mod",
-        "song_link": "World of Game MODs/Lemmings/lemming2.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/lemming2.mod",
         "size": 50906,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "lemming3.mod",
-        "song_link": "World of Game MODs/Lemmings/lemming3.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/lemming3.mod",
         "size": 46886,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "menace.mod",
-        "song_link": "World of Game MODs/Lemmings/menace.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/menace.mod",
         "size": 49190,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "mountain.mod",
-        "song_link": "World of Game MODs/Lemmings/mountain.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/mountain.mod",
         "size": 39974,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tenlemmings.mod",
-        "song_link": "World of Game MODs/Lemmings/tenlemmings.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tenlemmings.mod",
         "size": 29198,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim1.mod",
-        "song_link": "World of Game MODs/Lemmings/tim1.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim1.mod",
         "size": 48298,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim10.mod",
-        "song_link": "World of Game MODs/Lemmings/tim10.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim10.mod",
         "size": 40924,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim2.mod",
-        "song_link": "World of Game MODs/Lemmings/tim2.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim2.mod",
         "size": 35754,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim3.mod",
-        "song_link": "World of Game MODs/Lemmings/tim3.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim3.mod",
         "size": 36226,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim4.mod",
-        "song_link": "World of Game MODs/Lemmings/tim4.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim4.mod",
         "size": 38286,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim5.mod",
-        "song_link": "World of Game MODs/Lemmings/tim5.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim5.mod",
         "size": 47718,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim6.mod",
-        "song_link": "World of Game MODs/Lemmings/tim6.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim6.mod",
         "size": 26928,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim7.mod",
-        "song_link": "World of Game MODs/Lemmings/tim7.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim7.mod",
         "size": 36550,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim8.mod",
-        "song_link": "World of Game MODs/Lemmings/tim8.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim8.mod",
         "size": 37186,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       },
       {
         "song": "tim9.mod",
-        "song_link": "World of Game MODs/Lemmings/tim9.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings/tim9.mod",
         "size": 39924,
-        "composer": "Tim Wright, Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDIzOSI7aToxO2k6MTY0NDY4Nzg4MjtpOjI7aTozO30="
+        "composer": "Tim Wright, Brian Johnston"
       }
     ]
   },
@@ -4845,122 +5756,105 @@
     "songs": [
       {
         "song": "01-Maintune.mod",
-        "song_link": "World of Game MODs/Lemmings 2/01-Maintune.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/01-Maintune.mod",
         "size": 163128,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "beach.mod",
-        "song_link": "World of Game MODs/Lemmings 2/beach.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/beach.mod",
         "size": 62416,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "cavelem.mod",
-        "song_link": "World of Game MODs/Lemmings 2/cavelem.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/cavelem.mod",
         "size": 35490,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "circus.mod",
-        "song_link": "World of Game MODs/Lemmings 2/circus.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/circus.mod",
         "size": 54614,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "classic.mod",
-        "song_link": "World of Game MODs/Lemmings 2/classic.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/classic.mod",
         "size": 61170,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "egyptian.mod",
-        "song_link": "World of Game MODs/Lemmings 2/egyptian.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/egyptian.mod",
         "size": 54958,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "endtune.mod",
-        "song_link": "World of Game MODs/Lemmings 2/endtune.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/endtune.mod",
         "size": 50870,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "highland.mod",
-        "song_link": "World of Game MODs/Lemmings 2/highland.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/highland.mod",
         "size": 55374,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "lem23.mod",
-        "song_link": "World of Game MODs/Lemmings 2/lem23.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem23.mod",
         "size": 50870,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "lem24.mod",
-        "song_link": "World of Game MODs/Lemmings 2/lem24.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod",
         "size": 150170,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "lem25.mod",
-        "song_link": "World of Game MODs/Lemmings 2/lem25.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod",
         "size": 133786,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "medieval.mod",
-        "song_link": "World of Game MODs/Lemmings 2/medieval.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/medieval.mod",
         "size": 57084,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "outdoor.mod",
-        "song_link": "World of Game MODs/Lemmings 2/outdoor.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/outdoor.mod",
         "size": 49708,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "polar.mod",
-        "song_link": "World of Game MODs/Lemmings 2/polar.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/polar.mod",
         "size": 57238,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "shadow.mod",
-        "song_link": "World of Game MODs/Lemmings 2/shadow.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/shadow.mod",
         "size": 78810,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "space.mod",
-        "song_link": "World of Game MODs/Lemmings 2/space.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/space.mod",
         "size": 71484,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
         "song": "sports.mod",
-        "song_link": "World of Game MODs/Lemmings 2/sports.mod",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/sports.mod",
         "size": 47342,
-        "composer": "David Whittaker, Brian Johnston, Raymond Usher",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czozOiI2MzEiO2k6MTtpOjE2NDQ2ODc4ODQ7aToyO2k6Mzt9"
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       }
     ]
   },
@@ -5166,6 +6060,292 @@
         "size": 39494,
         "composer": "Unknown",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAventures_de_Moktar.lha"
+      }
+    ]
+  },
+  {
+    "game": "Lion King, The",
+    "platform": "PC",
+    "developers": [
+      "Westwood Studios",
+      "Virgin Interactive",
+      "Virgin",
+      "Westwood",
+      "Disney Soft",
+      "Paradox",
+      "Virgin Interactive Entertainment"
+    ],
+    "publishers": [
+      "Activision",
+      "Virgin Interactive",
+      "Sega",
+      "Disney Software",
+      "Virgin",
+      "Nintendo",
+      "Virgin Games",
+      "Disney",
+      "The Walt Disney Company",
+      "Walt Disney Company",
+      "Virgin Interactive Entertainment",
+      "Buena Vista"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTQ=",
+    "songs": [
+      {
+        "song": "BUGHUNT.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/BUGHUNT.S3M",
+        "size": 38400,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "BUGTOSS.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/BUGTOSS.S3M",
+        "size": 18576,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "DEATH.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/DEATH.S3M",
+        "size": 25424,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION1.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION1.S3M",
+        "size": 51056,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION10.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION10.S3M",
+        "size": 60080,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION2.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION2.S3M",
+        "size": 73312,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION3.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION3.S3M",
+        "size": 64976,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION4.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION4.S3M",
+        "size": 67248,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION5.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION5.S3M",
+        "size": 71648,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION6.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION6.S3M",
+        "size": 65568,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION7.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION7.S3M",
+        "size": 48448,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION8.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION8.S3M",
+        "size": 57024,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "LION9.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/LION9.S3M",
+        "size": 42016,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "TITLE.S3M",
+        "song_link": "World of Game MODs/PC/Lion King, The/TITLE.S3M",
+        "size": 88832,
+        "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "Lion King, The",
+    "platform": "Amiga",
+    "developers": [
+      "Virgin Interactive"
+    ],
+    "publishers": [
+      "Disney"
+    ],
+    "year": 1994,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Lion_King",
+    "songs": [
+      {
+        "song": "p4x.level_1",
+        "song_link": "UnExoticA/Lion_King/p4x.level_1",
+        "size": 37454,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_3",
+        "song_link": "UnExoticA/Lion_King/p4x.level_3",
+        "size": 46014,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_4",
+        "song_link": "UnExoticA/Lion_King/p4x.level_4",
+        "size": 40728,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_5",
+        "song_link": "UnExoticA/Lion_King/p4x.level_5",
+        "size": 49912,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_7",
+        "song_link": "UnExoticA/Lion_King/p4x.level_7",
+        "size": 34050,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_8",
+        "song_link": "UnExoticA/Lion_King/p4x.level_8",
+        "size": 40450,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.level_A",
+        "song_link": "UnExoticA/Lion_King/p4x.level_A",
+        "size": 46532,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.lion",
+        "song_link": "UnExoticA/Lion_King/p4x.lion",
+        "size": 12456,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      },
+      {
+        "song": "p4x.title",
+        "song_link": "UnExoticA/Lion_King/p4x.title",
+        "size": 84760,
+        "composer": "Allister Brimble",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      }
+    ]
+  },
+  {
+    "game": "Lost Vikings, The",
+    "platform": "Amiga",
+    "developers": [
+      "Silicon and Synapse"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Lost_Vikings",
+    "songs": [
+      {
+        "song": "p4x.death",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.death",
+        "size": 7398,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ending",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ending",
+        "size": 35030,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.end_credits",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.end_credits",
+        "size": 32830,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame1",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame1",
+        "size": 34828,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame2",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame2",
+        "size": 34456,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame3",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame3",
+        "size": 35176,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame4",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame4",
+        "size": 32680,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.ingame5",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame5",
+        "size": 35150,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.intro",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.intro",
+        "size": 35136,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.title",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.title",
+        "size": 34550,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+      },
+      {
+        "song": "p4x.warp",
+        "song_link": "UnExoticA/Lost_Vikings/p4x.warp",
+        "size": 8782,
+        "composer": "Allister Brimble & Charles Deenen",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
       }
     ]
   },
@@ -5519,6 +6699,82 @@
         "size": 1548,
         "composer": "Shaun Southern",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSouthern_Shaun%2FLotus_2.lha"
+      }
+    ]
+  },
+  {
+    "game": "Micro Machines 2: Turbo Tournament",
+    "platform": "PC",
+    "developers": [
+      "Supersonic Software"
+    ],
+    "publishers": [
+      "Codemasters",
+      "Ocean"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTk=",
+    "songs": [
+      {
+        "song": "01-TITLE_mm2title.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/01-TITLE_mm2title.mod",
+        "size": 511616,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "02-PRESENT_getready.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/02-PRESENT_getready.mod",
+        "size": 189692,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "03-PRESENT_getreadylittle.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/03-PRESENT_getreadylittle.mod",
+        "size": 142714,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "04-PRESENT_ditty.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/04-PRESENT_ditty.mod",
+        "size": 286566,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "05-PRESENT_lostlife.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/05-PRESENT_lostlife.mod",
+        "size": 101682,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "06-PRESENT_gameover.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/06-PRESENT_gameover.mod",
+        "size": 209154,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "07-BONUS_bonuslevel.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/07-BONUS_bonuslevel.mod",
+        "size": 92090,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "08-GAME_playoff.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/08-GAME_playoff.mod",
+        "size": 51200,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "09-GAME_winner.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/09-GAME_winner.mod",
+        "size": 171064,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "10-WINGAME_wingame.mod",
+        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/10-WINGAME_wingame.mod",
+        "size": 307464,
+        "composer": "Tim Bartlett"
       }
     ]
   },
@@ -6076,45 +7332,39 @@
     "songs": [
       {
         "song": "tune1.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune1.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune1.mod",
         "size": 34132,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       },
       {
         "song": "tune2.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune2.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune2.mod",
         "size": 30224,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       },
       {
         "song": "tune3.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune3.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune3.mod",
         "size": 39636,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       },
       {
         "song": "tune4.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune4.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune4.mod",
         "size": 38752,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       },
       {
         "song": "tune5.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune5.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune5.mod",
         "size": 38826,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       },
       {
         "song": "tune6.mod",
-        "song_link": "World of Game MODs/Oh No! More Lemmings/tune6.mod",
+        "song_link": "World of Game MODs/Amiga/Oh No! More Lemmings/tune6.mod",
         "size": 34316,
-        "composer": "Brian Johnston",
-        "source_archive": "http://www.mirsoft.info/wogm_download.php?data=YTozOntpOjA7czo1OiIxNDQwNiI7aToxO2k6MTY0NDY4Nzg4NztpOjI7aTozO30="
+        "composer": "Brian Johnston"
       }
     ]
   },
@@ -6172,6 +7422,75 @@
         "size": 3663,
         "composer": "Brian Johnston",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJohnston_Brian%2FOh_No_More_Lemmings.lha"
+      }
+    ]
+  },
+  {
+    "game": "One Must Fall 2097",
+    "platform": "PC",
+    "developers": [
+      "Diversions Entertainment"
+    ],
+    "publishers": [
+      "Epic Megagames"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NzYz",
+    "songs": [
+      {
+        "song": "01-PRELUDE.MOD",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/01-PRELUDE.MOD",
+        "size": 22248,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "02-INTRO.MOD",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/02-INTRO.MOD",
+        "size": 33801,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "03-MENU.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/03-MENU.S3M",
+        "size": 113936,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "04-ARENA0.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/04-ARENA0.S3M",
+        "size": 91328,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "05-ARENA1.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/05-ARENA1.S3M",
+        "size": 98912,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "06-ARENA2.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/06-ARENA2.S3M",
+        "size": 73040,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "07-ARENA3.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/07-ARENA3.S3M",
+        "size": 78352,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "08-ARENA4.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/08-ARENA4.S3M",
+        "size": 100320,
+        "composer": "Kenny Chou"
+      },
+      {
+        "song": "09-END.S3M",
+        "song_link": "World of Game MODs/PC/One Must Fall 2097/09-END.S3M",
+        "size": 125504,
+        "composer": "Kenny Chou"
       }
     ]
   },
@@ -6461,6 +7780,105 @@
         "size": 191490,
         "composer": "Olof Gustafsson",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FGustafsson_Olof%2FPinball_Dreams.lha"
+      }
+    ]
+  },
+  {
+    "game": "Pinball Dreams 2",
+    "platform": "PC",
+    "developers": [
+      "Digital Illusions",
+      "Spidersoft"
+    ],
+    "publishers": [
+      "21st Century",
+      "21st Century Entertainment"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAy",
+    "songs": [
+      {
+        "song": "INTRO.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/INTRO.MOD",
+        "size": 220260,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1 - Neptune Table - original.mod",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod",
+        "size": 195984,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL2.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL2.MOD",
+        "size": 217848,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL3.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL3.MOD",
+        "size": 205094,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "SELECT.MOD",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/SELECT.MOD",
+        "size": 85028,
+        "composer": "Anthony Putson"
+      }
+    ]
+  },
+  {
+    "game": "Pinball Dreams Deluxe",
+    "platform": "PC",
+    "developers": [
+      "Spidersoft"
+    ],
+    "publishers": [
+      "21st Century",
+      "21st Century Entertainment"
+    ],
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAz",
+    "songs": [
+      {
+        "song": "Intro.mod",
+        "song_link": "World of Game MODs/PC/Pinball Dreams Deluxe/Intro.mod",
+        "size": 242236,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "Introduction v1.02.mod",
+        "song_link": "World of Game MODs/PC/Pinball Dreams Deluxe/Introduction v1.02.mod",
+        "size": 242236,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "Pinball Stage1.mod",
+        "song_link": "World of Game MODs/PC/Pinball Dreams Deluxe/Pinball Stage1.mod",
+        "size": 213352,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "Pinball Stage3.mod",
+        "song_link": "World of Game MODs/PC/Pinball Dreams Deluxe/Pinball Stage3.mod",
+        "size": 172248,
+        "composer": "Anthony Putson"
       }
     ]
   },
@@ -7278,6 +8696,222 @@
         "size": 135166,
         "composer": "Andrew Barnabas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FSWIV.lha"
+      }
+    ]
+  },
+  {
+    "game": "Screamer, The",
+    "platform": "PC",
+    "developers": [
+      "Milestone",
+      "Grafitti",
+      "Graffiti"
+    ],
+    "publishers": [
+      "Virgin",
+      "Virgin Games",
+      "Virgin Interactive Entertainment"
+    ],
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx",
+    "songs": [
+      {
+        "song": "screamer.mod",
+        "song_link": "World of Game MODs/PC/Screamer, The/screamer.mod",
+        "size": 151804,
+        "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "Secret of Monkey Island, The",
+    "platform": "Amiga",
+    "developers": [
+      "Lucasfilm Games"
+    ],
+    "publishers": [
+      "Lucasfilm Games"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island",
+    "songs": [
+      {
+        "song": "mdat.Monkey_Island #1",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#1",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #2",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#2",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #3",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#3",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #4",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#4",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #5",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#5",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #6",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#6",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #7",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#7",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #8",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#8",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #9",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#9",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #10",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#10",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #11",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#11",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #12",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#12",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #13",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#13",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #14",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#14",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #15",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#15",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #16",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#16",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #17",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#17",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #18",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#18",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #19",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#19",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #20",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#20",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      },
+      {
+        "song": "mdat.Monkey_Island #30",
+        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#30",
+        "size": 226084,
+        "composer": "Chris Hülsbeck / Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
+      }
+    ]
+  },
+  {
+    "game": "Settlers, The",
+    "platform": "Amiga",
+    "developers": [
+      "Blue Byte"
+    ],
+    "publishers": [
+      "Blue Byte"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Settlers",
+    "songs": [
+      {
+        "song": "mod.siedler ii",
+        "song_link": "UnExoticA/Settlers/mod.siedler ii",
+        "size": 314126,
+        "composer": "Markus Kludzuweit",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FKludzuweit_Markus%2FSettlers.lha"
+      },
+      {
+        "song": "mod.nintro5",
+        "song_link": "UnExoticA/Settlers/mod.nintro5",
+        "size": 95686,
+        "composer": "Haiko Ruttmann",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRuttmann_Haiko%2FSettlers.lha"
       }
     ]
   },
@@ -8595,441 +10229,210 @@
     ]
   },
   {
-    "game": "The Chaos Engine",
-    "platform": "Amiga",
+    "game": "Teenagent",
+    "platform": "PC",
     "developers": [
-      "The Bitmap Brothers"
+      "Metropolis"
     ],
     "publishers": [
-      "Renegade"
+      "Metropolis",
+      "Union Logic",
+      "Union Logic Software Publishing"
     ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Chaos_Engine",
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM2OTI=",
     "songs": [
       {
-        "song": "mod.k8",
-        "song_link": "UnExoticA/Chaos_Engine/mod.k8",
-        "size": 307558,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "01-intro-a.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/01-intro-a.mod",
+        "size": 36786,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.game_end",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip",
-        "size": 183729,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "02-intro-b.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/02-intro-b.mod",
+        "size": 35788,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.ingame_1",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip",
-        "size": 226706,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "03-intro-c2.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/03-intro-c2.mod",
+        "size": 32356,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.ingame_2",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip",
-        "size": 217892,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "army-blues.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/army-blues.mod",
+        "size": 28600,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.ingame_3",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip",
-        "size": 229577,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "castle.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/castle.mod",
+        "size": 31682,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.ingame_4",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip",
-        "size": 224439,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "cave.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/cave.mod",
+        "size": 29294,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "rjp.menu",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip",
-        "size": 102502,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "island-reagge.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/island-reagge.mod",
+        "size": 37324,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "Unused/rjp.Chaos_Engine_Demo",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip",
-        "size": 203999,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "lovers.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/lovers.mod",
+        "size": 32766,
+        "composer": "Radek Szamrej"
       },
       {
-        "song": "Unused/rjp.SHOP_S",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip",
-        "size": 93026,
-        "composer": "Richard Joseph",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+        "song": "march.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/march.mod",
+        "size": 30890,
+        "composer": "Radek Szamrej"
+      },
+      {
+        "song": "multifruit juice.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/multifruit juice.mod",
+        "size": 43676,
+        "composer": "Radek Szamrej"
+      },
+      {
+        "song": "prison.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/prison.mod",
+        "size": 31308,
+        "composer": "Radek Szamrej"
+      },
+      {
+        "song": "village3.mod",
+        "song_link": "World of Game MODs/PC/Teenagent/village3.mod",
+        "size": 35496,
+        "composer": "Radek Szamrej"
       }
     ]
   },
   {
-    "game": "The Lion King",
-    "platform": "Amiga",
+    "game": "Terminal Velocity",
+    "platform": "PC",
     "developers": [
-      "Virgin Interactive"
+      "Terminal Reality",
+      "Apogee"
     ],
     "publishers": [
-      "Disney"
+      "Apogee",
+      "3D Realms"
     ],
-    "year": 1994,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Lion_King",
+    "year": "1994",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA2Ng==",
     "songs": [
       {
-        "song": "p4x.level_1",
-        "song_link": "UnExoticA/Lion_King/p4x.level_1",
-        "size": 37454,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Alien.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Alien.mod",
+        "size": 371052,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_3",
-        "song_link": "UnExoticA/Lion_King/p4x.level_3",
-        "size": 46014,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Back.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Back.mod",
+        "size": 214546,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_4",
-        "song_link": "UnExoticA/Lion_King/p4x.level_4",
-        "size": 40728,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Boss.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Boss.mod",
+        "size": 41446,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_5",
-        "song_link": "UnExoticA/Lion_King/p4x.level_5",
-        "size": 49912,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Broke.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Broke.mod",
+        "size": 405172,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_7",
-        "song_link": "UnExoticA/Lion_King/p4x.level_7",
-        "size": 34050,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Corner.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Corner.mod",
+        "size": 228834,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_8",
-        "song_link": "UnExoticA/Lion_King/p4x.level_8",
-        "size": 40450,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Creep.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Creep.mod",
+        "size": 53066,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.level_A",
-        "song_link": "UnExoticA/Lion_King/p4x.level_A",
-        "size": 46532,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Desert.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Desert.mod",
+        "size": 303190,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.lion",
-        "song_link": "UnExoticA/Lion_King/p4x.lion",
-        "size": 12456,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+        "song": "Fear.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Fear.mod",
+        "size": 210554,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.title",
-        "song_link": "UnExoticA/Lion_King/p4x.title",
-        "size": 84760,
-        "composer": "Allister Brimble",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
-      }
-    ]
-  },
-  {
-    "game": "The Lost Vikings",
-    "platform": "Amiga",
-    "developers": [
-      "Silicon and Synapse"
-    ],
-    "publishers": [
-      "Interplay"
-    ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Lost_Vikings",
-    "songs": [
-      {
-        "song": "p4x.death",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.death",
-        "size": 7398,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Hell.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Hell.mod",
+        "size": 200714,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ending",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ending",
-        "size": 35030,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Hit.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Hit.mod",
+        "size": 54138,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.end_credits",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.end_credits",
-        "size": 32830,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Jest.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Jest.mod",
+        "size": 371456,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ingame1",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame1",
-        "size": 34828,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Mark.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Mark.mod",
+        "size": 189942,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ingame2",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame2",
-        "size": 34456,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Raise.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Raise.mod",
+        "size": 236410,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ingame3",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame3",
-        "size": 35176,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Repo.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Repo.mod",
+        "size": 275526,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ingame4",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame4",
-        "size": 32680,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Sex.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Sex.mod",
+        "size": 134476,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.ingame5",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.ingame5",
-        "size": 35150,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
+        "song": "Tame.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Tame.mod",
+        "size": 176336,
+        "composer": "Kyle Richards"
       },
       {
-        "song": "p4x.intro",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.intro",
-        "size": 35136,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
-      },
-      {
-        "song": "p4x.title",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.title",
-        "size": 34550,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
-      },
-      {
-        "song": "p4x.warp",
-        "song_link": "UnExoticA/Lost_Vikings/p4x.warp",
-        "size": 8782,
-        "composer": "Allister Brimble & Charles Deenen",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLost_Vikings.lha"
-      }
-    ]
-  },
-  {
-    "game": "The Secret of Monkey Island",
-    "platform": "Amiga",
-    "developers": [
-      "Lucasfilm Games"
-    ],
-    "publishers": [
-      "Lucasfilm Games"
-    ],
-    "year": 1990,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island",
-    "songs": [
-      {
-        "song": "mdat.Monkey_Island #1",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#1",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #2",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#2",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #3",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#3",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #4",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#4",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #5",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#5",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #6",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#6",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #7",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#7",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #8",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#8",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #9",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#9",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #10",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#10",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #11",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#11",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #12",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#12",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #13",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#13",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #14",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#14",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #15",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#15",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #16",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#16",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #17",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#17",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #18",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#18",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #19",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#19",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #20",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#20",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      },
-      {
-        "song": "mdat.Monkey_Island #30",
-        "song_link": "UnExoticA/Monkey_Island/mdat.Monkey_Island.zip#30",
-        "size": 226084,
-        "composer": "Chris Hülsbeck / Rudolf Stember",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMonkey_Island.lha"
-      }
-    ]
-  },
-  {
-    "game": "The Settlers",
-    "platform": "Amiga",
-    "developers": [
-      "Blue Byte"
-    ],
-    "publishers": [
-      "Blue Byte"
-    ],
-    "year": 1993,
-    "source": "UnExoticA",
-    "source_link": "https://www.exotica.org.uk/wiki/The_Settlers",
-    "songs": [
-      {
-        "song": "mod.siedler ii",
-        "song_link": "UnExoticA/Settlers/mod.siedler ii",
-        "size": 314126,
-        "composer": "Markus Kludzuweit",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FKludzuweit_Markus%2FSettlers.lha"
-      },
-      {
-        "song": "mod.nintro5",
-        "song_link": "UnExoticA/Settlers/mod.nintro5",
-        "size": 95686,
-        "composer": "Haiko Ruttmann",
-        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRuttmann_Haiko%2FSettlers.lha"
+        "song": "Weave.mod",
+        "song_link": "World of Game MODs/PC/Terminal Velocity/Weave.mod",
+        "size": 149496,
+        "composer": "Kyle Richards"
       }
     ]
   },
@@ -10149,6 +11552,63 @@
         "size": 40380,
         "composer": "Rudolf Stember",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FUgh.lha"
+      }
+    ]
+  },
+  {
+    "game": "Ultima 6",
+    "platform": "PC",
+    "developers": [
+      "Origin"
+    ],
+    "publishers": [
+      "Origin"
+    ],
+    "year": "1992",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==",
+    "songs": [
+      {
+        "song": "UltimaVI-1.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-1.med",
+        "size": 20756,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-2.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-2.med",
+        "size": 12342,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-3.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-3.med",
+        "size": 14128,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-4.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-4.med",
+        "size": 46390,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-5.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-5.med",
+        "size": 7938,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-6.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-6.med",
+        "size": 38866,
+        "composer": "Kenneth W. Arnold"
+      },
+      {
+        "song": "UltimaVI-7.med",
+        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-7.med",
+        "size": 19624,
+        "composer": "Kenneth W. Arnold"
       }
     ]
   },
