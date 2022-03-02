@@ -6,7 +6,15 @@ const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 const { URL } = require('url');
 const AdmZip = require('adm-zip');
+const amiga = require('./lib/amiga');
 const { sequential, takeUntil } = require('./lib/utils');
+
+if (require.main === module) {
+	const song = process.argv[2];
+	console.log(splitSong({ song }, new Uint8Array(fs.readFileSync(song))));
+}
+
+const FILES_IGNORE = /\.txt$/i;
 
 async function fetchGame(url, source, options) {
 	const html = await (await fetch(url)).text();
@@ -46,7 +54,7 @@ async function fetchGame(url, source, options) {
 	try {
 		fs.mkdirSync(gameDir, { recursive: true });
 	} catch {}
-	let files = fs.readdirSync(gameDir).sort();
+	let files = fs.readdirSync(gameDir).filter(file => !file.match(FILES_IGNORE)).sort();
 	if (files.length < tunesCount) {
 		const downloadInfo = xpath.select1("./following::h2[normalize-space(text()) = 'Music download']/following-sibling::p", page);
 		const downloadLink = xpath.select1("string(./a/@href)", downloadInfo);
@@ -63,7 +71,7 @@ async function fetchGame(url, source, options) {
 		console.info(`downloading ${downloadUrl2} ...`);
 
 		const archive = await (await fetch(downloadUrl2)).arrayBuffer();
-		const entries = new AdmZip(Buffer.from(archive)).getEntries().filter(entry => entry.name !== 'info.txt');
+		const entries = new AdmZip(Buffer.from(archive)).getEntries().filter(entry => !entry.name.match(FILES_IGNORE));
 		entries.forEach(entry => {
 			fs.writeFileSync(`${gameDir}/${entry.name}`, entry.getData());
 		});
@@ -74,9 +82,20 @@ async function fetchGame(url, source, options) {
 		song_link: `${source}/${gameDir}/${file}`,
 		size: fs.statSync(`${gameDir}/${file}`).size,
 		composer: composers.join(', '),
-	}));
+	})).map(song => splitSong(song, Uint8Array.from(fs.readFileSync(`../${song.song_link}`)))).flat();
 
 	return { game, platform, developers, publishers, year, source, source_link: url, songs };
+}
+
+function splitSong(song, file) {
+	let subsongs = [];
+	if (/\.s3m$/i.test(song.song))
+		subsongs = amiga.splitSongST3(song, file);
+	return subsongs.length <= 1 ? [song] : subsongs.map(i => ({
+		...song,
+		song: `${song.song} #${i+1}`,
+		song_link: `${song.song_link}#${i+1}`,
+	}));
 }
 
 async function fetchWogMods(source) {
