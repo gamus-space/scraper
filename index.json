@@ -1175,8 +1175,14 @@
     "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5NTg=",
     "songs": [
       {
-        "song": "Arnie 2.mod",
-        "song_link": "World of Game MODs/PC/Arnie 2/Arnie 2.mod",
+        "song": "Arnie 2.mod #1",
+        "song_link": "World of Game MODs/PC/Arnie 2/Arnie 2.mod#1",
+        "size": 81918,
+        "composer": "Andy Rodger"
+      },
+      {
+        "song": "Arnie 2.mod #23",
+        "song_link": "World of Game MODs/PC/Arnie 2/Arnie 2.mod#23",
         "size": 81918,
         "composer": "Andy Rodger"
       }
@@ -2600,8 +2606,14 @@
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M07.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD",
+        "song": "M07.MOD #1",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD#1",
+        "size": 147423,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M07.MOD #18",
+        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD#18",
         "size": 147423,
         "composer": "Dan Grandpre, Andrew Sega"
       },
@@ -5803,14 +5815,158 @@
         "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
-        "song": "lem24.mod",
-        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod",
+        "song": "lem24.mod #1",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#1",
         "size": 150170,
         "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
       {
-        "song": "lem25.mod",
-        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod",
+        "song": "lem24.mod #5",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#5",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #10",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#10",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #14",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#14",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #18",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#18",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #21",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#21",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #25",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#25",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #29",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#29",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #34",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#34",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #38",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#38",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #46",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#46",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #49",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#49",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #53",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#53",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #56",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#56",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #62",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#62",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem24.mod #71",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem24.mod#71",
+        "size": 150170,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #1",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#1",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #10",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#10",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #17",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#17",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #21",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#21",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #27",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#27",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #32",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#32",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #36",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#36",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #40",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#40",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #44",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#44",
+        "size": 133786,
+        "composer": "David Whittaker, Brian Johnston, Raymond Usher"
+      },
+      {
+        "song": "lem25.mod #48",
+        "song_link": "World of Game MODs/Amiga/Lemmings 2/lem25.mod#48",
         "size": 133786,
         "composer": "David Whittaker, Brian Johnston, Raymond Usher"
       },
@@ -7799,32 +7955,128 @@
         "composer": "Anthony Putson"
       },
       {
-        "song": "LEVEL1 - Neptune Table - original.mod",
-        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod",
+        "song": "LEVEL1 - Neptune Table - original.mod #4",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod#4",
         "size": 195984,
         "composer": "Anthony Putson"
       },
       {
-        "song": "LEVEL1.MOD",
-        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD",
+        "song": "LEVEL1 - Neptune Table - original.mod #15",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod#15",
+        "size": 195984,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1 - Neptune Table - original.mod #23",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod#23",
+        "size": 195984,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1 - Neptune Table - original.mod #33",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1 - Neptune Table - original.mod#33",
+        "size": 195984,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD #1",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#1",
         "size": 197008,
         "composer": "Anthony Putson"
       },
       {
-        "song": "LEVEL2.MOD",
-        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL2.MOD",
+        "song": "LEVEL1.MOD #4",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#4",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD #10",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#10",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD #15",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#15",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD #23",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#23",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL1.MOD #33",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL1.MOD#33",
+        "size": 197008,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL2.MOD #1",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL2.MOD#1",
         "size": 217848,
         "composer": "Anthony Putson"
       },
       {
-        "song": "LEVEL3.MOD",
-        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL3.MOD",
+        "song": "LEVEL2.MOD #13",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL2.MOD#13",
+        "size": 217848,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL2.MOD #25",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL2.MOD#25",
+        "size": 217848,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL3.MOD #1",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL3.MOD#1",
         "size": 205094,
         "composer": "Anthony Putson"
       },
       {
-        "song": "LEVEL4.MOD",
-        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD",
+        "song": "LEVEL3.MOD #6",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL3.MOD#6",
+        "size": 205094,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #1",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#1",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #11",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#11",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #19",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#19",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #36",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#36",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #40",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#40",
+        "size": 194338,
+        "composer": "Anthony Putson"
+      },
+      {
+        "song": "LEVEL4.MOD #52",
+        "song_link": "World of Game MODs/PC/Pinball Dreams 2/LEVEL4.MOD#52",
         "size": 194338,
         "composer": "Anthony Putson"
       },
