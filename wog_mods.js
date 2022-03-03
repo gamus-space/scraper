@@ -89,6 +89,8 @@ async function fetchGame(url, source, options) {
 
 function splitSong(song, file) {
 	let subsongs = [];
+	if (/\.mod$/i.test(song.song))
+		subsongs = amiga.splitSongMOD(song, file, { minTrackLength: 2 });
 	if (/\.s3m$/i.test(song.song))
 		subsongs = amiga.splitSongST3(song, file);
 	return subsongs.length <= 1 ? [song] : subsongs.map(i => ({
