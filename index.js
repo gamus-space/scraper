@@ -2,11 +2,13 @@
 
 const fs = require('fs');
 const process = require('process');
+const getResources = require('./resources').getResources;
 const fetchUnexotica = require('./unexotica').fetchUnexotica;
 const fetchWogMods = require('./wog_mods').fetchWogMods;
 
 const DATA = 'data';
 const sources = {
+	'resources': getResources,
 	'World of Game MODs': fetchWogMods,
 	'UnExoticA': fetchUnexotica,
 };
@@ -22,6 +24,7 @@ const sources = {
 			fs.mkdirSync(`${DATA}/${source}`);
 		} catch {}
 		process.chdir(`${DATA}/${source}`);
+		console.log(`\n   === ${source}\n`);
 		result.unshift(await sources[source](source));
 		process.chdir('../..');
 	}

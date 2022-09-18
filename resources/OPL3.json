@@ -1,0 +1,336 @@
+[
+  {
+    "game": "Spear of Destiny",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "FormGen"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "xfunkie.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/243 xfunkie.imf",
+        "size": 21730,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "dungeon.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/244 dungeon.imf",
+        "size": 15190,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xdeath.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/245 xdeath.imf",
+        "size": 14638,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "getthem.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/246 getthem.imf",
+        "size": 18734,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtiptoe.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/247 xtiptoe.imf",
+        "size": 21442,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "goingaft.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/248 goingaft.imf",
+        "size": 8830,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "urahero.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/249 urahero.imf",
+        "size": 7114,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtheend.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/250 xtheend.imf",
+        "size": 6898,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "nazi_omi.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/251 nazi_omi.imf",
+        "size": 15130,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "pow.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/252 pow.imf",
+        "size": 7166,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "twelfth.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/253 twelfth.imf",
+        "size": 14350,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "searchn.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/254 searchn.imf",
+        "size": 12978,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "suspense.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/255 suspense.imf",
+        "size": 10310,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "zerohour.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/256 zerohour.imf",
+        "size": 13858,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "wonderin.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/257 wonderin.imf",
+        "size": 8426,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "ultimate.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/258 ultimate.imf",
+        "size": 22578,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "endlevel.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/259 endlevel.imf",
+        "size": 7018,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xevil.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/260 xevil.imf",
+        "size": 18986,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xjaznazi.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/261 xjaznazi.imf",
+        "size": 13286,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "copypro.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/262 copypro.imf",
+        "size": 6546,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xaward.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/263 xaward.imf",
+        "size": 9310,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xputit.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/264 xputit.imf",
+        "size": 15994,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xgetyou.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/265 xgetyou.imf",
+        "size": 14206,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtower2.imf",
+        "song_link": "resources/OPL3/Spear of Destiny/266 xtower2.imf",
+        "size": 6302,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Wolfenstein 3D",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "corner.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/261 corner.imf",
+        "size": 7546,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "dungeon.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/262 dungeon.imf",
+        "size": 15190,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "warmarch.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/263 warmarch.imf",
+        "size": 15034,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "getthem.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/264 getthem.imf",
+        "size": 18734,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "headache.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/265 headache.imf",
+        "size": 6294,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "hitlwltz.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/266 hitlwltz.imf",
+        "size": 6546,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "introcw3.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/267 introcw3.imf",
+        "size": 12750,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "nazi_nor.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/268 nazi_nor.imf",
+        "size": 8518,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "nazi_omi.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/269 nazi_omi.imf",
+        "size": 15130,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "pow.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/270 pow.imf",
+        "size": 7166,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "salute.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/271 salute.imf",
+        "size": 1318,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "searchn.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/272 searchn.imf",
+        "size": 12978,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "suspense.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/273 suspense.imf",
+        "size": 10310,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "victors.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/274 victors.imf",
+        "size": 7518,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "wonderin.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/275 wonderin.imf",
+        "size": 8426,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "funkyou.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/276 funkyou.imf",
+        "size": 7970,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "endlevel.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/277 endlevel.imf",
+        "size": 7018,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "goingaft.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/278 goingaft.imf",
+        "size": 8830,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "pregnant.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/279 pregnant.imf",
+        "size": 7918,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "ultimate.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/280 ultimate.imf",
+        "size": 22578,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "nazi_rap.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/281 nazi_rap.imf",
+        "size": 11506,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "zerohour.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/282 zerohour.imf",
+        "size": 13858,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "twelfth.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/283 twelfth.imf",
+        "size": 14350,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "roster.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/284 roster.imf",
+        "size": 8562,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "urahero.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/285 urahero.imf",
+        "size": 7114,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "vicmarch.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/286 vicmarch.imf",
+        "size": 13162,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "pacman.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/287 pacman.imf",
+        "size": 20926,
+        "composer": "Robert Prince"
+      }
+    ]
+  }
+]
