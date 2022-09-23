@@ -1,5 +1,788 @@
 [
   {
+    "game": "Bio Menace",
+    "platform": "PC",
+    "developers": [
+      "Apogee Software"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "antspan.imf",
+        "song_link": "resources/OPL3/Bio Menace/antspan.imf#560",
+        "size": 12874,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "apogfanf.imf",
+        "song_link": "resources/OPL3/Bio Menace/apogfanf.imf#560",
+        "size": 3846,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "bayou.imf",
+        "song_link": "resources/OPL3/Bio Menace/bayou.imf#560",
+        "size": 8078,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "biothem1.imf",
+        "song_link": "resources/OPL3/Bio Menace/biothem1.imf#560",
+        "size": 10478,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "biotheme.imf",
+        "song_link": "resources/OPL3/Bio Menace/biotheme.imf#560",
+        "size": 10574,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "bitbyte.imf",
+        "song_link": "resources/OPL3/Bio Menace/bitbyte.imf#560",
+        "size": 14318,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "cantget.imf",
+        "song_link": "resources/OPL3/Bio Menace/cantget.imf#560",
+        "size": 12810,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "chasing.imf",
+        "song_link": "resources/OPL3/Bio Menace/chasing.imf#560",
+        "size": 12606,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "cruising.imf",
+        "song_link": "resources/OPL3/Bio Menace/cruising.imf#560",
+        "size": 14574,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "dirtyh2o.imf",
+        "song_link": "resources/OPL3/Bio Menace/dirtyh2o.imf#560",
+        "size": 13194,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "drshock.imf",
+        "song_link": "resources/OPL3/Bio Menace/drshock.imf#560",
+        "size": 10886,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "guess.imf",
+        "song_link": "resources/OPL3/Bio Menace/guess.imf#560",
+        "size": 12238,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "likitwas.imf",
+        "song_link": "resources/OPL3/Bio Menace/likitwas.imf#560",
+        "size": 7438,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "mutcmput.imf",
+        "song_link": "resources/OPL3/Bio Menace/mutcmput.imf#560",
+        "size": 15126,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "nonvince.imf",
+        "song_link": "resources/OPL3/Bio Menace/nonvince.imf#560",
+        "size": 2178,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "prisoner.imf",
+        "song_link": "resources/OPL3/Bio Menace/prisoner.imf#560",
+        "size": 14670,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "resting.imf",
+        "song_link": "resources/OPL3/Bio Menace/resting.imf#560",
+        "size": 4262,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "roboty.imf",
+        "song_link": "resources/OPL3/Bio Menace/roboty.imf#560",
+        "size": 14750,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "rockinit.imf",
+        "song_link": "resources/OPL3/Bio Menace/rockinit.imf#560",
+        "size": 21142,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "saved.imf",
+        "song_link": "resources/OPL3/Bio Menace/saved.imf#560",
+        "size": 7066,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "snaksave.imf",
+        "song_link": "resources/OPL3/Bio Menace/snaksave.imf#560",
+        "size": 12222,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "squeaky.imf",
+        "song_link": "resources/OPL3/Bio Menace/squeaky.imf#560",
+        "size": 14614,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "weasel.imf",
+        "song_link": "resources/OPL3/Bio Menace/weasel.imf#560",
+        "size": 13594,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "whodol.imf",
+        "song_link": "resources/OPL3/Bio Menace/whodol.imf#560",
+        "size": 26478,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xcircles.imf",
+        "song_link": "resources/OPL3/Bio Menace/xcircles.imf#560",
+        "size": 12882,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xcity.imf",
+        "song_link": "resources/OPL3/Bio Menace/xcity.imf#560",
+        "size": 14694,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xsewer.imf",
+        "song_link": "resources/OPL3/Bio Menace/xsewer.imf#560",
+        "size": 14486,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xsludge.imf",
+        "song_link": "resources/OPL3/Bio Menace/xsludge.imf#560",
+        "size": 12990,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xsneaky.imf",
+        "song_link": "resources/OPL3/Bio Menace/xsneaky.imf#560",
+        "size": 14198,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtheevil.imf",
+        "song_link": "resources/OPL3/Bio Menace/xtheevil.imf#560",
+        "size": 14650,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xuncrtn.imf",
+        "song_link": "resources/OPL3/Bio Menace/xuncrtn.imf#560",
+        "size": 14430,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Blake Stone: Aliens of Gold",
+    "platform": "PC",
+    "developers": [
+      "JAM Productions"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "2100a.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/2100a.imf#700",
+        "size": 10370,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "apogfnfm.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/apogfnfm.imf#700",
+        "size": 3930,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "drkhalla.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/drkhalla.imf#700",
+        "size": 13590,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "freedoma.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/freedoma.imf#700",
+        "size": 13798,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "genefunk.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/genefunk.imf#700",
+        "size": 14806,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "golda.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/golda.imf#700",
+        "size": 14814,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "hidinga.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/hidinga.imf#700",
+        "size": 15010,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "incnratn.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/incnratn.imf#700",
+        "size": 12954,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "intrigea.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/intrigea.imf#700",
+        "size": 14690,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "junglea.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/junglea.imf#700",
+        "size": 14834,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "levela.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/levela.imf#700",
+        "size": 10242,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "meetinga.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/meetinga.imf#700",
+        "size": 10774,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "racshufl.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/racshufl.imf#700",
+        "size": 12734,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "rhumbaas.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/rhumbaas.imf#700",
+        "size": 14474,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "searchna.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/searchna.imf#700",
+        "size": 13770,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "struta.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/struta.imf#700",
+        "size": 13806,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "theme.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/theme.imf#700",
+        "size": 14946,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "thewaya.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/thewaya.imf#700",
+        "size": 15026,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "timea.imf",
+        "song_link": "resources/OPL3/Blake Stone - Aliens of Gold/timea.imf#700",
+        "size": 9806,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Catacomb 3-D",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Softdisk"
+    ],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "toohot.imf",
+        "song_link": "resources/OPL3/Catacomb 3-D/toohot.imf#560",
+        "size": 2742,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Commander Keen 4",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "156.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/156.imf#560",
+        "size": 3734,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "157.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/157.imf#560",
+        "size": 9906,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "158.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/158.imf#560",
+        "size": 2742,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "159.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/159.imf#560",
+        "size": 14422,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "160.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/160.imf#560",
+        "size": 7202,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "161.imf",
+        "song_link": "resources/OPL3/Commander Keen 4/161.imf#560",
+        "size": 2282,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Commander Keen 5",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "192.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/192.imf#560",
+        "size": 4422,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "193.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/193.imf#560",
+        "size": 6402,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "194.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/194.imf#560",
+        "size": 5866,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "195.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/195.imf#560",
+        "size": 17110,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "196.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/196.imf#560",
+        "size": 6442,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "197.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/197.imf#560",
+        "size": 13258,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "198.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/198.imf#560",
+        "size": 15702,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "199.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/199.imf#560",
+        "size": 16462,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "200.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/200.imf#560",
+        "size": 5654,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "201.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/201.imf#560",
+        "size": 11922,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "202.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/202.imf#560",
+        "size": 12322,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "203.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/203.imf#560",
+        "size": 11278,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "204.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/204.imf#560",
+        "size": 9282,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "205.imf",
+        "song_link": "resources/OPL3/Commander Keen 5/205.imf#560",
+        "size": 8610,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Commander Keen 6",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "FormGen"
+    ],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "180.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/180.imf#560",
+        "size": 2282,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "181.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/181.imf#560",
+        "size": 13158,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "182.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/182.imf#560",
+        "size": 6326,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "183.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/183.imf#560",
+        "size": 12418,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "184.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/184.imf#560",
+        "size": 5130,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "185.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/185.imf#560",
+        "size": 13074,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "186.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/186.imf#560",
+        "size": 5958,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "187.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/187.imf#560",
+        "size": 6446,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "188.imf",
+        "song_link": "resources/OPL3/Commander Keen 6/188.imf#560",
+        "size": 9638,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Corridor 7: Alien Invasion",
+    "platform": "PC",
+    "developers": [
+      "Capstone Software"
+    ],
+    "publishers": [
+      "IntraCorp",
+      "GameTek"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "A1 (15).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/A1 (15).imf#700",
+        "size": 21734,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "ALOOP (23).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/ALOOP (23).imf#700",
+        "size": 9930,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "BOSS1 (Secret 33).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/BOSS1 (Secret 33).imf#700",
+        "size": 10346,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "BTMLIK (11).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/BTMLIK (11).imf#700",
+        "size": 18862,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "COORSLOW (2).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/COORSLOW (2).imf#700",
+        "size": 14086,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "COORS_B (3, 21).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/COORS_B (3, 21).imf#700",
+        "size": 20326,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "CSLOW (Unused).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/CSLOW (Unused).imf#700",
+        "size": 1634,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "FINL5A (14, 28).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/FINL5A (14, 28).imf#700",
+        "size": 28822,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "FINL5B (24, Secret 35).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/FINL5B (24, Secret 35).imf#700",
+        "size": 19462,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "GROOV (17).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/GROOV (17).imf#700",
+        "size": 29994,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "GROOVEB (Secret 31).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/GROOVEB (Secret 31).imf#700",
+        "size": 15718,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "HEAVY1 (5, 27).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/HEAVY1 (5, 27).imf#700",
+        "size": 34650,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "HEAVY1A (10).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/HEAVY1A (10).imf#700",
+        "size": 23546,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "HEAVY2 (4).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/HEAVY2 (4).imf#700",
+        "size": 28410,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "INTER (Intermission).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/INTER (Intermission).imf#700",
+        "size": 3722,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "INTRO (Title Loop).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/INTRO (Title Loop).imf#700",
+        "size": 11166,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "L1_VAR (6).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/L1_VAR (6).imf#700",
+        "size": 17958,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "L1_VARB (26).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/L1_VARB (26).imf#700",
+        "size": 14198,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "L3LOOP (18).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/L3LOOP (18).imf#700",
+        "size": 10117,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "LEVEL1 (16).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/LEVEL1 (16).imf#700",
+        "size": 20746,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "LEVEL2 (20).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/LEVEL2 (20).imf#700",
+        "size": 27782,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "LEVEL3 (7).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/LEVEL3 (7).imf#700",
+        "size": 25558,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "LEVEL5 (8).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/LEVEL5 (8).imf#700",
+        "size": 24586,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "MENU1 (Secret 32).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/MENU1 (Secret 32).imf#700",
+        "size": 25786,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "MENU2 (Menu).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/MENU2 (Menu).imf#700",
+        "size": 2354,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "MLOOP (19).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/MLOOP (19).imf#700",
+        "size": 13210,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SLAY1 (29).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/SLAY1 (29).imf#700",
+        "size": 23994,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TEST (30).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TEST (30).imf#700",
+        "size": 10766,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TESTB (12).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TESTB (12).imf#700",
+        "size": 21442,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TFRESHA (9, 22).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TFRESHA (9, 22).imf#700",
+        "size": 25094,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TGRUV (1, 25, Secret 36).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TGRUV (1, 25, Secret 36).imf#700",
+        "size": 31062,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TGRUVA (Unused).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TGRUVA (Unused).imf#700",
+        "size": 14598,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TGRUVB (13).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TGRUVB (13).imf#700",
+        "size": 20086,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "TLEV3 (Secret 34).imf",
+        "song_link": "resources/OPL3/Corridor 7 - Alien Invasion/TLEV3 (Secret 34).imf#700",
+        "size": 11514,
+        "composer": "Joe Abbati"
+      }
+    ]
+  },
+  {
     "game": "Cosmo's Cosmic Adventure",
     "platform": "PC",
     "developers": [
@@ -518,6 +1301,81 @@
     ]
   },
   {
+    "game": "Operation Body Count",
+    "platform": "PC",
+    "developers": [
+      "Capstone Software"
+    ],
+    "publishers": [
+      "Capstone Software",
+      "U.S. Gold"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "a1.imf",
+        "song_link": "resources/opl3/Operation Body Count/a1.imf#700",
+        "size": 21734,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "heavy1a.imf",
+        "song_link": "resources/opl3/Operation Body Count/heavy1a.imf#700",
+        "size": 23545,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "level2.imf",
+        "song_link": "resources/opl3/Operation Body Count/level2.imf#700",
+        "size": 27782,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "menu.imf",
+        "song_link": "resources/opl3/Operation Body Count/menu.imf#700",
+        "size": 970,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "nbc.imf",
+        "song_link": "resources/opl3/Operation Body Count/nbc.imf#700",
+        "size": 16290,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "nubc.imf",
+        "song_link": "resources/opl3/Operation Body Count/nubc.imf#700",
+        "size": 12854,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "slay1.imf",
+        "song_link": "resources/opl3/Operation Body Count/slay1.imf#700",
+        "size": 23994,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "test.imf",
+        "song_link": "resources/opl3/Operation Body Count/test.imf#700",
+        "size": 8826,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "testx2.imf",
+        "song_link": "resources/opl3/Operation Body Count/testx2.imf#700",
+        "size": 17262,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "try.imf",
+        "song_link": "resources/opl3/Operation Body Count/try.imf#700",
+        "size": 25314,
+        "composer": "Joe Abbati"
+      }
+    ]
+  },
+  {
     "game": "Spear of Destiny",
     "platform": "PC",
     "developers": [
@@ -530,147 +1388,147 @@
     "source": "gamus",
     "songs": [
       {
-        "song": "xfunkie.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/243 xfunkie.imf#700",
-        "size": 21730,
+        "song": "copypro.imf",
+        "song_link": "resources/opl3/Spear of Destiny/copypro.imf#700",
+        "size": 6546,
         "composer": "Robert Prince"
       },
       {
         "song": "dungeon.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/244 dungeon.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/dungeon.imf#700",
         "size": 15190,
         "composer": "Robert Prince"
       },
       {
-        "song": "xdeath.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/245 xdeath.imf#700",
-        "size": 14638,
+        "song": "endlevel.imf",
+        "song_link": "resources/opl3/Spear of Destiny/endlevel.imf#700",
+        "size": 7018,
         "composer": "Robert Prince"
       },
       {
         "song": "getthem.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/246 getthem.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/getthem.imf#700",
         "size": 18734,
         "composer": "Robert Prince"
       },
       {
-        "song": "xtiptoe.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/247 xtiptoe.imf#700",
-        "size": 21442,
-        "composer": "Robert Prince"
-      },
-      {
         "song": "goingaft.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/248 goingaft.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/goingaft.imf#700",
         "size": 8830,
         "composer": "Robert Prince"
       },
       {
-        "song": "urahero.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/249 urahero.imf#700",
-        "size": 7114,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "xtheend.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/250 xtheend.imf#700",
-        "size": 6898,
-        "composer": "Robert Prince"
-      },
-      {
         "song": "nazi_omi.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/251 nazi_omi.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/nazi_omi.imf#700",
         "size": 15130,
         "composer": "Robert Prince"
       },
       {
         "song": "pow.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/252 pow.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/pow.imf#700",
         "size": 7166,
         "composer": "Robert Prince"
       },
       {
-        "song": "twelfth.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/253 twelfth.imf#700",
-        "size": 14350,
-        "composer": "Robert Prince"
-      },
-      {
         "song": "searchn.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/254 searchn.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/searchn.imf#700",
         "size": 12978,
         "composer": "Robert Prince"
       },
       {
         "song": "suspense.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/255 suspense.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/suspense.imf#700",
         "size": 10310,
         "composer": "Robert Prince"
       },
       {
-        "song": "zerohour.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/256 zerohour.imf#700",
-        "size": 13858,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "wonderin.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/257 wonderin.imf#700",
-        "size": 8426,
+        "song": "twelfth.imf",
+        "song_link": "resources/opl3/Spear of Destiny/twelfth.imf#700",
+        "size": 14350,
         "composer": "Robert Prince"
       },
       {
         "song": "ultimate.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/258 ultimate.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/ultimate.imf#700",
         "size": 22578,
         "composer": "Robert Prince"
       },
       {
-        "song": "endlevel.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/259 endlevel.imf#700",
-        "size": 7018,
+        "song": "urahero.imf",
+        "song_link": "resources/opl3/Spear of Destiny/urahero.imf#700",
+        "size": 7114,
         "composer": "Robert Prince"
       },
       {
-        "song": "xevil.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/260 xevil.imf#700",
-        "size": 18986,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "xjaznazi.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/261 xjaznazi.imf#700",
-        "size": 13286,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "copypro.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/262 copypro.imf#700",
-        "size": 6546,
+        "song": "wonderin.imf",
+        "song_link": "resources/opl3/Spear of Destiny/wonderin.imf#700",
+        "size": 8426,
         "composer": "Robert Prince"
       },
       {
         "song": "xaward.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/263 xaward.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/xaward.imf#700",
         "size": 9310,
         "composer": "Robert Prince"
       },
       {
-        "song": "xputit.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/264 xputit.imf#700",
-        "size": 15994,
+        "song": "xdeath.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xdeath.imf#700",
+        "size": 14638,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xevil.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xevil.imf#700",
+        "size": 18986,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xfunkie.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xfunkie.imf#700",
+        "size": 21730,
         "composer": "Robert Prince"
       },
       {
         "song": "xgetyou.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/265 xgetyou.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/xgetyou.imf#700",
         "size": 14206,
         "composer": "Robert Prince"
       },
       {
+        "song": "xjaznazi.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xjaznazi.imf#700",
+        "size": 13286,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xputit.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xputit.imf#700",
+        "size": 15994,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtheend.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xtheend.imf#700",
+        "size": 6898,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "xtiptoe.imf",
+        "song_link": "resources/opl3/Spear of Destiny/xtiptoe.imf#700",
+        "size": 21442,
+        "composer": "Robert Prince"
+      },
+      {
         "song": "xtower2.imf",
-        "song_link": "resources/OPL3/Spear of Destiny/266 xtower2.imf#700",
+        "song_link": "resources/opl3/Spear of Destiny/xtower2.imf#700",
         "size": 6302,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "zerohour.imf",
+        "song_link": "resources/opl3/Spear of Destiny/zerohour.imf#700",
+        "size": 13858,
         "composer": "Robert Prince"
       }
     ]
@@ -689,164 +1547,164 @@
     "songs": [
       {
         "song": "corner.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/261 corner.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/corner.imf#700",
         "size": 7546,
         "composer": "Robert Prince"
       },
       {
         "song": "dungeon.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/262 dungeon.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/dungeon.imf#700",
         "size": 15190,
         "composer": "Robert Prince"
       },
       {
-        "song": "warmarch.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/263 warmarch.imf#700",
-        "size": 15034,
+        "song": "endlevel.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/endlevel.imf#700",
+        "size": 7018,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "funkyou.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/funkyou.imf#700",
+        "size": 7970,
         "composer": "Robert Prince"
       },
       {
         "song": "getthem.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/264 getthem.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/getthem.imf#700",
         "size": 18734,
         "composer": "Robert Prince"
       },
       {
+        "song": "goingaft.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/goingaft.imf#700",
+        "size": 8830,
+        "composer": "Robert Prince"
+      },
+      {
         "song": "headache.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/265 headache.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/headache.imf#700",
         "size": 6294,
         "composer": "Robert Prince"
       },
       {
         "song": "hitlwltz.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/266 hitlwltz.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/hitlwltz.imf#700",
         "size": 6546,
         "composer": "Robert Prince"
       },
       {
         "song": "introcw3.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/267 introcw3.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/introcw3.imf#700",
         "size": 12750,
         "composer": "Robert Prince"
       },
       {
         "song": "nazi_nor.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/268 nazi_nor.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/nazi_nor.imf#700",
         "size": 8518,
         "composer": "Robert Prince"
       },
       {
         "song": "nazi_omi.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/269 nazi_omi.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/nazi_omi.imf#700",
         "size": 15130,
         "composer": "Robert Prince"
       },
       {
+        "song": "nazi_rap.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/nazi_rap.imf#700",
+        "size": 11506,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "pacman.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/pacman.imf#700",
+        "size": 20926,
+        "composer": "Robert Prince"
+      },
+      {
         "song": "pow.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/270 pow.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/pow.imf#700",
         "size": 7166,
         "composer": "Robert Prince"
       },
       {
+        "song": "pregnant.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/pregnant.imf#700",
+        "size": 7918,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "roster.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/roster.imf#700",
+        "size": 8562,
+        "composer": "Robert Prince"
+      },
+      {
         "song": "salute.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/271 salute.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/salute.imf#700",
         "size": 1318,
         "composer": "Robert Prince"
       },
       {
         "song": "searchn.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/272 searchn.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/searchn.imf#700",
         "size": 12978,
         "composer": "Robert Prince"
       },
       {
         "song": "suspense.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/273 suspense.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/suspense.imf#700",
         "size": 10310,
         "composer": "Robert Prince"
       },
       {
-        "song": "victors.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/274 victors.imf#700",
-        "size": 7518,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "wonderin.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/275 wonderin.imf#700",
-        "size": 8426,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "funkyou.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/276 funkyou.imf#700",
-        "size": 7970,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "endlevel.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/277 endlevel.imf#700",
-        "size": 7018,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "goingaft.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/278 goingaft.imf#700",
-        "size": 8830,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "pregnant.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/279 pregnant.imf#700",
-        "size": 7918,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "ultimate.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/280 ultimate.imf#700",
-        "size": 22578,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "nazi_rap.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/281 nazi_rap.imf#700",
-        "size": 11506,
-        "composer": "Robert Prince"
-      },
-      {
-        "song": "zerohour.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/282 zerohour.imf#700",
-        "size": 13858,
-        "composer": "Robert Prince"
-      },
-      {
         "song": "twelfth.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/283 twelfth.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/twelfth.imf#700",
         "size": 14350,
         "composer": "Robert Prince"
       },
       {
-        "song": "roster.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/284 roster.imf#700",
-        "size": 8562,
+        "song": "ultimate.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/ultimate.imf#700",
+        "size": 22578,
         "composer": "Robert Prince"
       },
       {
         "song": "urahero.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/285 urahero.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/urahero.imf#700",
         "size": 7114,
         "composer": "Robert Prince"
       },
       {
         "song": "vicmarch.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/286 vicmarch.imf#700",
+        "song_link": "resources/OPL3/Wolfenstein 3D/vicmarch.imf#700",
         "size": 13162,
         "composer": "Robert Prince"
       },
       {
-        "song": "pacman.imf",
-        "song_link": "resources/OPL3/Wolfenstein 3D/287 pacman.imf#700",
-        "size": 20926,
+        "song": "victors.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/victors.imf#700",
+        "size": 7518,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "warmarch.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/warmarch.imf#700",
+        "size": 15034,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "wonderin.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/wonderin.imf#700",
+        "size": 8426,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "zerohour.imf",
+        "song_link": "resources/OPL3/Wolfenstein 3D/zerohour.imf#700",
+        "size": 13858,
         "composer": "Robert Prince"
       }
     ]
