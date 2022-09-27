@@ -2,13 +2,15 @@
 
 const fs = require('fs');
 const process = require('process');
-const getResources = require('./resources').getResources;
-const fetchUnexotica = require('./unexotica').fetchUnexotica;
-const fetchWogMods = require('./wog_mods').fetchWogMods;
+const getResources = require('./sources/resources').getResources;
+const fetchUnexotica = require('./sources/unexotica').fetchUnexotica;
+const fetchVgmpf = require('./sources/vgmpf').fetchVgmpf;
+const fetchWogMods = require('./sources/wog_mods').fetchWogMods;
 
 const DATA = 'data';
 const sources = {
 	'resources': getResources,
+	'VGMPF': fetchVgmpf,
 	'World of Game MODs': fetchWogMods,
 	'UnExoticA': fetchUnexotica,
 };
@@ -30,4 +32,5 @@ const sources = {
 	}
 	const db = result.flat().sort((g1, g2) => g1.game <= g2.game ? -1 : 1);
 	fs.writeFileSync(`${DATA}/index.json`, JSON.stringify(db, null, 2));
+	console.log(`\n   === total\n\ngames: ${db.length}`);
 })();
