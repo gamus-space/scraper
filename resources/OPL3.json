@@ -1,0 +1,336 @@
+[
+  {
+    "game": "Final Doom - The Plutonia Experiment",
+    "platform": "PC",
+    "developers": [
+      "TeamTNT"
+    ],
+    "publishers": [
+      "id Software",
+      "Williams Entertainment",
+      "Bethesda Softworks"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": "resources/samples/Doom 2/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "ADRIAN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/ADRIAN.MUS",
+        "size": 5848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "AMPIE.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/AMPIE.MUS",
+        "size": 15047,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "BETWEE.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/BETWEE.MUS",
+        "size": 18216,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNT2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNT2.MUS",
+        "size": 35920,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNTD.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNTD.MUS",
+        "size": 9456,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL2.MUS",
+        "size": 46022,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL3.MUS",
+        "size": 64808,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBLU.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBLU.MUS",
+        "size": 20965,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DEAD.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD.MUS",
+        "size": 8591,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DEAD2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD2.MUS",
+        "size": 16650,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DM2INT.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2INT.MUS",
+        "size": 17498,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DM2TTL.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2TTL.MUS",
+        "size": 3604,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DOOM.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM.MUS",
+        "size": 21266,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DOOM2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM2.MUS",
+        "size": 17250,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "IN_CIT.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/IN_CIT.MUS",
+        "size": 28175,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "MESSAG.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/MESSAG.MUS",
+        "size": 21848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "OPENIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/OPENIN.MUS",
+        "size": 13752,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "RUNNI2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNI2.MUS",
+        "size": 7015,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "RUNNIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNIN.MUS",
+        "size": 36776,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "SHAWN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN.MUS",
+        "size": 25930,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "SHAWN2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN2.MUS",
+        "size": 9830,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STALKS.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STALKS.MUS",
+        "size": 19276,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STLKS2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS2.MUS",
+        "size": 5980,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STLKS3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS3.MUS",
+        "size": 17283,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA2.MUS",
+        "size": 18194,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA3.MUS",
+        "size": 18795,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THE_DA.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THE_DA.MUS",
+        "size": 59535,
+        "composer": "Robert Prince"
+      }
+    ]
+  },
+  {
+    "game": "Final Doom - TNT: Evilution",
+    "platform": "PC",
+    "developers": [
+      "TeamTNT"
+    ],
+    "publishers": [
+      "id Software",
+      "Williams Entertainment",
+      "Bethesda Softworks"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": "resources/samples/Doom 2/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "ADRIAN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/ADRIAN.MUS",
+        "size": 20741,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "AMPIE.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/AMPIE.MUS",
+        "size": 15047,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "BETWEE.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/BETWEE.MUS",
+        "size": 13831,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "COUNT2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNT2.MUS",
+        "size": 31354,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNTD.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNTD.MUS",
+        "size": 21848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL2.MUS",
+        "size": 10550,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DDTBL3.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL3.MUS",
+        "size": 8305,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "DDTBLU.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBLU.MUS",
+        "size": 11138,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DEAD.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD.MUS",
+        "size": 7283,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "DEAD2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD2.MUS",
+        "size": 19424,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DM2TTL.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DM2TTL.MUS",
+        "size": 358,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DOOM.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DOOM.MUS",
+        "size": 7953,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "EVIL.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/EVIL.MUS",
+        "size": 5426,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "MESSAG.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/MESSAG.MUS",
+        "size": 9542,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "READ_M.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/READ_M.MUS",
+        "size": 7696,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "RUNNIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/RUNNIN.MUS",
+        "size": 15245,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "SHAWN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN.MUS",
+        "size": 7696,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "SHAWN2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN2.MUS",
+        "size": 14618,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STALKS.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STALKS.MUS",
+        "size": 13664,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "STLKS2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STLKS2.MUS",
+        "size": 12972,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "THEDA2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA2.MUS",
+        "size": 64571,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA3.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA3.MUS",
+        "size": 25026,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THE_DA.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THE_DA.MUS",
+        "size": 4309,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      }
+    ]
+  }
+]
