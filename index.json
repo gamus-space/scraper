@@ -2622,6 +2622,150 @@
     ]
   },
   {
+    "game": "Chex Quest",
+    "platform": "PC",
+    "developers": [
+      "Digital Café"
+    ],
+    "publishers": [
+      "Ralston-Purina"
+    ],
+    "year": 1996,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Chex_Quest_(DOS)",
+    "samples": "resources/samples/Doom/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Introduction.mus",
+        "song_link": "VGMPF/PC/Chex Quest/01 - Introduction.mus",
+        "size": 1121,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Level 1.mus",
+        "song_link": "VGMPF/PC/Chex Quest/02 - Level 1.mus",
+        "size": 28182,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Level 2.mus",
+        "song_link": "VGMPF/PC/Chex Quest/03 - Level 2.mus",
+        "size": 35187,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Level 3.mus",
+        "song_link": "VGMPF/PC/Chex Quest/04 - Level 3.mus",
+        "size": 24896,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Intermission.mus",
+        "song_link": "VGMPF/PC/Chex Quest/05 - Intermission.mus",
+        "size": 11372,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Level 4.mus",
+        "song_link": "VGMPF/PC/Chex Quest/06 - Level 4.mus",
+        "size": 21202,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Level 5.mus",
+        "song_link": "VGMPF/PC/Chex Quest/07 - Level 5.mus",
+        "size": 18105,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Victory.mus",
+        "song_link": "VGMPF/PC/Chex Quest/08 - Victory.mus",
+        "size": 11676,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/bf/Chex_Quest_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Chex Quest 2",
+    "platform": "PC",
+    "developers": [
+      "Digital Café"
+    ],
+    "publishers": [
+      "Ralston-Purina"
+    ],
+    "year": 1996,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Chex_Quest_2_(DOS)",
+    "samples": "resources/samples/Doom/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Introduction.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/01 - Introduction.mus",
+        "size": 1121,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Spaceport.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/02 - Spaceport.mus",
+        "size": 15091,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Cinema.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/03 - Cinema.mus",
+        "size": 12576,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Chex Museum.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/04 - Chex Museum.mus",
+        "size": 17821,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Intermission.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/05 - Intermission.mus",
+        "size": 11372,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - City Streets.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/06 - City Streets.mus",
+        "size": 14675,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Sewer System.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/07 - Sewer System.mus",
+        "size": 12970,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Victory.mus",
+        "song_link": "VGMPF/PC/Chex Quest 2/08 - Victory.mus",
+        "size": 11676,
+        "composer": "Andrew Benon",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fd/Chex_Quest_2_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Christmas Lemmings 1993",
     "platform": "Amiga",
     "developers": [
@@ -4379,6 +4523,356 @@
     ]
   },
   {
+    "game": "Doom",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "id Software, Inc.",
+      "Mannaccom Pty Ltd."
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Doom_(DOS)",
+    "samples": "resources/samples/Doom/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Introduction.mus",
+        "song_link": "VGMPF/PC/Doom/01 - Introduction.mus",
+        "size": 1485,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "02 - Introduction AdLib.mus",
+        "song_link": "VGMPF/PC/Doom/02 - Introduction AdLib.mus",
+        "size": 631,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "03 - At Doom's Gate.mus",
+        "song_link": "VGMPF/PC/Doom/03 - At Doom's Gate.mus",
+        "size": 17283,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "04 - The Imp's Song.mus",
+        "song_link": "VGMPF/PC/Doom/04 - The Imp's Song.mus",
+        "size": 36776,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "05 - Dark Halls.mus",
+        "song_link": "VGMPF/PC/Doom/05 - Dark Halls.mus",
+        "size": 19276,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "06 - Kitchen Ace (and Taking Names).mus",
+        "song_link": "VGMPF/PC/Doom/06 - Kitchen Ace (and Taking Names).mus",
+        "size": 18216,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "07 - Suspense.mus",
+        "song_link": "VGMPF/PC/Doom/07 - Suspense.mus",
+        "size": 9830,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "08 - On the Hunt.mus",
+        "song_link": "VGMPF/PC/Doom/08 - On the Hunt.mus",
+        "size": 9456,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "09 - Demons On the Prey.mus",
+        "song_link": "VGMPF/PC/Doom/09 - Demons On the Prey.mus",
+        "size": 8591,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "10 - Signs of Evil.mus",
+        "song_link": "VGMPF/PC/Doom/10 - Signs of Evil.mus",
+        "size": 59535,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "11 - Hiding the Secrets.mus",
+        "song_link": "VGMPF/PC/Doom/11 - Hiding the Secrets.mus",
+        "size": 21266,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "12 - I Sawed the Demons.mus",
+        "song_link": "VGMPF/PC/Doom/12 - I Sawed the Demons.mus",
+        "size": 25930,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "13 - The Demons From Adrian's Pen.mus",
+        "song_link": "VGMPF/PC/Doom/13 - The Demons From Adrian's Pen.mus",
+        "size": 20965,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "14 - Intermission From DOOM.mus",
+        "song_link": "VGMPF/PC/Doom/14 - Intermission From DOOM.mus",
+        "size": 29082,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "15 - They're Going to Get You.mus",
+        "song_link": "VGMPF/PC/Doom/15 - They're Going to Get You.mus",
+        "size": 6779,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "16 - Sinister.mus",
+        "song_link": "VGMPF/PC/Doom/16 - Sinister.mus",
+        "size": 9791,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "17 - Waltz of the Demons.mus",
+        "song_link": "VGMPF/PC/Doom/17 - Waltz of the Demons.mus",
+        "size": 7015,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "18 - Nobody Told Me About id.mus",
+        "song_link": "VGMPF/PC/Doom/18 - Nobody Told Me About id.mus",
+        "size": 46022,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "19 - Untitled.mus",
+        "song_link": "VGMPF/PC/Doom/19 - Untitled.mus",
+        "size": 16650,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "20 - Donna to the Rescue.mus",
+        "song_link": "VGMPF/PC/Doom/20 - Donna to the Rescue.mus",
+        "size": 17250,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "21 - Deep Into the Code.mus",
+        "song_link": "VGMPF/PC/Doom/21 - Deep Into the Code.mus",
+        "size": 28175,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "22 - Facing the Spider.mus",
+        "song_link": "VGMPF/PC/Doom/22 - Facing the Spider.mus",
+        "size": 18194,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "23 - The End of DOOM.mus",
+        "song_link": "VGMPF/PC/Doom/23 - The End of DOOM.mus",
+        "size": 13752,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      },
+      {
+        "song": "24 - Sweet Little Dead Bunny.mus",
+        "song_link": "VGMPF/PC/Doom/24 - Sweet Little Dead Bunny.mus",
+        "size": 5980,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Rips/Doom-DOS.zip"
+      }
+    ]
+  },
+  {
+    "game": "Doom II: Hell On Earth",
+    "platform": "PC",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Virgin Interactive Entertainment (Europe) Ltd.",
+      "GT Interactive Software Corp.",
+      "CDV Software GmbH"
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Doom_II:_Hell_On_Earth_(DOS)",
+    "samples": "resources/samples/Doom 2/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Title.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/01 - Title.mus",
+        "size": 3604,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Running From Evil.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/02 - Running From Evil.mus",
+        "size": 30206,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - The Healer Stalks.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/03 - The Healer Stalks.mus",
+        "size": 26149,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Countdown to Death.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/04 - Countdown to Death.mus",
+        "size": 14618,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Between Levels.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/05 - Between Levels.mus",
+        "size": 25026,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - DOOM.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/06 - DOOM.mus",
+        "size": 20741,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - In the Dark.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/07 - In the Dark.mus",
+        "size": 18795,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Shawn's Got the Shotgun.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/08 - Shawn's Got the Shotgun.mus",
+        "size": 21774,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Intermission.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/09 - Intermission.mus",
+        "size": 17498,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - The Dave D. Taylor Blues.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/10 - The Dave D. Taylor Blues.mus",
+        "size": 64571,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Into Sandy's City.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/11 - Into Sandy's City.mus",
+        "size": 31354,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - The Demon's Dead.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/12 - The Demon's Dead.mus",
+        "size": 21601,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "13 - Waiting For Romero to Play.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/13 - Waiting For Romero to Play.mus",
+        "size": 45496,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "14 - Message For the Archvile.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/14 - Message For the Archvile.mus",
+        "size": 21848,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "15 - Bye Bye American Pie.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/15 - Bye Bye American Pie.mus",
+        "size": 15047,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "16 - Adrian's Asleep.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/16 - Adrian's Asleep.mus",
+        "size": 5848,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "17 - Getting Too Tense.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/17 - Getting Too Tense.mus",
+        "size": 33681,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "18 - Opening to Hell.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/18 - Opening to Hell.mus",
+        "size": 26014,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "19 - Evil Incarnate.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/19 - Evil Incarnate.mus",
+        "size": 12491,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "20 - The Ultimate Challenge - The Ultimate Conquest.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/20 - The Ultimate Challenge - The Ultimate Conquest.mus",
+        "size": 10572,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      },
+      {
+        "song": "21 - End Game.mus",
+        "song_link": "VGMPF/PC/Doom II Hell On Earth/21 - End Game.mus",
+        "size": 35920,
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a7/Doom_II_-_Hell_On_Earth_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Double Dragon",
     "platform": "Amiga",
     "developers": [
@@ -5010,6 +5504,340 @@
         "song_link": "World of Game MODs/PC/FX Fighter/storm-1154.it",
         "size": 3016389,
         "composer": "Justin Scharnova, Martin Gwynn Jones"
+      }
+    ]
+  },
+  {
+    "game": "Final Doom - TNT: Evilution",
+    "platform": "PC",
+    "developers": [
+      "TeamTNT"
+    ],
+    "publishers": [
+      "id Software",
+      "Williams Entertainment",
+      "Bethesda Softworks"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": "resources/samples/Doom 2/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "ADRIAN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/ADRIAN.MUS",
+        "size": 20741,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "AMPIE.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/AMPIE.MUS",
+        "size": 15047,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "BETWEE.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/BETWEE.MUS",
+        "size": 13831,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "COUNT2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNT2.MUS",
+        "size": 31354,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNTD.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNTD.MUS",
+        "size": 21848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL2.MUS",
+        "size": 10550,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DDTBL3.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL3.MUS",
+        "size": 8305,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "DDTBLU.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBLU.MUS",
+        "size": 11138,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DEAD.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD.MUS",
+        "size": 7283,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "DEAD2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD2.MUS",
+        "size": 19424,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DM2TTL.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DM2TTL.MUS",
+        "size": 358,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "DOOM.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DOOM.MUS",
+        "size": 7953,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "EVIL.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/EVIL.MUS",
+        "size": 5426,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "MESSAG.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/MESSAG.MUS",
+        "size": 9542,
+        "composer": "Tom Mustaine"
+      },
+      {
+        "song": "READ_M.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/READ_M.MUS",
+        "size": 7696,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "RUNNIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/RUNNIN.MUS",
+        "size": 15245,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "SHAWN.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN.MUS",
+        "size": 7696,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "SHAWN2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN2.MUS",
+        "size": 14618,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STALKS.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STALKS.MUS",
+        "size": 13664,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "STLKS2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STLKS2.MUS",
+        "size": 12972,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      },
+      {
+        "song": "THEDA2.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA2.MUS",
+        "size": 64571,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA3.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA3.MUS",
+        "size": 25026,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THE_DA.MUS",
+        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THE_DA.MUS",
+        "size": 4309,
+        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      }
+    ]
+  },
+  {
+    "game": "Final Doom - The Plutonia Experiment",
+    "platform": "PC",
+    "developers": [
+      "TeamTNT"
+    ],
+    "publishers": [
+      "id Software",
+      "Williams Entertainment",
+      "Bethesda Softworks"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": "resources/samples/Doom 2/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "ADRIAN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/ADRIAN.MUS",
+        "size": 5848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "AMPIE.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/AMPIE.MUS",
+        "size": 15047,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "BETWEE.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/BETWEE.MUS",
+        "size": 18216,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNT2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNT2.MUS",
+        "size": 35920,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "COUNTD.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNTD.MUS",
+        "size": 9456,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL2.MUS",
+        "size": 46022,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBL3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL3.MUS",
+        "size": 64808,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DDTBLU.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBLU.MUS",
+        "size": 20965,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DEAD.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD.MUS",
+        "size": 8591,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DEAD2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD2.MUS",
+        "size": 16650,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DM2INT.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2INT.MUS",
+        "size": 17498,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DM2TTL.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2TTL.MUS",
+        "size": 3604,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DOOM.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM.MUS",
+        "size": 21266,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "DOOM2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM2.MUS",
+        "size": 17250,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "IN_CIT.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/IN_CIT.MUS",
+        "size": 28175,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "MESSAG.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/MESSAG.MUS",
+        "size": 21848,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "OPENIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/OPENIN.MUS",
+        "size": 13752,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "RUNNI2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNI2.MUS",
+        "size": 7015,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "RUNNIN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNIN.MUS",
+        "size": 36776,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "SHAWN.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN.MUS",
+        "size": 25930,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "SHAWN2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN2.MUS",
+        "size": 9830,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STALKS.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STALKS.MUS",
+        "size": 19276,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STLKS2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS2.MUS",
+        "size": 5980,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "STLKS3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS3.MUS",
+        "size": 17283,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA2.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA2.MUS",
+        "size": 18194,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THEDA3.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA3.MUS",
+        "size": 18795,
+        "composer": "Robert Prince"
+      },
+      {
+        "song": "THE_DA.MUS",
+        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THE_DA.MUS",
+        "size": 59535,
+        "composer": "Robert Prince"
       }
     ]
   },
@@ -5752,6 +6580,452 @@
         "size": 13794,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      }
+    ]
+  },
+  {
+    "game": "Heretic",
+    "platform": "PC",
+    "developers": [
+      "Raven Software"
+    ],
+    "publishers": [
+      "id Software, Inc."
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Heretic_(DOS)",
+    "samples": "resources/samples/Heretic/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Introduction.mus",
+        "song_link": "VGMPF/PC/Heretic/01 - Introduction.mus",
+        "size": 1533,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "02 - The Docks.mus",
+        "song_link": "VGMPF/PC/Heretic/02 - The Docks.mus",
+        "size": 15964,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "03 - The Dungeons.mus",
+        "song_link": "VGMPF/PC/Heretic/03 - The Dungeons.mus",
+        "size": 15788,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "04 - The Gatehouse.mus",
+        "song_link": "VGMPF/PC/Heretic/04 - The Gatehouse.mus",
+        "size": 6437,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "05 - Guard Tower.mus",
+        "song_link": "VGMPF/PC/Heretic/05 - Guard Tower.mus",
+        "size": 15933,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "06 - Citadel.mus",
+        "song_link": "VGMPF/PC/Heretic/06 - Citadel.mus",
+        "size": 9641,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "07 - The Cathedral.mus",
+        "song_link": "VGMPF/PC/Heretic/07 - The Cathedral.mus",
+        "size": 13806,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "08 - The Crypts.mus",
+        "song_link": "VGMPF/PC/Heretic/08 - The Crypts.mus",
+        "size": 10343,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "09 - Hell's Maw.mus",
+        "song_link": "VGMPF/PC/Heretic/09 - Hell's Maw.mus",
+        "size": 8374,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "10 - The Graveyard.mus",
+        "song_link": "VGMPF/PC/Heretic/10 - The Graveyard.mus",
+        "size": 13386,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "11 - Intermission.mus",
+        "song_link": "VGMPF/PC/Heretic/11 - Intermission.mus",
+        "size": 7949,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "12 - The Crater.mus",
+        "song_link": "VGMPF/PC/Heretic/12 - The Crater.mus",
+        "size": 6107,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "13 - Lava Pits.mus",
+        "song_link": "VGMPF/PC/Heretic/13 - Lava Pits.mus",
+        "size": 5922,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "14 - River of Fire.mus",
+        "song_link": "VGMPF/PC/Heretic/14 - River of Fire.mus",
+        "size": 16765,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "15 - Ice Grotto.mus",
+        "song_link": "VGMPF/PC/Heretic/15 - Ice Grotto.mus",
+        "size": 5654,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "16 - The Labyrinth.mus",
+        "song_link": "VGMPF/PC/Heretic/16 - The Labyrinth.mus",
+        "size": 17606,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "17 - Great Hall.mus",
+        "song_link": "VGMPF/PC/Heretic/17 - Great Hall.mus",
+        "size": 6695,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "18 - Portals of Chaos.mus",
+        "song_link": "VGMPF/PC/Heretic/18 - Portals of Chaos.mus",
+        "size": 9393,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "19 - The Glacier.mus",
+        "song_link": "VGMPF/PC/Heretic/19 - The Glacier.mus",
+        "size": 7484,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "20 - The Cesspool.mus",
+        "song_link": "VGMPF/PC/Heretic/20 - The Cesspool.mus",
+        "size": 5718,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "21 - The Confluence.mus",
+        "song_link": "VGMPF/PC/Heretic/21 - The Confluence.mus",
+        "size": 8317,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      },
+      {
+        "song": "22 - Finale.mus",
+        "song_link": "VGMPF/PC/Heretic/22 - Finale.mus",
+        "size": 4669,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Heretic-DOS.zip"
+      }
+    ]
+  },
+  {
+    "game": "Hexen: Beyond Heretic",
+    "platform": "PC",
+    "developers": [
+      "Raven Software Corporation"
+    ],
+    "publishers": [
+      "id Software, Inc.",
+      "GT Interactive Software Europe, Ltd."
+    ],
+    "year": 1995,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Hexen:_Beyond_Heretic_(DOS)",
+    "samples": "resources/samples/Heretic/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Orb.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/01 - Orb.mus",
+        "size": 3229,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "02 - Hexen.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/02 - Hexen.mus",
+        "size": 1370,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "03 - Chess.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/03 - Chess.mus",
+        "size": 5257,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "04 - Winnowing Hall.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/04 - Winnowing Hall.mus",
+        "size": 20258,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "05 - Jach.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/05 - Jach.mus",
+        "size": 18104,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "06 - Simon.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/06 - Simon.mus",
+        "size": 16167,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "07 - Wutzit.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/07 - Wutzit.mus",
+        "size": 18929,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "08 - Falcon.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/08 - Falcon.mus",
+        "size": 9946,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "09 - Level.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/09 - Level.mus",
+        "size": 23234,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "10 - Crypt.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/10 - Crypt.mus",
+        "size": 21054,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "11 - Swamp.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/11 - Swamp.mus",
+        "size": 6357,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "12 - Deep.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/12 - Deep.mus",
+        "size": 14877,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "13 - Fubas.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/13 - Fubas.mus",
+        "size": 10492,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "14 - Grove.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/14 - Grove.mus",
+        "size": 10842,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "15 - Fortress.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/15 - Fortress.mus",
+        "size": 13750,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "16 - Void.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/16 - Void.mus",
+        "size": 14267,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "17 - Chapel 1.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/17 - Chapel 1.mus",
+        "size": 18040,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "18 - Secret Chapel.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/18 - Secret Chapel.mus",
+        "size": 10443,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "19 - Chapel 3.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/19 - Chapel 3.mus",
+        "size": 17501,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "20 - Chapel 4.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/20 - Chapel 4.mus",
+        "size": 11363,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "21 - Chippy.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/21 - Chippy.mus",
+        "size": 9491,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "22 - Perc.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/22 - Perc.mus",
+        "size": 18872,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "23 - Fooja.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/23 - Fooja.mus",
+        "size": 8674,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "24 - Sixate.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/24 - Sixate.mus",
+        "size": 14094,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "25 - Wobaby.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/25 - Wobaby.mus",
+        "size": 14417,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "26 - Fantasy.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/26 - Fantasy.mus",
+        "size": 15310,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "27 - Blech.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/27 - Blech.mus",
+        "size": 11942,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "28 - Bones.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/28 - Bones.mus",
+        "size": 16523,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "29 - Octo.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/29 - Octo.mus",
+        "size": 20602,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "30 - Rithm.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/30 - Rithm.mus",
+        "size": 20102,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "31 - Stalker.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/31 - Stalker.mus",
+        "size": 15639,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "32 - Borkesis.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/32 - Borkesis.mus",
+        "size": 16738,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "33 - Crucible 2.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/33 - Crucible 2.mus",
+        "size": 23761,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "34 - Hub.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/34 - Hub.mus",
+        "size": 5093,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "35 - Hall.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/35 - Hall.mus",
+        "size": 1511,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "36 - Chapel 2.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/36 - Chapel 2.mus",
+        "size": 21575,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      },
+      {
+        "song": "37 - Chart.mus",
+        "song_link": "VGMPF/PC/Hexen Beyond Heretic/37 - Chart.mus",
+        "size": 14062,
+        "composer": "Kevin Schilder",
+        "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
       }
     ]
   },
@@ -10408,6 +11682,141 @@
     ]
   },
   {
+    "game": "Raptor: Call of the Shadows",
+    "platform": "PC",
+    "developers": [
+      "Cygnus Studios"
+    ],
+    "publishers": [
+      "Apogee Software, Ltd."
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Raptor:_Call_of_the_Shadows_(DOS)",
+    "samples": "resources/samples/Raptor Call of the Shadows/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Fanfare for Duke II.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/01 - Fanfare for Duke II.mus#140",
+        "size": 1216,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Apogee Fanfare.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/02 - Apogee Fanfare.mus#140",
+        "size": 1184,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Raptor Intro.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/03 - Raptor Intro.mus#140",
+        "size": 2172,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Main Menu.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/04 - Main Menu.mus#140",
+        "size": 4230,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Hangar.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/05 - Hangar.mus#140",
+        "size": 13310,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Wave Music 1.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/06 - Wave Music 1.mus#140",
+        "size": 8582,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Wave Music 2.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/07 - Wave Music 2.mus#140",
+        "size": 5684,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Wave Music 3.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/08 - Wave Music 3.mus#140",
+        "size": 9251,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Wave Music 4.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/09 - Wave Music 4.mus#140",
+        "size": 2643,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - Wave Music 5.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/10 - Wave Music 5.mus#140",
+        "size": 6396,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Wave Music 6.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/11 - Wave Music 6.mus#140",
+        "size": 7975,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - Night Waves.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/12 - Night Waves.mus#140",
+        "size": 4860,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "13 - Credits.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/13 - Credits.mus#140",
+        "size": 1259,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "14 - Game Over.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/14 - Game Over.mus#140",
+        "size": 6108,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "15 - Boss 1.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/15 - Boss 1.mus#140",
+        "size": 170,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "16 - Boss 2.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/16 - Boss 2.mus#140",
+        "size": 792,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      },
+      {
+        "song": "17 - Boss 3.mus",
+        "song_link": "VGMPF/PC/Raptor Call of the Shadows/17 - Boss 3.mus#140",
+        "size": 2040,
+        "composer": "Matt Murphy / Scott Host",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/69/Raptor_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Realms of Chaos",
     "platform": "PC",
     "developers": [
@@ -12251,6 +13660,183 @@
         "size": 65546,
         "composer": "Matthew Simmonds",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSimmonds_Matthew%2FStreet_Fighter_2.lha"
+      }
+    ]
+  },
+  {
+    "game": "Strife",
+    "platform": "PC",
+    "developers": [
+      "Rogue Entertainment"
+    ],
+    "publishers": [
+      "Velocity, Inc."
+    ],
+    "year": 1996,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Strife_(DOS)",
+    "samples": "resources/samples/Strife/GENMIDI.OP2",
+    "songs": [
+      {
+        "song": "01 - Logo.mus",
+        "song_link": "VGMPF/PC/Strife/01 - Logo.mus",
+        "size": 1189,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "02 - Intro.mus",
+        "song_link": "VGMPF/PC/Strife/02 - Intro.mus",
+        "size": 6453,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "03 - Tavern.mus",
+        "song_link": "VGMPF/PC/Strife/03 - Tavern.mus",
+        "size": 21839,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "04 - Action.mus",
+        "song_link": "VGMPF/PC/Strife/04 - Action.mus",
+        "size": 28334,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "05 - Fast.mus",
+        "song_link": "VGMPF/PC/Strife/05 - Fast.mus",
+        "size": 62308,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "06 - Danger.mus",
+        "song_link": "VGMPF/PC/Strife/06 - Danger.mus",
+        "size": 4273,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "07 - Darker.mus",
+        "song_link": "VGMPF/PC/Strife/07 - Darker.mus",
+        "size": 8427,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "08 - Strike.mus",
+        "song_link": "VGMPF/PC/Strife/08 - Strike.mus",
+        "size": 19672,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "09 - Slide.mus",
+        "song_link": "VGMPF/PC/Strife/09 - Slide.mus",
+        "size": 5927,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "10 - Tribal.mus",
+        "song_link": "VGMPF/PC/Strife/10 - Tribal.mus",
+        "size": 26293,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "11 - March.mus",
+        "song_link": "VGMPF/PC/Strife/11 - March.mus",
+        "size": 12359,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "12 - Mood.mus",
+        "song_link": "VGMPF/PC/Strife/12 - Mood.mus",
+        "size": 13366,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "13 - Castle.mus",
+        "song_link": "VGMPF/PC/Strife/13 - Castle.mus",
+        "size": 12161,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "14 - Fight.mus",
+        "song_link": "VGMPF/PC/Strife/14 - Fight.mus",
+        "size": 50838,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "15 - Suspense.mus",
+        "song_link": "VGMPF/PC/Strife/15 - Suspense.mus",
+        "size": 3206,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "16 - Dark.mus",
+        "song_link": "VGMPF/PC/Strife/16 - Dark.mus",
+        "size": 8120,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "17 - Tech.mus",
+        "song_link": "VGMPF/PC/Strife/17 - Tech.mus",
+        "size": 17253,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "18 - Drone.mus",
+        "song_link": "VGMPF/PC/Strife/18 - Drone.mus",
+        "size": 8123,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "19 - Panther.mus",
+        "song_link": "VGMPF/PC/Strife/19 - Panther.mus",
+        "size": 6175,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "20 - Industry.mus",
+        "song_link": "VGMPF/PC/Strife/20 - Industry.mus",
+        "size": 18522,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "21 - Sad.mus",
+        "song_link": "VGMPF/PC/Strife/21 - Sad.mus",
+        "size": 2751,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "22 - Happy.mus",
+        "song_link": "VGMPF/PC/Strife/22 - Happy.mus",
+        "size": 13665,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      },
+      {
+        "song": "23 - End.mus",
+        "song_link": "VGMPF/PC/Strife/23 - End.mus",
+        "size": 1100,
+        "composer": "Morey Goldstein",
+        "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
       }
     ]
   },
