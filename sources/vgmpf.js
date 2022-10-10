@@ -10,7 +10,7 @@ const { sequential } = require('../lib/utils');
 
 const PLATFORM_MAP = { 'DOS': 'PC' };
 
-async function fetchGame({ url, composer, song_pattern, song_count, rate }, source) {
+async function fetchGame({ url, composer, song_pattern, song_count, rate, samples }, source) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
 	const infoTable = xpath.select1('//div[@id="mw-content-text"]/table[1]', doc);
@@ -26,7 +26,9 @@ async function fetchGame({ url, composer, song_pattern, song_count, rate }, sour
 	const publishers = [...new Set(releasesTables.map(table => xpath.select1('normalize-space(./tr[normalize-space(./td[1]) = "Publisher:"]/td[2])', table)))];
 
 	const ripTitle = xpath.select1('//div[@id="mw-content-text"]//h3[span/@id="Game_Rip"]', doc);
-	const downloadLink = xpath.select1('string(./following-sibling::*/descendant-or-self::table[1]//a[normalize-space(text()) = "Download"]/@href)', ripTitle);
+	const mainDownloadLink = xpath.select1('string(./following-sibling::*/descendant-or-self::table[1]//a[normalize-space(text()) = "Download"]/@href)', ripTitle);
+	const altDownloadLink = xpath.select1('string(./following-sibling::p//a[normalize-space(text()) = "Download Rip"]/@href)', ripTitle);
+	const downloadLink = altDownloadLink || mainDownloadLink;
 	const downloadUrl = new URL(downloadLink, url);
 	console.log(game, [downloadLink]);
 
@@ -53,12 +55,13 @@ async function fetchGame({ url, composer, song_pattern, song_count, rate }, sour
 		composer,
 		source_archive: downloadUrl.href,
 	}));
+	const samplesLink = samples != undefined ? { samples } : {};
 
-	return { game, platform, developers, publishers, year, source, source_link: url, songs };
+	return { game, platform, developers, publishers, year, source, source_link: url, ...samplesLink, songs };
 }
 
 async function fetchVgmpf(source) {
-	const games = [
+	const imfGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Bio_Menace_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.imf/, song_count: 31 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blake_Stone:_Aliens_of_Gold_(DOS)', composer: 'Robert Prince', song_pattern: /^Originals\/[^/]+\.IMF/, song_count: 19, rate: 700 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blake_Stone:_Planet_Strike_(DOS)', composer: 'Robert Prince', song_pattern: /^Originals\/[^/]+\.IMF/, song_count: 21, rate: 700 },
@@ -77,6 +80,17 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Spear_of_Destiny_(DOS)', composer: 'Robert Prince', song_pattern: /^IMF\/[^/]+\.wlf/, song_count: 24 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Wolfenstein_3D_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.wlf/, song_count: 27 },
 	];
+	const musGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Chex_Quest_(DOS)', composer: 'Andrew Benon', song_pattern: /^[^/]+\.mus/, song_count: 8, samples: 'resources/samples/Doom/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Chex_Quest_2_(DOS)', composer: 'Andrew Benon', song_pattern: /^[^/]+\.mus/, song_count: 8, samples: 'resources/samples/Doom/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Doom_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.mus/, song_count: 24, samples: 'resources/samples/Doom/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Doom_II:_Hell_On_Earth_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.mus/, song_count: 21, samples: 'resources/samples/Doom 2/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Heretic_(DOS)', composer: 'Kevin Schilder', song_pattern: /^[^/]+\.mus/, song_count: 22, samples: 'resources/samples/Heretic/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Hexen:_Beyond_Heretic_(DOS)', composer: 'Kevin Schilder', song_pattern: /^[^/]+\.mus/, song_count: 37, samples: 'resources/samples/Heretic/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Raptor:_Call_of_the_Shadows_(DOS)', composer: 'Matt Murphy / Scott Host', song_pattern: /^[^/]+\.mus/, song_count: 17, rate: 140, samples: 'resources/samples/Raptor Call of the Shadows/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Strife_(DOS)', composer: 'Morey Goldstein', song_pattern: /^[^/]+\.mus/, song_count: 23, samples: 'resources/samples/Strife/GENMIDI.OP2' },
+	];
+	const games = [...imfGames, ...musGames];
 	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
 }
 
