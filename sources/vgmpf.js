@@ -54,10 +54,48 @@ async function fetchGame({ url, composer, song_pattern, song_count, rate, sample
 		size: fs.statSync(`${gameDir}/${file}`).size,
 		composer,
 		source_archive: downloadUrl.href,
-	}));
+	})).map(song => splitSong(song, game)).flat();
 	const samplesLink = samples != undefined ? { samples } : {};
 
 	return { game, platform, developers, publishers, year, source, source_link: url, ...samplesLink, songs };
+}
+
+function splitSong(song, game) {
+	let subsongs = [];
+	if (game === "Dune II: The Building of a Dynasty")
+		subsongs = splitSongDune2(song);
+	return subsongs.length < 1 ? [song] : subsongs.map(i => ({
+		...song,
+		song: `${song.song} #${i+1}`,
+		song_link: `${song.song_link}#${i+1}`,
+	}));
+}
+
+function splitSongDune2(song) {
+	const tracks = {
+		'DUNE0.ADL': [2, 4], // intro, logo
+		'DUNE1.ADL': [2, 3, 4, 5, 6], // menu, defeat, defeat, defeat, game
+		'DUNE10.ADL': [2, 7], // menu, rush
+		'DUNE11.ADL': [7], // rush
+		'DUNE12.ADL': [7], // rush
+		'DUNE13.ADL': [7], // rush
+		'DUNE14.ADL': [7], // rush
+		'DUNE15.ADL': [7], // rush
+		'DUNE16.ADL': [7, 8], // map, emperor
+		'DUNE17.ADL': [4], // ordos
+		'DUNE18.ADL': [6], // game
+		'DUNE19.ADL': [2, 3, 4], // ending, ending, ending
+		'DUNE2.ADL': [6], // game
+		'DUNE20.ADL': [2], // credits
+		'DUNE3.ADL': [6], // game
+		'DUNE4.ADL': [6], // game
+		'DUNE5.ADL': [6], // game
+		'DUNE6.ADL': [6], // game
+		'DUNE7.ADL': [2, 3, 4, 6], // mentat, mentat, mentat, menu
+		'DUNE8.ADL': [2, 3], // victory, victory
+		'DUNE9.ADL': [4, 5], // game, game
+	};
+	return tracks[song.song] || [];
 }
 
 async function fetchVgmpf(source) {
@@ -90,7 +128,18 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Raptor:_Call_of_the_Shadows_(DOS)', composer: 'Matt Murphy / Scott Host', song_pattern: /^[^/]+\.mus/, song_count: 17, rate: 140, samples: 'resources/samples/Raptor Call of the Shadows/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Strife_(DOS)', composer: 'Morey Goldstein', song_pattern: /^[^/]+\.mus/, song_count: 23, samples: 'resources/samples/Strife/GENMIDI.OP2' },
 	];
-	const games = [...imfGames, ...musGames];
+	const mGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Times_of_Lore_(DOS)', composer: 'Martin Galway, Herman Miller', song_pattern: /^Originals\/[^/]+\.m/, song_count: 11 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)', composer: 'David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter', song_pattern: /^Originals\/[^/]+\.m/, song_count: 12 },
+	];
+	const adlGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)', composer: 'Frank Klepacki, Paul Mudra', song_pattern: /^Originals\/[^/]+\.ADL/, song_count: 21 },
+	];
+	const mdiGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)', composer: 'SEGA', song_pattern: /^Originals\/Uncompressed\/[^/]+\.MDI/, song_count: 21 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)', composer: 'Michel Golgevit, Zorba Kouaik', song_pattern: /^Originals\/Decompressed\/Music \(AdLib\)\/[^/]+\.MDI/, song_count: 9 },
+	];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames];
 	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
 }
 
