@@ -5243,6 +5243,266 @@
     ]
   },
   {
+    "game": "Dune II: The Building of a Dynasty",
+    "platform": "PC",
+    "developers": [
+      "Westwood Studios, Inc."
+    ],
+    "publishers": [
+      "Virgin Games, Inc."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)",
+    "songs": [
+      {
+        "song": "DUNE0.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE0.ADL#3",
+        "size": 14473,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE0.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE0.ADL#5",
+        "size": 14473,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE1.ADL#3",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #4",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE1.ADL#4",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE1.ADL#5",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #6",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE1.ADL#6",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE1.ADL#7",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE10.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE10.ADL#3",
+        "size": 14711,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE10.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE10.ADL#8",
+        "size": 14711,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE11.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE11.ADL#8",
+        "size": 13990,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE12.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE12.ADL#8",
+        "size": 11129,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE13.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE13.ADL#8",
+        "size": 11699,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE14.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE14.ADL#8",
+        "size": 10827,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE15.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE15.ADL#8",
+        "size": 12414,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE16.ADL #8",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE16.ADL#8",
+        "size": 7406,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE16.ADL #9",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE16.ADL#9",
+        "size": 7406,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE17.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE17.ADL#5",
+        "size": 7567,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE18.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE18.ADL#7",
+        "size": 10813,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE19.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE19.ADL#3",
+        "size": 7257,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE19.ADL #4",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE19.ADL#4",
+        "size": 7257,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE19.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE19.ADL#5",
+        "size": 7257,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE2.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE2.ADL#7",
+        "size": 12199,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE20.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE20.ADL#3",
+        "size": 13808,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE3.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE3.ADL#7",
+        "size": 9300,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE4.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE4.ADL#7",
+        "size": 10457,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE5.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE5.ADL#7",
+        "size": 12947,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE6.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE6.ADL#7",
+        "size": 10552,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE7.ADL#3",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #4",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE7.ADL#4",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE7.ADL#5",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #7",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE7.ADL#7",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE8.ADL #3",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE8.ADL#3",
+        "size": 11697,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE8.ADL #4",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE8.ADL#4",
+        "size": 11697,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE9.ADL #5",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE9.ADL#5",
+        "size": 15519,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE9.ADL #6",
+        "song_link": "VGMPF/PC/Dune II The Building of a Dynasty/DUNE9.ADL#6",
+        "size": 15519,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Elfmania",
     "platform": "Amiga",
     "developers": [
@@ -6522,6 +6782,170 @@
         "size": 320044,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FGods.lha"
+      }
+    ]
+  },
+  {
+    "game": "Golden Axe",
+    "platform": "PC",
+    "developers": [
+      "Team Shinobi"
+    ],
+    "publishers": [
+      "SEGA of America, Inc.",
+      "Virgin Games, Ltd.",
+      "Europhone Software Production Group"
+    ],
+    "year": 1990,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)",
+    "songs": [
+      {
+        "song": "INTRO.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/INTRO.MDI",
+        "size": 12518,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO2.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/INTRO2.MDI",
+        "size": 7147,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "OLDMAP.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/OLDMAP.MDI",
+        "size": 1214,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD1BEG.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD1BEG.MDI",
+        "size": 3411,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD1END1.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD1END1.MDI",
+        "size": 3304,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD1END2.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD1END2.MDI",
+        "size": 4014,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD1END3.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD1END3.MDI",
+        "size": 1633,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD2PART1.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD2PART1.MDI",
+        "size": 9013,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD2PART2.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD2PART2.MDI",
+        "size": 7059,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD3PART1.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD3PART1.MDI",
+        "size": 17099,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD3PART2.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD3PART2.MDI",
+        "size": 3402,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD4.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD4.MDI",
+        "size": 4827,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD5.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD5.MDI",
+        "size": 8190,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD6PART1.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD6PART1.MDI",
+        "size": 6645,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD6PART2.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD6PART2.MDI",
+        "size": 1712,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD6PART3.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD6PART3.MDI",
+        "size": 2689,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "RD6PART4.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/RD6PART4.MDI",
+        "size": 2569,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "SASSA.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/SASSA.MDI",
+        "size": 6319,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "SCORE.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/SCORE.MDI",
+        "size": 2028,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "SHOWDOWN.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/SHOWDOWN.MDI",
+        "size": 13934,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
+      },
+      {
+        "song": "THIEF.MDI",
+        "song_link": "VGMPF/PC/Golden Axe/THIEF.MDI",
+        "size": 2742,
+        "composer": "SEGA",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/4a/Golden_Axe_%28DOS%29.zip"
       }
     ]
   },
@@ -11491,6 +11915,206 @@
     ]
   },
   {
+    "game": "Polanie",
+    "platform": "PC",
+    "developers": [
+      "MDF"
+    ],
+    "publishers": [
+      "USER"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "muzyka01.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka01.s3m",
+        "size": 76667,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka02.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka02.s3m",
+        "size": 75099,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka03.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka03.s3m",
+        "size": 73842,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka04.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka04.s3m",
+        "size": 74263,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka05.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka05.s3m",
+        "size": 75514,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka06.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka06.s3m",
+        "size": 78311,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka07.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka07.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka08.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka08.s3m",
+        "size": 74095,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka09.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka09.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka10.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka10.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka11.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka11.s3m",
+        "size": 84942,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka12.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka12.s3m",
+        "size": 78664,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka13.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka13.s3m",
+        "size": 78913,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka14.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka14.s3m",
+        "size": 80776,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka15.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka15.s3m",
+        "size": 84942,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka16.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka16.s3m",
+        "size": 76100,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka17.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka17.s3m",
+        "size": 77375,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka18.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka18.s3m",
+        "size": 77475,
+        "composer": "Marcin Adamowicz"
+      }
+    ]
+  },
+  {
+    "game": "Prehistorik",
+    "platform": "PC",
+    "developers": [
+      "Titus Interactive"
+    ],
+    "publishers": [
+      "Titus France SA"
+    ],
+    "year": 1991,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)",
+    "songs": [
+      {
+        "song": "BONUS.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/BONUS.MDI",
+        "size": 3631,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "BOY16.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/BOY16.MDI",
+        "size": 42074,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "FIN.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/FIN.MDI",
+        "size": 10571,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/INTRO.MDI",
+        "size": 10930,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "MORT.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/MORT.MDI",
+        "size": 1279,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "RIK1.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/RIK1.MDI",
+        "size": 39840,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "RIK6.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/RIK6.MDI",
+        "size": 50834,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "RIK8.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/RIK8.MDI",
+        "size": 39796,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      },
+      {
+        "song": "ROCKY.MDI",
+        "song_link": "VGMPF/PC/Prehistorik/ROCKY.MDI",
+        "size": 45897,
+        "composer": "Michel Golgevit, Zorba Kouaik",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/50/Prehistorik_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Prehistorik",
     "platform": "Amiga",
     "developers": [
@@ -14339,6 +14963,98 @@
     ]
   },
   {
+    "game": "Times of Lore",
+    "platform": "PC",
+    "developers": [
+      "Origin Systems, Inc."
+    ],
+    "publishers": [
+      "Origin Systems, Inc."
+    ],
+    "year": 1989,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Times_of_Lore_(DOS)",
+    "songs": [
+      {
+        "song": "creat1.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat1.m",
+        "size": 420,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat2.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat2.m",
+        "size": 897,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat3.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat3.m",
+        "size": 332,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat4.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat4.m",
+        "size": 666,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat5.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat5.m",
+        "size": 1139,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat6.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat6.m",
+        "size": 792,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat7.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat7.m",
+        "size": 440,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "creat8.m",
+        "song_link": "VGMPF/PC/Times of Lore/creat8.m",
+        "size": 861,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "end1.m",
+        "song_link": "VGMPF/PC/Times of Lore/end1.m",
+        "size": 335,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "end2.m",
+        "song_link": "VGMPF/PC/Times of Lore/end2.m",
+        "size": 626,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      },
+      {
+        "song": "title1.m",
+        "song_link": "VGMPF/PC/Times of Lore/title1.m",
+        "size": 1834,
+        "composer": "Martin Galway, Herman Miller",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/54/Times_of_Lore_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Titus the Fox",
     "platform": "Amiga",
     "developers": [
@@ -15511,6 +16227,105 @@
         "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-7.med",
         "size": 19624,
         "composer": "Kenneth W. Arnold"
+      }
+    ]
+  },
+  {
+    "game": "Ultima VI: The False Prophet",
+    "platform": "PC",
+    "developers": [
+      "Origin Systems, Inc."
+    ],
+    "publishers": [
+      "Origin Systems, Inc."
+    ],
+    "year": 1990,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)",
+    "songs": [
+      {
+        "song": "bootup.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/bootup.m",
+        "size": 421,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "brit.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/brit.m",
+        "size": 982,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "create.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/create.m",
+        "size": 647,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "dungeon.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/dungeon.m",
+        "size": 469,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "end.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/end.m",
+        "size": 880,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "engage.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/engage.m",
+        "size": 943,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "forest.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/forest.m",
+        "size": 550,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "gargoyle.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/gargoyle.m",
+        "size": 666,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "hornpipe.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/hornpipe.m",
+        "size": 1016,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "intro.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/intro.m",
+        "size": 544,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "stones.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/stones.m",
+        "size": 1256,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
+      },
+      {
+        "song": "ultima.m",
+        "song_link": "VGMPF/PC/Ultima VI The False Prophet/ultima.m",
+        "size": 1704,
+        "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       }
     ]
   },
