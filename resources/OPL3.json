@@ -332,5 +332,127 @@
         "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
       }
     ]
+  },
+  {
+    "game": "Polanie",
+    "platform": "PC",
+    "developers": [
+      "MDF"
+    ],
+    "publishers": [
+      "USER"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "muzyka01.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka01.s3m",
+        "size": 76667,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka02.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka02.s3m",
+        "size": 75099,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka03.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka03.s3m",
+        "size": 73842,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka04.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka04.s3m",
+        "size": 74263,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka05.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka05.s3m",
+        "size": 75514,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka06.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka06.s3m",
+        "size": 78311,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka07.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka07.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka08.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka08.s3m",
+        "size": 74095,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka09.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka09.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka10.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka10.s3m",
+        "size": 73893,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka11.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka11.s3m",
+        "size": 84942,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka12.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka12.s3m",
+        "size": 78664,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka13.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka13.s3m",
+        "size": 78913,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka14.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka14.s3m",
+        "size": 80776,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka15.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka15.s3m",
+        "size": 84942,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka16.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka16.s3m",
+        "size": 76100,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka17.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka17.s3m",
+        "size": 77375,
+        "composer": "Marcin Adamowicz"
+      },
+      {
+        "song": "muzyka18.s3m",
+        "song_link": "resources/OPL3/Polanie/muzyka18.s3m",
+        "size": 77475,
+        "composer": "Marcin Adamowicz"
+      }
+    ]
   }
 ]

@@ -32,5 +32,6 @@ const sources = {
 	}
 	const db = result.flat().sort((g1, g2) => g1.game <= g2.game ? -1 : 1);
 	fs.writeFileSync(`${DATA}/index.json`, JSON.stringify(db, null, 2));
-	console.log(`\n   === total\n\ngames: ${db.length}`);
+	const songs = db.map(({ songs }) => songs.length).reduce((sum, count) => sum+count, 0);
+	console.log(`\n   === total\n\ngames: ${db.length}\nsongs: ${songs}`);
 })();
