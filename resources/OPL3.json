@@ -1,5 +1,439 @@
 [
   {
+    "game": "Day of the Tentacle",
+    "platform": "PC",
+    "developers": [
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "dott_1970's_museum.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_1970's_museum.laa",
+        "size": 14056,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_1970's_museum1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_1970's_museum1.laa",
+        "size": 3406,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_ben_franklin's_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_ben_franklin's_room.laa",
+        "size": 2790,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_bernard's_apartment.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_bernard's_apartment.laa",
+        "size": 14095,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_betsy_ross'_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_betsy_ross'_room.laa",
+        "size": 2900,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station.laa",
+        "size": 2590,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station1.laa",
+        "size": 12654,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station2.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station2.laa",
+        "size": 484,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station3.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station3.laa",
+        "size": 2707,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station4.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station4.laa",
+        "size": 1457,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station5.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station5.laa",
+        "size": 2441,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station6.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station6.laa",
+        "size": 5309,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_chron-o-john_station7.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_chron-o-john_station7.laa",
+        "size": 3955,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_cigar_salesman_and_vat-o-teeth.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_cigar_salesman_and_vat-o-teeth.laa",
+        "size": 11127,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_cigar_salesman_and_vat-o-teeth1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_cigar_salesman_and_vat-o-teeth1.laa",
+        "size": 4400,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dott_ending_credits.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dott_ending_credits.laa",
+        "size": 1738,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dott_ending_credits1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dott_ending_credits1.laa",
+        "size": 9732,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dott_logo.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dott_logo.laa",
+        "size": 22613,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_bedroom.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_bedroom.laa",
+        "size": 4176,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab.laa",
+        "size": 5783,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab1.laa",
+        "size": 12123,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab2.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab2.laa",
+        "size": 6524,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab3.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab3.laa",
+        "size": 2723,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab4.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab4.laa",
+        "size": 4319,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dr._fred's_lab_(opening_cutscene).laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dr._fred's_lab_(opening_cutscene).laa",
+        "size": 8962,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_dwayne's_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_dwayne's_room.laa",
+        "size": 17770,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_field_with_ben_franklin.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_field_with_ben_franklin.laa",
+        "size": 2309,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_flowers_with_clean_river.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_flowers_with_clean_river.laa",
+        "size": 2023,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_flying_the_kite.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_flying_the_kite.laa",
+        "size": 7199,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_future_hotel_basement.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_future_hotel_basement.laa",
+        "size": 4351,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_future_hotel_exteriors.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_future_hotel_exteriors.laa",
+        "size": 5958,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_future_hotel_lobby.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_future_hotel_lobby.laa",
+        "size": 4002,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_green_tentacle's_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_green_tentacle's_room.laa",
+        "size": 11859,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_honeymoon_suite.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_honeymoon_suite.laa",
+        "size": 6767,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_kennel.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_kennel.laa",
+        "size": 9005,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_kennel1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_kennel1.laa",
+        "size": 4500,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_lec_logo.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_lec_logo.laa",
+        "size": 6261,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_lec_logo1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_lec_logo1.laa",
+        "size": 3986,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_lec_logo2.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_lec_logo2.laa",
+        "size": 2892,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_lec_logo3.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_lec_logo3.laa",
+        "size": 5789,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_maniac_mansion_overview_(bird_chokes).laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_maniac_mansion_overview_(bird_chokes).laa",
+        "size": 5212,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_meanwhile....laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_meanwhile....laa",
+        "size": 4893,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_ned_and_jed's_modeling_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_ned_and_jed's_modeling_room.laa",
+        "size": 8805,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_nurse_edna's_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_nurse_edna's_room.laa",
+        "size": 16230,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_out-of-control_time_travel_1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_out-of-control_time_travel_1.laa",
+        "size": 4592,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_parking_lot.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_parking_lot.laa",
+        "size": 4001,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_past_hotel_exteriors.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_past_hotel_exteriors.laa",
+        "size": 2535,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_past_hotel_lobby.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_past_hotel_lobby.laa",
+        "size": 6569,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_past_hotel_main_hall.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_past_hotel_main_hall.laa",
+        "size": 7050,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_past_hotel_main_hall1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_past_hotel_main_hall1.laa",
+        "size": 4625,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_past_hotel_rooftop.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_past_hotel_rooftop.laa",
+        "size": 5441,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_attic.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_attic.laa",
+        "size": 3904,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_exteriors.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_exteriors.laa",
+        "size": 5633,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_exteriors1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_exteriors1.laa",
+        "size": 2455,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_exteriors2.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_exteriors2.laa",
+        "size": 11432,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby.laa",
+        "size": 6057,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby1.laa",
+        "size": 5185,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby2.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby2.laa",
+        "size": 7921,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby3.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby3.laa",
+        "size": 2269,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby4.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby4.laa",
+        "size": 3051,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby5.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby5.laa",
+        "size": 5521,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_present_hotel_lobby6.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_present_hotel_lobby6.laa",
+        "size": 2636,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_red_edison's_lab.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_red_edison's_lab.laa",
+        "size": 9177,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_red_edison's_lab1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_red_edison's_lab1.laa",
+        "size": 4284,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_sludge_riverside_(purple_tentacle_mutates).laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_sludge_riverside_(purple_tentacle_mutates).laa",
+        "size": 7906,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_tentacle_headquarters.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_tentacle_headquarters.laa",
+        "size": 9617,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_the_human_show.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_the_human_show.laa",
+        "size": 13119,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_weird_ed_edison's_room.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_weird_ed_edison's_room.laa",
+        "size": 5081,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_weird_ed_edison's_room1.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_weird_ed_edison's_room1.laa",
+        "size": 2126,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      },
+      {
+        "song": "dott_ye_olde_outhouses.laa",
+        "song_link": "resources/opl3/Day of the Tentacle/dott_ye_olde_outhouses.laa",
+        "size": 9147,
+        "composer": "Peter McConnell, Michael Land, Clint Bajakian"
+      }
+    ]
+  },
+  {
     "game": "Final Doom - The Plutonia Experiment",
     "platform": "PC",
     "developers": [
@@ -330,6 +764,1352 @@
         "song_link": "resources/OPL3/Final Doom - TNT Evilution/THE_DA.MUS",
         "size": 4309,
         "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+      }
+    ]
+  },
+  {
+    "game": "Indiana Jones and the Last Crusade",
+    "platform": "PC",
+    "developers": [
+      "Lucasfilm Games"
+    ],
+    "publishers": [
+      "Lucasfilm Games"
+    ],
+    "year": 1989,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ij3_book_burning.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_book_burning.laa",
+        "size": 7986,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_castle.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_castle.laa",
+        "size": 3187,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_creepy.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_creepy.laa",
+        "size": 1011,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_escape.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_escape.laa",
+        "size": 5491,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_gloomy.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_gloomy.laa",
+        "size": 1267,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_grail.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_grail.laa",
+        "size": 3315,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_theme.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_theme.laa",
+        "size": 6771,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_title_theme.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_title_theme.laa",
+        "size": 9842,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_travel.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_travel.laa",
+        "size": 1522,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_vienna.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_vienna.laa",
+        "size": 3826,
+        "composer": "Eric Hammond"
+      },
+      {
+        "song": "ij3_vienna2.laa",
+        "song_link": "resources/opl3/Indiana Jones 3/ij3_vienna2.laa",
+        "size": 1779,
+        "composer": "Eric Hammond"
+      }
+    ]
+  },
+  {
+    "game": "Indiana Jones and the Fate of Atlantis",
+    "platform": "PC",
+    "developers": [
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ij4_algiers_-_balloon_starting_place.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_balloon_starting_place.laa",
+        "size": 3084,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_balloon_starting_place1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_balloon_starting_place1.laa",
+        "size": 2211,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place.laa",
+        "size": 3454,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place1.laa",
+        "size": 3475,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place2.laa",
+        "size": 3253,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place3.laa",
+        "size": 5752,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place4.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place4.laa",
+        "size": 2957,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place5.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place5.laa",
+        "size": 5444,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_algiers_-_market_place6.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_algiers_-_market_place6.laa",
+        "size": 2315,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_inner_lava_pit_(top_view).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_inner_lava_pit_(top_view).laa",
+        "size": 5996,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_inner_lava_pit_(top_view)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_inner_lava_pit_(top_view)1.laa",
+        "size": 4334,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_middle_ring_(top_view).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_middle_ring_(top_view).laa",
+        "size": 2903,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_middle_ring_(top_view)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_middle_ring_(top_view)1.laa",
+        "size": 2454,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_outer_ring_(upper_left_sector).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_outer_ring_(upper_left_sector).laa",
+        "size": 6703,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_atlantis_-_underwater_gate.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_atlantis_-_underwater_gate.laa",
+        "size": 12838,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_balloon_ride_(desert).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_balloon_ride_(desert).laa",
+        "size": 9724,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_balloon_ride_(desert)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_balloon_ride_(desert)1.laa",
+        "size": 9523,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_attic_(low_level).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_attic_(low_level).laa",
+        "size": 2480,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_attic_(low_level)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_attic_(low_level)1.laa",
+        "size": 2799,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_attic_(top_level).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_attic_(top_level).laa",
+        "size": 7064,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_attic_(top_level)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_attic_(top_level)1.laa",
+        "size": 7299,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_cellar.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_cellar.laa",
+        "size": 8451,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_library.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_library.laa",
+        "size": 2193,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_wax_cat_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_wax_cat_room.laa",
+        "size": 3553,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_wax_cat_room1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_wax_cat_room1.laa",
+        "size": 7133,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_caswell_hall_-_wax_cat_room2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_caswell_hall_-_wax_cat_room2.laa",
+        "size": 2519,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_crete_-_dig_site.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_crete_-_dig_site.laa",
+        "size": 2178,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_crete_dig_site_-_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_crete_dig_site_-_room.laa",
+        "size": 2773,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_crete_dig_site_-_room1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_crete_dig_site_-_room1.laa",
+        "size": 2321,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_desert.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_desert.laa",
+        "size": 9327,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_desert1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_desert1.laa",
+        "size": 4214,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_door_opening_machine.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_door_opening_machine.laa",
+        "size": 4089,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_door_opening_machine1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_door_opening_machine1.laa",
+        "size": 4261,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_end_credits.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_end_credits.laa",
+        "size": 5277,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_end_credits1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_end_credits1.laa",
+        "size": 19461,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_gate_to_jail_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_gate_to_jail_room.laa",
+        "size": 2438,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_gate_to_middle_ring.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_gate_to_middle_ring.laa",
+        "size": 3180,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_german_laboratory.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_german_laboratory.laa",
+        "size": 9002,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_indy's_office.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_indy's_office.laa",
+        "size": 23263,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_indy's_office1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_indy's_office1.laa",
+        "size": 3724,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine.laa",
+        "size": 2070,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine1.laa",
+        "size": 10976,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine2.laa",
+        "size": 7811,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine3.laa",
+        "size": 14569,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine4.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine4.laa",
+        "size": 4504,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine5.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine5.laa",
+        "size": 5901,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine6.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine6.laa",
+        "size": 2824,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine7.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine7.laa",
+        "size": 9728,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_god_machine8.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_god_machine8.laa",
+        "size": 3162,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_inner_ring_of_atlantis_-_outside.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_inner_ring_of_atlantis_-_outside.laa",
+        "size": 5755,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_jail_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_jail_room.laa",
+        "size": 8151,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_jail_room1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_jail_room1.laa",
+        "size": 5126,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_klaus_kerner's_passport.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_klaus_kerner's_passport.laa",
+        "size": 6862,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_klaus_kerner's_passport1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_klaus_kerner's_passport1.laa",
+        "size": 3303,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_central_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_central_room.laa",
+        "size": 2370,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_exit.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_exit.laa",
+        "size": 2748,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_gate_to_atlantis.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_gate_to_atlantis.laa",
+        "size": 6476,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_lift_2_(low).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_lift_2_(low).laa",
+        "size": 5628,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_lift_2_(top).laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_lift_2_(top).laa",
+        "size": 2976,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_lift_2_(top)1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_lift_2_(top)1.laa",
+        "size": 4516,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_room_2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_room_2.laa",
+        "size": 6920,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_standard_room_1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_standard_room_1.laa",
+        "size": 2529,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_labyrinth_-_standard_room_11.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_labyrinth_-_standard_room_11.laa",
+        "size": 2085,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_lava_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_lava_room.laa",
+        "size": 4031,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_lava_room1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_lava_room1.laa",
+        "size": 4132,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_middle_ring_of_atlantis_-_lava_pit.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_middle_ring_of_atlantis_-_lava_pit.laa",
+        "size": 3578,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_middle_ring_of_atlantis_-_lava_pit1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_middle_ring_of_atlantis_-_lava_pit1.laa",
+        "size": 2915,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_hotel_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_hotel_room.laa",
+        "size": 5015,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel.laa",
+        "size": 5709,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel1.laa",
+        "size": 4605,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel2.laa",
+        "size": 5466,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel3.laa",
+        "size": 2257,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel4.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel4.laa",
+        "size": 12734,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel5.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel5.laa",
+        "size": 4416,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_monte_carlo_-_in_front_of_hotel6.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_monte_carlo_-_in_front_of_hotel6.laa",
+        "size": 23263,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_new_york.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_new_york.laa",
+        "size": 13392,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_new_york1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_new_york1.laa",
+        "size": 2515,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_new_york2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_new_york2.laa",
+        "size": 9740,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_outer_ring_of_atlantis_-_standard_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_outer_ring_of_atlantis_-_standard_room.laa",
+        "size": 7863,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_necklace.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_necklace.laa",
+        "size": 2586,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_necklace1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_necklace1.laa",
+        "size": 2357,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_necklace2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_necklace2.laa",
+        "size": 8978,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_room.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_room.laa",
+        "size": 4112,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_room1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_room1.laa",
+        "size": 3669,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_sophia's_room2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_sophia's_room2.laa",
+        "size": 3829,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage.laa",
+        "size": 6817,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage1.laa",
+        "size": 6254,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage2.laa",
+        "size": 7363,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage3.laa",
+        "size": 3562,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage4.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage4.laa",
+        "size": 6368,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_stage5.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_stage5.laa",
+        "size": 5563,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_submarine_back_section.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_submarine_back_section.laa",
+        "size": 3137,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_submarine_top_section_-_outside_view.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_submarine_top_section_-_outside_view.laa",
+        "size": 8072,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_submarine_top_section_-_outside_view1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_submarine_top_section_-_outside_view1.laa",
+        "size": 2864,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_thera_-_path_to_mountains.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_thera_-_path_to_mountains.laa",
+        "size": 2829,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_thera_-_path_to_mountains1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_thera_-_path_to_mountains1.laa",
+        "size": 7785,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_thera_-_path_to_mountains2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_thera_-_path_to_mountains2.laa",
+        "size": 6340,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_thera_-_path_to_mountains3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_thera_-_path_to_mountains3.laa",
+        "size": 16884,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_inside_temple.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_inside_temple.laa",
+        "size": 6872,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_inside_temple1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_inside_temple1.laa",
+        "size": 15026,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_jungle.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_jungle.laa",
+        "size": 16373,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_jungle1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_jungle1.laa",
+        "size": 11561,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_jungle2.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_jungle2.laa",
+        "size": 11676,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tical_-_jungle3.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tical_-_jungle3.laa",
+        "size": 2786,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_title_screen_-_lucasarts_logo.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_title_screen_-_lucasarts_logo.laa",
+        "size": 5578,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tunnel_machine_ride.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tunnel_machine_ride.laa",
+        "size": 5795,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_tunnel_machine_ride1.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_tunnel_machine_ride1.laa",
+        "size": 9597,
+        "composer": "Peter McConnell"
+      },
+      {
+        "song": "ij4_world_map.laa",
+        "song_link": "resources/opl3/Indiana Jones 4/ij4_world_map.laa",
+        "size": 7703,
+        "composer": "Peter McConnell"
+      }
+    ]
+  },
+  {
+    "game": "Secret of Monkey Island, The",
+    "platform": "PC",
+    "developers": [
+      "Lucasfilm games"
+    ],
+    "publishers": [
+      "Lucasfilm games"
+    ],
+    "year": 1990,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "mi1_church.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_church.laa",
+        "size": 1889,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_circus.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_circus.laa",
+        "size": 3681,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_elaine.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_elaine.laa",
+        "size": 5857,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_elaine2.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_elaine2.laa",
+        "size": 5473,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_hell.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_hell.laa",
+        "size": 3042,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_lechuck.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_lechuck.laa",
+        "size": 6241,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_lookout.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_lookout.laa",
+        "size": 3169,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_monkey_island.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_monkey_island.laa",
+        "size": 2530,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_next_part.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_next_part.laa",
+        "size": 1633,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_pirate_ship.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_pirate_ship.laa",
+        "size": 4321,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_scumm_bar.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_scumm_bar.laa",
+        "size": 4705,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_theme.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_theme.laa",
+        "size": 8674,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_title_theme.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_title_theme.laa",
+        "size": 21474,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_woods.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_woods.laa",
+        "size": 4578,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_woods2.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_woods2.laa",
+        "size": 3169,
+        "composer": "Michael Land"
+      },
+      {
+        "song": "mi1_woods3.laa",
+        "song_link": "resources/opl3/Monkey Island/mi1_woods3.laa",
+        "size": 3554,
+        "composer": "Michael Land"
+      }
+    ]
+  },
+  {
+    "game": "Secret of Monkey Island 2, The",
+    "platform": "PC",
+    "developers": [
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts"
+    ],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "mi2_big_tree.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_big_tree.laa",
+        "size": 19645,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_big_tree1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_big_tree1.laa",
+        "size": 3416,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_booty_island_overview.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_booty_island_overview.laa",
+        "size": 21384,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_captain_dread's_boat_interiors.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_captain_dread's_boat_interiors.laa",
+        "size": 2368,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_dinky_island_beach.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_dinky_island_beach.laa",
+        "size": 23845,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_dinky_island_beach1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_dinky_island_beach1.laa",
+        "size": 4620,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_dinky_island_beach2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_dinky_island_beach2.laa",
+        "size": 6849,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_elaine's_room.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_elaine's_room.laa",
+        "size": 15222,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_elaine's_room1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_elaine's_room1.laa",
+        "size": 6676,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_governor_phatt's_lobby.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_governor_phatt's_lobby.laa",
+        "size": 8167,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_governor_phatt's_lobby1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_governor_phatt's_lobby1.laa",
+        "size": 11044,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_governor_phatt's_room.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_governor_phatt's_room.laa",
+        "size": 7536,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_governor_phatt's_room1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_governor_phatt's_room1.laa",
+        "size": 4700,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_if_this_is_three....laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_if_this_is_three....laa",
+        "size": 11124,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_international_house_of_mojo.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_international_house_of_mojo.laa",
+        "size": 8806,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_kate_capsize's_boat.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_kate_capsize's_boat.laa",
+        "size": 17352,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_largo's_hotel_room.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_largo's_hotel_room.laa",
+        "size": 4941,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room.laa",
+        "size": 4583,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room1.laa",
+        "size": 9269,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room10.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room10.laa",
+        "size": 4781,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room11.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room11.laa",
+        "size": 3047,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room12.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room12.laa",
+        "size": 2804,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room13.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room13.laa",
+        "size": 3750,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room2.laa",
+        "size": 9964,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room3.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room3.laa",
+        "size": 14398,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room4.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room4.laa",
+        "size": 2827,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room5.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room5.laa",
+        "size": 8798,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room6.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room6.laa",
+        "size": 3163,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room7.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room7.laa",
+        "size": 3935,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room8.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room8.laa",
+        "size": 5390,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_fortress_shipping_room9.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_fortress_shipping_room9.laa",
+        "size": 4904,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_torture_chamber.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_torture_chamber.laa",
+        "size": 8207,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_lechuck's_voodoo_throne.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_lechuck's_voodoo_throne.laa",
+        "size": 5659,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_monkey_island_2_introduction.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_monkey_island_2_introduction.laa",
+        "size": 24728,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_outside_governor_marley's_mansion.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_outside_governor_marley's_mansion.laa",
+        "size": 5121,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_outside_governor_phatt's_mansion.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_outside_governor_phatt's_mansion.laa",
+        "size": 5413,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_part_i_the_largo_embargo.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_part_i_the_largo_embargo.laa",
+        "size": 2051,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_phatt_island_alley.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_phatt_island_alley.laa",
+        "size": 21976,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_phatt_island_jail.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_phatt_island_jail.laa",
+        "size": 4212,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_phatt_island_overview.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_phatt_island_overview.laa",
+        "size": 9974,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_phatt_island_waterfall.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_phatt_island_waterfall.laa",
+        "size": 11825,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_rum_rogers_cottage_exteriors.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_rum_rogers_cottage_exteriors.laa",
+        "size": 9113,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_rum_rogers_cottage_exteriors1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_rum_rogers_cottage_exteriors1.laa",
+        "size": 4930,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_rum_rogers_cottage_interiors.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_rum_rogers_cottage_interiors.laa",
+        "size": 7153,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_rum_rogers_cottage_interiors1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_rum_rogers_cottage_interiors1.laa",
+        "size": 3026,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_rum_rogers_cottage_interiors2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_rum_rogers_cottage_interiors2.laa",
+        "size": 2734,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_scabb_island_beach.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_scabb_island_beach.laa",
+        "size": 11126,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_scrabb_island_cemetary.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_scrabb_island_cemetary.laa",
+        "size": 13937,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_stan's_previously_owned_coffins.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_stan's_previously_owned_coffins.laa",
+        "size": 8465,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_the_carnival_of_the_damned.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_the_carnival_of_the_damned.laa",
+        "size": 14467,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_the_carnival_of_the_damned1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_the_carnival_of_the_damned1.laa",
+        "size": 26697,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_elevator.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_elevator.laa",
+        "size": 7348,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_elevator1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_elevator1.laa",
+        "size": 5526,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine.laa",
+        "size": 3229,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine1.laa",
+        "size": 4888,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine2.laa",
+        "size": 3383,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine3.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine3.laa",
+        "size": 2300,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine4.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine4.laa",
+        "size": 2568,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine5.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine5.laa",
+        "size": 3139,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine6.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine6.laa",
+        "size": 3323,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_grog_machine7.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_grog_machine7.laa",
+        "size": 3752,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room.laa",
+        "size": 8322,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room1.laa",
+        "size": 4432,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room2.laa",
+        "size": 2706,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room3.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room3.laa",
+        "size": 3442,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room4.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room4.laa",
+        "size": 2135,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room5.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room5.laa",
+        "size": 2662,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room6.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room6.laa",
+        "size": 2727,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_underground_tunnel_storage_room7.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_underground_tunnel_storage_room7.laa",
+        "size": 2877,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_ville_de_la_booty.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_ville_de_la_booty.laa",
+        "size": 21539,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_ville_de_la_booty1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_ville_de_la_booty1.laa",
+        "size": 16267,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_ville_de_la_booty2.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_ville_de_la_booty2.laa",
+        "size": 24428,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_wally.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_wally.laa",
+        "size": 4457,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick.laa",
+        "size": 13506,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick1.laa",
+        "size": 12409,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick_bar.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick_bar.laa",
+        "size": 5195,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick_bar1.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick_bar1.laa",
+        "size": 10298,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick_inn.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick_inn.laa",
+        "size": 6519,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick_laundromat.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick_laundromat.laa",
+        "size": 7749,
+        "composer": "Peter McConnell, Clint Bajakian"
+      },
+      {
+        "song": "mi2_woodtick_woodshop.laa",
+        "song_link": "resources/opl3/Monkey Island 2/mi2_woodtick_woodshop.laa",
+        "size": 6405,
+        "composer": "Peter McConnell, Clint Bajakian"
       }
     ]
   },
