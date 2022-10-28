@@ -10,11 +10,11 @@ const { sequential } = require('../lib/utils');
 
 const PLATFORM_MAP = { 'DOS': 'PC' };
 
-async function fetchGame({ url, composer, song_pattern, song_count, rate, samples }, source) {
+async function fetchGame({ url, composer, song_pattern, song_count, rate, samples }, source, options) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
 	const infoTable = xpath.select1('//div[@id="mw-content-text"]/table[1]', doc);
-	const game = xpath.select('normalize-space(./tr[1]/td)', infoTable);
+	const game = options.game || xpath.select('normalize-space(./tr[1]/td)', infoTable);
 	const metricsTable = xpath.select1('.//table', infoTable);
 	const platformStr = xpath.select('normalize-space(./tr[normalize-space(./td[1]) = "Platform:"]/td[2])', metricsTable);
 	const platform = PLATFORM_MAP[platformStr] || platformStr;
@@ -139,8 +139,14 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)', composer: 'SEGA', song_pattern: /^Originals\/Uncompressed\/[^/]+\.MDI/, song_count: 21 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)', composer: 'Michel Golgevit, Zorba Kouaik', song_pattern: /^Originals\/Decompressed\/Music \(AdLib\)\/[^/]+\.MDI/, song_count: 9 },
 	];
+	const gameOptions = {
+		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
+		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
+	};
 	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames];
-	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
+	return (await sequential(games.map(game => () =>
+		fetchGame(game, source, { ...gameOptions[game.url] })
+	))).filter(game => game);
 }
 
 exports.fetchVgmpf = fetchVgmpf;

@@ -1,0 +1,2 @@
+extract files from WAD archive with WADex.exe
+rename GENMIDI to GENMIDI.OP2
