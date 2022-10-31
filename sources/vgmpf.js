@@ -61,18 +61,18 @@ async function fetchGame({ url, composer, song_pattern, song_count, rate, sample
 }
 
 function splitSong(song, game) {
-	let subsongs = [];
-	if (game === "Dune II: The Building of a Dynasty")
-		subsongs = splitSongDune2(song);
-	return subsongs.length < 1 ? [song] : subsongs.map(i => ({
+	let subsongs = null;
+	if (splitSongFixed[game])
+		subsongs = splitSongFixed[game][song.song];
+	return !subsongs ? [song] : subsongs.map(i => ({
 		...song,
 		song: `${song.song} #${i+1}`,
 		song_link: `${song.song_link}#${i+1}`,
 	}));
 }
 
-function splitSongDune2(song) {
-	const tracks = {
+const splitSongFixed = {
+	'Dune II': {
 		'DUNE0.ADL': [2, 4], // intro, logo
 		'DUNE1.ADL': [2, 3, 4, 5, 6], // menu, defeat, defeat, defeat, game
 		'DUNE10.ADL': [2, 7], // menu, rush
@@ -94,9 +94,55 @@ function splitSongDune2(song) {
 		'DUNE7.ADL': [2, 3, 4, 6], // mentat, mentat, mentat, menu
 		'DUNE8.ADL': [2, 3], // victory, victory
 		'DUNE9.ADL': [4, 5], // game, game
-	};
-	return tracks[song.song] || [];
-}
+	},
+	'Eye of the Beholder': {
+		'SOUND.ADL': [1, 2, 3],
+	},
+	'Eye of the Beholder II: The Legend of Darkmoon': {
+		'AZURE.ADL': [52, 54, 55, 57, 59, 61],
+		'CATACOMB.ADL': [53, 57, 59],
+		'CRIMSON1.ADL': [59, 60, 61, 62],
+		'CRIMSON2.ADL': [52, 53, 54, 55, 56],
+		'FINALE1.ADL': [1],
+		'FINALE2.ADL': [1],
+		'FOREST.ADL': [52],
+		'INTRO.ADL': [12, 13],
+		'MEZANINE.ADL': [52, 53, 58],
+		'SILVER.ADL': [54, 55, 59, 60, 61],
+	},
+	'The Legend of Kyrandia: Book One': {
+		'intro.adl': [2, 3, 4, 5],
+		'kyra1a.adl': [2, 3, 4],
+		'kyra1b.adl': [2, 3, 4, 6, 8],
+		'kyra2a.adl': [2, 3, 4, 5, 6, 7],
+		'kyra3a.adl': [3, 4],
+		'kyra4a.adl': [2, 3, 7, 8],
+		'kyra4b.adl': [],
+		'kyra5a.adl': [2, 3, 4, 5],
+		'kyra5b.adl': [2, 5, 8, 9],
+		'kyramisc.adl': [2, 3],
+	},
+	'The Legend of Kyrandia: Book Two - The Hand of Fate': {
+		'K2FINALE.ADL': [2, 3, 4],
+		'K2INTRO.ADL': [2, 3, 4, 5, 6, 7, 8],
+		'K2SFX.ADL': [],
+		'K2TEST1.ADL': [2, 3],
+		'K2TEST10.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
+		'K2TEST11.ADL': [2, 3, 4, 5, 6, 7],
+		'K2TEST12.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
+		'K2TEST13.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
+		'K2TEST14.ADL': [2],
+		'K2TEST15.ADL': [2, 3, 4, 5],
+		'K2TEST2.ADL': [2, 3],
+		'K2TEST3.ADL': [2, 3],
+		'K2TEST4.ADL': [2, 3],
+		'K2TEST5.ADL': [2, 3, 4, 5, 6, 7],
+		'K2TEST6.ADL': [3, 4],
+		'K2TEST7.ADL': [2, 3, 4, 5],
+		'K2TEST8.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
+		'K2TEST9.ADL': [2, 4, 5, 6, 7, 8, 9],
+	},
+};
 
 async function fetchVgmpf(source) {
 	const imfGames = [
@@ -134,6 +180,10 @@ async function fetchVgmpf(source) {
 	];
 	const adlGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)', composer: 'Frank Klepacki, Paul Mudra', song_pattern: /^Originals\/[^/]+\.ADL/, song_count: 21 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_(DOS)', composer: 'Paul Mudra', song_pattern: /^Originals\/AdLib\/SOUND\.ADL/, song_count: 1 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon_(DOS)', composer: 'Frank Klepacki', song_pattern: /^Originals\/Music \(AdLib\)\/[^/]+\.ADL/, song_count: 10 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_One_(DOS)', composer: 'Frank Klepacki', song_pattern: /^Legend of Kyrandia, The - Book 1 \(DOS\)\/Originals\/[^/]+\.adl/, song_count: 10 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)', composer: 'Frank Klepacki', song_pattern: /^Originals\/(AUDIO|INTROGEN).PAK\/[^/]+\.ADL/, song_count: 18 },
 	];
 	const mdiGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)', composer: 'SEGA', song_pattern: /^Originals\/Uncompressed\/[^/]+\.MDI/, song_count: 21 },
