@@ -5619,148 +5619,246 @@
     "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)",
     "songs": [
       {
-        "song": "DUNE0.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE0.ADL",
+        "song": "DUNE0.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE0.ADL#3",
         "size": 14473,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE1.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL",
+        "song": "DUNE0.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE0.ADL#5",
+        "size": 14473,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL#3",
         "size": 14063,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE10.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE10.ADL",
+        "song": "DUNE1.ADL #4",
+        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL#4",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL#5",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #6",
+        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL#6",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE1.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE1.ADL#7",
+        "size": 14063,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE10.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE10.ADL#3",
         "size": 14711,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE11.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE11.ADL",
+        "song": "DUNE10.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE10.ADL#8",
+        "size": 14711,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE11.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE11.ADL#8",
         "size": 13990,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE12.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE12.ADL",
+        "song": "DUNE12.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE12.ADL#8",
         "size": 11129,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE13.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE13.ADL",
+        "song": "DUNE13.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE13.ADL#8",
         "size": 11699,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE14.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE14.ADL",
+        "song": "DUNE14.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE14.ADL#8",
         "size": 10827,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE15.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE15.ADL",
+        "song": "DUNE15.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE15.ADL#8",
         "size": 12414,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE16.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE16.ADL",
+        "song": "DUNE16.ADL #8",
+        "song_link": "VGMPF/PC/Dune II/DUNE16.ADL#8",
         "size": 7406,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE17.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE17.ADL",
+        "song": "DUNE16.ADL #9",
+        "song_link": "VGMPF/PC/Dune II/DUNE16.ADL#9",
+        "size": 7406,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE17.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE17.ADL#5",
         "size": 7567,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE18.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE18.ADL",
+        "song": "DUNE18.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE18.ADL#7",
         "size": 10813,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE19.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE19.ADL",
+        "song": "DUNE19.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE19.ADL#3",
         "size": 7257,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE2.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE2.ADL",
+        "song": "DUNE19.ADL #4",
+        "song_link": "VGMPF/PC/Dune II/DUNE19.ADL#4",
+        "size": 7257,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE19.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE19.ADL#5",
+        "size": 7257,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE2.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE2.ADL#7",
         "size": 12199,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE20.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE20.ADL",
+        "song": "DUNE20.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE20.ADL#3",
         "size": 13808,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE3.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE3.ADL",
+        "song": "DUNE3.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE3.ADL#7",
         "size": 9300,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE4.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE4.ADL",
+        "song": "DUNE4.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE4.ADL#7",
         "size": 10457,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE5.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE5.ADL",
+        "song": "DUNE5.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE5.ADL#7",
         "size": 12947,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE6.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE6.ADL",
+        "song": "DUNE6.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE6.ADL#7",
         "size": 10552,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE7.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE7.ADL",
+        "song": "DUNE7.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE7.ADL#3",
         "size": 12860,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE8.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE8.ADL",
+        "song": "DUNE7.ADL #4",
+        "song_link": "VGMPF/PC/Dune II/DUNE7.ADL#4",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE7.ADL#5",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE7.ADL #7",
+        "song_link": "VGMPF/PC/Dune II/DUNE7.ADL#7",
+        "size": 12860,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE8.ADL #3",
+        "song_link": "VGMPF/PC/Dune II/DUNE8.ADL#3",
         "size": 11697,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
       },
       {
-        "song": "DUNE9.ADL",
-        "song_link": "VGMPF/PC/Dune II/DUNE9.ADL",
+        "song": "DUNE8.ADL #4",
+        "song_link": "VGMPF/PC/Dune II/DUNE8.ADL#4",
+        "size": 11697,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE9.ADL #5",
+        "song_link": "VGMPF/PC/Dune II/DUNE9.ADL#5",
+        "size": 15519,
+        "composer": "Frank Klepacki, Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "DUNE9.ADL #6",
+        "song_link": "VGMPF/PC/Dune II/DUNE9.ADL#6",
         "size": 15519,
         "composer": "Frank Klepacki, Paul Mudra",
         "source_archive": "http://www.vgmpf.com/Wiki/images/1/12/Dune_II_-_Building_of_a_Dynasty%2C_The_%28DOS%29.zip"
@@ -6075,6 +6173,275 @@
         "size": 34696,
         "composer": "Bjørn Lynne",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FEscape_from_Colditz.lha"
+      }
+    ]
+  },
+  {
+    "game": "Eye of the Beholder",
+    "platform": "PC",
+    "developers": [
+      "Westwood Associates"
+    ],
+    "publishers": [
+      "Strategic Simulations, Inc.",
+      "Kixx"
+    ],
+    "year": 1990,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_(DOS)",
+    "songs": [
+      {
+        "song": "SOUND.ADL #2",
+        "song_link": "VGMPF/PC/Eye of the Beholder/SOUND.ADL#2",
+        "size": 13139,
+        "composer": "Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/38/Eye_of_the_Beholder_%28DOS%29.zip"
+      },
+      {
+        "song": "SOUND.ADL #3",
+        "song_link": "VGMPF/PC/Eye of the Beholder/SOUND.ADL#3",
+        "size": 13139,
+        "composer": "Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/38/Eye_of_the_Beholder_%28DOS%29.zip"
+      },
+      {
+        "song": "SOUND.ADL #4",
+        "song_link": "VGMPF/PC/Eye of the Beholder/SOUND.ADL#4",
+        "size": 13139,
+        "composer": "Paul Mudra",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/38/Eye_of_the_Beholder_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Eye of the Beholder II: The Legend of Darkmoon",
+    "platform": "PC",
+    "developers": [
+      "Westwood Associates"
+    ],
+    "publishers": [
+      "Strategic Simulations, Inc."
+    ],
+    "year": 1991,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon_(DOS)",
+    "songs": [
+      {
+        "song": "AZURE.ADL #53",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#53",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "AZURE.ADL #55",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#55",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "AZURE.ADL #56",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#56",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "AZURE.ADL #58",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#58",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "AZURE.ADL #60",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#60",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "AZURE.ADL #62",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/AZURE.ADL#62",
+        "size": 10543,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CATACOMB.ADL #54",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CATACOMB.ADL#54",
+        "size": 8358,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CATACOMB.ADL #58",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CATACOMB.ADL#58",
+        "size": 8358,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CATACOMB.ADL #60",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CATACOMB.ADL#60",
+        "size": 8358,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON1.ADL #60",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON1.ADL#60",
+        "size": 7863,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON1.ADL #61",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON1.ADL#61",
+        "size": 7863,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON1.ADL #62",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON1.ADL#62",
+        "size": 7863,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON1.ADL #63",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON1.ADL#63",
+        "size": 7863,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON2.ADL #53",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON2.ADL#53",
+        "size": 9288,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON2.ADL #54",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON2.ADL#54",
+        "size": 9288,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON2.ADL #55",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON2.ADL#55",
+        "size": 9288,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON2.ADL #56",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON2.ADL#56",
+        "size": 9288,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "CRIMSON2.ADL #57",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/CRIMSON2.ADL#57",
+        "size": 9288,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "FINALE1.ADL #2",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/FINALE1.ADL#2",
+        "size": 8402,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "FINALE2.ADL #2",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/FINALE2.ADL#2",
+        "size": 13349,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "FOREST.ADL #53",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/FOREST.ADL#53",
+        "size": 6997,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.ADL #13",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/INTRO.ADL#13",
+        "size": 7849,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.ADL #14",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/INTRO.ADL#14",
+        "size": 7849,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "MEZANINE.ADL #53",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/MEZANINE.ADL#53",
+        "size": 8070,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "MEZANINE.ADL #54",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/MEZANINE.ADL#54",
+        "size": 8070,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "MEZANINE.ADL #59",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/MEZANINE.ADL#59",
+        "size": 8070,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "SILVER.ADL #55",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/SILVER.ADL#55",
+        "size": 10381,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "SILVER.ADL #56",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/SILVER.ADL#56",
+        "size": 10381,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "SILVER.ADL #60",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/SILVER.ADL#60",
+        "size": 10381,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "SILVER.ADL #61",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/SILVER.ADL#61",
+        "size": 10381,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "SILVER.ADL #62",
+        "song_link": "VGMPF/PC/Eye of the Beholder II The Legend of Darkmoon/SILVER.ADL#62",
+        "size": 10381,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
       }
     ]
   },
@@ -16641,6 +17008,839 @@
         "song_link": "World of Game MODs/PC/Terminal Velocity/Weave.mod",
         "size": 149496,
         "composer": "Kyle Richards"
+      }
+    ]
+  },
+  {
+    "game": "The Legend of Kyrandia: Book One",
+    "platform": "PC",
+    "developers": [
+      "Westwood Studios, Inc."
+    ],
+    "publishers": [
+      "Virgin Games, Inc.",
+      "Virgin Games, Ltd."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_One_(DOS)",
+    "songs": [
+      {
+        "song": "intro.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/intro.adl#3",
+        "size": 8405,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "intro.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/intro.adl#4",
+        "size": 8405,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "intro.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/intro.adl#5",
+        "size": 8405,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "intro.adl #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/intro.adl#6",
+        "size": 8405,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1a.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1a.adl#3",
+        "size": 30429,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1a.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1a.adl#4",
+        "size": 30429,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1a.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1a.adl#5",
+        "size": 30429,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1b.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1b.adl#3",
+        "size": 26634,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1b.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1b.adl#4",
+        "size": 26634,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1b.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1b.adl#5",
+        "size": 26634,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1b.adl #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1b.adl#7",
+        "size": 26634,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra1b.adl #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra1b.adl#9",
+        "size": 26634,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#3",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#4",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#5",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#6",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#7",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra2a.adl #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra2a.adl#8",
+        "size": 30206,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra3a.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra3a.adl#4",
+        "size": 24474,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra3a.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra3a.adl#5",
+        "size": 24474,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra4a.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra4a.adl#3",
+        "size": 29869,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra4a.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra4a.adl#4",
+        "size": 29869,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra4a.adl #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra4a.adl#8",
+        "size": 29869,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra4a.adl #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra4a.adl#9",
+        "size": 29869,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5a.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5a.adl#3",
+        "size": 21529,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5a.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5a.adl#4",
+        "size": 21529,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5a.adl #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5a.adl#5",
+        "size": 21529,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5a.adl #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5a.adl#6",
+        "size": 21529,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5b.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5b.adl#3",
+        "size": 14723,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5b.adl #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5b.adl#6",
+        "size": 14723,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5b.adl #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5b.adl#9",
+        "size": 14723,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyra5b.adl #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyra5b.adl#10",
+        "size": 14723,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyramisc.adl #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyramisc.adl#3",
+        "size": 24604,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      },
+      {
+        "song": "kyramisc.adl #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book One/kyramisc.adl#4",
+        "size": 24604,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/23/Legend_of_Kyrandia%2C_The_-_Book_1_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "The Legend of Kyrandia: Book Two - The Hand of Fate",
+    "platform": "PC",
+    "developers": [
+      "Westwood Studios, Inc."
+    ],
+    "publishers": [
+      "Virgin Games, Inc.",
+      "Virgin Interactive Entertainment (Europe) Ltd.",
+      "Virgin Interactive Entertainment, Inc.",
+      "Virgin Interactive Entertainment SARL",
+      "Virgin Interactive Entertainment (Deutschland) GmbH"
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)",
+    "songs": [
+      {
+        "song": "K2FINALE.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2FINALE.ADL#3",
+        "size": 15297,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2FINALE.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2FINALE.ADL#4",
+        "size": 15297,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2FINALE.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2FINALE.ADL#5",
+        "size": 15297,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#3",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#4",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#5",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#6",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#7",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#8",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2INTRO.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2INTRO.ADL#9",
+        "size": 11920,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST1.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST1.ADL#3",
+        "size": 23793,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST1.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST1.ADL#4",
+        "size": 23793,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#3",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#4",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#5",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#6",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#7",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#8",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#9",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST10.ADL #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST10.ADL#10",
+        "size": 22491,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#3",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#4",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#5",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#6",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#7",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST11.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST11.ADL#8",
+        "size": 19756,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#3",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#4",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#5",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#6",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#7",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#8",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#9",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST12.ADL #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST12.ADL#10",
+        "size": 20403,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#3",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#4",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#5",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#6",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#7",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#8",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#9",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST13.ADL #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST13.ADL#10",
+        "size": 17408,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST14.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST14.ADL#3",
+        "size": 20537,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST15.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST15.ADL#3",
+        "size": 22792,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST15.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST15.ADL#4",
+        "size": 22792,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST15.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST15.ADL#5",
+        "size": 22792,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST15.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST15.ADL#6",
+        "size": 22792,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST2.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST2.ADL#3",
+        "size": 23965,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST2.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST2.ADL#4",
+        "size": 23965,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST3.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST3.ADL#3",
+        "size": 16700,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST3.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST3.ADL#4",
+        "size": 16700,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST4.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST4.ADL#3",
+        "size": 17357,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST4.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST4.ADL#4",
+        "size": 17357,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#3",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#4",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#5",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#6",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#7",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST5.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST5.ADL#8",
+        "size": 18157,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST6.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST6.ADL#4",
+        "size": 23336,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST6.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST6.ADL#5",
+        "size": 23336,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST7.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST7.ADL#3",
+        "size": 15927,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST7.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST7.ADL#4",
+        "size": 15927,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST7.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST7.ADL#5",
+        "size": 15927,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST7.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST7.ADL#6",
+        "size": 15927,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#3",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #4",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#4",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#5",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#6",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#7",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#8",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#9",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST8.ADL #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST8.ADL#10",
+        "size": 14318,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #3",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#3",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #5",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#5",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #6",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#6",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #7",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#7",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #8",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#8",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #9",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#9",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "K2TEST9.ADL #10",
+        "song_link": "VGMPF/PC/The Legend of Kyrandia Book Two - The Hand of Fate/K2TEST9.ADL#10",
+        "size": 20199,
+        "composer": "Frank Klepacki",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Legend_of_Kyrandia%2C_The_-_Book_2_-_Hand_of_Fate%2C_The_%28DOS%29.zip"
       }
     ]
   },
