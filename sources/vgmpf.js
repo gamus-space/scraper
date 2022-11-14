@@ -142,6 +142,14 @@ const splitSongFixed = {
 		'K2TEST8.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
 		'K2TEST9.ADL': [2, 4, 5, 6, 7, 8, 9],
 	},
+	'Jagged Alliance': {
+		'DAY.XMI': [1, 2, 3, 4, 5, 6],
+		'DAYGM.XMI': [],
+		'INTRO.XMI': [1, 2, 3, 4],
+		'INTROGM.XMI': [],
+		'MENUS.XMI': [1, 2, 3, 4, 5],
+		'MENUSGM.XMI': [],
+	},
 };
 
 async function fetchVgmpf(source) {
@@ -189,11 +197,17 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)', composer: 'SEGA', song_pattern: /^Originals\/Uncompressed\/[^/]+\.MDI/, song_count: 21 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)', composer: 'Michel Golgevit, Zorba Kouaik', song_pattern: /^Originals\/Decompressed\/Music \(AdLib\)\/[^/]+\.MDI/, song_count: 9 },
 	];
+	const xmiGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Jagged_Alliance_(DOS)', composer: 'Steve Wener', song_pattern: /^originals\/[^/]+\.XMI/, song_count: 6, samples: 'resources/samples/Jagged Alliance/MADLAB.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)', composer: ' Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson', song_pattern: /^original\/(465|466|470|471|475|476|480|481|485|486|495|496|499|500|501|505|506|510|511)\.xmi/, song_count: 19, samples: 'resources/samples/Lost Vikings/VIKINGS.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=WarCraft:_Orcs_%26_Humans_(DOS)', composer: 'Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson', song_pattern: /^2[^/]+\.xmi/, song_count: 15, samples: 'resources/samples/Warcraft/WARCRAFT.AD' },
+	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
+		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);

@@ -2234,5 +2234,185 @@
         "composer": "Marcin Adamowicz"
       }
     ]
+  },
+  {
+    "game": "Theme Hospital",
+    "platform": "PC",
+    "developers": [
+        "Bullfrog Productions"
+    ],
+    "publishers": [
+        "Electronic Arts"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "samples": "resources/samples/Theme Hospital/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "Atlantis.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/ATLANTIS.XMI",
+        "size": 24784,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Candyfloss.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/CANDY.XMI",
+        "size": 8094,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Doctor Frog.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/DOCTOR.XMI",
+        "size": 3066,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Fortune.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/FORTUNE.XMI",
+        "size": 7728,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "On the Mend.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/MEND.XMI",
+        "size": 11936,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Night Shift.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/NIGHTSH.XMI",
+        "size": 14402,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "6's and 7's.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/SIXSEVEN.XMI",
+        "size": 22156,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Steady Pulse.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/STEADY.XMI",
+        "size": 12490,
+        "composer": "Russell Shaw, Adrian Moore"
+      }
+    ]
+  },
+  {
+    "game": "Warcraft 2: Tides of Darkness",
+    "platform": "PC",
+    "developers": [
+        "Blizzard Entertainment"
+    ],
+    "publishers": [
+        "Davidson & Associates"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": "resources/samples/Warcraft 2/WARCRAFT.AD",
+    "songs": [
+      {
+        "song": "101 - Introduction.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/101 - Introduction.xmi",
+        "size": 18208,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "102 - Title.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/102 - Title.xmi",
+        "size": 5308,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "103 - Briefing.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/103 - Briefing.xmi",
+        "size": 6830,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "104 - Orc 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/104 - Orc 1.xmi",
+        "size": 16374,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "105 - Orc 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/105 - Orc 2.xmi",
+        "size": 17122,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "106 - Orc 3.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/106 - Orc 3.xmi",
+        "size": 24780,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "107 - Orc 4.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/107 - Orc 4.xmi",
+        "size": 22536,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "108 - Orc Defeat.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/108 - Orc Defeat.xmi",
+        "size": 2612,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "109 - Orc Victory.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/109 - Orc Victory.xmi",
+        "size": 6250,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "110 - Human 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/110 - Human 1.xmi",
+        "size": 21768,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "111 - Human 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/111 - Human 2.xmi",
+        "size": 14718,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "112 - Human 3.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/112 - Human 3.xmi",
+        "size": 18932,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "113 - Human 4.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/113 - Human 4.xmi",
+        "size": 22702,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "114 - Human Defeat.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/114 - Human Defeat.xmi",
+        "size": 3434,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "115 - Human Victory.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/115 - Human Victory.xmi",
+        "size": 3070,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "116 - Extra 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/116 - Extra 1.xmi",
+        "size": 18104,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "117 - Extra 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/117 - Extra 2.xmi",
+        "size": 16030,
+        "composer": "Glenn Stafford"
+      }
+    ]
   }
 ]
