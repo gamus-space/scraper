@@ -9097,6 +9097,129 @@
     ]
   },
   {
+    "game": "Jagged Alliance",
+    "platform": "PC",
+    "developers": [
+      "Madlab Software"
+    ],
+    "publishers": [
+      "Sir-tech Software, Inc.",
+      "Softgold Computerspiele, GmbH",
+      "Mindscape International Ltd."
+    ],
+    "year": 1995,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Jagged_Alliance_(DOS)",
+    "samples": "resources/samples/Jagged Alliance/MADLAB.AD",
+    "songs": [
+      {
+        "song": "DAY.XMI #2",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#2",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "DAY.XMI #3",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#3",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "DAY.XMI #4",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#4",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "DAY.XMI #5",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#5",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "DAY.XMI #6",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#6",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "DAY.XMI #7",
+        "song_link": "VGMPF/PC/Jagged Alliance/DAY.XMI#7",
+        "size": 25878,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.XMI #2",
+        "song_link": "VGMPF/PC/Jagged Alliance/INTRO.XMI#2",
+        "size": 24180,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.XMI #3",
+        "song_link": "VGMPF/PC/Jagged Alliance/INTRO.XMI#3",
+        "size": 24180,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.XMI #4",
+        "song_link": "VGMPF/PC/Jagged Alliance/INTRO.XMI#4",
+        "size": 24180,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.XMI #5",
+        "song_link": "VGMPF/PC/Jagged Alliance/INTRO.XMI#5",
+        "size": 24180,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "MENUS.XMI #2",
+        "song_link": "VGMPF/PC/Jagged Alliance/MENUS.XMI#2",
+        "size": 25122,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "MENUS.XMI #3",
+        "song_link": "VGMPF/PC/Jagged Alliance/MENUS.XMI#3",
+        "size": 25122,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "MENUS.XMI #4",
+        "song_link": "VGMPF/PC/Jagged Alliance/MENUS.XMI#4",
+        "size": 25122,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "MENUS.XMI #5",
+        "song_link": "VGMPF/PC/Jagged Alliance/MENUS.XMI#5",
+        "size": 25122,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      },
+      {
+        "song": "MENUS.XMI #6",
+        "song_link": "VGMPF/PC/Jagged Alliance/MENUS.XMI#6",
+        "size": 25122,
+        "composer": "Steve Wener",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/ed/Jagged_Alliance_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Jaguar XJ220",
     "platform": "Amiga",
     "developers": [
@@ -10979,6 +11102,155 @@
         "size": 84760,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FLion_King.lha"
+      }
+    ]
+  },
+  {
+    "game": "Lost Vikings, The",
+    "platform": "PC",
+    "developers": [
+      "Silicon & Synapse, Inc."
+    ],
+    "publishers": [
+      "Interplay Productions, Inc."
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)",
+    "samples": "resources/samples/Lost Vikings/VIKINGS.AD",
+    "songs": [
+      {
+        "song": "465.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/465.xmi",
+        "size": 6815,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "466.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/466.xmi",
+        "size": 7855,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "470.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/470.xmi",
+        "size": 6709,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "471.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/471.xmi",
+        "size": 6719,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "475.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/475.xmi",
+        "size": 6207,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "476.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/476.xmi",
+        "size": 6389,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "480.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/480.xmi",
+        "size": 6931,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "481.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/481.xmi",
+        "size": 6823,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "485.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/485.xmi",
+        "size": 11923,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "486.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/486.xmi",
+        "size": 11141,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "495.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/495.xmi",
+        "size": 3301,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "496.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/496.xmi",
+        "size": 4967,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "499.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/499.xmi",
+        "size": 1367,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "500.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/500.xmi",
+        "size": 2913,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "501.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/501.xmi",
+        "size": 2583,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "505.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/505.xmi",
+        "size": 7157,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "506.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/506.xmi",
+        "size": 7165,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "510.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/510.xmi",
+        "size": 1423,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
+      },
+      {
+        "song": "511.xmi",
+        "song_link": "VGMPF/PC/Lost Vikings, The/511.xmi",
+        "size": 1425,
+        "composer": " Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/8/84/The_Lost_Vikings_%28DOS%29.zip"
       }
     ]
   },
@@ -17845,6 +18117,69 @@
     ]
   },
   {
+    "game": "Theme Hospital",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog Productions"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "samples": "resources/samples/Theme Hospital/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "Atlantis.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/ATLANTIS.XMI",
+        "size": 24784,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Candyfloss.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/CANDY.XMI",
+        "size": 8094,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Doctor Frog.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/DOCTOR.XMI",
+        "size": 3066,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Fortune.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/FORTUNE.XMI",
+        "size": 7728,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "On the Mend.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/MEND.XMI",
+        "size": 11936,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Night Shift.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/NIGHTSH.XMI",
+        "size": 14402,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "6's and 7's.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/SIXSEVEN.XMI",
+        "size": 22156,
+        "composer": "Russell Shaw, Adrian Moore"
+      },
+      {
+        "song": "Steady Pulse.xmi",
+        "song_link": "resources/OPL3/Theme Hospital/STEADY.XMI",
+        "size": 12490,
+        "composer": "Russell Shaw, Adrian Moore"
+      }
+    ]
+  },
+  {
     "game": "Times of Lore",
     "platform": "PC",
     "developers": [
@@ -19244,6 +19579,245 @@
         "size": 310570,
         "composer": "Raymond Usher",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUsher_Raymond%2FWalker.lha"
+      }
+    ]
+  },
+  {
+    "game": "Warcraft 2: Tides of Darkness",
+    "platform": "PC",
+    "developers": [
+      "Blizzard Entertainment"
+    ],
+    "publishers": [
+      "Davidson & Associates"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": "resources/samples/Warcraft 2/WARCRAFT.AD",
+    "songs": [
+      {
+        "song": "101 - Introduction.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/101 - Introduction.xmi",
+        "size": 18208,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "102 - Title.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/102 - Title.xmi",
+        "size": 5308,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "103 - Briefing.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/103 - Briefing.xmi",
+        "size": 6830,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "104 - Orc 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/104 - Orc 1.xmi",
+        "size": 16374,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "105 - Orc 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/105 - Orc 2.xmi",
+        "size": 17122,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "106 - Orc 3.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/106 - Orc 3.xmi",
+        "size": 24780,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "107 - Orc 4.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/107 - Orc 4.xmi",
+        "size": 22536,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "108 - Orc Defeat.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/108 - Orc Defeat.xmi",
+        "size": 2612,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "109 - Orc Victory.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/109 - Orc Victory.xmi",
+        "size": 6250,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "110 - Human 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/110 - Human 1.xmi",
+        "size": 21768,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "111 - Human 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/111 - Human 2.xmi",
+        "size": 14718,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "112 - Human 3.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/112 - Human 3.xmi",
+        "size": 18932,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "113 - Human 4.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/113 - Human 4.xmi",
+        "size": 22702,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "114 - Human Defeat.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/114 - Human Defeat.xmi",
+        "size": 3434,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "115 - Human Victory.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/115 - Human Victory.xmi",
+        "size": 3070,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "116 - Extra 1.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/116 - Extra 1.xmi",
+        "size": 18104,
+        "composer": "Glenn Stafford"
+      },
+      {
+        "song": "117 - Extra 2.xmi",
+        "song_link": "resources/OPL3/Warcraft 2/117 - Extra 2.xmi",
+        "size": 16030,
+        "composer": "Glenn Stafford"
+      }
+    ]
+  },
+  {
+    "game": "Warcraft: Orcs & Humans",
+    "platform": "PC",
+    "developers": [
+      "Blizzard Entertainment"
+    ],
+    "publishers": [
+      "Interplay Productions Ltd.",
+      "Blizzard Entertainment Inc."
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=WarCraft:_Orcs_%26_Humans_(DOS)",
+    "samples": "resources/samples/Warcraft/WARCRAFT.AD",
+    "songs": [
+      {
+        "song": "201 - Introduction.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/201 - Introduction.xmi",
+        "size": 10398,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "202 - Title.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/202 - Title.xmi",
+        "size": 3916,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "203 - Mission Briefing.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/203 - Mission Briefing.xmi",
+        "size": 3818,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "204 - Orc Campaign 1.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/204 - Orc Campaign 1.xmi",
+        "size": 18100,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "205 - Orc Campaign 2.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/205 - Orc Campaign 2.xmi",
+        "size": 11726,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "206 - Orc Campaign 3.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/206 - Orc Campaign 3.xmi",
+        "size": 17540,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "207 - Orc Mission Defeat.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/207 - Orc Mission Defeat.xmi",
+        "size": 2060,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "208 - Orc Mission Accomplished.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/208 - Orc Mission Accomplished.xmi",
+        "size": 4752,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "209 - Orc Victory.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/209 - Orc Victory.xmi",
+        "size": 13952,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "210 - Human Campaign 1.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/210 - Human Campaign 1.xmi",
+        "size": 21546,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "211 - Human Campaign 2.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/211 - Human Campaign 2.xmi",
+        "size": 28288,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "212 - Human Campaign 3.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/212 - Human Campaign 3.xmi",
+        "size": 18530,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "213 - Human Mission Defeat.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/213 - Human Mission Defeat.xmi",
+        "size": 2408,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "214 - Human Mission Accomplished.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/214 - Human Mission Accomplished.xmi",
+        "size": 4904,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      },
+      {
+        "song": "215 - Human Victory.xmi",
+        "song_link": "VGMPF/PC/Warcraft Orcs & Humans/215 - Human Victory.xmi",
+        "size": 12470,
+        "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
       }
     ]
   },
