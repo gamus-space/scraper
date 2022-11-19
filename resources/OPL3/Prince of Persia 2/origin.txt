@@ -1,0 +1,1 @@
+rip from MIDISND.DAT and NISMIDI.DAT with https://github.com/gamus-space/rip-tools/blob/main/rip-midi.js

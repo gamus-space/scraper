@@ -1,0 +1,2 @@
+rip from prince.dat with pr.exe
+rename "midi info 1.bin" to PRESETS.DEF

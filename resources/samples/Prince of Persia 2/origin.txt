@@ -1,0 +1,2 @@
+copy from SNDDRVRS\
+rename PRESET33.DEF to PRESETS.DEF
