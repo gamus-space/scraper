@@ -1848,6 +1848,113 @@
     ]
   },
   {
+    "game": "Blood",
+    "platform": "PC",
+    "developers": [
+      "Monolith Productions Inc"
+    ],
+    "publishers": [
+      "GT Interactive Software Corp."
+    ],
+    "year": 1997,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Blood_(DOS)",
+    "samples": "resources/samples/Blood/GMTIMBRE.TMB",
+    "songs": [
+      {
+        "song": "cblood1.mid",
+        "song_link": "VGMPF/PC/Blood/cblood1.mid",
+        "size": 7407,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood10.mid",
+        "song_link": "VGMPF/PC/Blood/cblood10.mid",
+        "size": 10423,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood2.mid",
+        "song_link": "VGMPF/PC/Blood/cblood2.mid",
+        "size": 19699,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood3.mid",
+        "song_link": "VGMPF/PC/Blood/cblood3.mid",
+        "size": 8250,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood4.mid",
+        "song_link": "VGMPF/PC/Blood/cblood4.mid",
+        "size": 9960,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood5.mid",
+        "song_link": "VGMPF/PC/Blood/cblood5.mid",
+        "size": 5677,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood6.mid",
+        "song_link": "VGMPF/PC/Blood/cblood6.mid",
+        "size": 10033,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood7.mid",
+        "song_link": "VGMPF/PC/Blood/cblood7.mid",
+        "size": 7667,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood8.mid",
+        "song_link": "VGMPF/PC/Blood/cblood8.mid",
+        "size": 11826,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "cblood9.mid",
+        "song_link": "VGMPF/PC/Blood/cblood9.mid",
+        "size": 16208,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "pestis.mid",
+        "song_link": "VGMPF/PC/Blood/pestis.mid",
+        "size": 12394,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "setmain.mid",
+        "song_link": "VGMPF/PC/Blood/setmain.mid",
+        "size": 35273,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      },
+      {
+        "song": "unholy.mid",
+        "song_link": "VGMPF/PC/Blood/unholy.mid",
+        "size": 17350,
+        "composer": "Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/b/b7/Blood_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Body Blows",
     "platform": "Amiga",
     "developers": [
@@ -5411,6 +5518,240 @@
         "size": 179788,
         "composer": "Andrew Barnabas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBarnabas_Andrew%2FDouble_Dragon_3.lha"
+      }
+    ]
+  },
+  {
+    "game": "Duke Nukem 3D",
+    "platform": "PC",
+    "developers": [
+      "3D Realms Entertainment"
+    ],
+    "publishers": [
+      "GT Interactive Software Corp.",
+      "FormGen, Inc."
+    ],
+    "year": 1996,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Duke_Nukem_3D_(DOS)",
+    "samples": "resources/samples/Duke Nukem 3D/D3DTIMBR.TMB",
+    "songs": [
+      {
+        "song": "01 - Grabbag (Theme From Duke Nukem 3D).mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/01 - Grabbag (Theme From Duke Nukem 3D).mid",
+        "size": 14287,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "02 - Stalker.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/02 - Stalker.mid",
+        "size": 34703,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "03 - Taking the Death Toll.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/03 - Taking the Death Toll.mid",
+        "size": 7185,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "04 - The City Streets.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/04 - The City Streets.mid",
+        "size": 52051,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "05 - Water World.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/05 - Water World.mid",
+        "size": 25371,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "06 - Sneaky Snake.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/06 - Sneaky Snake.mid",
+        "size": 36088,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "07 - The Call of Death.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/07 - The Call of Death.mid",
+        "size": 16764,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "08 - Ah, Geez!.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/08 - Ah, Geez!.mid",
+        "size": 41665,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "09 - Future Military Conquests.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/09 - Future Military Conquests.mid",
+        "size": 49106,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "10 - Space Storm.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/10 - Space Storm.mid",
+        "size": 39566,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "11 - Gut Wrencher.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/11 - Gut Wrencher.mid",
+        "size": 45372,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "12 - RoboCreeping.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/12 - RoboCreeping.mid",
+        "size": 12089,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "13 - Stalag 3-D.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/13 - Stalag 3-D.mid",
+        "size": 34931,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "14 - Pissed!.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/14 - Pissed!.mid",
+        "size": 16759,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "15 - Aliens, Say Your Prayers!.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/15 - Aliens, Say Your Prayers!.mid",
+        "size": 61838,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "16 - Plasma.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/16 - Plasma.mid",
+        "size": 28903,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "17 - Alfred H. (My Family's Plot).mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/17 - Alfred H. (My Family's Plot).mid",
+        "size": 7488,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "18 - Gloomy.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/18 - Gloomy.mid",
+        "size": 12341,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "19 - In Tents.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/19 - In Tents.mid",
+        "size": 14523,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "20 - In Hiding.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/20 - In Hiding.mid",
+        "size": 49695,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "21 - Going After the Fat Commander.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/21 - Going After the Fat Commander.mid",
+        "size": 16530,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "22 - Taking Names.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/22 - Taking Names.mid",
+        "size": 34022,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "23 - Subway.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/23 - Subway.mid",
+        "size": 14818,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "24 - Invader.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/24 - Invader.mid",
+        "size": 17106,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "25 - Gotham.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/25 - Gotham.mid",
+        "size": 43002,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "26 - 233.778 Celsius.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/26 - 233.778 Celsius.mid",
+        "size": 53029,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "27 - Lord of L.A..mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/27 - Lord of L.A..mid",
+        "size": 39852,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "28 - Urban Jungle.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/28 - Urban Jungle.mid",
+        "size": 29838,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "29 - Spook.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/29 - Spook.mid",
+        "size": 12722,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "30 - Whomp.mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/30 - Whomp.mid",
+        "size": 15369,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
+      },
+      {
+        "song": "Whomp (Early Version).mid",
+        "song_link": "VGMPF/PC/Duke Nukem 3D/Whomp (Early Version).mid",
+        "size": 53867,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/DukeNukem3D-DOS.zip"
       }
     ]
   },
@@ -13910,6 +14251,1407 @@
     ]
   },
   {
+    "game": "Prince of Persia",
+    "platform": "PC",
+    "developers": [
+      "Brøderbund Software, Inc."
+    ],
+    "publishers": [
+      "Brøderbund Software, Inc.",
+      "Dro Soft",
+      "Softgold Computerspiele GmbH",
+      "The Hit Squad",
+      "Makh-Shevet Ltd."
+    ],
+    "year": 1990,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Prince_of_Persia_(DOS)",
+    "samples": "resources/samples/Prince of Persia/PRESETS.DEF",
+    "songs": [
+      {
+        "song": "Accident.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Accident.mff",
+        "size": 326,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Danger.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Danger.mff",
+        "size": 194,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Embrace.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Embrace.mff",
+        "size": 848,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Epilog.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Epilog.mff",
+        "size": 13586,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Float.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Float.mff",
+        "size": 168,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Heart.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Heart.mff",
+        "size": 1831,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Heart2.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Heart2.mff",
+        "size": 586,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Heroic.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Heroic.mff",
+        "size": 350,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Jaffar.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Jaffar.mff",
+        "size": 704,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Jaffar2.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Jaffar2.mff",
+        "size": 343,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Jaffar3.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Jaffar3.mff",
+        "size": 253,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Potion1.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Potion1.mff",
+        "size": 226,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Potion2.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Potion2.mff",
+        "size": 361,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Prince.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Prince.mff",
+        "size": 950,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Princess.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Princess.mff",
+        "size": 374,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Prolog1a.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Prolog1a.mff",
+        "size": 1796,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Prolog1b.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Prolog1b.mff",
+        "size": 599,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Shadow.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Shadow.mff",
+        "size": 439,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Timer.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Timer.mff",
+        "size": 465,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Tragic.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Tragic.mff",
+        "size": 791,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Victory1.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Victory1.mff",
+        "size": 314,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      },
+      {
+        "song": "Victory2.mff",
+        "song_link": "VGMPF/PC/Prince of Persia/Victory2.mff",
+        "size": 314,
+        "composer": "Francis Mechner",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/e/e6/Prince_of_Persia_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Prince of Persia 2",
+    "platform": "PC",
+    "developers": [
+      "Brøderbund Software, Inc."
+    ],
+    "publishers": [
+      "Brøderbund Software, Inc."
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "samples": "resources/samples/Prince of Persia 2/PRESETS.DEF",
+    "songs": [
+      {
+        "song": "ABShip1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ABShip1.mff",
+        "size": 11185,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ABShip2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ABShip2.mff",
+        "size": 6106,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Approach.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Approach.mff",
+        "size": 1227,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BeatFS.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BeatFS.mff",
+        "size": 1212,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BirdKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BirdKill.mff",
+        "size": 2533,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BlueFlm2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BlueFlm2.mff",
+        "size": 2334,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BlueFlm3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BlueFlm3.mff",
+        "size": 2910,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BlueFlm4.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BlueFlm4.mff",
+        "size": 6466,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BlueKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BlueKill.mff",
+        "size": 1666,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BrgDoor.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BrgDoor.mff",
+        "size": 187,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BrgFall.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BrgFall.mff",
+        "size": 1267,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "BrgFight.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/BrgFight.mff",
+        "size": 10988,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1A.mff",
+        "size": 151,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1B.mff",
+        "size": 283,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1C.mff",
+        "size": 135,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1D.mff",
+        "size": 148,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1E.mff",
+        "size": 147,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1F.mff",
+        "size": 207,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1G.mff",
+        "size": 111,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1H.mff",
+        "size": 131,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1I.mff",
+        "size": 404,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1J.mff",
+        "size": 529,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1K.mff",
+        "size": 283,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1L.mff",
+        "size": 292,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1M.mff",
+        "size": 358,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1N.mff",
+        "size": 721,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1O.mff",
+        "size": 282,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav1P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav1P.mff",
+        "size": 377,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2A.mff",
+        "size": 1372,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2B.mff",
+        "size": 1481,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2C.mff",
+        "size": 2171,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2D.mff",
+        "size": 1286,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2E.mff",
+        "size": 1234,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2F.mff",
+        "size": 887,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2G.mff",
+        "size": 1569,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2H.mff",
+        "size": 1162,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2I.mff",
+        "size": 1387,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2J.mff",
+        "size": 1248,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2K.mff",
+        "size": 865,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2L.mff",
+        "size": 1546,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2M.mff",
+        "size": 1424,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2N.mff",
+        "size": 1258,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2O.mff",
+        "size": 1392,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav2P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav2P.mff",
+        "size": 1230,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav3A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav3A.mff",
+        "size": 13024,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav3B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav3B.mff",
+        "size": 11539,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav3C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav3C.mff",
+        "size": 10162,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Cav3D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Cav3D.mff",
+        "size": 11458,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Chase.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Chase.mff",
+        "size": 13652,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Chasm.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Chasm.mff",
+        "size": 668,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ChessRm.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ChessRm.mff",
+        "size": 3374,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Crystal.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Crystal.mff",
+        "size": 13380,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "DartKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/DartKill.mff",
+        "size": 945,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "DesertIs.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/DesertIs.mff",
+        "size": 2532,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Drink1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Drink1.mff",
+        "size": 258,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Drown.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Drown.mff",
+        "size": 1600,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Escher.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Escher.mff",
+        "size": 6300,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Fail.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Fail.mff",
+        "size": 1045,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "FallKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/FallKill.mff",
+        "size": 1703,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "FindSwd.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/FindSwd.mff",
+        "size": 1355,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Flash.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Flash.mff",
+        "size": 544,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Float.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Float.mff",
+        "size": 242,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "FlyinRug.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/FlyinRug.mff",
+        "size": 22508,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "FSKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/FSKill.mff",
+        "size": 3732,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "GardKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/GardKill.mff",
+        "size": 1682,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Happy1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Happy1.mff",
+        "size": 2319,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Happy2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Happy2.mff",
+        "size": 13140,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Happy3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Happy3.mff",
+        "size": 4018,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "HeadKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/HeadKill.mff",
+        "size": 638,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Horse.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Horse.mff",
+        "size": 1812,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "InjrHead.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/InjrHead.mff",
+        "size": 1025,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "InvOff.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/InvOff.mff",
+        "size": 1023,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "InvOn.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/InvOn.mff",
+        "size": 2278,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "JaffKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/JaffKill.mff",
+        "size": 688,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "JafPoof.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/JafPoof.mff",
+        "size": 424,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "JPoof.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/JPoof.mff",
+        "size": 226,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "KillBird.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/KillBird.mff",
+        "size": 959,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "KillHead.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/KillHead.mff",
+        "size": 761,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "KillSkel.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/KillSkel.mff",
+        "size": 703,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "LavaKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/LavaKill.mff",
+        "size": 3119,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "LoseSwd.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/LoseSwd.mff",
+        "size": 205,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "LvCav.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/LvCav.mff",
+        "size": 1024,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "LvRuins.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/LvRuins.mff",
+        "size": 4472,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "LvTemple.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/LvTemple.mff",
+        "size": 3624,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "OLDTragic.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/OLDTragic.mff",
+        "size": 2018,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Open2a.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Open2a.mff",
+        "size": 9502,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "OpenDoor.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/OpenDoor.mff",
+        "size": 393,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening1.mff",
+        "size": 11120,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening2.mff",
+        "size": 13485,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening3.mff",
+        "size": 4707,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening4.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening4.mff",
+        "size": 10305,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening5.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening5.mff",
+        "size": 8709,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Opening6.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Opening6.mff",
+        "size": 6794,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "PsDisc1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/PsDisc1.mff",
+        "size": 14324,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "PsDisc2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/PsDisc2.mff",
+        "size": 3713,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "PsDisc3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/PsDisc3.mff",
+        "size": 2078,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RoofA.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RoofA.mff",
+        "size": 8684,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RoofB.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RoofB.mff",
+        "size": 8267,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RoofC.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RoofC.mff",
+        "size": 8655,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RoofD.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RoofD.mff",
+        "size": 8327,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RugRoom.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RugRoom.mff",
+        "size": 5466,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RugUp.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RugUp.mff",
+        "size": 1329,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1A.mff",
+        "size": 452,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1B.mff",
+        "size": 586,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1C.mff",
+        "size": 999,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1D.mff",
+        "size": 925,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1E.mff",
+        "size": 454,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1F.mff",
+        "size": 882,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1G.mff",
+        "size": 503,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1H.mff",
+        "size": 933,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1I.mff",
+        "size": 628,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1J.mff",
+        "size": 803,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1K.mff",
+        "size": 823,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1L.mff",
+        "size": 1422,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1M.mff",
+        "size": 720,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1N.mff",
+        "size": 741,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1O.mff",
+        "size": 604,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins1P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins1P.mff",
+        "size": 474,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2A.mff",
+        "size": 391,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2B.mff",
+        "size": 601,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2C.mff",
+        "size": 629,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2D.mff",
+        "size": 427,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2E.mff",
+        "size": 587,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2F.mff",
+        "size": 601,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2G.mff",
+        "size": 442,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2H.mff",
+        "size": 555,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2I.mff",
+        "size": 472,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2J.mff",
+        "size": 824,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2K.mff",
+        "size": 525,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2L.mff",
+        "size": 465,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2M.mff",
+        "size": 431,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2N.mff",
+        "size": 419,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2O.mff",
+        "size": 699,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins2P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins2P.mff",
+        "size": 567,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins3A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins3A.mff",
+        "size": 8675,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins3B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins3B.mff",
+        "size": 10828,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins3C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins3C.mff",
+        "size": 6369,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Ruins3D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Ruins3D.mff",
+        "size": 8827,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "RunIn.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/RunIn.mff",
+        "size": 2094,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ScyKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ScyKill.mff",
+        "size": 605,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "SeeThron.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/SeeThron.mff",
+        "size": 593,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Shadow.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Shadow.mff",
+        "size": 198,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "SkelKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/SkelKill.mff",
+        "size": 1213,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "SnakKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/SnakKill.mff",
+        "size": 730,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Spider.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Spider.mff",
+        "size": 12895,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "StabKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/StabKill.mff",
+        "size": 1037,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Succeed.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Succeed.mff",
+        "size": 724,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "SuckedIn.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/SuckedIn.mff",
+        "size": 1426,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "SymSink.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/SymSink.mff",
+        "size": 586,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1A.mff",
+        "size": 440,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1B.mff",
+        "size": 435,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1C.mff",
+        "size": 432,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1D.mff",
+        "size": 366,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1E.mff",
+        "size": 641,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1F.mff",
+        "size": 477,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1G.mff",
+        "size": 410,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1H.mff",
+        "size": 521,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1I.mff",
+        "size": 332,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1J.mff",
+        "size": 521,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1K.mff",
+        "size": 672,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1L.mff",
+        "size": 394,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1M.mff",
+        "size": 376,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1N.mff",
+        "size": 421,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1O.mff",
+        "size": 514,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple1P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple1P.mff",
+        "size": 530,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2A.mff",
+        "size": 833,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2B.mff",
+        "size": 2897,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2C.mff",
+        "size": 328,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2D.mff",
+        "size": 759,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2E.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2E.mff",
+        "size": 699,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2F.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2F.mff",
+        "size": 129,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2G.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2G.mff",
+        "size": 2988,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2H.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2H.mff",
+        "size": 842,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2I.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2I.mff",
+        "size": 797,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2J.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2J.mff",
+        "size": 147,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2K.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2K.mff",
+        "size": 1218,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2L.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2L.mff",
+        "size": 544,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2M.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2M.mff",
+        "size": 154,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2N.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2N.mff",
+        "size": 195,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2O.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2O.mff",
+        "size": 563,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple2P.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple2P.mff",
+        "size": 221,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple3A.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple3A.mff",
+        "size": 13209,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple3B.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple3B.mff",
+        "size": 11611,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple3C.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple3C.mff",
+        "size": 12486,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Temple3D.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Temple3D.mff",
+        "size": 10177,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ThroFire.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ThroFire.mff",
+        "size": 1193,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Throne1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Throne1.mff",
+        "size": 871,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Throne2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Throne2.mff",
+        "size": 1646,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Throne3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Throne3.mff",
+        "size": 9668,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Throne4.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Throne4.mff",
+        "size": 6874,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ToTempl1.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ToTempl1.mff",
+        "size": 11804,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ToTempl2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ToTempl2.mff",
+        "size": 6427,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "ToTower.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/ToTower.mff",
+        "size": 9429,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "Tragic.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/Tragic.mff",
+        "size": 5240,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk2.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk2.mff",
+        "size": 479,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk3.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk3.mff",
+        "size": 762,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk4.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk4.mff",
+        "size": 759,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk5.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk5.mff",
+        "size": 966,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk6.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk6.mff",
+        "size": 832,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk7.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk7.mff",
+        "size": 1073,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "TreeCk8.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/TreeCk8.mff",
+        "size": 697,
+        "composer": "Jonelle Adkisson"
+      },
+      {
+        "song": "WallKill.mff",
+        "song_link": "resources/opl3/Prince of Persia 2/WallKill.mff",
+        "size": 3405,
+        "composer": "Jonelle Adkisson"
+      }
+    ]
+  },
+  {
     "game": "Project-X",
     "platform": "Amiga",
     "developers": [
@@ -15515,6 +17257,57 @@
     ]
   },
   {
+    "game": "Shadow Warrior",
+    "platform": "PC",
+    "developers": [
+      "3D Realms Entertainment"
+    ],
+    "publishers": [
+      "GT Interactive Software Corp."
+    ],
+    "year": 1997,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Shadow_Warrior_(DOS)",
+    "samples": "resources/samples/Shadow Warrior/SWTIMBR.TMB",
+    "songs": [
+      {
+        "song": "Shadow Warrior - 01 - Okinoww!a (Theme).mid",
+        "song_link": "VGMPF/PC/Shadow Warrior/Shadow Warrior - 01 - Okinoww!a (Theme).mid",
+        "size": 21976,
+        "composer": "Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      },
+      {
+        "song": "Shadow Warrior - 02 - Everybody Off (E1L01).mid",
+        "song_link": "VGMPF/PC/Shadow Warrior/Shadow Warrior - 02 - Everybody Off (E1L01).mid",
+        "size": 37525,
+        "composer": "Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      },
+      {
+        "song": "Shadow Warrior - 03 - Morse Kodo (E1L02).mid",
+        "song_link": "VGMPF/PC/Shadow Warrior/Shadow Warrior - 03 - Morse Kodo (E1L02).mid",
+        "size": 32453,
+        "composer": "Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      },
+      {
+        "song": "Shadow Warrior - 04 - 254mm (E1L03).mid",
+        "song_link": "VGMPF/PC/Shadow Warrior/Shadow Warrior - 04 - 254mm (E1L03).mid",
+        "size": 65481,
+        "composer": "Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      },
+      {
+        "song": "Shadow Warrior - 05 - Attention (E1L04).mid",
+        "song_link": "VGMPF/PC/Shadow Warrior/Shadow Warrior - 05 - Attention (E1L04).mid",
+        "size": 22639,
+        "composer": "Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Shadow of the Beast",
     "platform": "Amiga",
     "developers": [
@@ -16782,6 +18575,153 @@
         "size": 1100,
         "composer": "Morey Goldstein",
         "source_archive": "http://www.vgmpf.com/Rips/Strife-DOS.zip"
+      }
+    ]
+  },
+  {
+    "game": "Super Bubble Mania",
+    "platform": "PC",
+    "developers": [
+      "Delphic Oracle Entertainment"
+    ],
+    "publishers": [
+      "Spectrum Pacific Publishing"
+    ],
+    "year": "1997",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0Nzk=",
+    "songs": [
+      {
+        "song": "bmania01.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania01.s3m",
+        "size": 63704,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania02.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania02.s3m",
+        "size": 66496,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania03.s3m #1",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania03.s3m#1",
+        "size": 202800,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania03.s3m #20",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania03.s3m#20",
+        "size": 202800,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania03.s3m #35",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania03.s3m#35",
+        "size": 202800,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania03.s3m #44",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania03.s3m#44",
+        "size": 202800,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania04.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania04.s3m",
+        "size": 202768,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania05.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania05.s3m",
+        "size": 64032,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania06.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania06.s3m",
+        "size": 57264,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania07.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania07.s3m",
+        "size": 116080,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania08.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania08.s3m",
+        "size": 202768,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania09.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania09.s3m",
+        "size": 57264,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania10.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania10.s3m",
+        "size": 102208,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania11.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania11.s3m",
+        "size": 60976,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania12.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania12.s3m",
+        "size": 64768,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania13.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania13.s3m",
+        "size": 58128,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania14.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania14.s3m",
+        "size": 53008,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania15.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania15.s3m",
+        "size": 76432,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania16.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania16.s3m",
+        "size": 97152,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania17.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania17.s3m",
+        "size": 98000,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania18.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania18.s3m",
+        "size": 97024,
+        "composer": "Joseph Picard"
+      },
+      {
+        "song": "bmania19.s3m",
+        "song_link": "World of Game MODs/PC/Super Bubble Mania/bmania19.s3m",
+        "size": 142976,
+        "composer": "Joseph Picard"
       }
     ]
   },
