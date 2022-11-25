@@ -197,6 +197,7 @@ async function fetchWogMods(source) {
 		'Pinball Dreams 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAy',
 		'Pinball Dreams Deluxe': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODAz',
 		'Screamer': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx',
+		'Super Bubble Mania': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0Nzk=',
 		'Teenagent': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM2OTI=',
 		'Terminal Velocity': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA2Ng==',
 		'Ultima 6': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==',
