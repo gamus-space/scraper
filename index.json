@@ -21487,6 +21487,116 @@
     ]
   },
   {
+    "game": "Wacky Wheels",
+    "platform": "PC",
+    "developers": [
+      "Beavis Soft"
+    ],
+    "publishers": [
+      "Apogee Software"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "APOGEE.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/APOGEE.KLM",
+        "size": 1703,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "ASHES.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/ASHES.KLM",
+        "size": 5154,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "BANSHI.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/BANSHI.KLM",
+        "size": 14103,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "BASSATTK.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/BASSATTK.KLM",
+        "size": 20767,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "BRICWALL.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/BRICWALL.KLM",
+        "size": 14627,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "DANCE.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/DANCE.KLM",
+        "size": 15845,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "FLIGHT.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/FLIGHT.KLM",
+        "size": 17584,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "GAMEOVER.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/GAMEOVER.KLM",
+        "size": 639,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "KARD.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/KARD.KLM",
+        "size": 7815,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "LEADRBRD.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/LEADRBRD.KLM",
+        "size": 1142,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "MAINMENU.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/MAINMENU.KLM",
+        "size": 17289,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "OVERDRIV.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/OVERDRIV.KLM",
+        "size": 25282,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "PUMPER.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/PUMPER.KLM",
+        "size": 15468,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "SPACEY.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/SPACEY.KLM",
+        "size": 8009,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "STARBRAI.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/STARBRAI.KLM",
+        "size": 20845,
+        "composer": "Mark Klem"
+      },
+      {
+        "song": "TURBO.KLM",
+        "song_link": "resources/OPL3/Wacky Wheels/TURBO.KLM",
+        "size": 28587,
+        "composer": "Mark Klem"
+      }
+    ]
+  },
+  {
     "game": "Walker",
     "platform": "Amiga",
     "developers": [
