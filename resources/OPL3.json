@@ -1,5 +1,31 @@
 [
   {
+    "game": "Cannon Fodder",
+    "platform": "PC",
+    "developers": [
+        "Sensible Software"
+    ],
+    "publishers": [
+        "Virgin Interactive Entertainment"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "fodmus1-adl.mdi",
+        "song_link": "resources/OPL3/Cannon Fodder/fodmus1-adl.mdi",
+        "size": 19140,
+        "composer": "Jon Hare, Nigel Taylor"
+      },
+      {
+        "song": "fodmus6-adl.mdi",
+        "song_link": "resources/OPL3/Cannon Fodder/fodmus6-adl.mdi",
+        "size": 948,
+        "composer": "Jon Hare, Nigel Taylor"
+      }
+    ]
+  },
+  {
     "game": "Day of the Tentacle",
     "platform": "PC",
     "developers": [
