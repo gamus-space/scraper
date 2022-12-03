@@ -1,0 +1,2 @@
+extract fodmus.adl from CF_ENG.DAT with Wombat File Tools
+extract MIDI files from fodmus.adl with hex editor
