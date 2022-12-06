@@ -304,6 +304,50 @@
   },
   {
     "game": "Alien Breed",
+    "platform": "PC",
+    "developers": [
+      "Team 17"
+    ],
+    "publishers": [
+      "MicroLeague"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ALARMED.CMF",
+        "song_link": "resources/OPL3/Alien Breed/ALARMED.CMF",
+        "size": 898,
+        "composer": "Nigel Taylor"
+      },
+      {
+        "song": "INGAME.CMF",
+        "song_link": "resources/OPL3/Alien Breed/INGAME.CMF",
+        "size": 277,
+        "composer": "Nigel Taylor"
+      },
+      {
+        "song": "INTEX.CMF",
+        "song_link": "resources/OPL3/Alien Breed/INTEX.CMF",
+        "size": 1116,
+        "composer": "Nigel Taylor"
+      },
+      {
+        "song": "MONSTER.CMF",
+        "song_link": "resources/OPL3/Alien Breed/MONSTER.CMF",
+        "size": 408,
+        "composer": "Nigel Taylor"
+      },
+      {
+        "song": "TITLE.CMF",
+        "song_link": "resources/OPL3/Alien Breed/TITLE.CMF",
+        "size": 12998,
+        "composer": "Nigel Taylor"
+      }
+    ]
+  },
+  {
+    "game": "Alien Breed",
     "platform": "Amiga",
     "developers": [
       "Team17"
@@ -1157,6 +1201,26 @@
         "size": 41676,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FArabian_Nights.lha"
+      }
+    ]
+  },
+  {
+    "game": "Arnie 2",
+    "platform": "PC",
+    "developers": [
+      "Zeppelin Games"
+    ],
+    "publishers": [
+      "Zeppelin Games"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "MUSIC.MOD",
+        "song_link": "resources/modules/PC/Arnie 2/MUSIC.MOD",
+        "size": 81918,
+        "composer": "Andrew Rodger"
       }
     ]
   },
@@ -7470,6 +7534,74 @@
     ]
   },
   {
+    "game": "Franko: The Crazy Revenge",
+    "platform": "PC",
+    "developers": [
+      "World Software"
+    ],
+    "publishers": [
+      "Mirage Software"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ENDEV1.MOD",
+        "song_link": "resources/modules/PC/Franko/ENDEV1.MOD",
+        "size": 84964,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "ENDEV2.MOD",
+        "song_link": "resources/modules/PC/Franko/ENDEV2.MOD",
+        "size": 89706,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L1WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L1WALBOS.MOD",
+        "size": 17486,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L2WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L2WALBOS.MOD",
+        "size": 13954,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L3WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L3WALBOS.MOD",
+        "size": 13292,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV1N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV1N.MOD",
+        "size": 22606,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV2N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV2N.MOD",
+        "size": 17214,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV3N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV3N.MOD",
+        "size": 20620,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "TITLE.MOD",
+        "song_link": "resources/modules/PC/Franko/TITLE.MOD",
+        "size": 93156,
+        "composer": "Sławomir Mrozek"
+      }
+    ]
+  },
+  {
     "game": "Full Contact",
     "platform": "Amiga",
     "developers": [
@@ -10111,6 +10243,45 @@
   },
   {
     "game": "Kajko i Kokosz",
+    "platform": "PC",
+    "developers": [
+      "Seven Stars"
+    ],
+    "publishers": [
+      "Mirage",
+      "User"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "HAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/HAPPY.MOD",
+        "size": 83402,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE.MOD",
+        "size": 84700,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE2.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE2.MOD",
+        "size": 84860,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "UNHAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
+        "size": 87112,
+        "composer": "Piotr Bendyk"
+      }
+    ]
+  },
+  {
+    "game": "Kajko i Kokosz",
     "platform": "Amiga",
     "developers": [
       "Seven Stars"
@@ -12225,6 +12396,213 @@
         "size": 31260,
         "composer": "Robert Prince",
         "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Major_Stryker_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Mega Man X",
+    "platform": "PC",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": "resources/samples/Mega Man X/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "BOSS.XMI",
+        "song_link": "resources/OPL3/Mega Man X/BOSS.XMI",
+        "size": 4070,
+        "composer": "Capcom"
+      },
+      {
+        "song": "BOSS_APP.XMI",
+        "song_link": "resources/OPL3/Mega Man X/BOSS_APP.XMI",
+        "size": 768,
+        "composer": "Capcom"
+      },
+      {
+        "song": "CITY.XMI",
+        "song_link": "resources/OPL3/Mega Man X/CITY.XMI",
+        "size": 6624,
+        "composer": "Capcom"
+      },
+      {
+        "song": "DR_2.XMI",
+        "song_link": "resources/OPL3/Mega Man X/DR_2.XMI",
+        "size": 744,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ENDING.XMI",
+        "song_link": "resources/OPL3/Mega Man X/ENDING.XMI",
+        "size": 6696,
+        "composer": "Capcom"
+      },
+      {
+        "song": "FACTORY.XMI",
+        "song_link": "resources/OPL3/Mega Man X/FACTORY.XMI",
+        "size": 5298,
+        "composer": "Capcom"
+      },
+      {
+        "song": "FOREST.XMI",
+        "song_link": "resources/OPL3/Mega Man X/FOREST.XMI",
+        "size": 3888,
+        "composer": "Capcom"
+      },
+      {
+        "song": "LABO.XMI",
+        "song_link": "resources/OPL3/Mega Man X/LABO.XMI",
+        "size": 366,
+        "composer": "Capcom"
+      },
+      {
+        "song": "LAST.XMI",
+        "song_link": "resources/OPL3/Mega Man X/LAST.XMI",
+        "size": 352,
+        "composer": "Capcom"
+      },
+      {
+        "song": "OCEAN.XMI",
+        "song_link": "resources/OPL3/Mega Man X/OCEAN.XMI",
+        "size": 5138,
+        "composer": "Capcom"
+      },
+      {
+        "song": "OPENING.XMI",
+        "song_link": "resources/OPL3/Mega Man X/OPENING.XMI",
+        "size": 5950,
+        "composer": "Capcom"
+      },
+      {
+        "song": "OP_BOSS.XMI",
+        "song_link": "resources/OPL3/Mega Man X/OP_BOSS.XMI",
+        "size": 2828,
+        "composer": "Capcom"
+      },
+      {
+        "song": "OP_TALK.XMI",
+        "song_link": "resources/OPL3/Mega Man X/OP_TALK.XMI",
+        "size": 4344,
+        "composer": "Capcom"
+      },
+      {
+        "song": "PASS.XMI",
+        "song_link": "resources/OPL3/Mega Man X/PASS.XMI",
+        "size": 3380,
+        "composer": "Capcom"
+      },
+      {
+        "song": "POWER.XMI",
+        "song_link": "resources/OPL3/Mega Man X/POWER.XMI",
+        "size": 9248,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ROAD.XMI",
+        "song_link": "resources/OPL3/Mega Man X/ROAD.XMI",
+        "size": 7450,
+        "composer": "Capcom"
+      },
+      {
+        "song": "SHIGMA_A.XMI",
+        "song_link": "resources/OPL3/Mega Man X/SHIGMA_A.XMI",
+        "size": 3268,
+        "composer": "Capcom"
+      },
+      {
+        "song": "SHIGMA_B.XMI",
+        "song_link": "resources/OPL3/Mega Man X/SHIGMA_B.XMI",
+        "size": 3182,
+        "composer": "Capcom"
+      },
+      {
+        "song": "SKY.XMI",
+        "song_link": "resources/OPL3/Mega Man X/SKY.XMI",
+        "size": 4878,
+        "composer": "Capcom"
+      },
+      {
+        "song": "SNOW.XMI",
+        "song_link": "resources/OPL3/Mega Man X/SNOW.XMI",
+        "size": 3888,
+        "composer": "Capcom"
+      },
+      {
+        "song": "STAFF.XMI",
+        "song_link": "resources/OPL3/Mega Man X/STAFF.XMI",
+        "size": 4888,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ST_BOSS.XMI",
+        "song_link": "resources/OPL3/Mega Man X/ST_BOSS.XMI",
+        "size": 4074,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ST_B_PRE.XMI",
+        "song_link": "resources/OPL3/Mega Man X/ST_B_PRE.XMI",
+        "size": 634,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_CLR.XMI",
+        "song_link": "resources/OPL3/Mega Man X/S_CLR.XMI",
+        "size": 1004,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_DEMO.XMI",
+        "song_link": "resources/OPL3/Mega Man X/S_DEMO.XMI",
+        "size": 882,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_SEL.XMI",
+        "song_link": "resources/OPL3/Mega Man X/S_SEL.XMI",
+        "size": 1384,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_SELB.XMI",
+        "song_link": "resources/OPL3/Mega Man X/S_SELB.XMI",
+        "size": 4042,
+        "composer": "Capcom"
+      },
+      {
+        "song": "TITLE.XMI",
+        "song_link": "resources/OPL3/Mega Man X/TITLE.XMI",
+        "size": 2706,
+        "composer": "Capcom"
+      },
+      {
+        "song": "TOWER.XMI",
+        "song_link": "resources/OPL3/Mega Man X/TOWER.XMI",
+        "size": 11120,
+        "composer": "Capcom"
+      },
+      {
+        "song": "UNDER.XMI",
+        "song_link": "resources/OPL3/Mega Man X/UNDER.XMI",
+        "size": 4566,
+        "composer": "Capcom"
+      },
+      {
+        "song": "WEP_GET.XMI",
+        "song_link": "resources/OPL3/Mega Man X/WEP_GET.XMI",
+        "size": 3706,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ZERO.XMI",
+        "song_link": "resources/OPL3/Mega Man X/ZERO.XMI",
+        "size": 3814,
+        "composer": "Capcom"
       }
     ]
   },
@@ -18753,6 +19131,303 @@
   },
   {
     "game": "Super Street Fighter II",
+    "platform": "PC",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": "resources/samples/Super Street Fighter II/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "BONUS.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/BONUS.XMI",
+        "size": 3922,
+        "composer": "Capcom"
+      },
+      {
+        "song": "CAPCOM.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/CAPCOM.XMI",
+        "size": 596,
+        "composer": "Capcom"
+      },
+      {
+        "song": "CONG1.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/CONG1.XMI",
+        "size": 6090,
+        "composer": "Capcom"
+      },
+      {
+        "song": "CONTINUE.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/CONTINUE.XMI",
+        "size": 1020,
+        "composer": "Capcom"
+      },
+      {
+        "song": "DEMO.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/DEMO.XMI",
+        "size": 1882,
+        "composer": "Capcom"
+      },
+      {
+        "song": "DISPLAY.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/DISPLAY.XMI",
+        "size": 436,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_BAL.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_BAL.XMI",
+        "size": 1130,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_BISON.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_BISON.XMI",
+        "size": 3666,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_BLA.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_BLA.XMI",
+        "size": 4304,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_CAMMY.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_CAMMY.XMI",
+        "size": 5126,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_CHU_1.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_CHU_1.XMI",
+        "size": 2210,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_CHU_2.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_CHU_2.XMI",
+        "size": 7720,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_CHU_3.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_CHU_3.XMI",
+        "size": 1396,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_DEE.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_DEE.XMI",
+        "size": 2354,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_DHA.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_DHA.XMI",
+        "size": 3098,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_FEI.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_FEI.XMI",
+        "size": 3610,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_GUI.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_GUI.XMI",
+        "size": 1490,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_HON.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_HON.XMI",
+        "size": 2784,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_KEN1.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_KEN1.XMI",
+        "size": 2448,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_KEN2.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_KEN2.XMI",
+        "size": 5718,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_RYU.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_RYU.XMI",
+        "size": 2564,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_SAG.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_SAG.XMI",
+        "size": 1750,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_TEE.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_TEE.XMI",
+        "size": 1984,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_VEGA.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_VEGA.XMI",
+        "size": 810,
+        "composer": "Capcom"
+      },
+      {
+        "song": "E_ZAN.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/E_ZAN.XMI",
+        "size": 1508,
+        "composer": "Capcom"
+      },
+      {
+        "song": "OVER.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/OVER.XMI",
+        "size": 446,
+        "composer": "Capcom"
+      },
+      {
+        "song": "P_SEL.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/P_SEL.XMI",
+        "size": 4992,
+        "composer": "Capcom"
+      },
+      {
+        "song": "ST_END.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/ST_END.XMI",
+        "size": 540,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_BAL.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_BAL.XMI",
+        "size": 9388,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_BISON.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_BISON.XMI",
+        "size": 7518,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_BLA.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_BLA.XMI",
+        "size": 6372,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_CAMMY.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_CAMMY.XMI",
+        "size": 6780,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_CHU.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_CHU.XMI",
+        "size": 7938,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_DEE.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_DEE.XMI",
+        "size": 5526,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_DHAL.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_DHAL.XMI",
+        "size": 4610,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_FEI.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_FEI.XMI",
+        "size": 6462,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_GUI.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_GUI.XMI",
+        "size": 6494,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_HON.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_HON.XMI",
+        "size": 7534,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_KEN.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_KEN.XMI",
+        "size": 7662,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_RYU.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_RYU.XMI",
+        "size": 6230,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_SAG.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_SAG.XMI",
+        "size": 7532,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_STAFF.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_STAFF.XMI",
+        "size": 7602,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_TEE.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_TEE.XMI",
+        "size": 3658,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_VEGA.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_VEGA.XMI",
+        "size": 6920,
+        "composer": "Capcom"
+      },
+      {
+        "song": "S_ZAN.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/S_ZAN.XMI",
+        "size": 5494,
+        "composer": "Capcom"
+      },
+      {
+        "song": "TOCYU.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/TOCYU.XMI",
+        "size": 268,
+        "composer": "Capcom"
+      },
+      {
+        "song": "VS.XMI",
+        "song_link": "resources/opl3/Super Street Fighter II/VS.XMI",
+        "size": 690,
+        "composer": "Capcom"
+      }
+    ]
+  },
+  {
+    "game": "Super Street Fighter II",
     "platform": "Amiga",
     "developers": [
       "Freestyle"
@@ -19038,6 +19713,57 @@
         "size": 53398,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FSuperfrog.lha"
+      }
+    ]
+  },
+  {
+    "game": "Syndicate",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog Productions"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "samples": "resources/samples/Syndicate/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "INTRO.XMI",
+        "song_link": "resources/OPL3/Syndicate/INTRO.XMI",
+        "size": 12170,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SYNGAME.XMI #1",
+        "song_link": "resources/OPL3/Syndicate/SYNGAME.XMI#1",
+        "size": 14566,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SYNGAME.XMI #2",
+        "song_link": "resources/OPL3/Syndicate/SYNGAME.XMI#2",
+        "size": 14566,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SYNGAME.XMI #3",
+        "song_link": "resources/OPL3/Syndicate/SYNGAME.XMI#3",
+        "size": 14566,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SYNGAME.XMI #4",
+        "song_link": "resources/OPL3/Syndicate/SYNGAME.XMI#4",
+        "size": 14566,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SYNGAME.XMI #5",
+        "song_link": "resources/OPL3/Syndicate/SYNGAME.XMI#5",
+        "size": 14566,
+        "composer": "Russell Shaw"
       }
     ]
   },
