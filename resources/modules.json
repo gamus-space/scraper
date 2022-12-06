@@ -1,0 +1,129 @@
+[
+  {
+    "game": "Arnie 2",
+    "platform": "PC",
+    "developers": [
+        "Zeppelin Games"
+    ],
+    "publishers": [
+        "Zeppelin Games"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "MUSIC.MOD",
+        "song_link": "resources/modules/PC/Arnie 2/MUSIC.MOD",
+        "size": 81918,
+        "composer": "Andrew Rodger"
+      }
+    ]
+  },
+  {
+    "game": "Kajko i Kokosz",
+    "platform": "PC",
+    "developers": [
+        "Seven Stars"
+    ],
+    "publishers": [
+        "Mirage",
+        "User"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "HAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/HAPPY.MOD",
+        "size": 83402,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE.MOD",
+        "size": 84700,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE2.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE2.MOD",
+        "size": 84860,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "UNHAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
+        "size": 87112,
+        "composer": "Piotr Bendyk"
+      }
+    ]
+  },
+  {
+    "game": "Franko: The Crazy Revenge",
+    "platform": "PC",
+    "developers": [
+        "World Software"
+    ],
+    "publishers": [
+        "Mirage Software"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ENDEV1.MOD",
+        "song_link": "resources/modules/PC/Franko/ENDEV1.MOD",
+        "size": 84964,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "ENDEV2.MOD",
+        "song_link": "resources/modules/PC/Franko/ENDEV2.MOD",
+        "size": 89706,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L1WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L1WALBOS.MOD",
+        "size": 17486,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L2WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L2WALBOS.MOD",
+        "size": 13954,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "L3WALBOS.MOD",
+        "song_link": "resources/modules/PC/Franko/L3WALBOS.MOD",
+        "size": 13292,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV1N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV1N.MOD",
+        "size": 22606,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV2N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV2N.MOD",
+        "size": 17214,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "LEV3N.MOD",
+        "song_link": "resources/modules/PC/Franko/LEV3N.MOD",
+        "size": 20620,
+        "composer": "Sławomir Mrozek"
+      },
+      {
+        "song": "TITLE.MOD",
+        "song_link": "resources/modules/PC/Franko/TITLE.MOD",
+        "size": 93156,
+        "composer": "Sławomir Mrozek"
+      }
+    ]
+  }
+]
