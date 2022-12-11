@@ -1,1 +1,0 @@
-extract files from WACKY.DAT with gamearch.exe from Camoto Desktop

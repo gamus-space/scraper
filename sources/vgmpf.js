@@ -177,6 +177,8 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Chex_Quest_2_(DOS)', composer: 'Andrew Benon', song_pattern: /^[^/]+\.mus/, song_count: 8, samples: 'resources/samples/Doom/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Doom_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.mus/, song_count: 24, samples: 'resources/samples/Doom/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Doom_II:_Hell_On_Earth_(DOS)', composer: 'Robert Prince', song_pattern: /^[^/]+\.mus/, song_count: 21, samples: 'resources/samples/Doom 2/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia', composer: 'Robert Prince', song_pattern: /^originals\/Plutonia\/[^/]+\.MUS/, song_count: 27, samples: 'resources/samples/Doom 2/GENMIDI.OP2' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt', composer: 'Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben', song_pattern: /^originals\/TNT\/[^/]+\.MUS/, song_count: 23, samples: 'resources/samples/Doom 2/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Heretic_(DOS)', composer: 'Kevin Schilder', song_pattern: /^[^/]+\.mus/, song_count: 22, samples: 'resources/samples/Heretic/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Hexen:_Beyond_Heretic_(DOS)', composer: 'Kevin Schilder', song_pattern: /^[^/]+\.mus/, song_count: 37, samples: 'resources/samples/Heretic/GENMIDI.OP2' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Raptor:_Call_of_the_Shadows_(DOS)', composer: 'Matt Murphy / Scott Host', song_pattern: /^[^/]+\.mus/, song_count: 17, rate: 140, samples: 'resources/samples/Raptor Call of the Shadows/GENMIDI.OP2' },
@@ -194,13 +196,16 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)', composer: 'Frank Klepacki', song_pattern: /^Originals\/(AUDIO|INTROGEN).PAK\/[^/]+\.ADL/, song_count: 18 },
 	];
 	const mdiGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Cannon_Fodder_(DOS)', composer: 'Jon Hare, Nigel Taylor', song_pattern: /^Rip\/[^/]+\.mdi/, song_count: 2 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Golden_Axe_(DOS)', composer: 'SEGA', song_pattern: /^Originals\/Uncompressed\/[^/]+\.MDI/, song_count: 21 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)', composer: 'Michel Golgevit, Zorba Kouaik', song_pattern: /^Originals\/Decompressed\/Music \(AdLib\)\/[^/]+\.MDI/, song_count: 9 },
 	];
 	const xmiGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Jagged_Alliance_(DOS)', composer: 'Steve Wener', song_pattern: /^originals\/[^/]+\.XMI/, song_count: 6, samples: 'resources/samples/Jagged Alliance/MADLAB.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Hospital_(DOS)', composer: 'Russell Shaw, Adrian Moore', song_pattern: /^XMI\/[^/]+\.xmi/, song_count: 8, samples: 'resources/samples/Theme Hospital/SAMPLE.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)', composer: ' Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson', song_pattern: /^original\/(465|466|470|471|475|476|480|481|485|486|495|496|499|500|501|505|506|510|511)\.xmi/, song_count: 19, samples: 'resources/samples/Lost Vikings/VIKINGS.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=WarCraft:_Orcs_%26_Humans_(DOS)', composer: 'Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson', song_pattern: /^2[^/]+\.xmi/, song_count: 15, samples: 'resources/samples/Warcraft/WARCRAFT.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=WarCraft_II:_Tides_of_Darkness_(DOS)', composer: 'Glenn Stafford', song_pattern: /^XMI\/1[^/]+\.xmi/, song_count: 17, samples: 'resources/samples/Warcraft 2/WARCRAFT.AD' },
 	];
 	const midGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blood_(DOS)', composer: 'Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore', song_pattern: /^originals\/registered\/[^/]+\.mid/, song_count: 13, samples: 'resources/samples/Blood/GMTIMBRE.TMB' },
@@ -208,12 +213,17 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prince_of_Persia_(DOS)', composer: 'Francis Mechner', song_pattern: /^Originals\/MIDISND[12].DAT\/[^/]+\.mff/, song_count: 22, samples: 'resources/samples/Prince of Persia/PRESETS.DEF' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Shadow_Warrior_(DOS)', composer: 'Lee Jackson', song_pattern: /^[^/]+\.mid/, song_count: 5, samples: 'resources/samples/Shadow Warrior/SWTIMBR.TMB' },
 	];
+	const klmGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Wacky_Wheels_(DOS)', composer: 'Mark Klem', song_pattern: /^AdLib\/[^/]+\.klm/, song_count: 16 },
+	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
+		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia': { game: 'Final Doom - The Plutonia Experiment' },
+		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt': { game: 'Final Doom - TNT: Evilution' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
