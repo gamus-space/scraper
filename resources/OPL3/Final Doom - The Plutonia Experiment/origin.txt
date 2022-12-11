@@ -1,1 +1,0 @@
-extract files from WAD archive with WADex.exe

@@ -2384,25 +2384,32 @@
     "game": "Cannon Fodder",
     "platform": "PC",
     "developers": [
-      "Sensible Software"
+      "Audio Visual Magic, Ltd."
     ],
     "publishers": [
-      "Virgin Interactive Entertainment"
+      "Virgin Interactive Entertainment (Europe) Ltd.",
+      "Sold Out Sales & Marketing Ltd.",
+      "Virgin Interactive Entertainment (Europe)",
+      "Virgin Interactive Entertainment Ltd.",
+      "Microforum Manufacturing Inc."
     ],
     "year": 1993,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Cannon_Fodder_(DOS)",
     "songs": [
       {
-        "song": "fodmus1-adl.mdi",
-        "song_link": "resources/OPL3/Cannon Fodder/fodmus1-adl.mdi",
+        "song": "fodmus_adl_1.mdi",
+        "song_link": "VGMPF/PC/Cannon Fodder/fodmus_adl_1.mdi",
         "size": 19140,
-        "composer": "Jon Hare, Nigel Taylor"
+        "composer": "Jon Hare, Nigel Taylor",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5d/Cannon_Fodder_%28DOS%29.zip"
       },
       {
-        "song": "fodmus6-adl.mdi",
-        "song_link": "resources/OPL3/Cannon Fodder/fodmus6-adl.mdi",
+        "song": "fodmus_adl_6.mdi",
+        "song_link": "VGMPF/PC/Cannon Fodder/fodmus_adl_6.mdi",
         "size": 948,
-        "composer": "Jon Hare, Nigel Taylor"
+        "composer": "Jon Hare, Nigel Taylor",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5d/Cannon_Fodder_%28DOS%29.zip"
       }
     ]
   },
@@ -6905,154 +6912,177 @@
     "game": "Final Doom - TNT: Evilution",
     "platform": "PC",
     "developers": [
-      "TeamTNT"
+      "id Software"
     ],
     "publishers": [
-      "id Software",
-      "Williams Entertainment",
-      "Bethesda Softworks"
+      "Id Software, Inc.",
+      "Publishing House of Electronic Industry"
     ],
     "year": 1996,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt",
     "samples": "resources/samples/Doom 2/GENMIDI.OP2",
     "songs": [
       {
         "song": "ADRIAN.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/ADRIAN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/ADRIAN.MUS",
         "size": 20741,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "AMPIE.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/AMPIE.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/AMPIE.MUS",
         "size": 15047,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "BETWEE.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/BETWEE.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/BETWEE.MUS",
         "size": 13831,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "COUNT2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNT2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/COUNT2.MUS",
         "size": 31354,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "COUNTD.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/COUNTD.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/COUNTD.MUS",
         "size": 21848,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBL2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DDTBL2.MUS",
         "size": 10550,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBL3.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBL3.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DDTBL3.MUS",
         "size": 8305,
-        "composer": "Tom Mustaine"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBLU.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DDTBLU.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DDTBLU.MUS",
         "size": 11138,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DEAD.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DEAD.MUS",
         "size": 7283,
-        "composer": "Tom Mustaine"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DEAD2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DEAD2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DEAD2.MUS",
         "size": 19424,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DM2TTL.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DM2TTL.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DM2TTL.MUS",
         "size": 358,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DOOM.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/DOOM.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/DOOM.MUS",
         "size": 7953,
-        "composer": "Tom Mustaine"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "EVIL.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/EVIL.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/EVIL.MUS",
         "size": 5426,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "MESSAG.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/MESSAG.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/MESSAG.MUS",
         "size": 9542,
-        "composer": "Tom Mustaine"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "READ_M.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/READ_M.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/READ_M.MUS",
         "size": 7696,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "RUNNIN.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/RUNNIN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/RUNNIN.MUS",
         "size": 15245,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "SHAWN.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/SHAWN.MUS",
         "size": 7696,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "SHAWN2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/SHAWN2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/SHAWN2.MUS",
         "size": 14618,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "STALKS.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STALKS.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/STALKS.MUS",
         "size": 13664,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "STLKS2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/STLKS2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/STLKS2.MUS",
         "size": 12972,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THEDA2.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/THEDA2.MUS",
         "size": 64571,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THEDA3.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THEDA3.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/THEDA3.MUS",
         "size": 25026,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THE_DA.MUS",
-        "song_link": "resources/OPL3/Final Doom - TNT Evilution/THE_DA.MUS",
+        "song_link": "VGMPF/PC/Final Doom - TNT Evilution/THE_DA.MUS",
         "size": 4309,
-        "composer": "Jonathan El-Bizri, Josh Martel, L.A. Sieben"
+        "composer": "Robert Prince, Tom Mustaine, Jonathan El-Bizri, Josh Martel, L.A. Sieben",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       }
     ]
   },
@@ -7060,178 +7090,205 @@
     "game": "Final Doom - The Plutonia Experiment",
     "platform": "PC",
     "developers": [
-      "TeamTNT"
+      "id Software"
     ],
     "publishers": [
-      "id Software",
-      "Williams Entertainment",
-      "Bethesda Softworks"
+      "Id Software, Inc.",
+      "Publishing House of Electronic Industry"
     ],
     "year": 1996,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia",
     "samples": "resources/samples/Doom 2/GENMIDI.OP2",
     "songs": [
       {
         "song": "ADRIAN.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/ADRIAN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/ADRIAN.MUS",
         "size": 5848,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "AMPIE.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/AMPIE.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/AMPIE.MUS",
         "size": 15047,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "BETWEE.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/BETWEE.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/BETWEE.MUS",
         "size": 18216,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "COUNT2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNT2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/COUNT2.MUS",
         "size": 35920,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "COUNTD.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/COUNTD.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/COUNTD.MUS",
         "size": 9456,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBL2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DDTBL2.MUS",
         "size": 46022,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBL3.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBL3.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DDTBL3.MUS",
         "size": 64808,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DDTBLU.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DDTBLU.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DDTBLU.MUS",
         "size": 20965,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DEAD.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DEAD.MUS",
         "size": 8591,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DEAD2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DEAD2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DEAD2.MUS",
         "size": 16650,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DM2INT.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2INT.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DM2INT.MUS",
         "size": 17498,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DM2TTL.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DM2TTL.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DM2TTL.MUS",
         "size": 3604,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DOOM.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DOOM.MUS",
         "size": 21266,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "DOOM2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/DOOM2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/DOOM2.MUS",
         "size": 17250,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "IN_CIT.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/IN_CIT.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/IN_CIT.MUS",
         "size": 28175,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "MESSAG.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/MESSAG.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/MESSAG.MUS",
         "size": 21848,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "OPENIN.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/OPENIN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/OPENIN.MUS",
         "size": 13752,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "RUNNI2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNI2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/RUNNI2.MUS",
         "size": 7015,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "RUNNIN.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/RUNNIN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/RUNNIN.MUS",
         "size": 36776,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "SHAWN.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/SHAWN.MUS",
         "size": 25930,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "SHAWN2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/SHAWN2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/SHAWN2.MUS",
         "size": 9830,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "STALKS.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STALKS.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/STALKS.MUS",
         "size": 19276,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "STLKS2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/STLKS2.MUS",
         "size": 5980,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "STLKS3.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/STLKS3.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/STLKS3.MUS",
         "size": 17283,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THEDA2.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA2.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/THEDA2.MUS",
         "size": 18194,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THEDA3.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THEDA3.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/THEDA3.MUS",
         "size": 18795,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       },
       {
         "song": "THE_DA.MUS",
-        "song_link": "resources/OPL3/Final Doom - The Plutonia Experiment/THE_DA.MUS",
+        "song_link": "VGMPF/PC/Final Doom - The Plutonia Experiment/THE_DA.MUS",
         "size": 59535,
-        "composer": "Robert Prince"
+        "composer": "Robert Prince",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f2/Final_Doom_%28DOS%29.zip"
       }
     ]
   },
@@ -20812,62 +20869,71 @@
     "game": "Theme Hospital",
     "platform": "PC",
     "developers": [
-      "Bullfrog Productions"
+      "Bullfrog Productions, Ltd."
     ],
     "publishers": [
-      "Electronic Arts"
+      "Electronic Arts, Inc."
     ],
     "year": 1997,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Theme_Hospital_(DOS)",
     "samples": "resources/samples/Theme Hospital/SAMPLE.AD",
     "songs": [
       {
-        "song": "Atlantis.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/ATLANTIS.XMI",
+        "song": "1 - Atlantis.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/1 - Atlantis.xmi",
         "size": 24784,
-        "composer": "Russell Shaw, Adrian Moore"
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
       },
       {
-        "song": "Candyfloss.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/CANDY.XMI",
-        "size": 8094,
-        "composer": "Russell Shaw, Adrian Moore"
-      },
-      {
-        "song": "Doctor Frog.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/DOCTOR.XMI",
-        "size": 3066,
-        "composer": "Russell Shaw, Adrian Moore"
-      },
-      {
-        "song": "Fortune.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/FORTUNE.XMI",
-        "size": 7728,
-        "composer": "Russell Shaw, Adrian Moore"
-      },
-      {
-        "song": "On the Mend.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/MEND.XMI",
-        "size": 11936,
-        "composer": "Russell Shaw, Adrian Moore"
-      },
-      {
-        "song": "Night Shift.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/NIGHTSH.XMI",
-        "size": 14402,
-        "composer": "Russell Shaw, Adrian Moore"
-      },
-      {
-        "song": "6's and 7's.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/SIXSEVEN.XMI",
+        "song": "2 - 6's and 7's.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/2 - 6's and 7's.xmi",
         "size": 22156,
-        "composer": "Russell Shaw, Adrian Moore"
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
       },
       {
-        "song": "Steady Pulse.xmi",
-        "song_link": "resources/OPL3/Theme Hospital/STEADY.XMI",
+        "song": "3 - Fortune.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/3 - Fortune.xmi",
+        "size": 7728,
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      },
+      {
+        "song": "4 - Candyfloss.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/4 - Candyfloss.xmi",
+        "size": 8094,
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      },
+      {
+        "song": "5 - On the Mend.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/5 - On the Mend.xmi",
+        "size": 11936,
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      },
+      {
+        "song": "6 - Doctor Frog.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/6 - Doctor Frog.xmi",
+        "size": 3066,
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      },
+      {
+        "song": "7 - Night Shift.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/7 - Night Shift.xmi",
+        "size": 14402,
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      },
+      {
+        "song": "8 - Steady Pulse.xmi",
+        "song_link": "VGMPF/PC/Theme Hospital/8 - Steady Pulse.xmi",
         "size": 12490,
-        "composer": "Russell Shaw, Adrian Moore"
+        "composer": "Russell Shaw, Adrian Moore",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
       }
     ]
   },
@@ -22242,109 +22308,127 @@
     "game": "Wacky Wheels",
     "platform": "PC",
     "developers": [
-      "Beavis Soft"
+      "Beavis-Soft"
     ],
     "publishers": [
-      "Apogee Software"
+      "Apogee Software, Ltd.",
+      "CDV Software"
     ],
     "year": 1994,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Wacky_Wheels_(DOS)",
     "songs": [
       {
-        "song": "APOGEE.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/APOGEE.KLM",
+        "song": "01 - Apogee.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/01 - Apogee.klm",
         "size": 1703,
-        "composer": "Mark Klem"
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
       },
       {
-        "song": "ASHES.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/ASHES.KLM",
-        "size": 5154,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "BANSHI.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/BANSHI.KLM",
-        "size": 14103,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "BASSATTK.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/BASSATTK.KLM",
-        "size": 20767,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "BRICWALL.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/BRICWALL.KLM",
-        "size": 14627,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "DANCE.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/DANCE.KLM",
-        "size": 15845,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "FLIGHT.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/FLIGHT.KLM",
-        "size": 17584,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "GAMEOVER.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/GAMEOVER.KLM",
-        "size": 639,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "KARD.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/KARD.KLM",
-        "size": 7815,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "LEADRBRD.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/LEADRBRD.KLM",
-        "size": 1142,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "MAINMENU.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/MAINMENU.KLM",
+        "song": "02 - Main Menu.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/02 - Main Menu.klm",
         "size": 17289,
-        "composer": "Mark Klem"
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
       },
       {
-        "song": "OVERDRIV.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/OVERDRIV.KLM",
-        "size": 25282,
-        "composer": "Mark Klem"
+        "song": "03 - Ashes.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/03 - Ashes.klm",
+        "size": 5154,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
       },
       {
-        "song": "PUMPER.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/PUMPER.KLM",
-        "size": 15468,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "SPACEY.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/SPACEY.KLM",
-        "size": 8009,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "STARBRAI.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/STARBRAI.KLM",
-        "size": 20845,
-        "composer": "Mark Klem"
-      },
-      {
-        "song": "TURBO.KLM",
-        "song_link": "resources/OPL3/Wacky Wheels/TURBO.KLM",
+        "song": "04 - Turbo.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/04 - Turbo.klm",
         "size": 28587,
-        "composer": "Mark Klem"
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Dance.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/05 - Dance.klm",
+        "size": 15845,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Flight.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/06 - Flight.klm",
+        "size": 17584,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Star Brain.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/07 - Star Brain.klm",
+        "size": 20845,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Bass Attack.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/08 - Bass Attack.klm",
+        "size": 20767,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Kard.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/09 - Kard.klm",
+        "size": 7815,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - Overdrive.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/10 - Overdrive.klm",
+        "size": 25282,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Pumper.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/11 - Pumper.klm",
+        "size": 15468,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - Spacey.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/12 - Spacey.klm",
+        "size": 8009,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "13 - Brickwall.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/13 - Brickwall.klm",
+        "size": 14627,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "14 - Banshee.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/14 - Banshee.klm",
+        "size": 14103,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "15 - Game Over.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/15 - Game Over.klm",
+        "size": 639,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
+      },
+      {
+        "song": "16 - Leader Board.klm",
+        "song_link": "VGMPF/PC/Wacky Wheels/16 - Leader Board.klm",
+        "size": 1142,
+        "composer": "Mark Klem",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/fe/Wacky_Wheels_%28DOS%29.zip"
       }
     ]
   },
@@ -22385,119 +22469,138 @@
     ]
   },
   {
-    "game": "Warcraft 2: Tides of Darkness",
+    "game": "WarCraft II: Tides of Darkness",
     "platform": "PC",
     "developers": [
-      "Blizzard Entertainment"
+      "Blizzard Entertainment Inc."
     ],
     "publishers": [
-      "Davidson & Associates"
+      "Blizzard Entertainment Inc.",
+      "Autosoft"
     ],
     "year": 1995,
-    "source": "gamus",
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=WarCraft_II:_Tides_of_Darkness_(DOS)",
     "samples": "resources/samples/Warcraft 2/WARCRAFT.AD",
     "songs": [
       {
         "song": "101 - Introduction.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/101 - Introduction.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/101 - Introduction.xmi",
         "size": 18208,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "102 - Title.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/102 - Title.xmi",
+        "song": "102 - Title Theme.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/102 - Title Theme.xmi",
         "size": 5308,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "103 - Briefing.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/103 - Briefing.xmi",
+        "song": "103 - Mission Briefing.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/103 - Mission Briefing.xmi",
         "size": 6830,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "104 - Orc 1.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/104 - Orc 1.xmi",
-        "size": 16374,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "105 - Orc 2.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/105 - Orc 2.xmi",
-        "size": 17122,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "106 - Orc 3.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/106 - Orc 3.xmi",
-        "size": 24780,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "107 - Orc 4.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/107 - Orc 4.xmi",
-        "size": 22536,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "108 - Orc Defeat.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/108 - Orc Defeat.xmi",
-        "size": 2612,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "109 - Orc Victory.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/109 - Orc Victory.xmi",
-        "size": 6250,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "110 - Human 1.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/110 - Human 1.xmi",
+        "song": "104 - Human 1.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/104 - Human 1.xmi",
         "size": 21768,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "111 - Human 2.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/111 - Human 2.xmi",
+        "song": "105 - Human 2.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/105 - Human 2.xmi",
         "size": 14718,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "112 - Human 3.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/112 - Human 3.xmi",
+        "song": "106 - Human 3.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/106 - Human 3.xmi",
         "size": 18932,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "113 - Human 4.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/113 - Human 4.xmi",
+        "song": "107 - Human 4.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/107 - Human 4.xmi",
         "size": 22702,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
-        "song": "114 - Human Defeat.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/114 - Human Defeat.xmi",
-        "size": 3434,
-        "composer": "Glenn Stafford"
-      },
-      {
-        "song": "115 - Human Victory.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/115 - Human Victory.xmi",
+        "song": "108 - Human Victory.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/108 - Human Victory.xmi",
         "size": 3070,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "109 - Human Defeat.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/109 - Human Defeat.xmi",
+        "size": 3434,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "110 - Orc 1.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/110 - Orc 1.xmi",
+        "size": 16374,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "111 - Orc 2.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/111 - Orc 2.xmi",
+        "size": 17122,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "112 - Orc 3.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/112 - Orc 3.xmi",
+        "size": 24780,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "113 - Orc 4.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/113 - Orc 4.xmi",
+        "size": 22536,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "114 - Orc Victory.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/114 - Orc Victory.xmi",
+        "size": 6250,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
+      },
+      {
+        "song": "115 - Orc Defeat.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/115 - Orc Defeat.xmi",
+        "size": 2612,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
         "song": "116 - Extra 1.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/116 - Extra 1.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/116 - Extra 1.xmi",
         "size": 18104,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       },
       {
         "song": "117 - Extra 2.xmi",
-        "song_link": "resources/OPL3/Warcraft 2/117 - Extra 2.xmi",
+        "song_link": "VGMPF/PC/WarCraft II Tides of Darkness/117 - Extra 2.xmi",
         "size": 16030,
-        "composer": "Glenn Stafford"
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/WarCraft_II_Tides_of_Darkness_%28DOS%29.zip"
       }
     ]
   },
