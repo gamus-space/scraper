@@ -1,0 +1,1 @@
+copy *_f.hmp and *_kof.hmp from \midi
