@@ -1368,6 +1368,115 @@
     ]
   },
   {
+    "game": "Battle Arena Toshinden",
+    "platform": "PC",
+    "developers": [
+      "Digital Dialect"
+    ],
+    "publishers": [
+      "Playmates Interactive Entertainment, Inc.",
+      "Funsoft"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": [
+      "resources/samples/Battle Arena Toshinden/MELODIC.BNK",
+      "resources/samples/Battle Arena Toshinden/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "DUKE-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/DUKE-AMIDI.HMI",
+        "size": 34106,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "EIJI-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/EIJI-AMIDI.HMI",
+        "size": 57732,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "ELLIS-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/ELLIS-AMIDI.HMI",
+        "size": 18479,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "FO-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/FO-AMIDI.HMI",
+        "size": 21561,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "GAIA-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/GAIA-AMIDI.HMI",
+        "size": 6561,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "GMIDI1.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/GMIDI1.HMI",
+        "size": 1302,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "GMIDI2.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/GMIDI2.HMI",
+        "size": 1481,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "GMIDI3.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/GMIDI3.HMI",
+        "size": 4463,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "GMIDI4.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/GMIDI4.HMI",
+        "size": 3372,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "JIM-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/JIM-AMIDI.HMI",
+        "size": 17624,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "KAYIN-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/KAYIN-AMIDI.HMI",
+        "size": 19655,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "MONDO-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/MONDO-AMIDI.HMI",
+        "size": 24946,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "RUNGO-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/RUNGO-AMIDI.HMI",
+        "size": 35792,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "SHO-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/SHO-AMIDI.HMI",
+        "size": 19406,
+        "composer": "Yasuhiro Nakano"
+      },
+      {
+        "song": "SOFIA-AMIDI.HMI",
+        "song_link": "resources/OPL3/Battle Arena Toshinden/SOFIA-AMIDI.HMI",
+        "size": 22683,
+        "composer": "Yasuhiro Nakano"
+      }
+    ]
+  },
+  {
     "game": "Bio Menace",
     "platform": "PC",
     "developers": [
@@ -19619,6 +19728,378 @@
   },
   {
     "game": "Super Street Fighter II Turbo",
+    "platform": "PC",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": [
+      "resources/samples/Super Street Fighter II Turbo/MELODIC.BNK",
+      "resources/samples/Super Street Fighter II Turbo/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "BALR_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BALR_F.HMP",
+        "size": 13041,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "BALR_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BALR_KOF.HMP",
+        "size": 6991,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "BISO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BISO_F.HMP",
+        "size": 17314,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "BISO_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BISO_KOF.HMP",
+        "size": 13327,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "BLAN_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BLAN_F.HMP",
+        "size": 17930,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "BLAN_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/BLAN_KOF.HMP",
+        "size": 6706,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CAMM_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CAMM_F.HMP",
+        "size": 15422,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CAMM_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CAMM_KOF.HMP",
+        "size": 8670,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CHUN_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CHUN_F.HMP",
+        "size": 15400,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CHUN_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CHUN_KOF.HMP",
+        "size": 9708,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CONTJ_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CONTJ_F.HMP",
+        "size": 1713,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "CONT_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/CONT_F.HMP",
+        "size": 4229,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "DEEJ_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/DEEJ_F.HMP",
+        "size": 11725,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "DEEJ_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/DEEJ_KOF.HMP",
+        "size": 8993,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "DHAL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/DHAL_F.HMP",
+        "size": 10078,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "DHAL_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/DHAL_KOF.HMP",
+        "size": 8558,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_BALR_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_BALR_F.HMP",
+        "size": 11243,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_BISO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_BISO_F.HMP",
+        "size": 3387,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_BLAN_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_BLAN_F.HMP",
+        "size": 7579,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_CAMM_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_CAMM_F.HMP",
+        "size": 5977,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_CHN2_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_CHN2_F.HMP",
+        "size": 6152,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_CHN3_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_CHN3_F.HMP",
+        "size": 4276,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_DEEJ_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_DEEJ_F.HMP",
+        "size": 6170,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_DHAL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_DHAL_F.HMP",
+        "size": 7736,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_FEIL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_FEIL_F.HMP",
+        "size": 4775,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_GUIL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_GUIL_F.HMP",
+        "size": 4778,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_HAWK_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_HAWK_F.HMP",
+        "size": 3248,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_HOND_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_HOND_F.HMP",
+        "size": 7267,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_KEN_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_KEN_F.HMP",
+        "size": 3801,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_RYU_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_RYU_F.HMP",
+        "size": 5797,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_SAGA_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_SAGA_F.HMP",
+        "size": 4100,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_VEGA_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_VEGA_F.HMP",
+        "size": 2229,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_WEDD_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_WEDD_F.HMP",
+        "size": 9124,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "E_ZANG_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/E_ZANG_F.HMP",
+        "size": 4552,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "FEIL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/FEIL_F.HMP",
+        "size": 9717,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "FEIL_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/FEIL_KOF.HMP",
+        "size": 11226,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "GAMEO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/GAMEO_F.HMP",
+        "size": 2420,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "GUIL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/GUIL_F.HMP",
+        "size": 19121,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "GUIL_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/GUIL_KOF.HMP",
+        "size": 8541,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "HAWK_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/HAWK_F.HMP",
+        "size": 9781,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "HAWK_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/HAWK_KOF.HMP",
+        "size": 9092,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "HI_SCO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/HI_SCO_F.HMP",
+        "size": 2018,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "HOND_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/HOND_F.HMP",
+        "size": 17169,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "HOND_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/HOND_KOF.HMP",
+        "size": 8177,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "INTRO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/INTRO_F.HMP",
+        "size": 8952,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "KEN_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/KEN_F.HMP",
+        "size": 10598,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "KEN_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/KEN_KOF.HMP",
+        "size": 14018,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "LOGO_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/LOGO_F.HMP",
+        "size": 2129,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "PLRSEL_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/PLRSEL_F.HMP",
+        "size": 6026,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "RYU_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/RYU_F.HMP",
+        "size": 15761,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "RYU_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/RYU_KOF.HMP",
+        "size": 10612,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "SAGA_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/SAGA_F.HMP",
+        "size": 11754,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "SAGA_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/SAGA_KOF.HMP",
+        "size": 10904,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "TITLE_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/TITLE_F.HMP",
+        "size": 7942,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "VEGA_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/VEGA_F.HMP",
+        "size": 20627,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "VEGA_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/VEGA_KOF.HMP",
+        "size": 18605,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "VERS_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/VERS_F.HMP",
+        "size": 2158,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "ZANG_F.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/ZANG_F.HMP",
+        "size": 20069,
+        "composer": "Isao Abe, Syun Nishigaki"
+      },
+      {
+        "song": "ZANG_KOF.HMP",
+        "song_link": "resources/OPL3/Super Street Fighter II Turbo/ZANG_KOF.HMP",
+        "size": 12913,
+        "composer": "Isao Abe, Syun Nishigaki"
+      }
+    ]
+  },
+  {
+    "game": "Super Street Fighter II Turbo",
     "platform": "Amiga",
     "developers": [
       "Human Soft"
@@ -20934,6 +21415,214 @@
         "size": 12490,
         "composer": "Russell Shaw, Adrian Moore",
         "source_archive": "http://www.vgmpf.com/Wiki/images/9/91/Theme_Hospital_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Theme Park",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog Productions, Ltd."
+    ],
+    "publishers": [
+      "Electronic Arts Ltd."
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)",
+    "samples": [
+      "VGMPF/PC/Theme Park/INST.BNK",
+      "VGMPF/PC/Theme Park/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "FANFARE.HMP",
+        "song_link": "VGMPF/PC/Theme Park/FANFARE.HMP",
+        "size": 1184,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "FUNERAL.HMP",
+        "song_link": "VGMPF/PC/Theme Park/FUNERAL.HMP",
+        "size": 1152,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "HRTBEAT.HMP",
+        "song_link": "VGMPF/PC/Theme Park/HRTBEAT.HMP",
+        "size": 3136,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO.HMP",
+        "song_link": "VGMPF/PC/Theme Park/INTRO.HMP",
+        "size": 25760,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO2.HMP",
+        "song_link": "VGMPF/PC/Theme Park/INTRO2.HMP",
+        "size": 23600,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO3.HMP",
+        "song_link": "VGMPF/PC/Theme Park/INTRO3.HMP",
+        "size": 20768,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO4.HMP",
+        "song_link": "VGMPF/PC/Theme Park/INTRO4.HMP",
+        "size": 10832,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "INTRO5.HMP",
+        "song_link": "VGMPF/PC/Theme Park/INTRO5.HMP",
+        "size": 5392,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE1.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE1.HMP",
+        "size": 2704,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE10.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE10.HMP",
+        "size": 3728,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE11.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE11.HMP",
+        "size": 5760,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE12.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE12.HMP",
+        "size": 6480,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE13.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE13.HMP",
+        "size": 8816,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE14.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE14.HMP",
+        "size": 4912,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE15.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE15.HMP",
+        "size": 4592,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE16.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE16.HMP",
+        "size": 4864,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE17.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE17.HMP",
+        "size": 4752,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE2.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE2.HMP",
+        "size": 4128,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE3.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE3.HMP",
+        "size": 5152,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE4.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE4.HMP",
+        "size": 6816,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE5.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE5.HMP",
+        "size": 11472,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE6.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE6.HMP",
+        "size": 3520,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE7.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE7.HMP",
+        "size": 13024,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE8.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE8.HMP",
+        "size": 3584,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "RIDE9.HMP",
+        "song_link": "VGMPF/PC/Theme Park/RIDE9.HMP",
+        "size": 3984,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "TOVER.HMP",
+        "song_link": "VGMPF/PC/Theme Park/TOVER.HMP",
+        "size": 1712,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
+      },
+      {
+        "song": "WIN.HMP",
+        "song_link": "VGMPF/PC/Theme Park/WIN.HMP",
+        "size": 1632,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/3/30/Theme_Park_%28DOS%29.zip"
       }
     ]
   },
