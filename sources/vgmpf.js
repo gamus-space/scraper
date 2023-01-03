@@ -10,7 +10,7 @@ const { sequential } = require('../lib/utils');
 
 const PLATFORM_MAP = { 'DOS': 'PC' };
 
-async function fetchGame({ url, composer, song_pattern, song_count, rate, samples }, source, options) {
+async function fetchGame({ url, composer, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
 	const infoTable = xpath.select1('//div[@id="mw-content-text"]/table[1]', doc);
@@ -48,7 +48,7 @@ async function fetchGame({ url, composer, song_pattern, song_count, rate, sample
 	}
 
 	const fragment = rate != undefined ? `#${rate}` : '';
-	const songs = files.map(file => ({
+	const songs = files.filter(file => !file.match(song_ignore || /$^/)).map(file => ({
 		song: file,
 		song_link: `${source}/${gameDir}/${file}${fragment}`,
 		size: fs.statSync(`${gameDir}/${file}`).size,
@@ -216,6 +216,9 @@ async function fetchVgmpf(source) {
 	const klmGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Wacky_Wheels_(DOS)', composer: 'Mark Klem', song_pattern: /^AdLib\/[^/]+\.klm/, song_count: 16 },
 	];
+	const hmpGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 29, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
+	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia': { game: 'Final Doom - The Plutonia Experiment' },
@@ -223,7 +226,7 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
