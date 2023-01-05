@@ -217,7 +217,12 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Wacky_Wheels_(DOS)', composer: 'Mark Klem', song_pattern: /^AdLib\/[^/]+\.klm/, song_count: 16 },
 	];
 	const hmpGames = [
-		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 29, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 27+2, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
+	];
+	const heradGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/(AdLib Gold\/[^/]+\.AGD|AdLib-SoundBlaster\/[^/]+\.SDB)/, song_count: 9+9 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=KGB_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/AdLib-SoundBlaster\/[^/]+\.SDB/, song_count: 6 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=MegaRace_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/[^/]+\.sdb/, song_count: 6 },
 	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
@@ -226,7 +231,7 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...heradGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
