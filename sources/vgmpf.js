@@ -188,7 +188,7 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Times_of_Lore_(DOS)', composer: 'Martin Galway, Herman Miller', song_pattern: /^Originals\/[^/]+\.m/, song_count: 11 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)', composer: 'David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter', song_pattern: /^Originals\/[^/]+\.m/, song_count: 12 },
 	];
-	const adlGames = [
+	const adlWestwoodGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)', composer: 'Frank Klepacki, Paul Mudra', song_pattern: /^Originals\/[^/]+\.ADL/, song_count: 21 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_(DOS)', composer: 'Paul Mudra', song_pattern: /^Originals\/AdLib\/SOUND\.ADL/, song_count: 1 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon_(DOS)', composer: 'Frank Klepacki', song_pattern: /^Originals\/Music \(AdLib\)\/[^/]+\.ADL/, song_count: 10 },
@@ -217,7 +217,18 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Wacky_Wheels_(DOS)', composer: 'Mark Klem', song_pattern: /^AdLib\/[^/]+\.klm/, song_count: 16 },
 	];
 	const hmpGames = [
-		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 29, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 27+2, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
+	];
+	const heradGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/(AdLib Gold\/[^/]+\.AGD|AdLib-SoundBlaster\/[^/]+\.SDB)/, song_count: 9+9 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=KGB_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/AdLib-SoundBlaster\/[^/]+\.SDB/, song_count: 6 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=MegaRace_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/[^/]+\.sdb/, song_count: 6 },
+	];
+	const adlCoktelVisionGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)', composer: 'Charles Callet', song_pattern: /^[^/]+\.adl/, song_count: 12 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)', composer: 'Charles Callet', song_pattern: /^[^/]+\.adl/, song_count: 8 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)', composer: 'Charles Callet', song_pattern: /^originals\/[^/]+\.ADL/, song_count: 14 },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)', composer: 'Charles Callet', song_pattern: /^[^/]+\.adl/, song_count: 13 },
 	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
@@ -226,7 +237,7 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...heradGames, ...adlCoktelVisionGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
