@@ -6118,6 +6118,148 @@
   },
   {
     "game": "Dune",
+    "platform": "PC",
+    "developers": [
+      "Cryo Interactive Entertainment"
+    ],
+    "publishers": [
+      "Virgin Games, Inc.",
+      "Sold Out Sales & Marketing Ltd."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Dune_(DOS)",
+    "songs": [
+      {
+        "song": "ARRAKIS.AGD",
+        "song_link": "VGMPF/PC/Dune/ARRAKIS.AGD",
+        "size": 31198,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "ARRAKIS.SDB",
+        "song_link": "VGMPF/PC/Dune/ARRAKIS.SDB",
+        "size": 31166,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "BAGDAD.AGD",
+        "song_link": "VGMPF/PC/Dune/BAGDAD.AGD",
+        "size": 39733,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "BAGDAD.SDB",
+        "song_link": "VGMPF/PC/Dune/BAGDAD.SDB",
+        "size": 39701,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "MORNING.AGD",
+        "song_link": "VGMPF/PC/Dune/MORNING.AGD",
+        "size": 34092,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "MORNING.SDB",
+        "song_link": "VGMPF/PC/Dune/MORNING.SDB",
+        "size": 34060,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "SEKENCE.AGD",
+        "song_link": "VGMPF/PC/Dune/SEKENCE.AGD",
+        "size": 35567,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "SEKENCE.SDB",
+        "song_link": "VGMPF/PC/Dune/SEKENCE.SDB",
+        "size": 35535,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "SIETCHM.AGD",
+        "song_link": "VGMPF/PC/Dune/SIETCHM.AGD",
+        "size": 20204,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "SIETCHM.SDB",
+        "song_link": "VGMPF/PC/Dune/SIETCHM.SDB",
+        "size": 20172,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WARSONG.AGD",
+        "song_link": "VGMPF/PC/Dune/WARSONG.AGD",
+        "size": 12221,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WARSONG.SDB",
+        "song_link": "VGMPF/PC/Dune/WARSONG.SDB",
+        "size": 12189,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WATER.AGD",
+        "song_link": "VGMPF/PC/Dune/WATER.AGD",
+        "size": 6489,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WATER.SDB",
+        "song_link": "VGMPF/PC/Dune/WATER.SDB",
+        "size": 6457,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WORMINTR.AGD",
+        "song_link": "VGMPF/PC/Dune/WORMINTR.AGD",
+        "size": 23793,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WORMINTR.SDB",
+        "song_link": "VGMPF/PC/Dune/WORMINTR.SDB",
+        "size": 25956,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WORMSUIT.AGD",
+        "song_link": "VGMPF/PC/Dune/WORMSUIT.AGD",
+        "size": 36286,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      },
+      {
+        "song": "WORMSUIT.SDB",
+        "song_link": "VGMPF/PC/Dune/WORMSUIT.SDB",
+        "size": 32916,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a8/Dune_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Dune",
     "platform": "Amiga",
     "developers": [
       "Cryo"
@@ -8128,6 +8270,180 @@
         "size": 59530,
         "composer": "Frédéric Motte",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMotte_Frederic%2FGobliiins.lha"
+      }
+    ]
+  },
+  {
+    "game": "Gobliins 2: The Prince Buffoon",
+    "platform": "PC",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision",
+      "Sierra On-Line, Inc."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)",
+    "songs": [
+      {
+        "song": "01 - Opening.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/01 - Opening.adl",
+        "size": 1778,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Title.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/02 - Title.adl",
+        "size": 14419,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Village.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/03 - Village.adl",
+        "size": 20181,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Fountain.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/04 - Fountain.adl",
+        "size": 11292,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Wizard.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/05 - Wizard.adl",
+        "size": 23157,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Giant.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/06 - Giant.adl",
+        "size": 6687,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Castle.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/07 - Castle.adl",
+        "size": 10367,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Guards.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/08 - Guards.adl",
+        "size": 16304,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Well.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/09 - Well.adl",
+        "size": 13915,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - Mermaid.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/10 - Mermaid.adl",
+        "size": 5866,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Kitchen.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/11 - Kitchen.adl",
+        "size": 5635,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - Final.adl",
+        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/12 - Final.adl",
+        "size": 1971,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Goblins Quest 3",
+    "platform": "PC",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision",
+      "Makh-Shevet Ltd.",
+      "SYSTEM 4 de España, S.A.",
+      "Sierra On-Line, Inc."
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)",
+    "songs": [
+      {
+        "song": "01 - Title.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/01 - Title.adl",
+        "size": 26373,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Ship.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/02 - Ship.adl",
+        "size": 12061,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Guards.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/03 - Guards.adl",
+        "size": 11071,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Death.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/04 - Death.adl",
+        "size": 13901,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Countryside.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/05 - Countryside.adl",
+        "size": 12098,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Bar.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/06 - Bar.adl",
+        "size": 28506,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Islands.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/07 - Islands.adl",
+        "size": 9993,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Queen.adl",
+        "song_link": "VGMPF/PC/Goblins Quest 3/08 - Queen.adl",
+        "size": 9942,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       }
     ]
   },
@@ -10408,6 +10724,67 @@
     ]
   },
   {
+    "game": "KGB",
+    "platform": "PC",
+    "developers": [
+      "Cryo Interactive Entertainment"
+    ],
+    "publishers": [
+      "Virgin Games, Inc.",
+      "Virgin Games, Ltd.",
+      "Virgin Interactive Entertainment, Inc.",
+      "Virgin Interactive Entertainment (Europe) Ltd.",
+      "Sold Out Sales & Marketing Ltd."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=KGB_(DOS)",
+    "songs": [
+      {
+        "song": "BUROKRAT.SDB",
+        "song_link": "VGMPF/PC/KGB/BUROKRAT.SDB",
+        "size": 42333,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      },
+      {
+        "song": "GORBI2.SDB",
+        "song_link": "VGMPF/PC/KGB/GORBI2.SDB",
+        "size": 48483,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      },
+      {
+        "song": "GOULAG.SDB",
+        "song_link": "VGMPF/PC/KGB/GOULAG.SDB",
+        "size": 30666,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      },
+      {
+        "song": "KURSK.SDB",
+        "song_link": "VGMPF/PC/KGB/KURSK.SDB",
+        "size": 36622,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      },
+      {
+        "song": "MACHINE.SDB",
+        "song_link": "VGMPF/PC/KGB/MACHINE.SDB",
+        "size": 34449,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      },
+      {
+        "song": "PARADISE.SDB",
+        "song_link": "VGMPF/PC/KGB/PARADISE.SDB",
+        "size": 44362,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/6/61/KGB_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Kajko i Kokosz",
     "platform": "PC",
     "developers": [
@@ -12051,6 +12428,119 @@
     ]
   },
   {
+    "game": "Lost in Time",
+    "platform": "PC",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Sierra On-Line, Inc."
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)",
+    "songs": [
+      {
+        "song": "DORA.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA.ADL",
+        "size": 6646,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA1.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA1.ADL",
+        "size": 7063,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA10.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA10.ADL",
+        "size": 9828,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA11.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA11.ADL",
+        "size": 19032,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA12.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA12.ADL",
+        "size": 962,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA13.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA13.ADL",
+        "size": 5876,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA14.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA14.ADL",
+        "size": 11791,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA15.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA15.ADL",
+        "size": 17093,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA16.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA16.ADL",
+        "size": 8410,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA17.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA17.ADL",
+        "size": 2498,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA18.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA18.ADL",
+        "size": 3448,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA2.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA2.ADL",
+        "size": 10224,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA3.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA3.ADL",
+        "size": 6648,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      },
+      {
+        "song": "DORA4.ADL",
+        "song_link": "VGMPF/PC/Lost in Time/DORA4.ADL",
+        "size": 17543,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/51/Lost_in_Time_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Lotus Esprit Turbo Challenge",
     "platform": "Amiga",
     "developers": [
@@ -12769,6 +13259,63 @@
         "song_link": "resources/OPL3/Mega Man X/ZERO.XMI",
         "size": 3814,
         "composer": "Capcom"
+      }
+    ]
+  },
+  {
+    "game": "MegaRace",
+    "platform": "PC",
+    "developers": [
+      "Cryo Interactive Entertainment"
+    ],
+    "publishers": [
+      "The Software Toolworks, Inc."
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=MegaRace_(DOS)",
+    "songs": [
+      {
+        "song": "alarme.sdb",
+        "song_link": "VGMPF/PC/MegaRace/alarme.sdb",
+        "size": 41334,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
+      },
+      {
+        "song": "detritus.sdb",
+        "song_link": "VGMPF/PC/MegaRace/detritus.sdb",
+        "size": 44950,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
+      },
+      {
+        "song": "lenny.sdb",
+        "song_link": "VGMPF/PC/MegaRace/lenny.sdb",
+        "size": 43957,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
+      },
+      {
+        "song": "maeva.sdb",
+        "song_link": "VGMPF/PC/MegaRace/maeva.sdb",
+        "size": 35375,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
+      },
+      {
+        "song": "newsan.sdb",
+        "song_link": "VGMPF/PC/MegaRace/newsan.sdb",
+        "size": 38358,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
+      },
+      {
+        "song": "paga.sdb",
+        "song_link": "VGMPF/PC/MegaRace/paga.sdb",
+        "size": 38547,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/2/24/MegaRace_%28DOS%29.zip"
       }
     ]
   },
@@ -23412,6 +23959,113 @@
         "size": 12470,
         "composer": "Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson",
         "source_archive": "http://www.vgmpf.com/Wiki/images/0/01/WarCraft_Orcs_%26_Humans_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Ween: The Prophecy",
+    "platform": "PC",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision",
+      "Sierra On-Line, Inc."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)",
+    "songs": [
+      {
+        "song": "01.1 - Kraal 1.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/01.1 - Kraal 1.adl",
+        "size": 5264,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "01.2 - Kraal 2.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/01.2 - Kraal 2.adl",
+        "size": 3662,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Banishment.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/02 - Banishment.adl",
+        "size": 4466,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Revuss.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/03 - Revuss.adl",
+        "size": 1278,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Ween Title.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/04 - Ween Title.adl",
+        "size": 15003,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Home.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/05 - Home.adl",
+        "size": 5212,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Uki & Orbi.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/06 - Uki & Orbi.adl",
+        "size": 7893,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Twins Sing.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/07 - Twins Sing.adl",
+        "size": 3059,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Vault.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/08 - Vault.adl",
+        "size": 22999,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Dragon.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/09 - Dragon.adl",
+        "size": 4959,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - Guardian Puzzle.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/10 - Guardian Puzzle.adl",
+        "size": 5767,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Sanctuary.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/11 - Sanctuary.adl",
+        "size": 10940,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - Cliff.adl",
+        "song_link": "VGMPF/PC/Ween The Prophecy/12 - Cliff.adl",
+        "size": 13934,
+        "composer": "Charles Callet",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
       }
     ]
   },
