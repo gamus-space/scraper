@@ -230,6 +230,9 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)', composer: 'Charles Callet', song_pattern: /^originals\/[^/]+\.ADL/, song_count: 14 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)', composer: 'Charles Callet', song_pattern: /^[^/]+\.adl/, song_count: 13 },
 	];
+	const modGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_2_(DOS)', composer: 'Fabrice Paumier, Francis Fournier', song_pattern: /^[^/]+\.mod/, song_count: 12 },
+	];
 	const gameOptions = {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia': { game: 'Final Doom - The Plutonia Experiment' },
@@ -237,7 +240,7 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...heradGames, ...adlCoktelVisionGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...heradGames, ...adlCoktelVisionGames, ...modGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);

@@ -1,0 +1,1 @@
+rip from disk1.vga and disk4.vga with https://github.com/gamus-space/rip-tools/blob/main/rip-midi.js
