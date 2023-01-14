@@ -1329,6 +1329,86 @@
     ]
   },
   {
+    "game": "Lure of the Temptress",
+    "platform": "PC",
+    "developers": [
+        "Revolution Software"
+    ],
+    "publishers": [
+        "Virgin Interactive Entertainment"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "disk1.vga_001.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_001.mdi",
+        "size": 2852,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_002.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_002.mdi",
+        "size": 12123,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_003.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_003.mdi",
+        "size": 4467,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_004.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_004.mdi",
+        "size": 14257,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_005.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_005.mdi",
+        "size": 3197,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_006.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_006.mdi",
+        "size": 9167,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_007.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_007.mdi",
+        "size": 17032,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_068.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_068.mdi",
+        "size": 2786,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_069.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_069.mdi",
+        "size": 2201,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk4.vga_007.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_007.mdi",
+        "size": 10846,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk4.vga_008.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_008.mdi",
+        "size": 18266,
+        "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
     "game": "Mega Man X",
     "platform": "PC",
     "developers": [
