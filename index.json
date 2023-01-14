@@ -12894,6 +12894,86 @@
     ]
   },
   {
+    "game": "Lure of the Temptress",
+    "platform": "PC",
+    "developers": [
+      "Revolution Software"
+    ],
+    "publishers": [
+      "Virgin Interactive Entertainment"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "disk1.vga_001.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_001.mdi",
+        "size": 2852,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_002.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_002.mdi",
+        "size": 12123,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_003.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_003.mdi",
+        "size": 4467,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_004.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_004.mdi",
+        "size": 14257,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_005.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_005.mdi",
+        "size": 3197,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_006.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_006.mdi",
+        "size": 9167,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_007.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_007.mdi",
+        "size": 17032,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_068.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_068.mdi",
+        "size": 2786,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk1.vga_069.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk1.vga_069.mdi",
+        "size": 2201,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk4.vga_007.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_007.mdi",
+        "size": 10846,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "disk4.vga_008.mdi",
+        "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_008.mdi",
+        "size": 18266,
+        "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
     "game": "Major Stryker",
     "platform": "PC",
     "developers": [
@@ -15364,6 +15444,105 @@
         "size": 29140,
         "composer": "Christophe Fevre",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFevre_Christophe%2FPrehistorik.lha"
+      }
+    ]
+  },
+  {
+    "game": "Prehistorik 2",
+    "platform": "PC",
+    "developers": [
+      "Titus Software"
+    ],
+    "publishers": [
+      "Titus France SA"
+    ],
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_2_(DOS)",
+    "songs": [
+      {
+        "song": "01 - Presentation.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/01 - Presentation.mod",
+        "size": 66528,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Code.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/02 - Code.mod",
+        "size": 8012,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Carte.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/03 - Carte.mod",
+        "size": 6664,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Prehistomines.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/04 - Prehistomines.mod",
+        "size": 38764,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Mystere.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/05 - Mystere.mod",
+        "size": 48580,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Monstre.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/06 - Monstre.mod",
+        "size": 38412,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Kool.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/07 - Kool.mod",
+        "size": 43580,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "08 - Glace & Gel.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/08 - Glace & Gel.mod",
+        "size": 43229,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "09 - Mystery 2.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/09 - Mystery 2.mod",
+        "size": 47414,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "10 - Boula.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/10 - Boula.mod",
+        "size": 33706,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "11 - Bravo.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/11 - Bravo.mod",
+        "size": 33548,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
+      },
+      {
+        "song": "12 - Final.mod",
+        "song_link": "VGMPF/PC/Prehistorik 2/12 - Final.mod",
+        "size": 55516,
+        "composer": "Fabrice Paumier, Francis Fournier",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/0/03/Prehistorik_2_%28DOS%29.zip"
       }
     ]
   },
