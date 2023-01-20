@@ -8274,7 +8274,46 @@
     ]
   },
   {
-    "game": "Gobliins 2: The Prince Buffoon",
+    "game": "Gobliins 2",
+    "platform": "Amiga",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Gobliins 2/I1.ins",
+    "songs": [
+      {
+        "song": "G0.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G0.DUM",
+        "size": 2850,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G1.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G1.DUM",
+        "size": 3634,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G2.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G2.DUM",
+        "size": 4211,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G3.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G3.DUM",
+        "size": 3305,
+        "composer": "Charles Callet"
+      }
+    ]
+  },
+  {
+    "game": "Gobliins 2",
     "platform": "PC",
     "developers": [
       "Coktel Vision"
@@ -8289,84 +8328,84 @@
     "songs": [
       {
         "song": "01 - Opening.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/01 - Opening.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/01 - Opening.adl",
         "size": 1778,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "02 - Title.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/02 - Title.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/02 - Title.adl",
         "size": 14419,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "03 - Village.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/03 - Village.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/03 - Village.adl",
         "size": 20181,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "04 - Fountain.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/04 - Fountain.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/04 - Fountain.adl",
         "size": 11292,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "05 - Wizard.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/05 - Wizard.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/05 - Wizard.adl",
         "size": 23157,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "06 - Giant.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/06 - Giant.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/06 - Giant.adl",
         "size": 6687,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "07 - Castle.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/07 - Castle.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/07 - Castle.adl",
         "size": 10367,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "08 - Guards.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/08 - Guards.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/08 - Guards.adl",
         "size": 16304,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "09 - Well.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/09 - Well.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/09 - Well.adl",
         "size": 13915,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "10 - Mermaid.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/10 - Mermaid.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/10 - Mermaid.adl",
         "size": 5866,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "11 - Kitchen.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/11 - Kitchen.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/11 - Kitchen.adl",
         "size": 5635,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
       },
       {
         "song": "12 - Final.adl",
-        "song_link": "VGMPF/PC/Gobliins 2 The Prince Buffoon/12 - Final.adl",
+        "song_link": "VGMPF/PC/Gobliins 2/12 - Final.adl",
         "size": 1971,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/6/60/Gobliins_2_%28DOS%29.zip"
@@ -8374,7 +8413,40 @@
     ]
   },
   {
-    "game": "Goblins Quest 3",
+    "game": "Goblins 3",
+    "platform": "Amiga",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Goblins 3/MUS1.INS",
+    "songs": [
+      {
+        "song": "MUS1.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS1.DUM",
+        "size": 3433,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS2.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS2.DUM",
+        "size": 2605,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS3.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS3.DUM",
+        "size": 2180,
+        "composer": "Charles Callet"
+      }
+    ]
+  },
+  {
+    "game": "Goblins 3",
     "platform": "PC",
     "developers": [
       "Coktel Vision"
@@ -8391,56 +8463,56 @@
     "songs": [
       {
         "song": "01 - Title.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/01 - Title.adl",
+        "song_link": "VGMPF/PC/Goblins 3/01 - Title.adl",
         "size": 26373,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "02 - Ship.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/02 - Ship.adl",
+        "song_link": "VGMPF/PC/Goblins 3/02 - Ship.adl",
         "size": 12061,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "03 - Guards.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/03 - Guards.adl",
+        "song_link": "VGMPF/PC/Goblins 3/03 - Guards.adl",
         "size": 11071,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "04 - Death.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/04 - Death.adl",
+        "song_link": "VGMPF/PC/Goblins 3/04 - Death.adl",
         "size": 13901,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "05 - Countryside.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/05 - Countryside.adl",
+        "song_link": "VGMPF/PC/Goblins 3/05 - Countryside.adl",
         "size": 12098,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "06 - Bar.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/06 - Bar.adl",
+        "song_link": "VGMPF/PC/Goblins 3/06 - Bar.adl",
         "size": 28506,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "07 - Islands.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/07 - Islands.adl",
+        "song_link": "VGMPF/PC/Goblins 3/07 - Islands.adl",
         "size": 9993,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
       },
       {
         "song": "08 - Queen.adl",
-        "song_link": "VGMPF/PC/Goblins Quest 3/08 - Queen.adl",
+        "song_link": "VGMPF/PC/Goblins 3/08 - Queen.adl",
         "size": 9942,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/f/f9/Goblins_3_%28DOS%29.zip"
