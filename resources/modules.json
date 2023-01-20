@@ -20,45 +20,6 @@
     ]
   },
   {
-    "game": "Kajko i Kokosz",
-    "platform": "PC",
-    "developers": [
-        "Seven Stars"
-    ],
-    "publishers": [
-        "Mirage",
-        "User"
-    ],
-    "year": 1994,
-    "source": "gamus",
-    "songs": [
-      {
-        "song": "HAPPY.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/HAPPY.MOD",
-        "size": 83402,
-        "composer": "Piotr Bendyk"
-      },
-      {
-        "song": "TITLE.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE.MOD",
-        "size": 84700,
-        "composer": "Piotr Bendyk"
-      },
-      {
-        "song": "TITLE2.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE2.MOD",
-        "size": 84860,
-        "composer": "Piotr Bendyk"
-      },
-      {
-        "song": "UNHAPPY.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
-        "size": 87112,
-        "composer": "Piotr Bendyk"
-      }
-    ]
-  },
-  {
     "game": "Franko: The Crazy Revenge",
     "platform": "PC",
     "developers": [
@@ -123,6 +84,157 @@
         "song_link": "resources/modules/PC/Franko/TITLE.MOD",
         "size": 93156,
         "composer": "Sławomir Mrozek"
+      }
+    ]
+  },
+  {
+    "game": "Gobliins 2",
+    "platform": "Amiga",
+    "developers": [
+        "Coktel Vision"
+    ],
+    "publishers": [
+        "Coktel Vision"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Gobliins 2/I1.ins",
+    "songs": [
+      {
+        "song": "G0.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G0.DUM",
+        "size": 2850,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G1.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G1.DUM",
+        "size": 3634,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G2.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G2.DUM",
+        "size": 4211,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "G3.DUM",
+        "song_link": "resources/modules/Amiga/Gobliins 2/G3.DUM",
+        "size": 3305,
+        "composer": "Charles Callet"
+      }
+    ]
+  },
+  {
+    "game": "Goblins 3",
+    "platform": "Amiga",
+    "developers": [
+        "Coktel Vision"
+    ],
+    "publishers": [
+        "Coktel Vision"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Goblins 3/MUS1.INS",
+    "songs": [
+      {
+        "song": "MUS1.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS1.DUM",
+        "size": 3433,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS2.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS2.DUM",
+        "size": 2605,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS3.DUM",
+        "song_link": "resources/modules/Amiga/Goblins 3/MUS3.DUM",
+        "size": 2180,
+        "composer": "Charles Callet"
+      }
+    ]
+  },
+  {
+    "game": "Kajko i Kokosz",
+    "platform": "PC",
+    "developers": [
+        "Seven Stars"
+    ],
+    "publishers": [
+        "Mirage",
+        "User"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "HAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/HAPPY.MOD",
+        "size": 83402,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE.MOD",
+        "size": 84700,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "TITLE2.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE2.MOD",
+        "size": 84860,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "UNHAPPY.MOD",
+        "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
+        "size": 87112,
+        "composer": "Piotr Bendyk"
+      }
+    ]
+  },
+  {
+    "game": "Ween: The Prophecy",
+    "platform": "Amiga",
+    "developers": [
+        "Coktel Vision"
+    ],
+    "publishers": [
+        "Coktel Vision"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Ween The Prophecy/mus2.ins",
+    "songs": [
+      {
+        "song": "MUS0.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS0.DUM",
+        "size": 2183,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS1.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS1.DUM",
+        "size": 2179,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS2.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS2.DUM",
+        "size": 2614,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "WEEN.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/WEEN.DUM",
+        "size": 3160,
+        "composer": "Charles Callet",
+        "samples": "resources/modules/Amiga/Ween The Prophecy/WEEN.INS"
       }
     ]
   }

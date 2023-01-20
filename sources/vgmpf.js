@@ -237,6 +237,8 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia': { game: 'Final Doom - The Plutonia Experiment' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt': { game: 'Final Doom - TNT: Evilution' },
+		'http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)': { game: 'Gobliins 2' },
+		'http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)': { game: 'Goblins 3' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima 6' },
 	};
