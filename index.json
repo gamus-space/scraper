@@ -24215,6 +24215,46 @@
   },
   {
     "game": "Ween: The Prophecy",
+    "platform": "Amiga",
+    "developers": [
+      "Coktel Vision"
+    ],
+    "publishers": [
+      "Coktel Vision"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/modules/Amiga/Ween The Prophecy/mus2.ins",
+    "songs": [
+      {
+        "song": "MUS0.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS0.DUM",
+        "size": 2183,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS1.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS1.DUM",
+        "size": 2179,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "MUS2.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/MUS2.DUM",
+        "size": 2614,
+        "composer": "Charles Callet"
+      },
+      {
+        "song": "WEEN.DUM",
+        "song_link": "resources/modules/Amiga/Ween The Prophecy/WEEN.DUM",
+        "size": 3160,
+        "composer": "Charles Callet",
+        "samples": "resources/modules/Amiga/Ween The Prophecy/WEEN.INS"
+      }
+    ]
+  },
+  {
+    "game": "Ween: The Prophecy",
     "platform": "PC",
     "developers": [
       "Coktel Vision"
