@@ -20,6 +20,34 @@
     ]
   },
   {
+    "game": "Death Rally",
+    "platform": "PC",
+    "developers": [
+      "Remedy Entertainment",
+      "Apogee"
+    ],
+    "publishers": [
+      "GT Interactive",
+      "Apogee"
+    ],
+    "year": "1996",
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "TRACK0.S3M #1",
+        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#1",
+        "size": 443884,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK0.S3M #31",
+        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#31",
+        "size": 443884,
+        "composer": "Jonne Valtonen"
+      }
+    ]
+  },
+  {
     "game": "Franko: The Crazy Revenge",
     "platform": "PC",
     "developers": [
