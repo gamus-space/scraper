@@ -4779,66 +4779,178 @@
       "Apogee"
     ],
     "year": "1996",
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "TRACK0.S3M #1",
+        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#1",
+        "size": 443884,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK0.S3M #31",
+        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#31",
+        "size": 443884,
+        "composer": "Jonne Valtonen"
+      }
+    ]
+  },
+  {
+    "game": "Death Rally",
+    "platform": "PC",
+    "developers": [
+      "Remedy Entertainment",
+      "Apogee"
+    ],
+    "publishers": [
+      "GT Interactive",
+      "Apogee"
+    ],
+    "year": "1996",
     "source": "World of Game MODs",
     "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MzIw",
     "songs": [
       {
-        "song": "MENUTUNE.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M",
+        "song": "MENUTUNE.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#1",
         "size": 505857,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK1.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK1.S3M",
+        "song": "MENUTUNE.S3M #31",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#31",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "MENUTUNE.S3M #41",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#41",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "MENUTUNE.S3M #46",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#46",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "MENUTUNE.S3M #50",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#50",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "MENUTUNE.S3M #82",
+        "song_link": "World of Game MODs/PC/Death Rally/MENUTUNE.S3M#82",
+        "size": 505857,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK1.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK1.S3M#1",
         "size": 367474,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK2.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK2.S3M",
+        "song": "TRACK1.S3M #56",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK1.S3M#56",
+        "size": 367474,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK2.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK2.S3M#1",
         "size": 212904,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK3.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK3.S3M",
+        "song": "TRACK2.S3M #46",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK2.S3M#46",
+        "size": 212904,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK3.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK3.S3M#1",
         "size": 279736,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK4.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK4.S3M",
+        "song": "TRACK3.S3M #51",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK3.S3M#51",
+        "size": 279736,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK4.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK4.S3M#1",
         "size": 309472,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK5.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK5.S3M",
+        "song": "TRACK4.S3M #46",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK4.S3M#46",
+        "size": 309472,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK5.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK5.S3M#1",
         "size": 325036,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK6.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK6.S3M",
+        "song": "TRACK5.S3M #56",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK5.S3M#56",
+        "size": 325036,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK6.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK6.S3M#1",
         "size": 326656,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK7.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK7.S3M",
+        "song": "TRACK6.S3M #51",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK6.S3M#51",
+        "size": 326656,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK7.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK7.S3M#1",
         "size": 373158,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK8.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK8.S3M",
+        "song": "TRACK7.S3M #51",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK7.S3M#51",
+        "size": 373158,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK8.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK8.S3M#1",
         "size": 251720,
         "composer": "Jonne Valtonen"
       },
       {
-        "song": "TRACK9.S3M",
-        "song_link": "World of Game MODs/PC/Death Rally/TRACK9.S3M",
+        "song": "TRACK8.S3M #51",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK8.S3M#51",
+        "size": 251720,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK9.S3M #1",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK9.S3M#1",
+        "size": 352794,
+        "composer": "Jonne Valtonen"
+      },
+      {
+        "song": "TRACK9.S3M #51",
+        "song_link": "World of Game MODs/PC/Death Rally/TRACK9.S3M#51",
         "size": 352794,
         "composer": "Jonne Valtonen"
       }
