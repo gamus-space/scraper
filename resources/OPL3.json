@@ -587,6 +587,32 @@
     ]
   },
   {
+    "game": "Diggers",
+    "platform": "PC",
+    "developers": [
+        "Millennium Interactive Ltd."
+    ],
+    "publishers": [
+        "Millennium Interactive Ltd."
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "dpcallad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpcallad.mdi",
+        "size": 7654,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "dpctitad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpctitad.mdi",
+        "size": 14047,
+        "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
     "game": "Indiana Jones and the Last Crusade",
     "platform": "PC",
     "developers": [

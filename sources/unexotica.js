@@ -28,6 +28,8 @@ const GAME_DUPLICATES = [
 	'https://www.exotica.org.uk/wiki/Body_Blows_(AGA)',
 ];
 
+const IGNORED_FILES = /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source)/;
+
 function normalizeName(name) {
 	return name.replace(/^(The)\s+(.*)$/, '$2, $1');
 }
@@ -65,8 +67,7 @@ async function fetchGame(url, source) {
 		const path = xpath.select("./td[1]/a[contains(@class, 'image')]", row).map((n, i) => cwd[i]).concat(name);
 		const song_link = path.join('/');
 		const song = path.slice(1).join('/');
-		return dir || /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source\/)/.test(song) ?
-			null : { song, song_link, size, composer };
+		return (dir || IGNORED_FILES.test(song)) ? null : { song, song_link, size, composer };
 	}).filter(song => song));
 
 	const songDownloaded = song => {
@@ -169,6 +170,7 @@ function splitSong(song, file) {
 
 async function fetchUnexotica(source) {
 	const games = [
+		'https://www.exotica.org.uk/wiki/Arnie_2',
 		'https://www.exotica.org.uk/wiki/Agony_(game)',
 		'https://www.exotica.org.uk/wiki/Aladdin',
 		'https://www.exotica.org.uk/wiki/Alien_Breed',
@@ -200,6 +202,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Colorado',
 		'https://www.exotica.org.uk/wiki/Cool_Spot',
 		'https://www.exotica.org.uk/wiki/Crazy_Cars_III',
+		'https://www.exotica.org.uk/wiki/Diggers',
 		'https://www.exotica.org.uk/wiki/Dojo_Dan',
 		'https://www.exotica.org.uk/wiki/Double_Dragon',
 		'https://www.exotica.org.uk/wiki/Double_Dragon_II_-_The_Revenge',
@@ -268,6 +271,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Turrican',
 		'https://www.exotica.org.uk/wiki/Turrican_II_-_The_Final_Fight',
 		'https://www.exotica.org.uk/wiki/Turrican_3',
+		'https://www.exotica.org.uk/wiki/Ultima_VI_-_The_False_Prophet',
 		'https://www.exotica.org.uk/wiki/Ugh!',
 		'https://www.exotica.org.uk/wiki/Walker',
 		'https://www.exotica.org.uk/wiki/Wings_of_Fury',
