@@ -99,7 +99,7 @@ async function fetchGame(url, source) {
 			} else {
 				size = downloaded.length;
 			}
-			return splitSong({
+			return splitSong(title, {
 				...song,
 				size,
 				song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
@@ -136,7 +136,7 @@ async function fetchGame(url, source) {
 			size = entry.length;
 			fs.writeFileSync(song.song_link, file);
 		}
-		return splitSong({
+		return splitSong(title, {
 			...song,
 			size,
 			song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
@@ -149,19 +149,78 @@ async function fetchGame(url, source) {
 	};
 }
 
-function splitSong(song, file) {
+const songSplitSingle = {
+	'Brutal Football': {
+		'rjp.TITLE': true,
+	},
+	'Cannon Fodder 2': {
+		'rjp.KILLER': true,
+	},
+};
+
+const songSplitFixed = {
+	'Brutal Football': {
+		'rjp.INGAME': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+		'rjp.LOCKER': [1, 2],
+		'rjp.TITLE': [1],
+	},
+	'Cannon Fodder': {
+		'rjp.DESBASE': [2, 4],
+		'rjp.ICEBASE': [1, 2, 4],
+		'rjp.INTBASE': [1, 3, 4, 5],
+		'rjp.JON': [0, 6, 7, 8, 12, 15],
+		'rjp.JUNBASE': [1, 2, 4, 5, 6, 7],
+		'rjp.MORBASE': [1, 2, 3, 4],
+		'rjp.WARX4': [0],
+	},
+	'Cannon Fodder 2': {
+		'rjp.DESBASE': [1, 2, 3, 4, 5, 6, 7],
+		'rjp.ICEBASE': [1, 2, 3, 4, 5, 6, 7],
+		'rjp.INTBASE': [1, 2, 3, 4, 5, 6, 7],
+		'rjp.JON': [0, 6, 7, 8, 12, 15],
+		'rjp.JUNBASE': [1, 2, 3, 4, 5, 6, 7],
+		'rjp.KILLER': [3],
+		'rjp.MORBASE': [1, 2, 4, 5, 6, 7],
+	},
+	'Chaos Engine, The': {
+		'rjp.game_end': [2, 3, 5, 6, 9, 10, 11, 14, 16, 17, 18, 19],
+		'rjp.ingame_1': range(4, 37),
+		'rjp.ingame_2': range(3, 37),
+		'rjp.ingame_3': range(3, 36),
+		'rjp.ingame_4': range(4, 37),
+		'rjp.menu': range(2, 19),
+		'Unused/rjp.Chaos_Engine_Demo': [1, ...range(4, 37)],
+		'Unused/rjp.SHOP_S': range(1, 8),
+	},
+	'Diggers': {
+		'rjp.dig': [24, 26, 27, 28, 29, 30, 31, 33],
+	},
+};
+
+function range(from, to) {
+	const res = [];
+	for (let i = from; i <= to; i++) res.push(i);
+	return res;
+}
+
+function splitSong(game, song, file) {
 	let subsongs = [];
-	if (/(^|\/|\\)mdat(\.)/.test(song.song))
+	if (songSplitFixed[game]?.[song.song])
+		subsongs = songSplitFixed[game][song.song];
+	else if (/(^|\/|\\)mdat(\.)/.test(song.song))
 		subsongs = amiga.splitSongTFMX(song, file);
-	if (/(^|\/|\\)mod(\.)/.test(song.song))
+	else if (/(^|\/|\\)mod(\.)/.test(song.song))
 		subsongs = amiga.splitSongMOD(song, file);
-	if (/(^|\/|\\)di(\.)/.test(song.song))
+	else if (/(^|\/|\\)di(\.)/.test(song.song))
 		subsongs = amiga.splitSongDI(song, file);
-	if (/(^|\/|\\)rh(\.)/.test(song.song))
+	else if (/(^|\/|\\)rh(\.)/.test(song.song))
 		subsongs = amiga.splitSongRH(song, file);
-	if (/(^|\/|\\)dw(\.)/.test(song.song))
+	else if (/(^|\/|\\)dw(\.)/.test(song.song))
 		subsongs = amiga.splitSongDW(song, file);
-	return subsongs.length <= 1 ? [song] : subsongs.map(i => ({
+	else if (/(^|\/|\\)rjp(\.)/.test(song.song))
+		subsongs = amiga.splitSongRJP(song, file.getEntries().find(entry => entry.name.match(/^rjp\./)).getData());
+	const min = songSplitSingle[game]?.[song.song] ? 0 : 1;
+	return subsongs.length <= min ? [song] : subsongs.map(i => ({
 		...song,
 		song: `${song.song} #${i+1}`,
 		song_link: `${song.song_link}#${i+1}`,
