@@ -124,6 +124,7 @@ async function fetchWogMods(source) {
 		'Chuck Rock': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MjU0',
 		'Cool Spot': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjc3',
 		'Crazy Cars 3': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjgz',
+		'Diggers': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzUx',
 		'Dojo Dan': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzU0',
 		'Double Dragon 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzYx',
 		'Double Dragon 3': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzYy',
@@ -171,8 +172,12 @@ async function fetchWogMods(source) {
 		'Sviw': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA1Mg==',
 		'Settlers': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTI0',
 		'Titus The Fox': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTEyNw==',
+		'Ultima 6': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==',
 		'Walker': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE4Ng==',
 		'Yo! Joe!': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTIzMg==',
+	};
+	const invalidGames = {
+		'FX Fighter': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=',
 	};
 	const newGames = {
 		'Lemmings': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzk=',
@@ -186,9 +191,7 @@ async function fetchWogMods(source) {
 		'Crusader: No Regret': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjky',
 		'Crusader: No Remorse': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjkz',
 		'Death Rally': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzIw',
-		'Diggers': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzUx',
 		'Epic Pinball': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NDAx',
-		'FX Fighter': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=',
 		'Jazz Jackrabbit': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc2',
 		'Jazz Jackrabbit: Holiday Hare 1994': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTc=',
 		'Lion King': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTQ=',
@@ -200,7 +203,6 @@ async function fetchWogMods(source) {
 		'Super Bubble Mania': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0Nzk=',
 		'Teenagent': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM2OTI=',
 		'Terminal Velocity': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA2Ng==',
-		'Ultima 6': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==',
 	};
 	const pcWindowsGames = {
 		//'Jazz Jackrabbit 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc1',
@@ -210,6 +212,7 @@ async function fetchWogMods(source) {
 	const gameOptions = {
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy': { game: 'All New World Of Lemmings' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx': { game: 'Screamer' },
 	};
 	const commonOptions = {
 		platformMap: { 'PC Dos': 'PC', 'PC Windows': 'PC' },

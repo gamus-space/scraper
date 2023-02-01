@@ -587,6 +587,32 @@
     ]
   },
   {
+    "game": "Diggers",
+    "platform": "PC",
+    "developers": [
+        "Millennium Interactive Ltd."
+    ],
+    "publishers": [
+        "Millennium Interactive Ltd."
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "dpcallad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpcallad.mdi",
+        "size": 7654,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "dpctitad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpctitad.mdi",
+        "size": 14047,
+        "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
     "game": "Indiana Jones and the Last Crusade",
     "platform": "PC",
     "developers": [
@@ -3565,6 +3591,63 @@
         "song_link": "resources/OPL3/Prince of Persia 2/WallKill.mff",
         "size": 3405,
         "composer": "Jonelle Adkisson"
+      }
+    ]
+  },
+  {
+    "game": "Screamer",
+    "platform": "PC",
+    "developers": [
+        "Graffiti"
+    ],
+    "publishers": [
+        "Virgin Interactive"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Screamer/MELODIC.BNK", "resources/OPL3/Screamer/DRUM.BNK"],
+    "songs": [
+      {
+        "song": "MUSIC1.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC1.HMP",
+        "size": 73991,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC2.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC2.HMP",
+        "size": 34171,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC3.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC3.HMP",
+        "size": 17594,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC4.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC4.HMP",
+        "size": 19219,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC5.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC5.HMP",
+        "size": 12350,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC6.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC6.HMP",
+        "size": 10378,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC7.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC7.HMP",
+        "size": 20644,
+        "composer": "Allister Brimble"
       }
     ]
   },

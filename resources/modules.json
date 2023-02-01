@@ -1,25 +1,5 @@
 [
   {
-    "game": "Arnie 2",
-    "platform": "PC",
-    "developers": [
-        "Zeppelin Games"
-    ],
-    "publishers": [
-        "Zeppelin Games"
-    ],
-    "year": 1993,
-    "source": "gamus",
-    "songs": [
-      {
-        "song": "MUSIC.MOD",
-        "song_link": "resources/modules/PC/Arnie 2/MUSIC.MOD",
-        "size": 81918,
-        "composer": "Andrew Rodger"
-      }
-    ]
-  },
-  {
     "game": "Death Rally",
     "platform": "PC",
     "developers": [
