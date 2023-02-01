@@ -1211,26 +1211,6 @@
       "Zeppelin Games"
     ],
     "publishers": [
-      "Zeppelin Games"
-    ],
-    "year": 1993,
-    "source": "gamus",
-    "songs": [
-      {
-        "song": "MUSIC.MOD",
-        "song_link": "resources/modules/PC/Arnie 2/MUSIC.MOD",
-        "size": 81918,
-        "composer": "Andrew Rodger"
-      }
-    ]
-  },
-  {
-    "game": "Arnie 2",
-    "platform": "PC",
-    "developers": [
-      "Zeppelin Games"
-    ],
-    "publishers": [
       "Zeppelin Games",
       "Zeppelin"
     ],
@@ -1249,6 +1229,35 @@
         "song_link": "World of Game MODs/PC/Arnie 2/Arnie 2.mod#23",
         "size": 81918,
         "composer": "Andy Rodger"
+      }
+    ]
+  },
+  {
+    "game": "Arnie 2",
+    "platform": "Amiga",
+    "developers": [
+      "Zeppelin Games"
+    ],
+    "publishers": [
+      "Zeppelin Games"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Arnie_2",
+    "songs": [
+      {
+        "song": "mod.arnie_2_music #1",
+        "song_link": "UnExoticA/Arnie_2/mod.arnie_2_music#1",
+        "size": 81918,
+        "composer": "Andrew Rodger",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRodger_Andrew%2FArnie_2.lha"
+      },
+      {
+        "song": "mod.arnie_2_music #23",
+        "song_link": "UnExoticA/Arnie_2/mod.arnie_2_music#23",
+        "size": 81918,
+        "composer": "Andrew Rodger",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FRodger_Andrew%2FArnie_2.lha"
       }
     ]
   },
@@ -2304,22 +2313,92 @@
     "source_link": "https://www.exotica.org.uk/wiki/Brutal_Football",
     "songs": [
       {
-        "song": "rjp.INGAME",
-        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip",
+        "song": "rjp.INGAME #2",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#2",
         "size": 88971,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
       },
       {
-        "song": "rjp.LOCKER",
-        "song_link": "UnExoticA/Brutal_Football/rjp.LOCKER.zip",
+        "song": "rjp.INGAME #3",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#3",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #4",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#4",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #5",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#5",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #6",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#6",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #7",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#7",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #8",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#8",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #9",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#9",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #10",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#10",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.INGAME #11",
+        "song_link": "UnExoticA/Brutal_Football/rjp.INGAME.zip#11",
+        "size": 88971,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.LOCKER #2",
+        "song_link": "UnExoticA/Brutal_Football/rjp.LOCKER.zip#2",
         "size": 35975,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
       },
       {
-        "song": "rjp.TITLE",
-        "song_link": "UnExoticA/Brutal_Football/rjp.TITLE.zip",
+        "song": "rjp.LOCKER #3",
+        "song_link": "UnExoticA/Brutal_Football/rjp.LOCKER.zip#3",
+        "size": 35975,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
+      },
+      {
+        "song": "rjp.TITLE #2",
+        "song_link": "UnExoticA/Brutal_Football/rjp.TITLE.zip#2",
         "size": 51300,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FBrutal_Football.lha"
@@ -2536,43 +2615,176 @@
     "source_link": "https://www.exotica.org.uk/wiki/Cannon_Fodder",
     "songs": [
       {
-        "song": "rjp.DESBASE",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.DESBASE.zip",
+        "song": "rjp.DESBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.DESBASE.zip#3",
         "size": 49465,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
       },
       {
-        "song": "rjp.ICEBASE",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.ICEBASE.zip",
+        "song": "rjp.DESBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.DESBASE.zip#5",
+        "size": 49465,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.ICEBASE.zip#2",
         "size": 51825,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
       },
       {
-        "song": "rjp.INTBASE",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.INTBASE.zip",
+        "song": "rjp.ICEBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.ICEBASE.zip#3",
+        "size": 51825,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.ICEBASE.zip#5",
+        "size": 51825,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.INTBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.INTBASE.zip#2",
         "size": 50425,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
       },
       {
-        "song": "rjp.JON",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip",
+        "song": "rjp.INTBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.INTBASE.zip#4",
+        "size": 50425,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.INTBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.INTBASE.zip#5",
+        "size": 50425,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.INTBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.INTBASE.zip#6",
+        "size": 50425,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JON #1",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#1",
         "size": 135467,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
       },
       {
-        "song": "rjp.JUNBASE",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip",
+        "song": "rjp.JON #7",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#7",
+        "size": 135467,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JON #8",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#8",
+        "size": 135467,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JON #9",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#9",
+        "size": 135467,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JON #13",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#13",
+        "size": 135467,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JON #16",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JON.zip#16",
+        "size": 135467,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#2",
         "size": 50782,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
       },
       {
-        "song": "rjp.MORBASE",
-        "song_link": "UnExoticA/Cannon_Fodder/rjp.MORBASE.zip",
+        "song": "rjp.JUNBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#3",
+        "size": 50782,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#5",
+        "size": 50782,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#6",
+        "size": 50782,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#7",
+        "size": 50782,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.JUNBASE.zip#8",
+        "size": 50782,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.MORBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.MORBASE.zip#2",
+        "size": 52479,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.MORBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.MORBASE.zip#3",
+        "size": 52479,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.MORBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.MORBASE.zip#4",
+        "size": 52479,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
+      },
+      {
+        "song": "rjp.MORBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder/rjp.MORBASE.zip#5",
         "size": 52479,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder.lha"
@@ -2600,50 +2812,288 @@
     "source_link": "https://www.exotica.org.uk/wiki/Cannon_Fodder_2",
     "songs": [
       {
-        "song": "rjp.DESBASE",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip",
+        "song": "rjp.DESBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#2",
         "size": 39839,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.ICEBASE",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip",
+        "song": "rjp.DESBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#3",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.DESBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#4",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.DESBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#5",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.DESBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#6",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.DESBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#7",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.DESBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.DESBASE.zip#8",
+        "size": 39839,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#2",
         "size": 47911,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.INTBASE",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip",
+        "song": "rjp.ICEBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#3",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#4",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#5",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#6",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#7",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.ICEBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.ICEBASE.zip#8",
+        "size": 47911,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#2",
         "size": 45033,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.JON",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip",
+        "song": "rjp.INTBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#3",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#4",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#5",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#6",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#7",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.INTBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.INTBASE.zip#8",
+        "size": 45033,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JON #1",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#1",
         "size": 115721,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.JUNBASE",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip",
+        "song": "rjp.JON #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#7",
+        "size": 115721,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JON #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#8",
+        "size": 115721,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JON #9",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#9",
+        "size": 115721,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JON #13",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#13",
+        "size": 115721,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JON #16",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JON.zip#16",
+        "size": 115721,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#2",
         "size": 50381,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.KILLER",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.KILLER.zip",
+        "song": "rjp.JUNBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#3",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #4",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#4",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#5",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#6",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#7",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.JUNBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.JUNBASE.zip#8",
+        "size": 50381,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.KILLER #4",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.KILLER.zip#4",
         "size": 299061,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
       },
       {
-        "song": "rjp.MORBASE",
-        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip",
+        "song": "rjp.MORBASE #2",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#2",
+        "size": 43883,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.MORBASE #3",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#3",
+        "size": 43883,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.MORBASE #5",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#5",
+        "size": 43883,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.MORBASE #6",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#6",
+        "size": 43883,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.MORBASE #7",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#7",
+        "size": 43883,
+        "composer": "Richard Joseph & Jon Hare",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
+      },
+      {
+        "song": "rjp.MORBASE #8",
+        "song_link": "UnExoticA/Cannon_Fodder_2/rjp.MORBASE.zip#8",
         "size": 43883,
         "composer": "Richard Joseph & Jon Hare",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCannon_Fodder_2.lha"
@@ -2806,57 +3256,1471 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.game_end",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip",
+        "song": "rjp.game_end #3",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#3",
         "size": 183729,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.ingame_1",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip",
+        "song": "rjp.game_end #4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#4",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#6",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#7",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#10",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#11",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#12",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#15",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#17",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#18",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#19",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.game_end #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.game_end.zip#20",
+        "size": 183729,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #5",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#5",
         "size": 226706,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.ingame_2",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip",
+        "song": "rjp.ingame_1 #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#6",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#7",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #8",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#8",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #9",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#9",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#10",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#11",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#12",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #13",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#13",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #14",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#14",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#15",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #16",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#16",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#17",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#18",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#19",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#20",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #21",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#21",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #22",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#22",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #23",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#23",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #24",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#24",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #25",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#25",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #26",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#26",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #27",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#27",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #28",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#28",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #29",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#29",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #30",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#30",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #31",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#31",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #32",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#32",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #33",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#33",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #34",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#34",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #35",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#35",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #36",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#36",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #37",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#37",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_1 #38",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_1.zip#38",
+        "size": 226706,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#4",
         "size": 217892,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.ingame_3",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip",
+        "song": "rjp.ingame_2 #5",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#5",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#6",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#7",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #8",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#8",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #9",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#9",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#10",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#11",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#12",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #13",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#13",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #14",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#14",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#15",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #16",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#16",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#17",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#18",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#19",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#20",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #21",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#21",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #22",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#22",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #23",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#23",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #24",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#24",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #25",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#25",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #26",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#26",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #27",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#27",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #28",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#28",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #29",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#29",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #30",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#30",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #31",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#31",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #32",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#32",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #33",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#33",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #34",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#34",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #35",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#35",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #36",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#36",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #37",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#37",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_2 #38",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_2.zip#38",
+        "size": 217892,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#4",
         "size": 229577,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.ingame_4",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip",
+        "song": "rjp.ingame_3 #5",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#5",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#6",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#7",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #8",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#8",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #9",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#9",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#10",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#11",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#12",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #13",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#13",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #14",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#14",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#15",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #16",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#16",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#17",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#18",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#19",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#20",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #21",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#21",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #22",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#22",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #23",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#23",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #24",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#24",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #25",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#25",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #26",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#26",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #27",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#27",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #28",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#28",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #29",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#29",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #30",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#30",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #31",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#31",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #32",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#32",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #33",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#33",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #34",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#34",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #35",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#35",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #36",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#36",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_3 #37",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_3.zip#37",
+        "size": 229577,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #5",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#5",
         "size": 224439,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "rjp.menu",
-        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip",
+        "song": "rjp.ingame_4 #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#6",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#7",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #8",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#8",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #9",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#9",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#10",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#11",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#12",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #13",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#13",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #14",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#14",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#15",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #16",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#16",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#17",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#18",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#19",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#20",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #21",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#21",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #22",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#22",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #23",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#23",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #24",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#24",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #25",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#25",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #26",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#26",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #27",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#27",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #28",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#28",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #29",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#29",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #30",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#30",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #31",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#31",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #32",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#32",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #33",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#33",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #34",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#34",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #35",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#35",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #36",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#36",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #37",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#37",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.ingame_4 #38",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.ingame_4.zip#38",
+        "size": 224439,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #3",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#3",
         "size": 102502,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "Unused/rjp.Chaos_Engine_Demo",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip",
+        "song": "rjp.menu #4",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#4",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #5",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#5",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #6",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#6",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #7",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#7",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #8",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#8",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #9",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#9",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #10",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#10",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #11",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#11",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #12",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#12",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #13",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#13",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #14",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#14",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #15",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#15",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #16",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#16",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #17",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#17",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #18",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#18",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #19",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#19",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "rjp.menu #20",
+        "song_link": "UnExoticA/Chaos_Engine/rjp.menu.zip#20",
+        "size": 102502,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #2",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#2",
         "size": 203999,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
       },
       {
-        "song": "Unused/rjp.SHOP_S",
-        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip",
+        "song": "Unused/rjp.Chaos_Engine_Demo #5",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#5",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #6",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#6",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #7",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#7",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #8",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#8",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #9",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#9",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #10",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#10",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #11",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#11",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #12",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#12",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #13",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#13",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #14",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#14",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #15",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#15",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #16",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#16",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #17",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#17",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #18",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#18",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #19",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#19",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #20",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#20",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #21",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#21",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #22",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#22",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #23",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#23",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #24",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#24",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #25",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#25",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #26",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#26",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #27",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#27",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #28",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#28",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #29",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#29",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #30",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#30",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #31",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#31",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #32",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#32",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #33",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#33",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #34",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#34",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #35",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#35",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #36",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#36",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #37",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#37",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.Chaos_Engine_Demo #38",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.Chaos_Engine_Demo.zip#38",
+        "size": 203999,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #2",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#2",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #3",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#3",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #4",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#4",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #5",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#5",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #6",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#6",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #7",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#7",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #8",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#8",
+        "size": 93026,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
+      },
+      {
+        "song": "Unused/rjp.SHOP_S #9",
+        "song_link": "UnExoticA/Chaos_Engine/Unused/rjp.SHOP_S.zip#9",
         "size": 93026,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FChaos_Engine.lha"
@@ -4960,66 +6824,96 @@
     "game": "Diggers",
     "platform": "PC",
     "developers": [
-      "Millennium",
+      "Millennium Interactive Ltd."
+    ],
+    "publishers": [
+      "Millennium Interactive Ltd."
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "dpcallad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpcallad.mdi",
+        "size": 7654,
+        "composer": "Richard Joseph"
+      },
+      {
+        "song": "dpctitad.mdi",
+        "song_link": "resources/OPL3/Diggers/dpctitad.mdi",
+        "size": 14047,
+        "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
+    "game": "Diggers",
+    "platform": "Amiga",
+    "developers": [
       "Millennium Interactive"
     ],
     "publishers": [
-      "Millennium",
-      "Millenium",
-      "Millenuim",
       "Millennium Interactive"
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MzUx",
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Diggers",
     "songs": [
       {
-        "song": "01-TITLE.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/01-TITLE.MOD",
-        "size": 101356,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #25",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#25",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "02-INGAME.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/02-INGAME.MOD",
-        "size": 29828,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #27",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#27",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "03-SELECT.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/03-SELECT.MOD",
-        "size": 49508,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #28",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#28",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "04-SHOP.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/04-SHOP.MOD",
-        "size": 14338,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #29",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#29",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "05-BANK.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/05-BANK.MOD",
-        "size": 34896,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #30",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#30",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "06-BOOK.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/06-BOOK.MOD",
-        "size": 68094,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #31",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#31",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "07-GAMEO.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/07-GAMEO.MOD",
-        "size": 14766,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #32",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#32",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       },
       {
-        "song": "08-END.MOD",
-        "song_link": "World of Game MODs/PC/Diggers/08-END.MOD",
-        "size": 67720,
-        "composer": "Richard Joseph"
+        "song": "rjp.dig #34",
+        "song_link": "UnExoticA/Diggers/rjp.dig.zip#34",
+        "size": 315667,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FDiggers.lha"
       }
     ]
   },
@@ -7243,31 +9137,6 @@
         "size": 10381,
         "composer": "Frank Klepacki",
         "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
-      }
-    ]
-  },
-  {
-    "game": "FX Fighter",
-    "platform": "PC",
-    "developers": [
-      "Argonaut Software",
-      "GTE"
-    ],
-    "publishers": [
-      "Argonaut Software",
-      "Philips Media",
-      "Philips Interactive Media",
-      "GTE Entertainment"
-    ],
-    "year": "1995",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=",
-    "songs": [
-      {
-        "song": "storm-1154.it",
-        "song_link": "World of Game MODs/PC/FX Fighter/storm-1154.it",
-        "size": 3016389,
-        "composer": "Justin Scharnova, Martin Gwynn Jones"
       }
     ]
   },
@@ -17709,8 +19578,15 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
       },
       {
-        "song": "rjp.loader",
-        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.loader.zip",
+        "song": "rjp.loader #1",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.loader.zip#1",
+        "size": 42687,
+        "composer": "Jason Page",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
+      },
+      {
+        "song": "rjp.loader #2",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.loader.zip#2",
         "size": 42687,
         "composer": "Jason Page",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
@@ -17723,29 +19599,57 @@
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
       },
       {
-        "song": "rjp.world_1",
-        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_1.zip",
+        "song": "rjp.world_1 #1",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_1.zip#1",
         "size": 89497,
         "composer": "Jason Page",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
       },
       {
-        "song": "rjp.world_2",
-        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_2.zip",
+        "song": "rjp.world_1 #2",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_1.zip#2",
+        "size": 89497,
+        "composer": "Jason Page",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
+      },
+      {
+        "song": "rjp.world_2 #1",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_2.zip#1",
         "size": 79460,
         "composer": "Jason Page",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
       },
       {
-        "song": "rjp.world_3",
-        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_3.zip",
+        "song": "rjp.world_2 #2",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_2.zip#2",
+        "size": 79460,
+        "composer": "Jason Page",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
+      },
+      {
+        "song": "rjp.world_3 #1",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_3.zip#1",
         "size": 87168,
         "composer": "Jason Page",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
       },
       {
-        "song": "rjp.world_4",
-        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_4.zip",
+        "song": "rjp.world_3 #2",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_3.zip#2",
+        "size": 87168,
+        "composer": "Jason Page",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
+      },
+      {
+        "song": "rjp.world_4 #1",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_4.zip#1",
+        "size": 83428,
+        "composer": "Jason Page",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
+      },
+      {
+        "song": "rjp.world_4 #2",
+        "song_link": "UnExoticA/Ruff_n_Tumble/rjp.world_4.zip#2",
         "size": 83428,
         "composer": "Jason Page",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPage_Jason%2FRuff_n_Tumble.lha"
@@ -17804,7 +19708,67 @@
     ]
   },
   {
-    "game": "Screamer, The",
+    "game": "Screamer",
+    "platform": "PC",
+    "developers": [
+      "Graffiti"
+    ],
+    "publishers": [
+      "Virgin Interactive"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": [
+      "resources/OPL3/Screamer/MELODIC.BNK",
+      "resources/OPL3/Screamer/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "MUSIC1.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC1.HMP",
+        "size": 73991,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC2.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC2.HMP",
+        "size": 34171,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC3.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC3.HMP",
+        "size": 17594,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC4.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC4.HMP",
+        "size": 19219,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC5.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC5.HMP",
+        "size": 12350,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC6.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC6.HMP",
+        "size": 10378,
+        "composer": "Allister Brimble"
+      },
+      {
+        "song": "MUSIC7.HMP",
+        "song_link": "resources/OPL3/Screamer/MUSIC7.HMP",
+        "size": 20644,
+        "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "Screamer",
     "platform": "PC",
     "developers": [
       "Milestone",
@@ -17822,7 +19786,7 @@
     "songs": [
       {
         "song": "screamer.mod",
-        "song_link": "World of Game MODs/PC/Screamer, The/screamer.mod",
+        "song_link": "World of Game MODs/PC/Screamer/screamer.mod",
         "size": 151804,
         "composer": "Allister Brimble"
       }
@@ -23748,7 +25712,7 @@
     ]
   },
   {
-    "game": "Ultima 6",
+    "game": "Ultima VI",
     "platform": "PC",
     "developers": [
       "Origin Systems, Inc."
@@ -23762,84 +25726,84 @@
     "songs": [
       {
         "song": "bootup.m",
-        "song_link": "VGMPF/PC/Ultima 6/bootup.m",
+        "song_link": "VGMPF/PC/Ultima VI/bootup.m",
         "size": 421,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "brit.m",
-        "song_link": "VGMPF/PC/Ultima 6/brit.m",
+        "song_link": "VGMPF/PC/Ultima VI/brit.m",
         "size": 982,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "create.m",
-        "song_link": "VGMPF/PC/Ultima 6/create.m",
+        "song_link": "VGMPF/PC/Ultima VI/create.m",
         "size": 647,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "dungeon.m",
-        "song_link": "VGMPF/PC/Ultima 6/dungeon.m",
+        "song_link": "VGMPF/PC/Ultima VI/dungeon.m",
         "size": 469,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "end.m",
-        "song_link": "VGMPF/PC/Ultima 6/end.m",
+        "song_link": "VGMPF/PC/Ultima VI/end.m",
         "size": 880,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "engage.m",
-        "song_link": "VGMPF/PC/Ultima 6/engage.m",
+        "song_link": "VGMPF/PC/Ultima VI/engage.m",
         "size": 943,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "forest.m",
-        "song_link": "VGMPF/PC/Ultima 6/forest.m",
+        "song_link": "VGMPF/PC/Ultima VI/forest.m",
         "size": 550,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "gargoyle.m",
-        "song_link": "VGMPF/PC/Ultima 6/gargoyle.m",
+        "song_link": "VGMPF/PC/Ultima VI/gargoyle.m",
         "size": 666,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "hornpipe.m",
-        "song_link": "VGMPF/PC/Ultima 6/hornpipe.m",
+        "song_link": "VGMPF/PC/Ultima VI/hornpipe.m",
         "size": 1016,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "intro.m",
-        "song_link": "VGMPF/PC/Ultima 6/intro.m",
+        "song_link": "VGMPF/PC/Ultima VI/intro.m",
         "size": 544,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "stones.m",
-        "song_link": "VGMPF/PC/Ultima 6/stones.m",
+        "song_link": "VGMPF/PC/Ultima VI/stones.m",
         "size": 1256,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
       },
       {
         "song": "ultima.m",
-        "song_link": "VGMPF/PC/Ultima 6/ultima.m",
+        "song_link": "VGMPF/PC/Ultima VI/ultima.m",
         "size": 1704,
         "composer": "David Watson / Herman Miller / Ken Arnold / Thomas Arne / Todd Porter",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d9/Ultima_6_%28DOS%29.zip"
@@ -23847,59 +25811,80 @@
     ]
   },
   {
-    "game": "Ultima 6",
-    "platform": "PC",
+    "game": "Ultima VI",
+    "platform": "Amiga",
     "developers": [
-      "Origin"
+      "Lord British"
     ],
     "publishers": [
       "Origin"
     ],
-    "year": "1992",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE2MA==",
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Ultima_VI_-_The_False_Prophet",
     "songs": [
       {
-        "song": "UltimaVI-1.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-1.med",
+        "song": "med.sfx",
+        "song_link": "UnExoticA/Ultima_6/med.sfx",
+        "size": 1326,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
+      },
+      {
+        "song": "med.ULTIMA_Aa",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Aa",
         "size": 20756,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-2.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-2.med",
+        "song": "med.ULTIMA_Ba",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Ba",
         "size": 12342,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-3.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-3.med",
+        "song": "med.ULTIMA_Ca",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Ca",
         "size": 14128,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-4.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-4.med",
+        "song": "med.ULTIMA_Da",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Da",
         "size": 46390,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-5.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-5.med",
+        "song": "med.ULTIMA_Ea",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Ea",
         "size": 7938,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-6.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-6.med",
+        "song": "med.ULTIMA_Fa",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Fa",
         "size": 38866,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       },
       {
-        "song": "UltimaVI-7.med",
-        "song_link": "World of Game MODs/PC/Ultima 6/UltimaVI-7.med",
+        "song": "med.ULTIMA_Ga",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Ga",
         "size": 19624,
-        "composer": "Kenneth W. Arnold"
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
+      },
+      {
+        "song": "med.ULTIMA_Ha",
+        "song_link": "UnExoticA/Ultima_6/med.ULTIMA_Ha",
+        "size": 18060,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
       }
     ]
   },
