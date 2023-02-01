@@ -212,6 +212,7 @@ async function fetchWogMods(source) {
 	const gameOptions = {
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy': { game: 'All New World Of Lemmings' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx': { game: 'Screamer' },
 	};
 	const commonOptions = {
 		platformMap: { 'PC Dos': 'PC', 'PC Windows': 'PC' },
