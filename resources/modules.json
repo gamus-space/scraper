@@ -28,6 +28,170 @@
     ]
   },
   {
+    "game": "Empire Soccer 94",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": ["Empire Software"],
+    "year": 1994,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "music-0a.s3m",
+        "song_link": "resources/modules/Amiga/Empire Soccer 94/music-0a.s3m.zip",
+        "size": 189084,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-1a.s3m",
+        "song_link": "resources/modules/Amiga/Empire Soccer 94/music-1a.s3m.zip",
+        "size": 71828,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-2a.s3m",
+        "song_link": "resources/modules/Amiga/Empire Soccer 94/music-2a.s3m.zip",
+        "size": 8932,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-5a.s3m",
+        "song_link": "resources/modules/Amiga/Empire Soccer 94/music-5a.s3m.zip",
+        "size": 98568,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-6a.s3m",
+        "song_link": "resources/modules/Amiga/Empire Soccer 94/music-6a.s3m.zip",
+        "size": 143498,
+        "composer": "Jason Page"
+      }
+    ]
+  },
+  {
+    "game": "Fire & Ice",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": ["Mindscape"],
+    "year": 1992,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "gameover and highscore-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/gameover and highscore-0a.s3m.zip",
+        "size": 105006,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "gameover and highscore-1a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/gameover and highscore-1a.s3m.zip",
+        "size": 33120,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "gameover and highscore-2a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/gameover and highscore-2a.s3m.zip",
+        "size": 49228,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "intro-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/intro-0a.s3m.zip",
+        "size": 314680,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-1-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-1-0a.s3m.zip",
+        "size": 134400,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-2-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-2-0a.s3m.zip",
+        "size": 48556,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-3-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-3-0a.s3m.zip",
+        "size": 61112,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-4-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-4-0a.s3m.zip",
+        "size": 26066,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-4-1a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-4-1a.s3m.zip",
+        "size": 30970,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-4-2a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-4-2a.s3m.zip",
+        "size": 127420,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-5-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-5-0a.s3m.zip",
+        "size": 116722,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-5-1a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-5-1a.s3m.zip",
+        "size": 24696,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-6-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-6-0a.s3m.zip",
+        "size": 64154,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-7-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-7-0a.s3m.zip",
+        "size": 105474,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-7-1a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-7-1a.s3m.zip",
+        "size": 288968,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-7-2a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-7-2a.s3m.zip",
+        "size": 29886,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-7-3a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-7-3a.s3m.zip",
+        "size": 59534,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "world-7-4a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/world-7-4a.s3m.zip",
+        "size": 185866,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "xmas demo-0a.s3m",
+        "song_link": "resources/modules/Amiga/Fire and Ice/xmas demo-0a.s3m.zip",
+        "size": 154242,
+        "composer": "Jason Page"
+      }
+    ]
+  },
+  {
     "game": "Franko: The Crazy Revenge",
     "platform": "PC",
     "developers": [
@@ -203,6 +367,529 @@
         "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
         "size": 87112,
         "composer": "Piotr Bendyk"
+      }
+    ]
+  },
+  {
+    "game": "Nipper Versus The Kats",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": ["Amiga Power"],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "music-0a.s3m",
+        "song_link": "resources/modules/Amiga/Nipper Versus The Kats/music-0a.s3m.zip",
+        "size": 68836,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-1a.s3m",
+        "song_link": "resources/modules/Amiga/Nipper Versus The Kats/music-1a.s3m.zip",
+        "size": 12098,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-2a.s3m",
+        "song_link": "resources/modules/Amiga/Nipper Versus The Kats/music-2a.s3m.zip",
+        "size": 44216,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music-3a.s3m",
+        "song_link": "resources/modules/Amiga/Nipper Versus The Kats/music-3a.s3m.zip",
+        "size": 54038,
+        "composer": "Jason Page"
+      }
+    ]
+  },
+  {
+    "game": "Realms",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": ["Virgin Games"],
+    "year": 1991,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "ingame-0a.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0a.s3m.zip",
+        "size": 239856,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0b.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0b.s3m.zip",
+        "size": 103926,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0c.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0c.s3m.zip",
+        "size": 78010,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0d.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0d.s3m.zip",
+        "size": 83398,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0e.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0e.s3m.zip",
+        "size": 66814,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0f.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0f.s3m.zip",
+        "size": 67004,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0g.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0g.s3m.zip",
+        "size": 182364,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0h.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0h.s3m.zip",
+        "size": 87318,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0i.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0i.s3m.zip",
+        "size": 151688,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0j.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0j.s3m.zip",
+        "size": 82892,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0k.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0k.s3m.zip",
+        "size": 136346,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0l.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0l.s3m.zip",
+        "size": 72528,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0m.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0m.s3m.zip",
+        "size": 80992,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0n.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0n.s3m.zip",
+        "size": 142668,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "ingame-0o.s3m",
+        "song_link": "resources/modules/Amiga/Realms/ingame-0o.s3m.zip",
+        "size": 94972,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "intro-0a.s3m",
+        "song_link": "resources/modules/Amiga/Realms/intro-0a.s3m.zip",
+        "size": 599395,
+        "composer": "Jason Page"
+      }
+    ]
+  },
+  {
+    "game": "Uridium 2",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": ["Renegade"],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "loader-0a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/loader-0a.s3m.zip",
+        "size": 438542,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-0a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-0a.s3m.zip",
+        "size": 569414,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-1a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-1a.s3m.zip",
+        "size": 57374,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-2a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-2a.s3m.zip",
+        "size": 29464,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3a.s3m.zip",
+        "size": 24272,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3b.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3b.s3m.zip",
+        "size": 81806,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3c.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3c.s3m.zip",
+        "size": 35444,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3d.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3d.s3m.zip",
+        "size": 41410,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3e.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3e.s3m.zip",
+        "size": 103318,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3f.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3f.s3m.zip",
+        "size": 23096,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3g.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3g.s3m.zip",
+        "size": 19488,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-3h.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-3h.s3m.zip",
+        "size": 67080,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-4a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-4a.s3m.zip",
+        "size": 154430,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-4b.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-4b.s3m.zip",
+        "size": 146702,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-4c.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-4c.s3m.zip",
+        "size": 291902,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-4d.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-4d.s3m.zip",
+        "size": 181578,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-5a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-5a.s3m.zip",
+        "size": 31304,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-6a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-6a.s3m.zip",
+        "size": 239192,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-7a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-7a.s3m.zip",
+        "size": 366654,
+        "composer": "Jason Page"
+      },
+      {
+        "song": "music1-8a.s3m",
+        "song_link": "resources/modules/Amiga/Uridium 2/music1-8a.s3m.zip",
+        "size": 312852,
+        "composer": "Jason Page"
+      }
+    ]
+  },
+  {
+    "game": "Virocop",
+    "platform": "Amiga",
+    "developers": ["Graftgold"],
+    "publishers": [
+        "Renegade",
+        "Time Warner Interactive"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "music-01-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-01-0a.s3m.zip",
+        "size": 141208,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-01-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-01-1a.s3m.zip",
+        "size": 58084,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-02-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-02-0a.s3m.zip",
+        "size": 70696,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-02-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-02-2a.s3m.zip",
+        "size": 32088,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-02-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-02-3a.s3m.zip",
+        "size": 54904,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-03-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-03-0a.s3m.zip",
+        "size": 214044,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-03-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-03-1a.s3m.zip",
+        "size": 44584,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-04-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-04-0a.s3m.zip",
+        "size": 34492,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-04-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-04-2a.s3m.zip",
+        "size": 86984,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-04-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-04-3a.s3m.zip",
+        "size": 63126,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-05-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-05-0a.s3m.zip",
+        "size": 184618,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-05-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-05-1a.s3m.zip",
+        "size": 47112,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-05-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-05-2a.s3m.zip",
+        "size": 105000,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-05-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-05-3a.s3m.zip",
+        "size": 74522,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-06-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-06-0a.s3m.zip",
+        "size": 98480,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-06-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-06-2a.s3m.zip",
+        "size": 128332,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-06-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-06-3a.s3m.zip",
+        "size": 76630,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-07-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-07-0a.s3m.zip",
+        "size": 202244,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-07-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-07-1a.s3m.zip",
+        "size": 55226,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-07-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-07-2a.s3m.zip",
+        "size": 68080,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-08-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-08-0a.s3m.zip",
+        "size": 48058,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-08-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-08-3a.s3m.zip",
+        "size": 99350,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-09-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-09-0a.s3m.zip",
+        "size": 159202,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-09-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-09-1a.s3m.zip",
+        "size": 36026,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-10-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-10-0a.s3m.zip",
+        "size": 51902,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-10-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-10-2a.s3m.zip",
+        "size": 51854,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-10-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-10-3a.s3m.zip",
+        "size": 40232,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-10-4a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-10-4a.s3m.zip",
+        "size": 107564,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-0a.s3m.zip",
+        "size": 50488,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-1a.s3m.zip",
+        "size": 29728,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-2a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-2a.s3m.zip",
+        "size": 44728,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-3a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-3a.s3m.zip",
+        "size": 46392,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-4a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-4a.s3m.zip",
+        "size": 102004,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-5a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-5a.s3m.zip",
+        "size": 133054,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-11-6a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-11-6a.s3m.zip",
+        "size": 147816,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-12-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-12-0a.s3m.zip",
+        "size": 75034,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-12-1a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-12-1a.s3m.zip",
+        "size": 78186,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-13-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-13-0a.s3m.zip",
+        "size": 81184,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "music-14-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/music-14-0a.s3m.zip",
+        "size": 60604,
+        "composer": "Lee Banyard"
+      },
+      {
+        "song": "title-0a.s3m",
+        "song_link": "resources/modules/Amiga/Virocop/title-0a.s3m.zip",
+        "size": 376326,
+        "composer": "Lee Banyard"
       }
     ]
   },
