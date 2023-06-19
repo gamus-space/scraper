@@ -4943,6 +4943,39 @@
     ]
   },
   {
+    "game": "Chips Challenge",
+    "platform": "PC",
+    "developers": [
+      "Microsoft"
+    ],
+    "publishers": [
+      "Microsoft"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "CANYON.MID",
+        "song_link": "resources/OPL3/Chips Challenge/CANYON.MID",
+        "size": 33883,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "CHIP01.MID",
+        "song_link": "resources/OPL3/Chips Challenge/CHIP01.MID",
+        "size": 9758,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "CHIP02.MID",
+        "song_link": "resources/OPL3/Chips Challenge/CHIP02.MID",
+        "size": 11837,
+        "composer": "Microsoft"
+      }
+    ]
+  },
+  {
     "game": "Christmas Lemmings 1993",
     "platform": "Amiga",
     "developers": [
@@ -27163,6 +27196,108 @@
         "size": 13934,
         "composer": "Charles Callet",
         "source_archive": "http://www.vgmpf.com/Wiki/images/d/d5/Ween_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Windows 95",
+    "platform": "PC",
+    "developers": [
+      "Microsoft"
+    ],
+    "publishers": [
+      "Microsoft"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "Bach's Brandenburg Concerto No. 3.rmi",
+        "song_link": "resources/OPL3/Windows 95/Bach's Brandenburg Concerto No. 3.rmi",
+        "size": 144902,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "Beethoven's 5th Symphony.rmi",
+        "song_link": "resources/OPL3/Windows 95/Beethoven's 5th Symphony.rmi",
+        "size": 92466,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "Beethoven's Fur Elise.rmi",
+        "song_link": "resources/OPL3/Windows 95/Beethoven's Fur Elise.rmi",
+        "size": 21312,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "CANYON.MID",
+        "song_link": "resources/OPL3/Windows 95/CANYON.MID",
+        "size": 20861,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "Dance of the Sugar-Plum Fairy.rmi",
+        "song_link": "resources/OPL3/Windows 95/Dance of the Sugar-Plum Fairy.rmi",
+        "size": 20906,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "Debussy's Claire de Lune.rmi",
+        "song_link": "resources/OPL3/Windows 95/Debussy's Claire de Lune.rmi",
+        "size": 27940,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "In the Hall of the Mountain King.rmi",
+        "song_link": "resources/OPL3/Windows 95/In the Hall of the Mountain King.rmi",
+        "size": 38444,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "Mozart's Symphony No. 40.rmi",
+        "song_link": "resources/OPL3/Windows 95/Mozart's Symphony No. 40.rmi",
+        "size": 18130,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "PASSPORT.MID",
+        "song_link": "resources/OPL3/Windows 95/PASSPORT.MID",
+        "size": 23165,
+        "composer": "Microsoft"
+      }
+    ]
+  },
+  {
+    "game": "Windows ME",
+    "platform": "PC",
+    "developers": [
+      "Microsoft"
+    ],
+    "publishers": [
+      "Microsoft"
+    ],
+    "year": 2000,
+    "source": "gamus",
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "FLOURISH.MID",
+        "song_link": "resources/OPL3/Windows ME/FLOURISH.MID",
+        "size": 24253,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "ONESTOP.MID",
+        "song_link": "resources/OPL3/Windows ME/ONESTOP.MID",
+        "size": 40075,
+        "composer": "Microsoft"
+      },
+      {
+        "song": "TOWN.MID",
+        "song_link": "resources/OPL3/Windows ME/TOWN.MID",
+        "size": 22097,
+        "composer": "Microsoft"
       }
     ]
   },
