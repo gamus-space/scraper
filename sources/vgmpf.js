@@ -201,6 +201,7 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_(DOS)', composer: 'Michel Golgevit, Zorba Kouaik', song_pattern: /^Originals\/Decompressed\/Music \(AdLib\)\/[^/]+\.MDI/, song_count: 9 },
 	];
 	const xmiGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blackthorne_(DOS)', composer: 'Glenn Stafford', song_pattern: /^Blackthorne-DOS\/xmi\/[^/]+\.xmi/, song_count: 26, samples: 'resources/samples/Blackthorne/BTHORNE.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Jagged_Alliance_(DOS)', composer: 'Steve Wener', song_pattern: /^originals\/[^/]+\.XMI/, song_count: 6, samples: 'resources/samples/Jagged Alliance/MADLAB.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Hospital_(DOS)', composer: 'Russell Shaw, Adrian Moore', song_pattern: /^XMI\/[^/]+\.xmi/, song_count: 8, samples: 'resources/samples/Theme Hospital/SAMPLE.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)', composer: ' Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson', song_pattern: /^original\/(465|466|470|471|475|476|480|481|485|486|495|496|499|500|501|505|506|510|511)\.xmi/, song_count: 19, samples: 'resources/samples/Lost Vikings/VIKINGS.AD' },
@@ -211,6 +212,7 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blood_(DOS)', composer: 'Daniel Bernstein, Mike Cody, Jay Wilson, Guy Whitmore', song_pattern: /^originals\/registered\/[^/]+\.mid/, song_count: 13, samples: 'resources/samples/Blood/GMTIMBRE.TMB' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Duke_Nukem_3D_(DOS)', composer: 'Robert Prince, Lee Jackson', song_pattern: /^(|Unreleased\/)[^/]+\.mid/, song_count: 31, samples: 'resources/samples/Duke Nukem 3D/D3DTIMBR.TMB' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prince_of_Persia_(DOS)', composer: 'Francis Mechner', song_pattern: /^Originals\/MIDISND[12].DAT\/[^/]+\.mff/, song_count: 22, samples: 'resources/samples/Prince of Persia/PRESETS.DEF' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Rise_of_the_Triad:_Dark_War_(DOS)', composer: 'Robert Prince, Lee Jackson', song_pattern: /^[^/]+\.mid/, song_count: 34, samples: 'resources/samples/Rise of the Triad/ROTT.TMB' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Shadow_Warrior_(DOS)', composer: 'Lee Jackson', song_pattern: /^[^/]+\.mid/, song_count: 5, samples: 'resources/samples/Shadow Warrior/SWTIMBR.TMB' },
 	];
 	const klmGames = [
