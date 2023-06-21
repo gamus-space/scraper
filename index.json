@@ -1718,6 +1718,205 @@
     ]
   },
   {
+    "game": "Blackthorne",
+    "platform": "PC",
+    "developers": [
+      "Blizzard Entertainment Inc."
+    ],
+    "publishers": [
+      "Interplay Productions, Inc.",
+      "DICE"
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Blackthorne_(DOS)",
+    "samples": "resources/samples/Blackthorne/BTHORNE.AD",
+    "songs": [
+      {
+        "song": "01.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/01.xmi",
+        "size": 7804,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "02.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/02.xmi",
+        "size": 7656,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "03.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/03.xmi",
+        "size": 4534,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "04.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/04.xmi",
+        "size": 6928,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "05.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/05.xmi",
+        "size": 6706,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "06.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/06.xmi",
+        "size": 7434,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "07.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/07.xmi",
+        "size": 8974,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "08.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/08.xmi",
+        "size": 8938,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "09.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/09.xmi",
+        "size": 14102,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "10.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/10.xmi",
+        "size": 16032,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "11.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/11.xmi",
+        "size": 15886,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "12.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/12.xmi",
+        "size": 10360,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "13.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/13.xmi",
+        "size": 12214,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "14.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/14.xmi",
+        "size": 12180,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "15.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/15.xmi",
+        "size": 12094,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "16.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/16.xmi",
+        "size": 15784,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "17.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/17.xmi",
+        "size": 16284,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "18.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/18.xmi",
+        "size": 11206,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "19.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/19.xmi",
+        "size": 15982,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "20.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/20.xmi",
+        "size": 13312,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "21.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/21.xmi",
+        "size": 12118,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "22.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/22.xmi",
+        "size": 14226,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "23.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/23.xmi",
+        "size": 14414,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "24.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/24.xmi",
+        "size": 8908,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "25.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/25.xmi",
+        "size": 10962,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      },
+      {
+        "song": "26.xmi",
+        "song_link": "VGMPF/PC/Blackthorne/26.xmi",
+        "size": 11240,
+        "composer": "Glenn Stafford",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/a/a3/Blackthorne_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
     "game": "Blake Stone: Aliens of Gold",
     "platform": "PC",
     "developers": [
@@ -16336,6 +16535,57 @@
     ]
   },
   {
+    "game": "NAM",
+    "platform": "PC",
+    "developers": [
+      "TNT Team"
+    ],
+    "publishers": [
+      "GT Interactive"
+    ],
+    "year": 1998,
+    "source": "gamus",
+    "samples": "resources/samples/NAM/D3DTIMBR.TMB",
+    "songs": [
+      {
+        "song": "PLT201.MID",
+        "song_link": "resources/OPL3/NAM/PLT201.MID",
+        "size": 57586,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT203.MID",
+        "song_link": "resources/OPL3/NAM/PLT203.MID",
+        "size": 24183,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT204.MID",
+        "song_link": "resources/OPL3/NAM/PLT204.MID",
+        "size": 12995,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT205.MID",
+        "song_link": "resources/OPL3/NAM/PLT205.MID",
+        "size": 26055,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT208.MID",
+        "song_link": "resources/OPL3/NAM/PLT208.MID",
+        "size": 30129,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT211.MID",
+        "song_link": "resources/OPL3/NAM/PLT211.MID",
+        "size": 23644,
+        "composer": "Atom Ellis"
+      }
+    ]
+  },
+  {
     "game": "Nicky Boom",
     "platform": "Amiga",
     "developers": [
@@ -19743,6 +19993,263 @@
         "size": 37338,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FRise_of_the_Robots.lha"
+      }
+    ]
+  },
+  {
+    "game": "Rise of the Triad: Dark War",
+    "platform": "PC",
+    "developers": [
+      "Apogee Software, Ltd."
+    ],
+    "publishers": [
+      "FormGen, Inc.",
+      "CDV Software GmbH",
+      "U.S. Gold Ltd.",
+      "Friendware"
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Rise_of_the_Triad:_Dark_War_(DOS)",
+    "samples": "resources/samples/Rise of the Triad/ROTT.TMB",
+    "songs": [
+      {
+        "song": "01 - Apogee Fanfare.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/01 - Apogee Fanfare.mid",
+        "size": 2548,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "02 - Rise of the Triad.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/02 - Rise of the Triad.mid",
+        "size": 12316,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "03 - MMMenu.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/03 - MMMenu.mid",
+        "size": 2374,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "04 - God Rest Ye, Deadly Gentlemen.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/04 - God Rest Ye, Deadly Gentlemen.mid",
+        "size": 22633,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "05 - Going Up.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/05 - Going Up.mid",
+        "size": 2782,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "06 - Fish Polka.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/06 - Fish Polka.mid",
+        "size": 4043,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "07 - How'd I Do.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/07 - How'd I Do.mid",
+        "size": 13991,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "08 - You Suck!.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/08 - You Suck!.mid",
+        "size": 6087,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "09 - Watz Next.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/09 - Watz Next.mid",
+        "size": 16148,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "10 - Gazz!.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/10 - Gazz!.mid",
+        "size": 33299,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "11 - Goin' Down the Fast Way.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/11 - Goin' Down the Fast Way.mid",
+        "size": 35632,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "12 - Mist Ache.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/12 - Mist Ache.mid",
+        "size": 13973,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "13 - Oww!.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/13 - Oww!.mid",
+        "size": 20030,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "14 - Smoke and Mirrors.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/14 - Smoke and Mirrors.mid",
+        "size": 24378,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "15 - Spray.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/15 - Spray.mid",
+        "size": 33945,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "16 - Run Like Smeg.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/16 - Run Like Smeg.mid",
+        "size": 39066,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "17 - Havana Smooth.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/17 - Havana Smooth.mid",
+        "size": 35289,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "18 - Chant.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/18 - Chant.mid",
+        "size": 33369,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "19 - Music for the Funeral of Queen Mary.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/19 - Music for the Funeral of Queen Mary.mid",
+        "size": 22026,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "20 - Task Force.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/20 - Task Force.mid",
+        "size": 22208,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "21 - KISS Off.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/21 - KISS Off.mid",
+        "size": 12955,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "22 - Adagio for Strings and Organ.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/22 - Adagio for Strings and Organ.mid",
+        "size": 35669,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "23 - Shards.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/23 - Shards.mid",
+        "size": 19124,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "24 - I Choose the Stairs.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/24 - I Choose the Stairs.mid",
+        "size": 28141,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "25 - CCCool.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/25 - CCCool.mid",
+        "size": 28067,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "26 - Excalibur.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/26 - Excalibur.mid",
+        "size": 28201,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "27 - Suck This.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/27 - Suck This.mid",
+        "size": 31459,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "28 - Work Day.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/28 - Work Day.mid",
+        "size": 33881,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "29 - Where Izit.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/29 - Where Izit.mid",
+        "size": 20213,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "30 - Boss Blow.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/30 - Boss Blow.mid",
+        "size": 8019,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "31 - Hellero.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/31 - Hellero.mid",
+        "size": 18823,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "32 - Evin Rude.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/32 - Evin Rude.mid",
+        "size": 7626,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "33 - Victory!.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/33 - Victory!.mid",
+        "size": 14030,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
+      },
+      {
+        "song": "34 - Here Boy.mid",
+        "song_link": "VGMPF/PC/Rise of the Triad Dark War/34 - Here Boy.mid",
+        "size": 3542,
+        "composer": "Robert Prince, Lee Jackson",
+        "source_archive": "http://www.vgmpf.com/Rips/RiseOfTheTriad-DOS.zip"
       }
     ]
   },
