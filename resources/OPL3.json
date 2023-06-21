@@ -1675,6 +1675,57 @@
     ]
   },
   {
+    "game": "NAM",
+    "platform": "PC",
+    "developers": [
+      "TNT Team"
+    ],
+    "publishers": [
+      "GT Interactive"
+    ],
+    "year": 1998,
+    "source": "gamus",
+    "samples": "resources/samples/NAM/D3DTIMBR.TMB",
+    "songs": [
+      {
+        "song": "PLT201.MID",
+        "song_link": "resources/OPL3/NAM/PLT201.MID",
+        "size": 57586,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT203.MID",
+        "song_link": "resources/OPL3/NAM/PLT203.MID",
+        "size": 24183,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT204.MID",
+        "song_link": "resources/OPL3/NAM/PLT204.MID",
+        "size": 12995,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT205.MID",
+        "song_link": "resources/OPL3/NAM/PLT205.MID",
+        "size": 26055,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT208.MID",
+        "song_link": "resources/OPL3/NAM/PLT208.MID",
+        "size": 30129,
+        "composer": "Atom Ellis"
+      },
+      {
+        "song": "PLT211.MID",
+        "song_link": "resources/OPL3/NAM/PLT211.MID",
+        "size": 23644,
+        "composer": "Atom Ellis"
+      }
+    ]
+  },
+  {
     "game": "Secret of Monkey Island, The",
     "platform": "PC",
     "developers": [

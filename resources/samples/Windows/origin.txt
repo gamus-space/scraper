@@ -1,0 +1,1 @@
+extract from msadlib.drv with hex editor

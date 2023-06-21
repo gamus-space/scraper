@@ -1,0 +1,2 @@
+extract files from DATA.DAT archive with unblzzrd.exe
+rename 00000016.unk to BTHORNE.AD
