@@ -10,7 +10,8 @@ const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 
 const amiga = require('../lib/amiga');
-const { sequential, takeUntil } = require('../lib/utils');
+const { countGalleries, fetchGalleries } = require('../lib/gallery');
+const { groupBy, sequential, takeUntil } = require('../lib/utils');
 
 if (require.main === module) {
 	const song = process.argv[2];
@@ -18,6 +19,35 @@ if (require.main === module) {
 }
 
 const FILES_IGNORE = /\.txt$/i;
+
+const LINKS_FLAT = [
+	// Amiga
+	{ title: 'Lemmings', site: 'MobyGames', url: 'https://www.mobygames.com/game/683/lemmings/', gallerySection: 'Amiga screenshots' },
+	{ title: 'Lemmings 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/1603/lemmings-2-the-tribes/', gallerySection: 'Amiga screenshots' },
+	{ title: 'All New World Of Lemmings', site: 'MobyGames', url: 'https://www.mobygames.com/game/1752/the-lemmings-chronicles/', gallerySection: 'Amiga screenshots' },
+	{ title: 'Oh No! More Lemmings', site: 'MobyGames', url: 'https://www.mobygames.com/game/684/oh-no-more-lemmings/', gallerySection: 'Amiga screenshots' },
+	{ title: 'Holiday Lemmings 1994', site: 'MobyGames', url: 'https://www.mobygames.com/game/78986/holiday-lemmings/', gallerySection: 'Amiga screenshots' },
+	// PC Dos
+	{ title: 'Arnie 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/7023/arnie-savage-combat-commando/' },
+	{ title: 'Crusader: No Regret', site: 'MobyGames', url: 'https://www.mobygames.com/game/852/crusader-no-regret/' },
+	{ title: 'Crusader: No Remorse', site: 'MobyGames', url: 'https://www.mobygames.com/game/851/crusader-no-remorse/' },
+	{ title: 'Death Rally', site: 'MobyGames', url: 'https://www.mobygames.com/game/256/death-rally/' },
+	{ title: 'Epic Pinball', site: 'MobyGames', url: 'https://www.mobygames.com/game/263/epic-pinball/' },
+	{ title: 'Jazz Jackrabbit', site: 'MobyGames', url: 'https://www.mobygames.com/game/902/jazz-jackrabbit/' },
+	{ title: 'Jazz Jackrabbit: Holiday Hare 1994', site: 'MobyGames', url: 'https://www.mobygames.com/game/10026/jazz-jackrabbit-holiday-hare-1994/' },
+	{ title: 'Lion King, The', site: 'MobyGames', url: 'https://www.mobygames.com/game/2077/the-lion-king/' },
+	{ title: 'Micro Machines 2: Turbo Tournament', site: 'MobyGames', url: 'https://www.mobygames.com/game/627/micro-machines-2-turbo-tournament/' },
+	{ title: 'One Must Fall 2097', site: 'MobyGames', url: 'https://www.mobygames.com/game/234/one-must-fall-2097/' },
+	{ title: 'Pinball Dreams 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/2105/pinball-dreams-ii/' },
+	{ title: 'Pinball Dreams Deluxe', site: 'MobyGames', url: 'https://www.mobygames.com/game/46903/pinball-arcade/' },
+	{ title: 'Screamer', site: 'MobyGames', url: 'https://www.mobygames.com/game/621/screamer/' },
+	{ title: 'Super Bubble Mania', site: 'MobyGames', url: 'https://www.mobygames.com/game/35492/super-bubble-mania/' },
+	{ title: 'Teenagent', site: 'MobyGames', url: 'https://www.mobygames.com/game/6423/teen-agent/' },
+	{ title: 'Terminal Velocity', site: 'MobyGames', url: 'https://www.mobygames.com/game/635/terminal-velocity/' },
+	// PC Windows
+	{ title: 'Jazz Jackrabbit 2: The Secret Files', site: 'MobyGames', url: 'https://www.mobygames.com/game/9554/jazz-jackrabbit-2-the-secret-files/', gallerySection: 'Windows screenshots' },
+];
+const LINKS = groupBy(LINKS_FLAT, ({ title }) => title);
 
 async function fetchGame(url, source, options) {
 	const html = await (await fetch(url)).text();
@@ -51,7 +81,6 @@ async function fetchGame(url, source, options) {
 	const tunesActual = Number(xpath.select1("normalize-space(./big[normalize-space(text()) = 'Num of tunes (actual):']/following-sibling::text()[1])", musicInfo));
 	const tunesCount = game === 'Gods' ? tunesOriginal : tunes || tunesActual;
 	if (tunesCount === 0) throw 'no tunes!';
-	console.log(game, tunesCount);
 
 	const gameDir = `${platform}/${game.replace(/:/g, '')}`;
 	try {
@@ -80,6 +109,8 @@ async function fetchGame(url, source, options) {
 		});
 		files = entries.map(entry => entry.name).sort();
 	}
+	const links = await fetchGalleries(LINKS[game] ?? []);
+	console.log(game, tunesCount, { gallery: countGalleries(links) });
 	const songs = files.map(file => ({
 		song: file,
 		song_link: `${source}/${gameDir}/${file}`,
@@ -87,7 +118,7 @@ async function fetchGame(url, source, options) {
 		composer: composers.join(', '),
 	})).map(song => splitSong(song, Uint8Array.from(fs.readFileSync(`../${song.song_link}`)))).flat();
 
-	return { game, platform, developers, publishers, year, source, source_link: url, songs };
+	return { game, platform, developers, publishers, year, source, source_link: url, links, songs };
 }
 
 function splitSong(song, file) {
