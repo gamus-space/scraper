@@ -10,6 +10,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Alien Breed",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/4217/alien-breed/"
+      }
+    ],
     "songs": [
       {
         "song": "ALARMED.CMF",
@@ -55,6 +62,13 @@
     ],
     "year": 1996,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Battle Arena Toshinden",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/6238/battle-arena-toshinden/"
+      }
+    ],
     "samples": [
         "resources/samples/Battle Arena Toshinden/MELODIC.BNK",
         "resources/samples/Battle Arena Toshinden/DRUM.BNK"
@@ -163,6 +177,14 @@
     ],
     "year": 1992,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Chip's Challenge",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/5012/chips-challenge/",
+        "gallerySection": "Windows 3.x screenshots"
+      }
+    ],
     "samples": "resources/samples/Windows/msadlib.bnk",
     "songs": [
       {
@@ -196,6 +218,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Maniac Mansion: Day of the Tentacle",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/719/maniac-mansion-day-of-the-tentacle/"
+      }
+    ],
     "songs": [
       {
         "song": "dott_1970's_museum.laa",
@@ -630,6 +659,13 @@
     ],
     "year": 1994,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Diggers",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/27354/diggers/"
+      }
+    ],
     "songs": [
       {
         "song": "dpcallad.mdi",
@@ -656,6 +692,13 @@
     ],
     "year": 1989,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/"
+      }
+    ],
     "songs": [
       {
         "song": "ij3_book_burning.laa",
@@ -736,6 +779,13 @@
     ],
     "year": 1992,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Indiana Jones and the Fate of Atlantis",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/"
+      }
+    ],
     "songs": [
       {
         "song": "ij4_algiers_-_balloon_starting_place.laa",
@@ -1398,6 +1448,13 @@
     ],
     "year": 1992,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Lure of the Temptress",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/1134/lure-of-the-temptress/"
+      }
+    ],
     "songs": [
       {
         "song": "disk1.vga_001.mdi",
@@ -1478,6 +1535,13 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Mega Man X",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/1334/mega-man-x/"
+      }
+    ],
     "songs": [
       {
         "song": "BOSS.XMI OPL2",
@@ -1940,6 +2004,13 @@
     ],
     "year": 1998,
     "source": "gamus",
+    "links": [
+      {
+        "title": "NAM",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/1015/nam/"
+      }
+    ],
     "samples": "resources/samples/NAM/D3DTIMBR.TMB",
     "songs": [
       {
@@ -1991,6 +2062,13 @@
     ],
     "year": 1990,
     "source": "gamus",
+    "links": [
+      {
+        "title": "The Secret of Monkey Island",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/616/the-secret-of-monkey-island/"
+      }
+    ],
     "songs": [
       {
         "song": "mi1_church.laa",
@@ -2101,6 +2179,13 @@
     ],
     "year": 1991,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Monkey Island 2: LeChuck's Revenge",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/"
+      }
+    ],
     "songs": [
       {
         "song": "mi2_big_tree.laa",
@@ -2595,6 +2680,13 @@
     ],
     "year": 1996,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Polanie",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/27959/polanie/"
+      }
+    ],
     "songs": [
       {
         "song": "muzyka01.s3m",
@@ -2717,6 +2809,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Prince of Persia 2: The Shadow & The Flame",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/"
+      }
+    ],
     "samples": "resources/samples/Prince of Persia 2/PRESETS.DEF",
     "songs": [
       {
@@ -3944,6 +4043,13 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Screamer",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/621/screamer/"
+      }
+    ],
     "samples": ["resources/OPL3/Screamer/MELODIC.BNK", "resources/OPL3/Screamer/DRUM.BNK"],
     "songs": [
       {
@@ -4001,6 +4107,13 @@
     ],
     "year": 1996,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Super Street Fighter II",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/10119/super-street-fighter-ii/"
+      }
+    ],
     "songs": [
       {
         "song": "BONUS.XMI OPL2",
@@ -4673,6 +4786,13 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Super Street Fighter II Turbo",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/1159/super-street-fighter-ii-turbo/"
+      }
+    ],
     "samples": [
         "resources/samples/Super Street Fighter II Turbo/MELODIC.BNK",
         "resources/samples/Super Street Fighter II Turbo/DRUM.BNK"
@@ -5045,6 +5165,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Syndicate",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/281/syndicate/"
+      }
+    ],
     "samples": "resources/samples/Syndicate/SAMPLE.AD",
     "songs": [
       {
@@ -5096,6 +5223,14 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Microsoft Windows 95 (included games)",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/48089/microsoft-windows-95-included-games/",
+        "gallerySection": "Windows screenshots"
+      }
+    ],
     "samples": "resources/samples/Windows/msadlib.bnk",
     "songs": [
       {
@@ -5165,6 +5300,13 @@
     ],
     "year": 2000,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Microsoft Windows ME (included games)",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/48100/microsoft-windows-me-included-games/"
+      }
+    ],
     "samples": "resources/samples/Windows/msadlib.bnk",
     "songs": [
       {

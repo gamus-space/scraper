@@ -1,3 +1,5 @@
+'use strict';
+
 const fs = require('fs');
 const { URL } = require('url');
 
@@ -6,9 +8,17 @@ const fetch = require('node-fetch');
 const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 
-const { sequential } = require('../lib/utils');
+const { countGalleries, fetchGalleries } = require('../lib/gallery');
+const { groupBy, indexBy, sequential } = require('../lib/utils');
 
 const PLATFORM_MAP = { 'DOS': 'PC' };
+
+const FIXED_LINKS_FLAT = [
+	{ title: 'Commander Keen VI: Aliens Ate My Babysitter!', site: 'MobyGames', url: 'https://www.mobygames.com/game/1581/commander-keen-aliens-ate-my-babysitter/' },
+	{ title: 'Cosmo\'s Cosmic Adventure', site: 'MobyGames', url: 'https://www.mobygames.com/game/910/cosmos-cosmic-adventure/' },
+	{ title: 'Wolfenstein 3D', site: 'MobyGames', url: 'https://www.mobygames.com/game/306/wolfenstein-3d/' },
+];
+const FIXED_LINKS = Object.fromEntries(Object.entries(groupBy(FIXED_LINKS_FLAT, ({ site }) => site)).map(([site, links]) => [site, indexBy(links, ({ title }) => title)]));
 
 async function fetchGame({ url, composer, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
 	const html = await (await fetch(url)).text();
@@ -30,7 +40,6 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 	const altDownloadLink = xpath.select1('string(./following-sibling::p//a[normalize-space(text()) = "Download Rip"]/@href)', ripTitle);
 	const downloadLink = altDownloadLink || mainDownloadLink;
 	const downloadUrl = new URL(downloadLink, url);
-	console.log(game, [downloadLink]);
 
 	const gameDir = `${platform}/${game.replace(/:/g, '')}`;
 	try {
@@ -47,6 +56,14 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 		files = entries.map(entry => entry.name).sort();
 	}
 
+	const linksTitle = xpath.select1('//div[@id="mw-content-text"]//h2[span/@id="Links"]', doc);
+	const links = await fetchGalleries(linksTitle && xpath.select('./following-sibling::ul/li', linksTitle).map(item => ({
+		title: game,
+		site: /- ?(.+?)\.?$/.exec(xpath.select1('./text()[last()]', item)?.textContent)?.[1],
+		url: xpath.select1('string(./a/@href)', item),
+	})).map(link => FIXED_LINKS[link.site]?.[link.title] ?? link));
+	console.log(game, [downloadLink], { gallery: countGalleries(links) });
+
 	const fragment = rate != undefined ? `#${rate}` : '';
 	const songs = files.filter(file => !file.match(song_ignore || /$^/)).map(file => ({
 		song: file,
@@ -57,7 +74,7 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 	})).map(song => splitSong(song, game)).flat();
 	const samplesLink = samples != undefined ? { samples } : {};
 
-	return { game, platform, developers, publishers, year, source, source_link: url, ...samplesLink, songs };
+	return { game, platform, developers, publishers, year, source, source_link: url, links, ...samplesLink, songs };
 }
 
 function splitSong(song, game) {

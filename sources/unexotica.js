@@ -10,6 +10,7 @@ const dom = require('xmldom').DOMParser;
 const xpath = require('xpath');
 
 const amiga = require('../lib/amiga');
+const { countGalleries, fetchGalleries } = require('../lib/gallery');
 const LHA = require('../lib/lha');
 const { sequential, takeUntil } = require('../lib/utils');
 
@@ -29,6 +30,10 @@ const GAME_DUPLICATES = [
 ];
 
 const IGNORED_FILES = /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source)/;
+
+const EXTRA_LINKS = [
+	{ title: 'Wrath of the Demon', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=1148' },
+];
 
 function normalizeName(name) {
 	return name.replace(/^(The)\s+(.*)$/, '$2, $1');
@@ -53,9 +58,15 @@ async function fetchGame(url, source) {
 	const nextSection = followingHeaders.find(h => h.nodeName != 'h3');
 	const childHeaders = takeUntil(followingHeaders, nextSection).filter(h => !/CDDA/.test(h.textContent));
 	//const childChapters = childHeaders.map((h, i) => takeUntil(xpath.select("./following-sibling::*", h), childHeaders[i+1] || nextSection));
-	console.log(title, childHeaders.map(h => xpath.select("string(./span[1]/@id)", h)));
 	const urls = childHeaders.map(h => xpath.select1("string(./following-sibling::*//a/@href)", h));
 	const tables = childHeaders.map(h => xpath.select1("./following-sibling::table[contains(@class, 'filetable')]", h));
+	const linksSection = xpath.select1("//h2/span[normalize-space() = 'External Links']/../following-sibling::ul", doc);
+	const links = await fetchGalleries([...linksSection && xpath.select("li", linksSection).map(item => ({
+		title: xpath.select1('normalize-space(./a[1]/text())', item),
+		site: xpath.select1('normalize-space(./a[2]/text())', item),
+		url: xpath.select1('string(./a[1]/@href)', item),
+	})), ...EXTRA_LINKS.filter(link => link.title === title)]);
+	console.log(title, childHeaders.map(h => xpath.select("string(./span[1]/@id)", h)), { gallery: countGalleries(links) });
 	let cwd = [];
 	const songsData = tables.map(t => xpath.select(".//tr[position()>1]", t).map(row => {
 		const dir = (row.getAttribute('class') || '').includes('dir');
@@ -145,7 +156,7 @@ async function fetchGame(url, source) {
 	})).flat(2);
 
 	return {
-		game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url, songs,
+		game: title, platform: PLATFORM, developers, publishers, year, source, source_link: url, links, songs,
 	};
 }
 
