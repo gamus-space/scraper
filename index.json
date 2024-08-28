@@ -1614,6 +1614,392 @@
     ]
   },
   {
+    "game": "B.C. Kid",
+    "platform": "Amiga",
+    "developers": [
+      "Hudson Soft",
+      "Factor 5",
+      "Red"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/B.C._Kid",
+    "links": [
+      {
+        "title": "B.C. Kid (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/81"
+      },
+      {
+        "title": "BC Kid",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=143"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.b.c._kid #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.b.c._kid.zip#1",
+        "size": 80614,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.b.c._kid #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.b.c._kid.zip#2",
+        "size": 80614,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.b.c._kid #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.b.c._kid.zip#3",
+        "size": 80614,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#1",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#2",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#3",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#4",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#5",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#6",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#8",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.coconut_attack #9",
+        "song_link": "UnExoticA/BC_Kid/mdat.coconut_attack.zip#9",
+        "size": 45696,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#1",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#2",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#3",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#4",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#5",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#6",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#8",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.creepy_caverns #9",
+        "song_link": "UnExoticA/BC_Kid/mdat.creepy_caverns.zip#9",
+        "size": 38112,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#1",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#2",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#3",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#4",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#5",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#6",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#8",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.despair #9",
+        "song_link": "UnExoticA/BC_Kid/mdat.despair.zip#9",
+        "size": 43940,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.factor_5_intro",
+        "song_link": "UnExoticA/BC_Kid/mdat.factor_5_intro.zip",
+        "size": 41397,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#1",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#2",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#3",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#4",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#5",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#6",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#8",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.happy_hour #9",
+        "song_link": "UnExoticA/BC_Kid/mdat.happy_hour.zip#9",
+        "size": 44950,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#1",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#2",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#3",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#4",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#5",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#6",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.sunbath #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.sunbath.zip#8",
+        "size": 44494,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #1",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#1",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #2",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#2",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #3",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#3",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #4",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#4",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #5",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#5",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #6",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#6",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #8",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#8",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      },
+      {
+        "song": "mdat.wet_walls #9",
+        "song_link": "UnExoticA/BC_Kid/mdat.wet_walls.zip#9",
+        "size": 45528,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      }
+    ]
+  },
+  {
     "game": "Barbarian II",
     "platform": "Amiga",
     "developers": [
@@ -8137,59 +8523,6 @@
       "Apogee"
     ],
     "year": "1996",
-    "source": "gamus",
-    "links": [
-      {
-        "title": "Death Rally",
-        "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/256/death-rally/",
-        "gallery": [
-          "https://cdn.mobygames.com/6708389e-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/67499b2c-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/67f1be4c-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/698684a4-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/69fdc046-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/6b375990-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/6bba884c-ab6a-11ed-a5ec-02420a00019b.webp",
-          "https://cdn.mobygames.com/666e8136-ab6a-11ed-beab-02420a000199.webp",
-          "https://cdn.mobygames.com/b4609da6-ac10-11ed-a7ec-02420a000134.webp",
-          "https://cdn.mobygames.com/c731226c-ab6a-11ed-99ae-02420a00019e.webp",
-          "https://cdn.mobygames.com/bbf6d3f6-ab6a-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/4601cb04-ab80-11ed-b721-02420a00019b.webp",
-          "https://cdn.mobygames.com/beb53d9e-ab6a-11ed-87d1-02420a000197.webp",
-          "https://cdn.mobygames.com/bef0109a-ab6a-11ed-87d1-02420a000197.webp",
-          "https://cdn.mobygames.com/bfc49266-ab6a-11ed-87d1-02420a000197.webp",
-          "https://cdn.mobygames.com/bff4ab72-ab6a-11ed-87d1-02420a000197.webp"
-        ]
-      }
-    ],
-    "songs": [
-      {
-        "song": "TRACK0.S3M #1",
-        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#1",
-        "size": 443884,
-        "composer": "Jonne Valtonen"
-      },
-      {
-        "song": "TRACK0.S3M #31",
-        "song_link": "resources/modules/PC/Death Rally/TRACK0.S3M#31",
-        "size": 443884,
-        "composer": "Jonne Valtonen"
-      }
-    ]
-  },
-  {
-    "game": "Death Rally",
-    "platform": "PC",
-    "developers": [
-      "Remedy Entertainment",
-      "Apogee"
-    ],
-    "publishers": [
-      "GT Interactive",
-      "Apogee"
-    ],
-    "year": "1996",
     "source": "World of Game MODs",
     "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MzIw",
     "links": [
@@ -12298,13 +12631,16 @@
     "game": "Franko: The Crazy Revenge",
     "platform": "PC",
     "developers": [
+      "Mirage Software",
       "World Software"
     ],
     "publishers": [
-      "Mirage Software"
+      "Mirage Software",
+      "World Software"
     ],
-    "year": 1996,
-    "source": "gamus",
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NDY3",
     "links": [
       {
         "title": "Franko: The Crazy Revenge",
@@ -12353,58 +12689,58 @@
     ],
     "songs": [
       {
+        "song": "01-TITLE.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/01-TITLE.MOD",
+        "size": 93156,
+        "composer": "Slawomir Mrozek"
+      },
+      {
         "song": "ENDEV1.MOD",
-        "song_link": "resources/modules/PC/Franko/ENDEV1.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/ENDEV1.MOD",
         "size": 84964,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "ENDEV2.MOD",
-        "song_link": "resources/modules/PC/Franko/ENDEV2.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/ENDEV2.MOD",
         "size": 89706,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "L1WALBOS.MOD",
-        "song_link": "resources/modules/PC/Franko/L1WALBOS.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/L1WALBOS.MOD",
         "size": 17486,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "L2WALBOS.MOD",
-        "song_link": "resources/modules/PC/Franko/L2WALBOS.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/L2WALBOS.MOD",
         "size": 13954,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "L3WALBOS.MOD",
-        "song_link": "resources/modules/PC/Franko/L3WALBOS.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/L3WALBOS.MOD",
         "size": 13292,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "LEV1N.MOD",
-        "song_link": "resources/modules/PC/Franko/LEV1N.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/LEV1N.MOD",
         "size": 22606,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "LEV2N.MOD",
-        "song_link": "resources/modules/PC/Franko/LEV2N.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/LEV2N.MOD",
         "size": 17214,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       },
       {
         "song": "LEV3N.MOD",
-        "song_link": "resources/modules/PC/Franko/LEV3N.MOD",
+        "song_link": "World of Game MODs/PC/Franko The Crazy Revenge/LEV3N.MOD",
         "size": 20620,
-        "composer": "Sławomir Mrozek"
-      },
-      {
-        "song": "TITLE.MOD",
-        "song_link": "resources/modules/PC/Franko/TITLE.MOD",
-        "size": 93156,
-        "composer": "Sławomir Mrozek"
+        "composer": "Slawomir Mrozek"
       }
     ]
   },
@@ -13513,6 +13849,75 @@
         "size": 13794,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FGolden_Axe.lha"
+      }
+    ]
+  },
+  {
+    "game": "Grand Monster Slam",
+    "platform": "Amiga",
+    "developers": [
+      "Rainbow Arts"
+    ],
+    "publishers": [
+      "Golden Goblins"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Grand_Monster_Slam",
+    "links": [
+      {
+        "title": "Grand Monster Slam (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2779"
+      },
+      {
+        "title": "Grand Monster Slam",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=456"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.ingame #1",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.ingame.zip#1",
+        "size": 75040,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
+      },
+      {
+        "song": "mdat.ingame #2",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.ingame.zip#2",
+        "size": 75040,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
+      },
+      {
+        "song": "mdat.ingame #3",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.ingame.zip#3",
+        "size": 75040,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
+      },
+      {
+        "song": "mdat.ingame #4",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.ingame.zip#4",
+        "size": 75040,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
+      },
+      {
+        "song": "mdat.title #1",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.title.zip#1",
+        "size": 88884,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
+      },
+      {
+        "song": "mdat.title #2",
+        "song_link": "UnExoticA/Grand_Monster_Slam/mdat.title.zip#2",
+        "size": 88884,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FGrand_Monster_Slam.lha"
       }
     ]
   },
@@ -16160,11 +16565,11 @@
       "Seven Stars"
     ],
     "publishers": [
-      "Mirage",
-      "User"
+      "Seven Stars"
     ],
-    "year": 1994,
-    "source": "gamus",
+    "year": "1995",
+    "source": "World of Game MODs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0ODc=",
     "links": [
       {
         "title": "Kajko i Kokosz",
@@ -16208,26 +16613,26 @@
     ],
     "songs": [
       {
-        "song": "HAPPY.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/HAPPY.MOD",
-        "size": 83402,
-        "composer": "Piotr Bendyk"
-      },
-      {
-        "song": "TITLE.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE.MOD",
+        "song": "01-TITLE.MOD",
+        "song_link": "World of Game MODs/PC/Kajko i Kokosz/01-TITLE.MOD",
         "size": 84700,
         "composer": "Piotr Bendyk"
       },
       {
-        "song": "TITLE2.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/TITLE2.MOD",
+        "song": "02-TITLE2.MOD",
+        "song_link": "World of Game MODs/PC/Kajko i Kokosz/02-TITLE2.MOD",
         "size": 84860,
         "composer": "Piotr Bendyk"
       },
       {
-        "song": "UNHAPPY.MOD",
-        "song_link": "resources/modules/PC/Kajko i Kokosz/UNHAPPY.MOD",
+        "song": "03-HAPPY.MOD",
+        "song_link": "World of Game MODs/PC/Kajko i Kokosz/03-HAPPY.MOD",
+        "size": 83402,
+        "composer": "Piotr Bendyk"
+      },
+      {
+        "song": "04-UNHAPPY.MOD",
+        "song_link": "World of Game MODs/PC/Kajko i Kokosz/04-UNHAPPY.MOD",
         "size": 87112,
         "composer": "Piotr Bendyk"
       }
@@ -18992,6 +19397,202 @@
     ]
   },
   {
+    "game": "Masterblazer",
+    "platform": "Amiga",
+    "developers": [
+      "Lucasfilm Games",
+      "Infernal Byte Systems"
+    ],
+    "publishers": [
+      "Rainbow Arts"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Masterblazer",
+    "links": [
+      {
+        "title": "Masterblazer (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2420"
+      },
+      {
+        "title": "Masterblazer",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=721"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.ingame #1",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#1",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #2",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#2",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #3",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#3",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #4",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#4",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #5",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#5",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #6",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#6",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #7",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#7",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #8",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#8",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #9",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#9",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #10",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#10",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #11",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#11",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.ingame #12",
+        "song_link": "UnExoticA/Masterblazer/mdat.ingame.zip#12",
+        "size": 54142,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.intro #1",
+        "song_link": "UnExoticA/Masterblazer/mdat.intro.zip#1",
+        "size": 217966,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.intro #2",
+        "song_link": "UnExoticA/Masterblazer/mdat.intro.zip#2",
+        "size": 217966,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.loader",
+        "song_link": "UnExoticA/Masterblazer/mdat.loader.zip",
+        "size": 3148,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.lucasfilm_games_logo",
+        "song_link": "UnExoticA/Masterblazer/mdat.lucasfilm_games_logo.zip",
+        "size": 11136,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.museum",
+        "song_link": "UnExoticA/Masterblazer/mdat.museum.zip",
+        "size": 36596,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #1",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#1",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #2",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#2",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #3",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#3",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #5",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#5",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #30",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#30",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "mdat.options_and_hiscore #31",
+        "song_link": "UnExoticA/Masterblazer/mdat.options_and_hiscore.zip#31",
+        "size": 59118,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      },
+      {
+        "song": "Unfixed_Lucasfilm_Logo/mdat.lucasfilm_games_logo",
+        "song_link": "UnExoticA/Masterblazer/Unfixed_Lucasfilm_Logo/mdat.lucasfilm_games_logo.zip",
+        "size": 11136,
+        "composer": "",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FMasterblazer.lha"
+      }
+    ]
+  },
+  {
     "game": "Mega Man X",
     "platform": "PC",
     "developers": [
@@ -20961,6 +21562,124 @@
         "size": 25314,
         "composer": "Joe Abbati",
         "source_archive": "http://www.vgmpf.com/Wiki/images/5/57/Operation_Body_Count_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "P.P. Hammer and His Pneumatic Weapon",
+    "platform": "Amiga",
+    "developers": [
+      "Traveling Bits"
+    ],
+    "publishers": [
+      "Demonware"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/P.P._Hammer_and_His_Pneumatic_Weapon",
+    "links": [
+      {
+        "title": "P. P. Hammer And His Pneumatic Weapon (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1129"
+      },
+      {
+        "title": "P.P. Hammer",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=862"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.ingame #1",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#1",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #2",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#2",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #3",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#3",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #4",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#4",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #5",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#5",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #6",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#6",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #7",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#7",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #8",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#8",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #9",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#9",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.ingame #10",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.ingame.zip#10",
+        "size": 118696,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.title #1",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.title.zip#1",
+        "size": 93832,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.title #2",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.title.zip#2",
+        "size": 93832,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
+      },
+      {
+        "song": "mdat.title #3",
+        "song_link": "UnExoticA/P_P_Hammer/mdat.title.zip#3",
+        "size": 93832,
+        "composer": "Dirk Magerkord",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMagerkord_Dirk%2FP_P_Hammer.lha"
       }
     ]
   },
@@ -24017,6 +24736,118 @@
     ]
   },
   {
+    "game": "R-Type",
+    "platform": "Amiga",
+    "developers": [
+      "Rainbow Arts",
+      "Factor 5"
+    ],
+    "publishers": [
+      "Electric Dreams"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/R-Type",
+    "links": [
+      {
+        "title": "R-Type (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1288"
+      },
+      {
+        "title": "R-Type",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=918"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.title #1",
+        "song_link": "UnExoticA/R-Type/mdat.title.zip#1",
+        "size": 123400,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FR-Type.lha"
+      },
+      {
+        "song": "mdat.title #3",
+        "song_link": "UnExoticA/R-Type/mdat.title.zip#3",
+        "size": 123400,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FR-Type.lha"
+      },
+      {
+        "song": "dz.game_end",
+        "song_link": "UnExoticA/R-Type/dz.game_end",
+        "size": 9460,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.hiscore",
+        "song_link": "UnExoticA/R-Type/dz.hiscore",
+        "size": 13442,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_1",
+        "song_link": "UnExoticA/R-Type/dz.level_1",
+        "size": 25438,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_2",
+        "song_link": "UnExoticA/R-Type/dz.level_2",
+        "size": 13134,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_3",
+        "song_link": "UnExoticA/R-Type/dz.level_3",
+        "size": 14720,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_4",
+        "song_link": "UnExoticA/R-Type/dz.level_4",
+        "size": 13056,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_5",
+        "song_link": "UnExoticA/R-Type/dz.level_5",
+        "size": 13236,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_6",
+        "song_link": "UnExoticA/R-Type/dz.level_6",
+        "size": 15112,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_7",
+        "song_link": "UnExoticA/R-Type/dz.level_7",
+        "size": 14898,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      },
+      {
+        "song": "dz.level_8",
+        "song_link": "UnExoticA/R-Type/dz.level_8",
+        "size": 12358,
+        "composer": "Darius Zendeh",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FZendeh_Darius%2FR-Type.lha"
+      }
+    ]
+  },
+  {
     "game": "Raptor: Call of the Shadows",
     "platform": "PC",
     "developers": [
@@ -25024,6 +25855,215 @@
         "size": 11770,
         "composer": "Jason Whitely",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FRoad_Rash.lha"
+      }
+    ]
+  },
+  {
+    "game": "Rock 'n Roll",
+    "platform": "Amiga",
+    "developers": [
+      "Dynamic Vision"
+    ],
+    "publishers": [
+      "Rainbow Arts"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Rock_%27n_Roll",
+    "links": [
+      {
+        "title": "Rock 'n Roll (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1266"
+      },
+      {
+        "title": "Rock'n Roll",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=911"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.beach_party #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.beach_party.zip#1",
+        "size": 94732,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.beach_party #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.beach_party.zip#2",
+        "size": 94732,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.beach_party #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.beach_party.zip#3",
+        "size": 94732,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.high_times",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.high_times.zip",
+        "size": 125966,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.intro",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.intro.zip",
+        "size": 167820,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.jumping_wild #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.jumping_wild.zip#1",
+        "size": 108330,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.jumping_wild #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.jumping_wild.zip#2",
+        "size": 108330,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.jumping_wild #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.jumping_wild.zip#3",
+        "size": 108330,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.lovely_feelings #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.lovely_feelings.zip#1",
+        "size": 117434,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.lovely_feelings #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.lovely_feelings.zip#2",
+        "size": 117434,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.lovely_feelings #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.lovely_feelings.zip#3",
+        "size": 117434,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.magnetic_beats #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.magnetic_beats.zip#1",
+        "size": 120186,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.magnetic_beats #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.magnetic_beats.zip#2",
+        "size": 120186,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.magnetic_beats #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.magnetic_beats.zip#3",
+        "size": 120186,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.magnetic_beats #5",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.magnetic_beats.zip#5",
+        "size": 120186,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.mouse_control #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.mouse_control.zip#1",
+        "size": 100086,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.mouse_control #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.mouse_control.zip#2",
+        "size": 100086,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.mouse_control #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.mouse_control.zip#3",
+        "size": 100086,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.rockomotion #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.rockomotion.zip#1",
+        "size": 100126,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.rockomotion #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.rockomotion.zip#2",
+        "size": 100126,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.rockomotion #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.rockomotion.zip#3",
+        "size": 100126,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.spring_dreams #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.spring_dreams.zip#1",
+        "size": 78180,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.spring_dreams #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.spring_dreams.zip#2",
+        "size": 78180,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.spring_dreams #3",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.spring_dreams.zip#3",
+        "size": 78180,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.take_off_song #1",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.take_off_song.zip#1",
+        "size": 130134,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
+      },
+      {
+        "song": "mdat.take_off_song #2",
+        "song_link": "UnExoticA/Rock_n_Roll/mdat.take_off_song.zip#2",
+        "size": 130134,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FRock_n_Roll.lha"
       }
     ]
   },
@@ -34545,6 +35585,299 @@
     ]
   },
   {
+    "game": "X-Out",
+    "platform": "Amiga",
+    "developers": [
+      "Rainbow Arts"
+    ],
+    "publishers": [
+      "Rainbow Arts"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/X-Out_(game)",
+    "links": [
+      {
+        "title": "X-Out (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1611"
+      },
+      {
+        "title": "X-Out",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1155"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.game_end",
+        "song_link": "UnExoticA/X-Out/mdat.game_end.zip",
+        "size": 45552,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.hiscore",
+        "song_link": "UnExoticA/X-Out/mdat.hiscore.zip",
+        "size": 31624,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #1",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_1.zip#1",
+        "size": 37540,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #2",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_1.zip#2",
+        "size": 37540,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #3",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_1.zip#3",
+        "size": 37540,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #4",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_1.zip#4",
+        "size": 37540,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #5",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_1.zip#5",
+        "size": 37540,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #1",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_2.zip#1",
+        "size": 39724,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #2",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_2.zip#2",
+        "size": 39724,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #3",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_2.zip#3",
+        "size": 39724,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #4",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_2.zip#4",
+        "size": 39724,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #5",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_2.zip#5",
+        "size": 39724,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #1",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_3.zip#1",
+        "size": 40006,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #2",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_3.zip#2",
+        "size": 40006,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #3",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_3.zip#3",
+        "size": 40006,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #4",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_3.zip#4",
+        "size": 40006,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #5",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_3.zip#5",
+        "size": 40006,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #1",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_4.zip#1",
+        "size": 39688,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #2",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_4.zip#2",
+        "size": 39688,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #3",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_4.zip#3",
+        "size": 39688,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #4",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_4.zip#4",
+        "size": 39688,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #5",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_4.zip#5",
+        "size": 39688,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #1",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_5.zip#1",
+        "size": 45308,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #2",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_5.zip#2",
+        "size": 45308,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #3",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_5.zip#3",
+        "size": 45308,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #4",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_5.zip#4",
+        "size": 45308,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #5",
+        "song_link": "UnExoticA/X-Out/mdat.ingame_5.zip#5",
+        "size": 45308,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.loader #1",
+        "song_link": "UnExoticA/X-Out/mdat.loader.zip#1",
+        "size": 8370,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.loader #2",
+        "song_link": "UnExoticA/X-Out/mdat.loader.zip#2",
+        "size": 8370,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.shop",
+        "song_link": "UnExoticA/X-Out/mdat.shop.zip",
+        "size": 46760,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.title #1",
+        "song_link": "UnExoticA/X-Out/mdat.title.zip#1",
+        "size": 66717,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "mdat.title #3",
+        "song_link": "UnExoticA/X-Out/mdat.title.zip#3",
+        "size": 66717,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.hiscore",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.hiscore.zip",
+        "size": 34816,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.ingame_1 #1",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.ingame_1.zip#1",
+        "size": 40124,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.ingame_1 #2",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.ingame_1.zip#2",
+        "size": 40124,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.loader",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.loader.zip",
+        "size": 11602,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.title #1",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.title.zip#1",
+        "size": 95133,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      },
+      {
+        "song": "Unused/mdat.title #3",
+        "song_link": "UnExoticA/X-Out/Unused/mdat.title.zip#3",
+        "size": 95133,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FX-Out.lha"
+      }
+    ]
+  },
+  {
     "game": "Yo! Joe!",
     "platform": "Amiga",
     "developers": [
@@ -34666,6 +35999,250 @@
         "size": 99680,
         "composer": "Michael Bialas",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBialas_Michael%2FYo_Joe.lha"
+      }
+    ]
+  },
+  {
+    "game": "Z-Out",
+    "platform": "Amiga",
+    "developers": [
+      "Advantec"
+    ],
+    "publishers": [
+      "Rainbow Arts"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Z-Out",
+    "links": [
+      {
+        "title": "Z-Out (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1644"
+      },
+      {
+        "title": "Z-Out",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1170"
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.title #1",
+        "song_link": "UnExoticA/Z-Out/mdat.title.zip#1",
+        "size": 162500,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.title #2",
+        "song_link": "UnExoticA/Z-Out/mdat.title.zip#2",
+        "size": 162500,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.title #3",
+        "song_link": "UnExoticA/Z-Out/mdat.title.zip#3",
+        "size": 162500,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.title #30",
+        "song_link": "UnExoticA/Z-Out/mdat.title.zip#30",
+        "size": 162500,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.title #31",
+        "song_link": "UnExoticA/Z-Out/mdat.title.zip#31",
+        "size": 162500,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_1 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_1.zip#1",
+        "size": 36158,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_1 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_1.zip#2",
+        "size": 36158,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_1 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_1.zip#3",
+        "size": 36158,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_1 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_1.zip#4",
+        "size": 36158,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_1 #31",
+        "song_link": "UnExoticA/Z-Out/mdat.level_1.zip#31",
+        "size": 36158,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_2 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_2.zip#1",
+        "size": 49617,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_2 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_2.zip#2",
+        "size": 49617,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_2 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_2.zip#3",
+        "size": 49617,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_2 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_2.zip#4",
+        "size": 49617,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_2 #31",
+        "song_link": "UnExoticA/Z-Out/mdat.level_2.zip#31",
+        "size": 49617,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_3 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_3.zip#1",
+        "size": 48590,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_3 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_3.zip#2",
+        "size": 48590,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_3 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_3.zip#3",
+        "size": 48590,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_3 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_3.zip#4",
+        "size": 48590,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_4 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_4.zip#1",
+        "size": 49896,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_4 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_4.zip#2",
+        "size": 49896,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_4 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_4.zip#3",
+        "size": 49896,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_4 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_4.zip#4",
+        "size": 49896,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_5 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_5.zip#1",
+        "size": 50014,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_5 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_5.zip#2",
+        "size": 50014,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_5 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_5.zip#3",
+        "size": 50014,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_5 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_5.zip#4",
+        "size": 50014,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_6 #1",
+        "song_link": "UnExoticA/Z-Out/mdat.level_6.zip#1",
+        "size": 35398,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_6 #2",
+        "song_link": "UnExoticA/Z-Out/mdat.level_6.zip#2",
+        "size": 35398,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_6 #3",
+        "song_link": "UnExoticA/Z-Out/mdat.level_6.zip#3",
+        "size": 35398,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
+      },
+      {
+        "song": "mdat.level_6 #4",
+        "song_link": "UnExoticA/Z-Out/mdat.level_6.zip#4",
+        "size": 35398,
+        "composer": "Rudolf Stember",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FZ-Out.lha"
       }
     ]
   }
