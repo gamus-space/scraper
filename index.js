@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const process = require('process');
+const saveGalleryCache = require('./lib/gallery').saveGalleryCache;
 const getResources = require('./sources/resources').getResources;
 const fetchUnexotica = require('./sources/unexotica').fetchUnexotica;
 const fetchVgmpf = require('./sources/vgmpf').fetchVgmpf;
@@ -44,4 +45,5 @@ const PREPEND_LINKS = {
 	fs.writeFileSync(`${DATA}/index.json`, JSON.stringify(db, null, 2));
 	const songs = db.map(({ songs }) => songs.length).reduce((sum, count) => sum+count, 0);
 	console.log(`\n   === total\n\ngames: ${db.length}\nsongs: ${songs}`);
+	saveGalleryCache();
 })();
