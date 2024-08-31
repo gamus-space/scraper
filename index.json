@@ -11075,7 +11075,16 @@
       {
         "title": "Empire Soccer 94",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=374"
+        "url": "https://www.lemonamiga.com/games/details.php?id=374",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/empire_soccer_94/empire_soccer_94_07.png"
+        ]
       }
     ],
     "songs": [
@@ -12180,7 +12189,14 @@
       {
         "title": "Fire and Ice",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=1749"
+        "url": "https://www.lemonamiga.com/games/details.php?id=1749",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/fire_and_ice/fire_and_ice_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/fire_and_ice/fire_and_ice_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/fire_and_ice/fire_and_ice_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/fire_and_ice/fire_and_ice_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/fire_and_ice/fire_and_ice_05.png"
+        ]
       }
     ],
     "songs": [
@@ -13195,7 +13211,14 @@
       {
         "title": "Gobliins 2: The Prince Buffoon",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=459"
+        "url": "https://www.lemonamiga.com/games/details.php?id=459",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/gobliins_2_-_the_prince_buffoon/gobliins_2_-_the_prince_buffoon_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/gobliins_2_-_the_prince_buffoon/gobliins_2_-_the_prince_buffoon_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/gobliins_2_-_the_prince_buffoon/gobliins_2_-_the_prince_buffoon_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/gobliins_2_-_the_prince_buffoon/gobliins_2_-_the_prince_buffoon_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/gobliins_2_-_the_prince_buffoon/gobliins_2_-_the_prince_buffoon_05.png"
+        ]
       }
     ],
     "samples": "resources/modules/Amiga/Gobliins 2/I1.ins",
@@ -13375,7 +13398,12 @@
       {
         "title": "Goblins 3",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=460"
+        "url": "https://www.lemonamiga.com/games/details.php?id=460",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/goblins_3/goblins_3_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/goblins_3/goblins_3_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/goblins_3/goblins_3_03.png"
+        ]
       }
     ],
     "samples": "resources/modules/Amiga/Goblins 3/MUS1.INS",
@@ -25047,7 +25075,17 @@
       {
         "title": "Realms",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=889"
+        "url": "https://www.lemonamiga.com/games/details.php?id=889",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/realms/realms_08.png"
+        ]
       }
     ],
     "songs": [
@@ -33933,7 +33971,14 @@
       {
         "title": "Uridium 2",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=1101"
+        "url": "https://www.lemonamiga.com/games/details.php?id=1101",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/uridium_2/uridium_2_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/uridium_2/uridium_2_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/uridium_2/uridium_2_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/uridium_2/uridium_2_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/uridium_2/uridium_2_05.png"
+        ]
       }
     ],
     "songs": [
@@ -34075,7 +34120,25 @@
       {
         "title": "Virocop",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=1214"
+        "url": "https://www.lemonamiga.com/games/details.php?id=1214",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_14.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_15.png",
+          "https://www.lemonamiga.com/games/media/screens/full/virocop/virocop_16.png"
+        ]
       }
     ],
     "songs": [
@@ -34895,7 +34958,16 @@
       {
         "title": "Ween: The Prophecy",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=2118"
+        "url": "https://www.lemonamiga.com/games/details.php?id=2118",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ween_-_the_prophecy/ween_-_the_prophecy_07.png"
+        ]
       }
     ],
     "samples": "resources/modules/Amiga/Ween The Prophecy/mus2.ins",
@@ -35515,7 +35587,24 @@
       {
         "title": "Wrath of the Demon",
         "site": "Lemon Amiga",
-        "url": "https://www.lemonamiga.com/games/details.php?id=1148"
+        "url": "https://www.lemonamiga.com/games/details.php?id=1148",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_14.png",
+          "https://www.lemonamiga.com/games/media/screens/full/wrath_of_the_demon/wrath_of_the_demon_15.png"
+        ]
       }
     ],
     "songs": [
