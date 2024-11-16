@@ -127,7 +127,15 @@ const splitSongFixed = {
 		'MEZANINE.ADL': [52, 53, 58],
 		'SILVER.ADL': [54, 55, 59, 60, 61],
 	},
-	'The Legend of Kyrandia: Book One': {
+	'Jagged Alliance': {
+		'DAY.XMI': [1, 2, 3, 4, 5, 6],
+		'DAYGM.XMI': [],
+		'INTRO.XMI': [1, 2, 3, 4],
+		'INTROGM.XMI': [],
+		'MENUS.XMI': [1, 2, 3, 4, 5],
+		'MENUSGM.XMI': [],
+	},
+	'Legend of Kyrandia: Book One, The': {
 		'intro.adl': [2, 3, 4, 5],
 		'kyra1a.adl': [2, 3, 4],
 		'kyra1b.adl': [2, 3, 4, 6, 8],
@@ -139,7 +147,7 @@ const splitSongFixed = {
 		'kyra5b.adl': [2, 5, 8, 9],
 		'kyramisc.adl': [2, 3],
 	},
-	'The Legend of Kyrandia: Book Two - The Hand of Fate': {
+	'Legend of Kyrandia: Book Two - The Hand of Fate, The': {
 		'K2FINALE.ADL': [2, 3, 4],
 		'K2INTRO.ADL': [2, 3, 4, 5, 6, 7, 8],
 		'K2SFX.ADL': [],
@@ -158,14 +166,6 @@ const splitSongFixed = {
 		'K2TEST7.ADL': [2, 3, 4, 5],
 		'K2TEST8.ADL': [2, 3, 4, 5, 6, 7, 8, 9],
 		'K2TEST9.ADL': [2, 4, 5, 6, 7, 8, 9],
-	},
-	'Jagged Alliance': {
-		'DAY.XMI': [1, 2, 3, 4, 5, 6],
-		'DAYGM.XMI': [],
-		'INTRO.XMI': [1, 2, 3, 4],
-		'INTROGM.XMI': [],
-		'MENUS.XMI': [1, 2, 3, 4, 5],
-		'MENUSGM.XMI': [],
 	},
 };
 
@@ -258,6 +258,8 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt': { game: 'Final Doom - TNT: Evilution' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)': { game: 'Gobliins 2' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)': { game: 'Goblins 3' },
+		'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_One_(DOS)': { game: 'Legend of Kyrandia: Book One, The' },
+		'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)': { game: 'Legend of Kyrandia: Book Two - The Hand of Fate, The' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima VI' },
 	};
