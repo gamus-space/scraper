@@ -18,9 +18,11 @@ const sources = {
 
 const PREPEND_LINKS = {
 	'Battle Arena Toshinden': [{ title: 'Battle Arena Toshinden', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Battle_Arena_Toshinden' }],
-	'Mortal Kombat': [{ title: 'Mortal Kombat (CD)', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Mortal_Kombat_(CD)' }],
-	'Warcraft: Orcs & Humans': [{ title: 'Warcraft: Orcs & Humans (CD)', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Warcraft:_Orcs_&_Humans_(CD)' }],
+	'Mortal Kombat': [{ title: 'Mortal Kombat', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Mortal_Kombat' }],
+	'Super Street Fighter II Turbo': [{ title: 'Super Street Fighter II Turbo', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Super_Street_Fighter_II_Turbo' }],
+	'Warcraft: Orcs & Humans': [{ title: 'Warcraft: Orcs & Humans', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Warcraft:_Orcs_&_Humans' }],
 	'WarCraft II: Tides of Darkness': [{ title: 'Warcraft II: Tides of Darkness', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Warcraft_II:_Tides_of_Darkness' }],
+	'Worms': [{ title: 'Worms', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Worms' }],
 };
 
 (async () => {

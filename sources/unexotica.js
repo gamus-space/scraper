@@ -14,29 +14,48 @@ const { countGalleries, fetchGalleries } = require('../lib/gallery');
 const LHA = require('../lib/lha');
 const { sequential, takeUntil } = require('../lib/utils');
 
-if (require.main === module) {
-	const song = process.argv[2];
-	console.log(splitSong({ song }, new Uint8Array(fs.readFileSync(song))));
-}
-
 const PLATFORM = 'Amiga';
 
 const ARCHIVE_PATH_BUGS = {
+	'Awesome\\mod.  stry': 'Awesome\\mod. stry',
+	'Dangerous_Streets\\mod.dangerous streets  ': 'Dangerous_Streets\\mod.dangerous streets',
+	'Dangerous_Streets\\mod.inthegame        ': 'Dangerous_Streets\\mod.inthegame',
+	'Dangerous_Streets\\mod.orientalsound     ': 'Dangerous_Streets\\mod.orientalsound',
+	'Dangerous_Streets\\mod.thelastfight     ': 'Dangerous_Streets\\mod.thelastfight',
 	'Risky_Woods\\mod.Risky Woods - Grand       ': 'Risky_Woods\\mod.Risky Woods - Grand',
+};
+
+const SAMPLES_OVERRIDE = {
+	'James_Pond_2/AGA_Version/rjp.bonus': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.ingame_1': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.ingame_2': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.ingame_3': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.ingame_4': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.ingame_5': 'James_Pond_2/AGA_Version/smp.set',
+	'James_Pond_2/AGA_Version/rjp.title': 'James_Pond_2/AGA_Version/smp.set',
 };
 
 const GAME_DUPLICATES = [
 	'https://www.exotica.org.uk/wiki/Body_Blows_(AGA)',
 ];
 
-const IGNORED_FILES = /(^|\/)(smpl?\.|instruments\/|Art_and_Magic_Player_Source)/;
+const IGNORED_FILES = /(^|\/)(smpl?\.|mod\..+\.nt|[Ii]nstruments\/|Art_and_Magic_Player_Source)/;
 
 const EXTRA_LINKS = [
+	// Boulder Dash?
+	{ title: 'Dungeon Master II', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=1395' },
+	{ title: 'Galaga\'92', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=4517' },
+	{ title: 'Mentor', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=4321' },
+	{ title: 'Teenage Mutant Hero Turtles', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=3248' },
 	{ title: 'Wrath of the Demon', site: 'Lemon Amiga', url: 'https://www.lemonamiga.com/games/details.php?id=1148' },
 ];
 
+const NAME_OVERRIDE = {
+	'Legend of Kyrandia': 'Legend of Kyrandia: Book One, The',
+};
+
 function normalizeName(name) {
-	return name.replace(/^(The)\s+(.*)$/, '$2, $1');
+	return NAME_OVERRIDE[name] ?? name.replace(/^(The)\s+(.*)$/, '$2, $1');
 }
 
 async function fetchGame(url, source) {
@@ -61,11 +80,11 @@ async function fetchGame(url, source) {
 	const urls = childHeaders.map(h => xpath.select1("string(./following-sibling::*//a/@href)", h));
 	const tables = childHeaders.map(h => xpath.select1("./following-sibling::table[contains(@class, 'filetable')]", h));
 	const linksSection = xpath.select1("//h2/span[normalize-space() = 'External Links']/../following-sibling::ul", doc);
-	const links = await fetchGalleries([...linksSection && xpath.select("li", linksSection).map(item => ({
+	const links = await fetchGalleries([...(linksSection && xpath.select("li", linksSection).map(item => ({
 		title: xpath.select1('normalize-space(./a[1]/text())', item),
 		site: xpath.select1('normalize-space(./a[2]/text())', item),
 		url: xpath.select1('string(./a[1]/@href)', item),
-	})), ...EXTRA_LINKS.filter(link => link.title === title)]);
+	}))) ?? [], ...EXTRA_LINKS.filter(link => link.title === title)]);
 	console.log(title, childHeaders.map(h => xpath.select("string(./span[1]/@id)", h)), { gallery: countGalleries(links) });
 	let cwd = [];
 	const songsData = tables.map(t => xpath.select(".//tr[position()>1]", t).map(row => {
@@ -81,6 +100,7 @@ async function fetchGame(url, source) {
 		return (dir || IGNORED_FILES.test(song)) ? null : { song, song_link, size, composer };
 	}).filter(song => song));
 
+	const sanitizeSong = song => song.replaceAll('#', '');
 	const songDownloaded = song => {
 		try {
 			if (samplesBundle.test(song.song)) {
@@ -89,8 +109,8 @@ async function fetchGame(url, source) {
 				const dir = path.dirname(song.song_link);
 				return song.size === entry.header.size ? zip : undefined;
 			}
-			return song.size === fs.statSync(song.song_link).size ?
-				new Uint8Array(fs.readFileSync(song.song_link)) : undefined;
+			return song.size === fs.statSync(sanitizeSong(song.song_link)).size ?
+				new Uint8Array(fs.readFileSync(sanitizeSong(song.song_link))) : undefined;
 		} catch {
 			return undefined;
 		}
@@ -112,8 +132,9 @@ async function fetchGame(url, source) {
 			}
 			return splitSong(title, {
 				...song,
+				song: sanitizeSong(song.song),
 				size,
-				song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
+				song_link: `${source}/${sanitizeSong(song.song_link)}${samplesBundle.test(song.song) ? '.zip' : ''}`,
 				source_archive: urls[i],
 			}, downloaded);
 		}
@@ -130,7 +151,7 @@ async function fetchGame(url, source) {
 		} catch {}
 		let file, size;
 		if (samplesBundle.test(song.song)) {
-			const samplesLink = song.song_link.replace(samplesBundle, (m, s, p, d) => `${s}${samplesPrefix[p]}${d}`);
+			const samplesLink = SAMPLES_OVERRIDE[song.song_link] ?? song.song_link.replace(samplesBundle, (m, s, p, d) => `${s}${samplesPrefix[p]}${d}`);
 			const samplesEntry = findEntry(samplesLink);
 			if (!samplesEntry) {
 				console.warn(`file not found: ${samplesLink}`);
@@ -145,12 +166,13 @@ async function fetchGame(url, source) {
 		} else {
 			file = LHA.unpack(entry);
 			size = entry.length;
-			fs.writeFileSync(song.song_link, file);
+			fs.writeFileSync(sanitizeSong(song.song_link), file);
 		}
 		return splitSong(title, {
 			...song,
+			song: sanitizeSong(song.song),
 			size,
-			song_link: `${source}/${song.song_link}${samplesBundle.test(song.song) ? '.zip' : ''}`,
+			song_link: `${source}/${sanitizeSong(song.song_link)}${samplesBundle.test(song.song) ? '.zip' : ''}`,
 			source_archive: urls[i],
 		}, file);
 	})).flat(2);
@@ -206,6 +228,15 @@ const songSplitFixed = {
 	'Diggers': {
 		'rjp.dig': [24, 26, 27, 28, 29, 30, 31, 33],
 	},
+	'Pinball Illusions': {
+		'pru2.intro': [0, 52],
+		'pru2.t1_law_n_justice-music': [ 0, 1, 13, 18, 22, 25, 27, 31, 38, 47, 48, 49, 51, 52, 59, 60, 66 ],
+		'pru2.t1_law_n_justice-sfx': [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 ],
+		'pru2.t2_babewatch-music': [ 0, 1, 16, 17, 29, 30, 51, 57, 63, 64, 68, 70, 73, 75, 76, 77 ],
+		'pru2.t2_babewatch-sfx': [ 0, 1, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 27 ],
+		'pru2.t3_extreme_sports-music': [ 0, 1, 18, 21, 25, 30, 35, 37, 41, 43, 48, 51, 55, 58, 61, 62, 63, 64, 66, 67, 68, 69 ],
+		'pru2.t3_extreme_sports-sfx': [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15 ],
+	},
 };
 
 function range(from, to) {
@@ -240,123 +271,290 @@ function splitSong(game, song, file) {
 
 async function fetchUnexotica(source) {
 	const games = [
-		'https://www.exotica.org.uk/wiki/Arnie_2',
+		'https://www.exotica.org.uk/wiki/1869',
+		'https://www.exotica.org.uk/wiki/Aaargh!',
 		'https://www.exotica.org.uk/wiki/Agony_(game)',
 		'https://www.exotica.org.uk/wiki/Aladdin',
 		'https://www.exotica.org.uk/wiki/Alien_Breed',
 		'https://www.exotica.org.uk/wiki/Alien_Breed_II_-_The_Horror_Continues',
+		'https://www.exotica.org.uk/wiki/Alien_Breed_3D',
+		'https://www.exotica.org.uk/wiki/Alien_Breed_3D_2_-_The_Killing_Grounds',
 		'https://www.exotica.org.uk/wiki/Alien_Breed_Special_Edition',
 		'https://www.exotica.org.uk/wiki/Alien_Breed:_Tower_Assault',
 		'https://www.exotica.org.uk/wiki/All_New_World_Of_Lemmings',
+		'https://www.exotica.org.uk/wiki/Altered_Beast',
 		'https://www.exotica.org.uk/wiki/Another_World',
 		'https://www.exotica.org.uk/wiki/Apidya_(game)',
 		'https://www.exotica.org.uk/wiki/Arabian_Nights',
+		'https://www.exotica.org.uk/wiki/Arkanoid_-_Revenge_of_Doh',
+		'https://www.exotica.org.uk/wiki/Arnie',
+		'https://www.exotica.org.uk/wiki/Arnie_2',
 		'https://www.exotica.org.uk/wiki/Assassin',
 		'https://www.exotica.org.uk/wiki/Assassin_Special_Edition',
 		'https://www.exotica.org.uk/wiki/Les_Aventures_de_Moktar',
+		'https://www.exotica.org.uk/wiki/Awesome_(game)',
 		'https://www.exotica.org.uk/wiki/B.C._Kid',
+		'https://www.exotica.org.uk/wiki/Banshee',
 		'https://www.exotica.org.uk/wiki/Barbarian_II',
+		'https://www.exotica.org.uk/wiki/Behind_the_Iron_Gate',
+		'https://www.exotica.org.uk/wiki/Beneath_a_Steel_Sky',
+		'https://www.exotica.org.uk/wiki/Benefactor',
+		'https://www.exotica.org.uk/wiki/Big_Nose_the_Caveman',
+		'https://www.exotica.org.uk/wiki/Blood_Money',
+		'https://www.exotica.org.uk/wiki/The_Blues_Brothers',
 		'https://www.exotica.org.uk/wiki/Body_Blows',
 		'https://www.exotica.org.uk/wiki/Body_Blows_(AGA)',
 		'https://www.exotica.org.uk/wiki/Body_Blows_Galactic',
+		'https://www.exotica.org.uk/wiki/Boulder_Dash',
+		'https://www.exotica.org.uk/wiki/Brian_The_Lion_-_Starring_In_Rumble_In_The_Jungle',
 		'https://www.exotica.org.uk/wiki/Brutal_Football',
 		'https://www.exotica.org.uk/wiki/Bubba_%27n%27_Stix',
 		'https://www.exotica.org.uk/wiki/Budokan_-_The_Martial_Spirit',
+		'https://www.exotica.org.uk/wiki/Burntime',
+		'https://www.exotica.org.uk/wiki/Cabal',
+		'https://www.exotica.org.uk/wiki/Capital_Punishment',
+		'https://www.exotica.org.uk/wiki/Chambers_of_Shaolin',
 		'https://www.exotica.org.uk/wiki/Cannon_Fodder',
 		'https://www.exotica.org.uk/wiki/Cannon_Fodder_2',
 		'https://www.exotica.org.uk/wiki/Castlevania',
 		'https://www.exotica.org.uk/wiki/The_Chaos_Engine',
+		'https://www.exotica.org.uk/wiki/The_Chaos_Engine_2',
 		'https://www.exotica.org.uk/wiki/Chase_H.Q.',
+		'https://www.exotica.org.uk/wiki/Christmas_Lemmings_1993',
 		'https://www.exotica.org.uk/wiki/Chuck_Rock',
 		'https://www.exotica.org.uk/wiki/Chuck_Rock_2_-_Son_of_Chuck',
-		'https://www.exotica.org.uk/wiki/Christmas_Lemmings_1993',
+		'https://www.exotica.org.uk/wiki/Civilization',
+		'https://www.exotica.org.uk/wiki/Colonization',
 		'https://www.exotica.org.uk/wiki/Colorado',
+		'https://www.exotica.org.uk/wiki/Commando',
 		'https://www.exotica.org.uk/wiki/Cool_Spot',
+		'https://www.exotica.org.uk/wiki/Crazy_Cars',
+		'https://www.exotica.org.uk/wiki/Crazy_Cars_II',
 		'https://www.exotica.org.uk/wiki/Crazy_Cars_III',
+		'https://www.exotica.org.uk/wiki/Curse_of_Enchantia',
+		'https://www.exotica.org.uk/wiki/Dangerous_Streets',
+		'https://www.exotica.org.uk/wiki/Dan_Dare_III_-_The_Escape!',
+		'https://www.exotica.org.uk/wiki/Death_Mask',
+		'https://www.exotica.org.uk/wiki/Defender_of_the_Crown',
+		'https://www.exotica.org.uk/wiki/Desert_Strike_-_Return_To_The_Gulf',
 		'https://www.exotica.org.uk/wiki/Diggers',
 		'https://www.exotica.org.uk/wiki/Dojo_Dan',
+		'https://www.exotica.org.uk/wiki/Donkey_Kong',
 		'https://www.exotica.org.uk/wiki/Double_Dragon',
 		'https://www.exotica.org.uk/wiki/Double_Dragon_II_-_The_Revenge',
 		'https://www.exotica.org.uk/wiki/Double_Dragon_III_-_The_Rosetta_Stone',
 		'https://www.exotica.org.uk/wiki/Dune_(game)',
 		'https://www.exotica.org.uk/wiki/Dune_II_-_The_Battle_for_Arrakis',
+		'https://www.exotica.org.uk/wiki/Dungeon_Master_II_-_The_Legend_of_Skullkeep',
+		'https://www.exotica.org.uk/wiki/Dynatech',
+		'https://www.exotica.org.uk/wiki/Dyna_Blaster',
 		'https://www.exotica.org.uk/wiki/Elfmania',
+		'https://www.exotica.org.uk/wiki/Elite_(game)',
+		'https://www.exotica.org.uk/wiki/Frontier_-_Elite_II',
+		'https://www.exotica.org.uk/wiki/Elvira',
+		'https://www.exotica.org.uk/wiki/Elvira_II_-_The_Jaws_of_Cerberus',
+		'https://www.exotica.org.uk/wiki/Elvira_the_Arcade_Game',
 		'https://www.exotica.org.uk/wiki/Escape_from_Colditz',
+		'https://www.exotica.org.uk/wiki/Fears',
 		'https://www.exotica.org.uk/wiki/Final_Fight',
 		'https://www.exotica.org.uk/wiki/Fire_%26_Ice_-_The_Daring_Adventures_Of_Cool_Coyote',
 		'https://www.exotica.org.uk/wiki/First_Samurai',
+		'https://www.exotica.org.uk/wiki/Fist_Fighter',
 		'https://www.exotica.org.uk/wiki/Flashback',
 		'https://www.exotica.org.uk/wiki/Full_Contact',
 		'https://www.exotica.org.uk/wiki/Fury_of_the_Furries',
+		'https://www.exotica.org.uk/wiki/Galaga%2792',
+		'https://www.exotica.org.uk/wiki/Gauntlet_II',
 		'https://www.exotica.org.uk/wiki/Ghosts_%27n_Goblins',
 		'https://www.exotica.org.uk/wiki/Ghouls_%27n%27_Ghosts',
+		'https://www.exotica.org.uk/wiki/Global_Gladiators',
 		'https://www.exotica.org.uk/wiki/Gloom_(game)',
 		'https://www.exotica.org.uk/wiki/Gobliiins',
 		'https://www.exotica.org.uk/wiki/Gods_(game)',
 		'https://www.exotica.org.uk/wiki/Golden_Axe',
 		'https://www.exotica.org.uk/wiki/Grand_Monster_Slam',
+		'https://www.exotica.org.uk/wiki/The_Great_Giana_Sisters',
+		'https://www.exotica.org.uk/wiki/Heimdall',
+		'https://www.exotica.org.uk/wiki/Heimdall_2',
+		'https://www.exotica.org.uk/wiki/Hired_Guns',
 		'https://www.exotica.org.uk/wiki/Holiday_Lemmings_1994',
 		'https://www.exotica.org.uk/wiki/IK%2B',
+		'https://www.exotica.org.uk/wiki/Indiana_Jones_and_the_Last_Crusade_-_The_Action_Game',
+		'https://www.exotica.org.uk/wiki/Indiana_Jones_and_the_Last_Crusade_-_The_Graphic_Adventure',
+		'https://www.exotica.org.uk/wiki/Indiana_Jones_and_the_Fate_of_Atlantis_-_The_Action_Game',
+		'https://www.exotica.org.uk/wiki/It_Came_From_The_Desert',
 		'https://www.exotica.org.uk/wiki/Jaguar_XJ220',
+		'https://www.exotica.org.uk/wiki/James_Pond_-_Underwater_Agent',
+		'https://www.exotica.org.uk/wiki/James_Pond_2_-_Codename_RoboCod',
+		'https://www.exotica.org.uk/wiki/James_Pond%C2%B3_-_Operation_Starfi5h',
 		'https://www.exotica.org.uk/wiki/Jim_Power_in_%22Mutant_Planet%22',
+		'https://www.exotica.org.uk/wiki/Joe_%26_Mac_-_Caveman_Ninja',
+		'https://www.exotica.org.uk/wiki/Jumping_Jack%27Son',
+		'https://www.exotica.org.uk/wiki/Jungle_Strike',
 		'https://www.exotica.org.uk/wiki/Kajko_i_Kokosz',
+		'https://www.exotica.org.uk/wiki/Katakis',
+		'https://www.exotica.org.uk/wiki/KGB_(game)',
+		'https://www.exotica.org.uk/wiki/Lamborghini_American_Challenge',
+		'https://www.exotica.org.uk/wiki/Last_Action_Hero',
 		'https://www.exotica.org.uk/wiki/Last_Ninja_2_-_Back_with_a_Vengeance',
 		'https://www.exotica.org.uk/wiki/Last_Ninja_3',
+		'https://www.exotica.org.uk/wiki/Legend_of_Kyrandia_-_Book_One',
 		'https://www.exotica.org.uk/wiki/Lemmings',
 		'https://www.exotica.org.uk/wiki/Lemmings_2_-_The_Tribes',
+		'https://www.exotica.org.uk/wiki/Lethal_Weapon',
+		'https://www.exotica.org.uk/wiki/Lionheart',
 		'https://www.exotica.org.uk/wiki/The_Lion_King',
+		'https://www.exotica.org.uk/wiki/Loom',
+		'https://www.exotica.org.uk/wiki/Lost_Patrol',
 		'https://www.exotica.org.uk/wiki/The_Lost_Vikings',
 		'https://www.exotica.org.uk/wiki/Lotus_Esprit_Turbo_Challenge',
 		'https://www.exotica.org.uk/wiki/Lotus_Turbo_Challenge_2',
 		'https://www.exotica.org.uk/wiki/Lotus_III_-_The_Ultimate_Challenge',
+		'https://www.exotica.org.uk/wiki/Marble_Madness',
 		'https://www.exotica.org.uk/wiki/Masterblazer',
+		'https://www.exotica.org.uk/wiki/Mega-Lo-Mania',
+		'https://www.exotica.org.uk/wiki/Mentor',
+		'https://www.exotica.org.uk/wiki/Mercs',
+		'https://www.exotica.org.uk/wiki/Metal_Mutant',
+		'https://www.exotica.org.uk/wiki/Micro_Machines_-_The_Original_Scale_Miniatures',
 		'https://www.exotica.org.uk/wiki/Moonstone_-_A_Hard_Days_Knight',
+		'https://www.exotica.org.uk/wiki/Morph',
 		'https://www.exotica.org.uk/wiki/Mortal_Kombat',
 		'https://www.exotica.org.uk/wiki/Mortal_Kombat_II',
 		'https://www.exotica.org.uk/wiki/Mr._Nutz_-_Hoppin%27_Mad',
 		'https://www.exotica.org.uk/wiki/Myth_-_History_in_the_Making',
+		'https://www.exotica.org.uk/wiki/The_Newzealand_Story',
 		'https://www.exotica.org.uk/wiki/Nicky_Boom',
+		'https://www.exotica.org.uk/wiki/Nicky_Boom_II',
 		'https://www.exotica.org.uk/wiki/Oh_No!_More_Lemmings',
+		'https://www.exotica.org.uk/wiki/Oil_Imperium',
+		'https://www.exotica.org.uk/wiki/Oldtimer',
+		'https://www.exotica.org.uk/wiki/Oscar',
+		'https://www.exotica.org.uk/wiki/Out_Run',
+		'https://www.exotica.org.uk/wiki/Out_Run_Europa',
 		'https://www.exotica.org.uk/wiki/P.P._Hammer_and_His_Pneumatic_Weapon',
+		'https://www.exotica.org.uk/wiki/Pac-Land',
+		'https://www.exotica.org.uk/wiki/Pac-Mania',
 		'https://www.exotica.org.uk/wiki/Pang',
+		'https://www.exotica.org.uk/wiki/Paperboy',
+		'https://www.exotica.org.uk/wiki/Paws_of_Fury',
+		'https://www.exotica.org.uk/wiki/Perihelion_-_The_Prophecy',
+		'https://www.exotica.org.uk/wiki/Pierre_Le_Chef_is_Out_to_Lunch',
 		'https://www.exotica.org.uk/wiki/Pinball_Dreams',
 		'https://www.exotica.org.uk/wiki/Pinball_Fantasies',
+		'https://www.exotica.org.uk/wiki/Pinball_Illusions',
+		'https://www.exotica.org.uk/wiki/Pinball_Magic',
+		'https://www.exotica.org.uk/wiki/Pinball_Prelude',
+		'https://www.exotica.org.uk/wiki/Pipe_Dream',
+		'https://www.exotica.org.uk/wiki/Pipe_Mania!!',
+		'https://www.exotica.org.uk/wiki/Pit-Fighter',
+		'https://www.exotica.org.uk/wiki/Platoon',
+		'https://www.exotica.org.uk/wiki/Populous',
 		'https://www.exotica.org.uk/wiki/Prehistorik',
+		'https://www.exotica.org.uk/wiki/Premiere',
+		'https://www.exotica.org.uk/wiki/Primal_Rage',
 		'https://www.exotica.org.uk/wiki/Project-X',
+		'https://www.exotica.org.uk/wiki/Project-X_(Revised_Edition)',
+		'https://www.exotica.org.uk/wiki/Push-Over',
+		'https://www.exotica.org.uk/wiki/Qwak',
 		'https://www.exotica.org.uk/wiki/R-Type',
+		'https://www.exotica.org.uk/wiki/R-Type_II',
+		'https://www.exotica.org.uk/wiki/Rainbow_Islands_-_The_Story_of_Bubble_Bobble_2',
+		'https://www.exotica.org.uk/wiki/Rajd_Przez_Polske',
 		'https://www.exotica.org.uk/wiki/Rick_Dangerous',
+		'https://www.exotica.org.uk/wiki/Rick_Dangerous_2',
 		'https://www.exotica.org.uk/wiki/Rise_of_the_Robots',
 		'https://www.exotica.org.uk/wiki/Risky_Woods',
 		'https://www.exotica.org.uk/wiki/Road_Rash',
 		'https://www.exotica.org.uk/wiki/Rock_%27n_Roll',
+		'https://www.exotica.org.uk/wiki/Rodland',
 		'https://www.exotica.org.uk/wiki/Ruff_%27n%27_Tumble',
 		'https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island',
+		'https://www.exotica.org.uk/wiki/Second_Samurai',
+		'https://www.exotica.org.uk/wiki/Seek_%26_Destroy',
 		'https://www.exotica.org.uk/wiki/The_Settlers',
+		'https://www.exotica.org.uk/wiki/Shadow_Dancer',
 		'https://www.exotica.org.uk/wiki/Shadow_Fighter',
 		'https://www.exotica.org.uk/wiki/Shadow_of_the_Beast',
 		'https://www.exotica.org.uk/wiki/Shadow_of_the_Beast_II',
 		'https://www.exotica.org.uk/wiki/Shadow_of_the_Beast_III',
 		'https://www.exotica.org.uk/wiki/Shaq-Fu',
+		'https://www.exotica.org.uk/wiki/Silk_Worm',
+		'https://www.exotica.org.uk/wiki/Simon_the_Sorcerer',
+		'https://www.exotica.org.uk/wiki/Sink_or_Swim',
+		'https://www.exotica.org.uk/wiki/Skeleton_Krew',
+		'https://www.exotica.org.uk/wiki/Skidmarks',
+		'https://www.exotica.org.uk/wiki/Slam_Tilt',
+		'https://www.exotica.org.uk/wiki/Sleepwalker',
 		'https://www.exotica.org.uk/wiki/Soccer_Kid',
+		'https://www.exotica.org.uk/wiki/Speedball',
+		'https://www.exotica.org.uk/wiki/Speedball_2_-_Brutal_Deluxe',
+		'https://www.exotica.org.uk/wiki/Star_Wars_-_The_Empire_Strikes_Back',
+		'https://www.exotica.org.uk/wiki/Star_Wars_-_Return_of_the_Jedi',
+		'https://www.exotica.org.uk/wiki/Steg_the_Slug',
+		'https://www.exotica.org.uk/wiki/Street_Fighter',
 		'https://www.exotica.org.uk/wiki/Street_Fighter_II',
+		'https://www.exotica.org.uk/wiki/Strider',
+		'https://www.exotica.org.uk/wiki/Strider_II',
 		'https://www.exotica.org.uk/wiki/Superfrog',
+		'https://www.exotica.org.uk/wiki/Super_C',
+		'https://www.exotica.org.uk/wiki/Super_Cars',
+		'https://www.exotica.org.uk/wiki/Super_Cars_II',
+		'https://www.exotica.org.uk/wiki/Super_Stardust',
 		'https://www.exotica.org.uk/wiki/Super_Street_Fighter_II_Turbo',
 		'https://www.exotica.org.uk/wiki/Super_Street_Fighter_II_-_The_New_Challengers',
+		'https://www.exotica.org.uk/wiki/Super_Wonder_Boy_in_Monster_Land',
 		'https://www.exotica.org.uk/wiki/SWIV',
+		'https://www.exotica.org.uk/wiki/Sword_of_Sodan',
+		'https://www.exotica.org.uk/wiki/Syndicate_(game)',
+		'https://www.exotica.org.uk/wiki/Teenage_Mutant_Hero_Turtles_(game)',
+		'https://www.exotica.org.uk/wiki/Teenage_Mutant_Hero_Turtles_-_The_Coin-Op!',
+		'https://www.exotica.org.uk/wiki/Teenage_Mutant_Ninja_Turtles_(game)',
+		'https://www.exotica.org.uk/wiki/Terminator_II',
+		'https://www.exotica.org.uk/wiki/T2:_The_Arcade_Game',
+		'https://www.exotica.org.uk/wiki/Test_Drive_II_-_The_Duel',
+		'https://www.exotica.org.uk/wiki/Tetris',
+		'https://www.exotica.org.uk/wiki/Tetris_Pro',
 		'https://www.exotica.org.uk/wiki/Titus_the_Fox',
+		'https://www.exotica.org.uk/wiki/Toki',
+		'https://www.exotica.org.uk/wiki/Traps_%27n%27_Treasures',
+		'https://www.exotica.org.uk/wiki/Trolls',
+		'https://www.exotica.org.uk/wiki/Turbo_Out_Run',
 		'https://www.exotica.org.uk/wiki/Turrican',
 		'https://www.exotica.org.uk/wiki/Turrican_II_-_The_Final_Fight',
 		'https://www.exotica.org.uk/wiki/Turrican_3',
-		'https://www.exotica.org.uk/wiki/Ultima_VI_-_The_False_Prophet',
 		'https://www.exotica.org.uk/wiki/Ugh!',
+		'https://www.exotica.org.uk/wiki/The_Ultimate_Pinball_Quest',
+		'https://www.exotica.org.uk/wiki/Ultima_V',
+		'https://www.exotica.org.uk/wiki/Ultima_VI_-_The_False_Prophet',
+		'https://www.exotica.org.uk/wiki/Unreal_(game)',
+		'https://www.exotica.org.uk/wiki/Valhalla_%26_the_Lord_of_Infinity',
+		'https://www.exotica.org.uk/wiki/Valhalla_-_Before_the_War',
+		'https://www.exotica.org.uk/wiki/Valhalla_%26_the_Fortress_of_Eve',
 		'https://www.exotica.org.uk/wiki/Walker',
+		'https://www.exotica.org.uk/wiki/Wings',
 		'https://www.exotica.org.uk/wiki/Wings_of_Fury',
+		'https://www.exotica.org.uk/wiki/Wizball',
+		'https://www.exotica.org.uk/wiki/Wolfchild',
+		'https://www.exotica.org.uk/wiki/Worms_-_The_Director%27s_Cut',
 		'https://www.exotica.org.uk/wiki/Wrath_of_the_Demon',
 		'https://www.exotica.org.uk/wiki/X-Out_(game)',
+		'https://www.exotica.org.uk/wiki/Xenon_(game)',
+		'https://www.exotica.org.uk/wiki/Xenon_2_-_Megablast',
 		'https://www.exotica.org.uk/wiki/Yo!_Joe!',
 		'https://www.exotica.org.uk/wiki/Z-Out',
+		'https://www.exotica.org.uk/wiki/Za_Zelazna_Brama',
+		'https://www.exotica.org.uk/wiki/Zeewolf',
+		'https://www.exotica.org.uk/wiki/Zeewolf_2_-_Wild_Justice',
+		'https://www.exotica.org.uk/wiki/Zool_-_Ninja_of_the_%22Nth%22_Dimension',
+		'https://www.exotica.org.uk/wiki/Zool_2',
 	];
 	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
 };
 
 exports.fetchUnexotica = fetchUnexotica;
+
+if (require.main === module) {
+	const song = process.argv[2];
+	console.log(splitSong(undefined, { song, song_link: '' }, new Uint8Array(fs.readFileSync(song))));
+}
