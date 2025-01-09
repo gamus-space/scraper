@@ -20,6 +20,8 @@ const FIXED_LINKS_FLAT = [
 ];
 const FIXED_LINKS = Object.fromEntries(Object.entries(groupBy(FIXED_LINKS_FLAT, ({ site }) => site)).map(([site, links]) => [site, indexBy(links, ({ title }) => title)]));
 
+const EMPTY_GALLERY = [];
+
 async function fetchGame({ url, composer, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
@@ -62,7 +64,10 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 		site: /- ?(.+?)\.?$/.exec(xpath.select1('./text()[last()]', item)?.textContent)?.[1],
 		url: xpath.select1('string(./a/@href)', item),
 	})).map(link => FIXED_LINKS[link.site]?.[link.title] ?? link));
-	console.log(game, [downloadLink], { gallery: countGalleries(links) });
+	const galleryCount = countGalleries(links);
+	console.log(game, [downloadLink], { gallery: galleryCount });
+	if (galleryCount === 0 && !EMPTY_GALLERY.includes(game))
+		throw new Error('empty gallery');
 
 	const fragment = rate != undefined ? `#${rate}` : '';
 	const songs = files.filter(file => !file.match(song_ignore || /$^/)).map(file => ({
