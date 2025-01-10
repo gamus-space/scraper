@@ -128,9 +128,13 @@ async function fetchGame(url, source, options) {
 		const archive = await (await fetch(downloadUrl2)).arrayBuffer();
 		const entries = new AdmZip(Buffer.from(archive)).getEntries().filter(entry => !entry.name.match(FILES_IGNORE));
 		entries.forEach(entry => {
+			if (entry.entryName.includes('/')) {
+				console.info(`skipping sub-directory: ${entry.entryName}`);
+				return;
+			};
 			fs.writeFileSync(`${gameDir}/${entry.name}`, entry.getData());
 		});
-		files = entries.map(entry => entry.name).sort();
+		files = entries.filter(entry => !entry.entryName.includes('/')).map(entry => entry.name).sort();
 	}
 	const links = await fetchGalleries(LINKS[game] ?? []);
 	const galleryCount = countGalleries(links);
