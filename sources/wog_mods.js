@@ -36,7 +36,6 @@ const LINKS_FLAT = [
 	{ title: 'Skidmarks 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/7236/super-skidmarks/', gallerySection: 'Amiga CD32 screenshots' },
 	{ title: 'Super TaeKwonDo Master', site: 'MobyGames', url: 'https://www.mobygames.com/game/28331/super-taekwondo-master/', gallerySection: 'Amiga screenshots' },
 	{ title: 'UFO: Enemy Unknown', site: 'MobyGames', url: 'https://www.mobygames.com/game/521/x-com-ufo-defense/', gallerySection: 'Amiga screenshots' },
-	{ title: 'Xenon 2: Megablast', site: 'MobyGames', url: 'https://www.mobygames.com/game/277/xenon-2-megablast/', gallerySection: 'Amiga screenshots' },
 	// PC Dos
 	{ title: 'Arnie 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/7023/arnie-savage-combat-commando/' },
 	{ title: 'Crusader: No Regret', site: 'MobyGames', url: 'https://www.mobygames.com/game/852/crusader-no-regret/' },
@@ -239,6 +238,8 @@ async function fetchWogMods(source) {
 	};
 	const invalidGames = {
 		'FX Fighter': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNjM=',
+		'Monkey Island 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=NzEz',
+		'Xenon 2: Megablast': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTIyNg==',
 	};
 	const newGames = {
 		'Cytadela': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MzA4',
@@ -255,7 +256,6 @@ async function fetchWogMods(source) {
 		'Skidmarks 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTU3',
 		'Super TaeKwonDo Master': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA0Nw==',
 		'UFO: Enemy Unknown': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTE1OA==',
-		'Xenon 2: Megablast': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTIyNg==',
 	};
 	const pcDosGames = {
 		'Arnie 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5NTg=',
@@ -296,7 +296,6 @@ async function fetchWogMods(source) {
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NDY3': { game: 'Franko: The Crazy Revenge' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTU3': { game: 'Skidmarks 2' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA0Nw==': { game: 'Super TaeKwonDo Master' },
-		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTIyNg==': { game: 'Xenon 2: Megablast' },
 	};
 	const commonOptions = {
 		platformMap: { 'PC Dos': 'PC', 'PC Windows': 'PC' },
