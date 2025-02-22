@@ -360,6 +360,47 @@
     ]
   },
   {
+    "game": "A320 Airbus",
+    "platform": "Amiga",
+    "developers": [
+      "Thalion"
+    ],
+    "publishers": [
+      "Thalion"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/A320_Airbus",
+    "links": [
+      {
+        "title": "A320 Airbus (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3173"
+      },
+      {
+        "title": "A320 Airbus",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=22",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/a320_airbus/a320_airbus_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/a320_airbus/a320_airbus_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/a320_airbus/a320_airbus_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/a320_airbus/a320_airbus_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/a320_airbus/a320_airbus_05.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.floyd2",
+        "song_link": "UnExoticA/A320_Airbus/mod.floyd2",
+        "size": 103798,
+        "composer": "Matthias Steinwachs",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FSteinwachs_Matthias%2FA320_Airbus.lha"
+      }
+    ]
+  },
+  {
     "game": "ATR",
     "platform": "Amiga",
     "developers": [
@@ -529,6 +570,114 @@
         "size": 51452,
         "composer": "Unknown",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FUnknown%2FAaargh.lha"
+      }
+    ]
+  },
+  {
+    "game": "After Burner (88)",
+    "platform": "Amiga",
+    "developers": [
+      "Software Studios",
+      "Argonaut Software"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "year": 1988,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/After_Burner_(88)",
+    "links": [
+      {
+        "title": "After Burner (Activision) (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3206"
+      },
+      {
+        "title": "Afterburner",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=37",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner/afterburner_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner/afterburner_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner/afterburner_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner/afterburner_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner/afterburner_05.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "cust.intro",
+        "song_link": "UnExoticA/After_Burner_88/cust.intro",
+        "size": 437636,
+        "composer": "Dave Lowe",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLowe_Dave%2FAfter_Burner_88.lha"
+      },
+      {
+        "song": "dl.ingame",
+        "song_link": "UnExoticA/After_Burner_88/dl.ingame",
+        "size": 91200,
+        "composer": "Dave Lowe",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLowe_Dave%2FAfter_Burner_88.lha"
+      }
+    ]
+  },
+  {
+    "game": "After Burner (89)",
+    "platform": "Amiga",
+    "developers": [
+      "Weebee Games"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/After_Burner_(89)",
+    "links": [
+      {
+        "title": "After Burner (Sega) (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3207"
+      },
+      {
+        "title": "Afterburner",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=38",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_14.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_15.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_16.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_17.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_18.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_19.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_20.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_21.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_22.png",
+          "https://www.lemonamiga.com/games/media/screens/full/afterburner_ii/afterburner_ii_23.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "jcb.After_Burner",
+        "song_link": "UnExoticA/After_Burner_89/jcb.After_Burner",
+        "size": 88688,
+        "composer": "Jason Brooke",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrooke_Jason%2FAfter_Burner_89.lha"
       }
     ]
   },
@@ -1726,6 +1875,56 @@
     ]
   },
   {
+    "game": "Amnios",
+    "platform": "Amiga",
+    "developers": [
+      "Flying Chicken Software"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Amnios",
+    "links": [
+      {
+        "title": "Amnios (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3265"
+      },
+      {
+        "title": "Amnios",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1217",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/amnios/amnios_07.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "ps.hiscore",
+        "song_link": "UnExoticA/Amnios/ps.hiscore",
+        "size": 31358,
+        "composer": "Paul Shields",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FShields_Paul%2FAmnios.lha"
+      },
+      {
+        "song": "ps.title",
+        "song_link": "UnExoticA/Amnios/ps.title",
+        "size": 56436,
+        "composer": "Paul Shields",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FShields_Paul%2FAmnios.lha"
+      }
+    ]
+  },
+  {
     "game": "Another World",
     "platform": "Amiga",
     "developers": [
@@ -2104,6 +2303,278 @@
         "size": 138124,
         "composer": "Chris Hülsbeck",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApidya.lha"
+      }
+    ]
+  },
+  {
+    "game": "Apprentice",
+    "platform": "Amiga",
+    "developers": [
+      "Rainbow Arts"
+    ],
+    "publishers": [
+      "Rainbow Arts"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Apprentice",
+    "links": [
+      {
+        "title": "Apprentice (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3283"
+      },
+      {
+        "title": "Apprentice",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=76",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/apprentice/apprentice_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/apprentice/apprentice_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/apprentice/apprentice_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/apprentice/apprentice_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/apprentice/apprentice_05.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mdat.ingame_1 #1",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#1",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #2",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#2",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #3",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#3",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #4",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#4",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #5",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#5",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_1 #6",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_1.zip#6",
+        "size": 37716,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #1",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#1",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #2",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#2",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #3",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#3",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #4",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#4",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #5",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#5",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_2 #6",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_2.zip#6",
+        "size": 34916,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #1",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#1",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #2",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#2",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #3",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#3",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #4",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#4",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #5",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#5",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #6",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#6",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_3 #7",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_3.zip#7",
+        "size": 34670,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #1",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#1",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #2",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#2",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #3",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#3",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #4",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#4",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #5",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#5",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #6",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#6",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_4 #7",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_4.zip#7",
+        "size": 31192,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #1",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#1",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #2",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#2",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #3",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#3",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #4",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#4",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #5",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#5",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #6",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#6",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.ingame_5 #7",
+        "song_link": "UnExoticA/Apprentice/mdat.ingame_5.zip#7",
+        "size": 38268,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
+      },
+      {
+        "song": "mdat.title",
+        "song_link": "UnExoticA/Apprentice/mdat.title.zip",
+        "size": 148468,
+        "composer": "Chris Hülsbeck",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHuelsbeck_Chris%2FApprentice.lha"
       }
     ]
   },
@@ -3251,6 +3722,47 @@
         "size": 45528,
         "composer": "Rudolf Stember",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FBC_Kid.lha"
+      }
+    ]
+  },
+  {
+    "game": "Baal",
+    "platform": "Amiga",
+    "developers": [
+      "Psyclapse"
+    ],
+    "publishers": [
+      "Psygnosis"
+    ],
+    "year": 1988,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Baal",
+    "links": [
+      {
+        "title": "Baal (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3"
+      },
+      {
+        "title": "Baal",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=105",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/baal/baal_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/baal/baal_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/baal/baal_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/baal/baal_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/baal/baal_05.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.frank suck on this",
+        "song_link": "UnExoticA/Baal/mod.frank suck on this",
+        "size": 116528,
+        "composer": "Ray Norrish",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FNorrish_Ray%2FBaal.lha"
       }
     ]
   },
@@ -4982,7 +5494,9 @@
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/dos/blackthorne",
         "gallery": [
+          "https://cdn.mobygames.com/ad1f8644-ab6e-11ed-8d2b-02420a00019e.webp",
           "https://cdn.mobygames.com/a4b0d184-ab6e-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/65174f02-ac0a-11ed-833b-02420a000131.webp",
           "https://cdn.mobygames.com/a65ef4de-ab6e-11ed-ab77-02420a000198.webp",
           "https://cdn.mobygames.com/64e9b81c-ac0a-11ed-833b-02420a000131.webp",
           "https://cdn.mobygames.com/ae191f42-ab6e-11ed-b951-02420a000197.webp",
@@ -4990,8 +5504,6 @@
           "https://cdn.mobygames.com/ae706180-ab6e-11ed-b951-02420a000197.webp",
           "https://cdn.mobygames.com/aea7286e-ab6e-11ed-b951-02420a000197.webp",
           "https://cdn.mobygames.com/b13a8bca-ab6e-11ed-b951-02420a000197.webp",
-          "https://cdn.mobygames.com/ad1f8644-ab6e-11ed-8d2b-02420a00019e.webp",
-          "https://cdn.mobygames.com/65174f02-ac0a-11ed-833b-02420a000131.webp",
           "https://cdn.mobygames.com/afd30cc6-ab6e-11ed-b165-02420a000198.webp",
           "https://cdn.mobygames.com/b4c22f28-ab6e-11ed-beab-02420a000199.webp",
           "https://cdn.mobygames.com/b51b650c-ab6e-11ed-beab-02420a000199.webp",
@@ -7749,6 +8261,46 @@
     ]
   },
   {
+    "game": "Cadaver",
+    "platform": "Amiga",
+    "developers": [
+      "The Bitmap Brothers"
+    ],
+    "publishers": [
+      "Image Works"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Cadaver_(game)",
+    "links": [
+      {
+        "title": "Cadaver (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2907"
+      },
+      {
+        "title": "Cadaver",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=212",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/cadaver/cadaver_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/cadaver/cadaver_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/cadaver/cadaver_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/cadaver/cadaver_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "cust.Cadaver",
+        "song_link": "UnExoticA/Cadaver/cust.Cadaver",
+        "size": 271024,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FCadaver.lha"
+      }
+    ]
+  },
+  {
     "game": "Cannon Fodder",
     "platform": "PC",
     "developers": [
@@ -8546,6 +9098,61 @@
         "size": 236420,
         "composer": "Nikola Tomic",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTomic_Nikola%2FCapital_Punishment.lha"
+      }
+    ]
+  },
+  {
+    "game": "Castle Master",
+    "platform": "Amiga",
+    "developers": [
+      "Incentive Software"
+    ],
+    "publishers": [
+      "DoMark"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Castle_Master",
+    "links": [
+      {
+        "title": "Castle Master (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2945"
+      },
+      {
+        "title": "Castle Master & The Crypt",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2946"
+      },
+      {
+        "title": "Castle Master",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1258",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/castle_master/castle_master_07.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.castle master #1",
+        "song_link": "UnExoticA/Castle_Master/mod.castle master#1",
+        "size": 86260,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FCastle_Master.lha"
+      },
+      {
+        "song": "mod.castle master #39",
+        "song_link": "UnExoticA/Castle_Master/mod.castle master#39",
+        "size": 86260,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FCastle_Master.lha"
       }
     ]
   },
@@ -13181,6 +13788,67 @@
     ]
   },
   {
+    "game": "Covert Action",
+    "platform": "Amiga",
+    "developers": [
+      "MicroProse"
+    ],
+    "publishers": [
+      "MicroProse"
+    ],
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Covert_Action",
+    "links": [
+      {
+        "title": "Covert Action (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3107"
+      },
+      {
+        "title": "Covert Action",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1726",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/covert_action/covert_action_11.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "gmc.finalmusic",
+        "song_link": "UnExoticA/Covert_Action/gmc.finalmusic",
+        "size": 50462,
+        "composer": "Ten Pin Alley",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTen_Pin_Alley%2FCovert_Action.lha"
+      },
+      {
+        "song": "gmc.spy6music",
+        "song_link": "UnExoticA/Covert_Action/gmc.spy6music",
+        "size": 75742,
+        "composer": "Ten Pin Alley",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTen_Pin_Alley%2FCovert_Action.lha"
+      },
+      {
+        "song": "gmc.thememusic",
+        "song_link": "UnExoticA/Covert_Action/gmc.thememusic",
+        "size": 50462,
+        "composer": "Ten Pin Alley",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTen_Pin_Alley%2FCovert_Action.lha"
+      }
+    ]
+  },
+  {
     "game": "Crazy Cars",
     "platform": "Amiga",
     "developers": [
@@ -13700,6 +14368,91 @@
         "size": 68950,
         "composer": "Karsten Obarski",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FObarski_Karsten%2FCrystal_Hammer.lha"
+      }
+    ]
+  },
+  {
+    "game": "Cubulus",
+    "platform": "Amiga",
+    "developers": [
+      "Software 2000"
+    ],
+    "publishers": [
+      "Software 2000"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Cubulus",
+    "links": [
+      {
+        "title": "Cubulus (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3143"
+      },
+      {
+        "title": "Cubulus & Magic Serpent",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/3144"
+      },
+      {
+        "title": "Cubulus",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=287",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/cubulus/cubulus_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/cubulus/cubulus_02.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "MOD.laidback1",
+        "song_link": "UnExoticA/Cubulus/MOD.laidback1",
+        "size": 39408,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "MOD.laidback2",
+        "song_link": "UnExoticA/Cubulus/MOD.laidback2",
+        "size": 46616,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "MOD.laidback3",
+        "song_link": "UnExoticA/Cubulus/MOD.laidback3",
+        "size": 48710,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "MOD.laidback4",
+        "song_link": "UnExoticA/Cubulus/MOD.laidback4",
+        "size": 42720,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "MOD.laidback5",
+        "song_link": "UnExoticA/Cubulus/MOD.laidback5",
+        "size": 43400,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "MOD.moongazer",
+        "song_link": "UnExoticA/Cubulus/MOD.moongazer",
+        "size": 131218,
+        "composer": "Bjørn Lynne",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
+      },
+      {
+        "song": "sid2.software_2000",
+        "song_link": "UnExoticA/Cubulus/sid2.software_2000",
+        "size": 10354,
+        "composer": "??",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLynne_Bjorn%2FCubulus.lha"
       }
     ]
   },
@@ -18019,6 +18772,97 @@
     ]
   },
   {
+    "game": "Elf",
+    "platform": "Amiga",
+    "developers": [
+      "Nirvana Systems"
+    ],
+    "publishers": [
+      "Ocean"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Elf_(game)",
+    "links": [
+      {
+        "title": "Elf (Ocean) (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2831"
+      },
+      {
+        "title": "Elf",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=365",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/elf/elf_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "Custom_Version/cust.title",
+        "song_link": "UnExoticA/Elf/Custom_Version/cust.title",
+        "size": 108444,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "jd.title",
+        "song_link": "UnExoticA/Elf/jd.title",
+        "size": 107719,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-castle",
+        "song_link": "UnExoticA/Elf/puma.elf-castle",
+        "size": 19312,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-catacmbs",
+        "song_link": "UnExoticA/Elf/puma.elf-catacmbs",
+        "size": 15456,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-forest",
+        "song_link": "UnExoticA/Elf/puma.elf-forest",
+        "size": 16280,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-lakes",
+        "song_link": "UnExoticA/Elf/puma.elf-lakes",
+        "size": 15906,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-ruins",
+        "song_link": "UnExoticA/Elf/puma.elf-ruins",
+        "size": 16662,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      },
+      {
+        "song": "puma.elf-snow",
+        "song_link": "UnExoticA/Elf/puma.elf-snow",
+        "size": 21954,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FElf.lha"
+      }
+    ]
+  },
+  {
     "game": "Elfmania",
     "platform": "Amiga",
     "developers": [
@@ -18825,6 +19669,54 @@
     ]
   },
   {
+    "game": "Escape from the Planet of the Robot Monsters",
+    "platform": "Amiga",
+    "developers": [
+      "Tengen",
+      "Teque"
+    ],
+    "publishers": [
+      "DoMark"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Escape_from_the_Planet_of_the_Robot_Monsters",
+    "links": [
+      {
+        "title": "Escape From The Planet Of The Robot Monsters (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2868"
+      },
+      {
+        "title": "Escape from the Planet of the Robot Monsters",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=378",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/escape_from_the_planet_of_robot_monsters/escape_from_the_planet_of_robot_monsters_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/escape_from_the_planet_of_robot_monsters/escape_from_the_planet_of_robot_monsters_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/escape_from_the_planet_of_robot_monsters/escape_from_the_planet_of_robot_monsters_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/escape_from_the_planet_of_robot_monsters/escape_from_the_planet_of_robot_monsters_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.roboingame",
+        "song_link": "UnExoticA/Escape_from_the_Planet/mod.roboingame",
+        "size": 24884,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FEscape_from_the_Planet.lha"
+      },
+      {
+        "song": "mod.robomostertitle",
+        "song_link": "UnExoticA/Escape_from_the_Planet/mod.robomostertitle",
+        "size": 67038,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FEscape_from_the_Planet.lha"
+      }
+    ]
+  },
+  {
     "game": "European Champions",
     "platform": "Amiga",
     "developers": [
@@ -19250,6 +20142,48 @@
         "size": 10381,
         "composer": "Frank Klepacki",
         "source_archive": "http://www.vgmpf.com/Wiki/images/2/26/Eye_of_the_Beholder_2_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "F/A-18 Interceptor",
+    "platform": "Amiga",
+    "developers": [
+      "Intellisoft"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1988,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/F/A-18_Interceptor",
+    "links": [
+      {
+        "title": "F/A-18 Interceptor (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/469"
+      },
+      {
+        "title": "F/A-18 Interceptor",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=398",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/f-18_interceptor/f-18_interceptor_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "cust.FA-18_Interceptor",
+        "song_link": "UnExoticA/FA-18_Interceptor/cust.FA-18_Interceptor",
+        "size": 205480,
+        "composer": "Dave Warhol",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWarhol_Dave%2FFA-18_Interceptor.lha"
       }
     ]
   },
@@ -22550,6 +23484,117 @@
     ]
   },
   {
+    "game": "Harlequin",
+    "platform": "Amiga",
+    "developers": [
+      "Warp Factory"
+    ],
+    "publishers": [
+      "Gremlin Graphics"
+    ],
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Harlequin",
+    "links": [
+      {
+        "title": "Harlequin (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/663"
+      },
+      {
+        "title": "Harlequin",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1224",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/harlequin/harlequin_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/harlequin/harlequin_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/harlequin/harlequin_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/harlequin/harlequin_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/harlequin/harlequin_05.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.completion3",
+        "song_link": "UnExoticA/Harlequin/mod.completion3",
+        "size": 80248,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.finalwater1",
+        "song_link": "UnExoticA/Harlequin/mod.finalwater1",
+        "size": 70706,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.gotheart",
+        "song_link": "UnExoticA/Harlequin/mod.gotheart",
+        "size": 66936,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.h23",
+        "song_link": "UnExoticA/Harlequin/mod.h23",
+        "size": 140870,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.ing1b",
+        "song_link": "UnExoticA/Harlequin/mod.ing1b",
+        "size": 90400,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.ing3",
+        "song_link": "UnExoticA/Harlequin/mod.ing3",
+        "size": 80594,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.ing5",
+        "song_link": "UnExoticA/Harlequin/mod.ing5",
+        "size": 93158,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.ing6",
+        "song_link": "UnExoticA/Harlequin/mod.ing6",
+        "size": 86862,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.jingle1",
+        "song_link": "UnExoticA/Harlequin/mod.jingle1",
+        "size": 45510,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.jingle2",
+        "song_link": "UnExoticA/Harlequin/mod.jingle2",
+        "size": 46534,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      },
+      {
+        "song": "mod.jingle3-death",
+        "song_link": "UnExoticA/Harlequin/mod.jingle3-death",
+        "size": 21356,
+        "composer": "Barry Leitch",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FHarlequin.lha"
+      }
+    ]
+  },
+  {
     "game": "Harley-Davidson",
     "platform": "Amiga",
     "developers": [
@@ -23433,6 +24478,46 @@
         "size": 14062,
         "composer": "Kevin Schilder",
         "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      }
+    ]
+  },
+  {
+    "game": "Hill Street Blues",
+    "platform": "Amiga",
+    "developers": [
+      "Krisalis"
+    ],
+    "publishers": [
+      "Krisalis"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Hill_Street_Blues",
+    "links": [
+      {
+        "title": "Hill Street Blues (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/710"
+      },
+      {
+        "title": "Hill Street Blues",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=497",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/hill_street_blues/hill_street_blues_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/hill_street_blues/hill_street_blues_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/hill_street_blues/hill_street_blues_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/hill_street_blues/hill_street_blues_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.newhill",
+        "song_link": "UnExoticA/Hill_Street_Blues/mod.newhill",
+        "size": 70568,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FHill_Street_Blues.lha"
       }
     ]
   },
@@ -27790,6 +28875,48 @@
     ]
   },
   {
+    "game": "Kult",
+    "platform": "Amiga",
+    "developers": [
+      "Exxos"
+    ],
+    "publishers": [
+      "ERE Informatique"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Kult",
+    "links": [
+      {
+        "title": "Kult: The Temple of Flying Saucers (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2603"
+      },
+      {
+        "title": "Kult",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1766",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/kult/kult_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "sfx.musiq",
+        "song_link": "UnExoticA/Kult/sfx.musiq",
+        "size": 137796,
+        "composer": "Stéphane Picq",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPicq_Stephane%2FKult.lha"
+      }
+    ]
+  },
+  {
     "game": "Lamborghini American Challenge",
     "platform": "Amiga",
     "developers": [
@@ -27833,6 +28960,58 @@
         "size": 52180,
         "composer": "Frédéric Prados & Michael Knaep",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPrados_Frederic%2FLamborghini_American_Chall.lha"
+      }
+    ]
+  },
+  {
+    "game": "Laser Squad",
+    "platform": "Amiga",
+    "developers": [
+      "Teque Software",
+      "Blade Software"
+    ],
+    "publishers": [
+      "MicroIllusions"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Laser_Squad",
+    "links": [
+      {
+        "title": "Laser Squad (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/835"
+      },
+      {
+        "title": "Laser Squad",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1318",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/laser_squad/laser_squad_08.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.lazer squad",
+        "song_link": "UnExoticA/Laser_Squad/mod.lazer squad",
+        "size": 122618,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FLaser_Squad.lha"
+      },
+      {
+        "song": "mod.lazer-intro",
+        "song_link": "UnExoticA/Laser_Squad/mod.lazer-intro",
+        "size": 154710,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FLaser_Squad.lha"
       }
     ]
   },
@@ -32291,6 +33470,48 @@
     ]
   },
   {
+    "game": "Magic Pockets",
+    "platform": "Amiga",
+    "developers": [
+      "The Bitmap Brothers"
+    ],
+    "publishers": [
+      "Renegade"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Magic_Pockets",
+    "links": [
+      {
+        "title": "Magic Pockets (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2385"
+      },
+      {
+        "title": "Magic Pockets",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=711",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/magic_pockets/magic_pockets_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.boo",
+        "song_link": "UnExoticA/Magic_Pockets/mod.boo",
+        "size": 271498,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FMagic_Pockets.lha"
+      }
+    ]
+  },
+  {
     "game": "Major Stryker",
     "platform": "PC",
     "developers": [
@@ -33871,6 +35092,66 @@
     ]
   },
   {
+    "game": "Midnight Resistance",
+    "platform": "Amiga",
+    "developers": [
+      "Special FX"
+    ],
+    "publishers": [
+      "Ocean"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Midnight_Resistance",
+    "links": [
+      {
+        "title": "Midnight Resistance (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2468"
+      },
+      {
+        "title": "Midnight Resistance",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=746",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_14.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_15.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_16.png",
+          "https://www.lemonamiga.com/games/media/screens/full/midnight_resistance/midnight_resistance_17.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "Custom_Version/cust.Midnight_Resistance",
+        "song_link": "UnExoticA/Midnight_Resistance/Custom_Version/cust.Midnight_Resistance",
+        "size": 63228,
+        "composer": "Keith Tinman",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTinman_Keith%2FMidnight_Resistance.lha"
+      },
+      {
+        "song": "jd.Midnight_Resistance",
+        "song_link": "UnExoticA/Midnight_Resistance/jd.Midnight_Resistance",
+        "size": 62322,
+        "composer": "Keith Tinman",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FTinman_Keith%2FMidnight_Resistance.lha"
+      }
+    ]
+  },
+  {
     "game": "Monster Bash",
     "platform": "PC",
     "developers": [
@@ -34773,6 +36054,106 @@
     ]
   },
   {
+    "game": "Narco Police",
+    "platform": "Amiga",
+    "developers": [
+      "Iron Byte"
+    ],
+    "publishers": [
+      "Dinamic"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Narco_Police",
+    "links": [
+      {
+        "title": "Narco Police (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/942"
+      },
+      {
+        "title": "Narco Police",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=772",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/narco_police/narco_police_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/narco_police/narco_police_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/narco_police/narco_police_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/narco_police/narco_police_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.ha.bo 4",
+        "song_link": "UnExoticA/Narco_Police/mod.ha.bo 4",
+        "size": 124118,
+        "composer": "José Martín",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FMartin_Jose%2FNarco_Police.lha"
+      }
+    ]
+  },
+  {
+    "game": "Navy SEALs",
+    "platform": "Amiga",
+    "developers": [
+      "Ocean"
+    ],
+    "publishers": [
+      "Ocean"
+    ],
+    "year": 1991,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Navy_SEALs",
+    "links": [
+      {
+        "title": "Navy Seals (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/948"
+      },
+      {
+        "title": "Navy Seals",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=775",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/navy_seals/navy_seals_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/navy_seals/navy_seals_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/navy_seals/navy_seals_03.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "Custom_Versions/cust.ingame",
+        "song_link": "UnExoticA/Navy_SEALs/Custom_Versions/cust.ingame",
+        "size": 66636,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FNavy_SEALs.lha"
+      },
+      {
+        "song": "Custom_Versions/cust.title_and_hiscore",
+        "song_link": "UnExoticA/Navy_SEALs/Custom_Versions/cust.title_and_hiscore",
+        "size": 90248,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FNavy_SEALs.lha"
+      },
+      {
+        "song": "jd.ingame",
+        "song_link": "UnExoticA/Navy_SEALs/jd.ingame",
+        "size": 65648,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FNavy_SEALs.lha"
+      },
+      {
+        "song": "jd.title_and_hiscore",
+        "song_link": "UnExoticA/Navy_SEALs/jd.title_and_hiscore",
+        "size": 89468,
+        "composer": "Matthew Cannon",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FCannon_Matthew%2FNavy_SEALs.lha"
+      }
+    ]
+  },
+  {
     "game": "Newzealand Story, The",
     "platform": "Amiga",
     "developers": [
@@ -34984,6 +36365,54 @@
         "size": 69444,
         "composer": "Alain Lambin",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLambin_Alain%2FNicky_Boom_2.lha"
+      }
+    ]
+  },
+  {
+    "game": "Ninja Warriors, The",
+    "platform": "Amiga",
+    "developers": [
+      "The Sales Curve",
+      "Random Access"
+    ],
+    "publishers": [
+      "Virgin Mastertronic"
+    ],
+    "year": 1989,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Ninja_Warriors",
+    "links": [
+      {
+        "title": "Ninja Warriors, The (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/984"
+      },
+      {
+        "title": "Ninja Warriors, The",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=788",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/ninja_warriors/ninja_warriors_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ninja_warriors/ninja_warriors_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ninja_warriors/ninja_warriors_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/ninja_warriors/ninja_warriors_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "cust.game_complete",
+        "song_link": "UnExoticA/Ninja_Warriors/cust.game_complete",
+        "size": 190328,
+        "composer": "Ronald Pieket Weeserik",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPieket_Weeserik_Ronald%2FNinja_Warriors.lha"
+      },
+      {
+        "song": "cust.title",
+        "song_link": "UnExoticA/Ninja_Warriors/cust.title",
+        "size": 156300,
+        "composer": "Ronald Pieket Weeserik",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FPieket_Weeserik_Ronald%2FNinja_Warriors.lha"
       }
     ]
   },
@@ -39911,6 +41340,68 @@
         "size": 118822,
         "composer": "Rob Hubbard",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHubbard_Rob%2FPopulous.lha"
+      }
+    ]
+  },
+  {
+    "game": "Powermonger",
+    "platform": "Amiga",
+    "developers": [
+      "Bullfrog Productions"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Powermonger",
+    "links": [
+      {
+        "title": "Powermonger (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1125"
+      },
+      {
+        "title": "Powermonger & WW1 Edition",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1126"
+      },
+      {
+        "title": "PowerMonger",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1119",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/powermonger/powermonger_14.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "Direct_from_Composer/mod.intro amiga",
+        "song_link": "UnExoticA/Powermonger/Direct_from_Composer/mod.intro amiga",
+        "size": 142872,
+        "composer": "Tim Wright",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FPowermonger.lha"
+      },
+      {
+        "song": "mod.intro amiga",
+        "song_link": "UnExoticA/Powermonger/mod.intro amiga",
+        "size": 142872,
+        "composer": "Tim Wright",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWright_Tim%2FPowermonger.lha"
       }
     ]
   },
@@ -47345,6 +48836,55 @@
     ]
   },
   {
+    "game": "Sensible Soccer",
+    "platform": "Amiga",
+    "developers": [
+      "Sensible Software"
+    ],
+    "publishers": [
+      "Renegade"
+    ],
+    "year": 1992,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Sensible_Soccer",
+    "links": [
+      {
+        "title": "Sensible Soccer v1.0 (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1866"
+      },
+      {
+        "title": "Sensible Soccer v1.0",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=941",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/sensible_soccer/sensible_soccer_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.captain3",
+        "song_link": "UnExoticA/Sensible_Soccer/mod.captain3",
+        "size": 250782,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FSensible_Soccer.lha"
+      },
+      {
+        "song": "mod.menu5",
+        "song_link": "UnExoticA/Sensible_Soccer/mod.menu5",
+        "size": 48592,
+        "composer": "Richard Joseph",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FSensible_Soccer.lha"
+      }
+    ]
+  },
+  {
     "game": "Settlers, The",
     "platform": "Amiga",
     "developers": [
@@ -47716,6 +49256,142 @@
         "size": 22639,
         "composer": "Lee Jackson",
         "source_archive": "http://www.vgmpf.com/Wiki/images/0/09/Shadow_Warrior_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Shadow Warriors",
+    "platform": "Amiga",
+    "developers": [
+      "Teque"
+    ],
+    "publishers": [
+      "Ocean"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Shadow_Warriors",
+    "links": [
+      {
+        "title": "Shadow Warriors (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1896"
+      },
+      {
+        "title": "Shadow Warriors",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1328",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_12.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_13.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_14.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_15.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_16.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_17.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_18.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_19.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_20.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_21.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_22.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_23.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_24.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_25.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_26.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_27.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_28.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_29.png",
+          "https://www.lemonamiga.com/games/media/screens/full/shadow_warriors/shadow_warriors_30.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.shadowmusic #1",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#1",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #14",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#14",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #19",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#19",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #21",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#21",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #30",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#30",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #37",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#37",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #38",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#38",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #45",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#45",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #52",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#52",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.shadowmusic #53",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.shadowmusic#53",
+        "size": 46882,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
+      },
+      {
+        "song": "mod.swintro",
+        "song_link": "UnExoticA/Shadow_Warriors/mod.swintro",
+        "size": 197376,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FShadow_Warriors.lha"
       }
     ]
   },
@@ -50616,6 +52292,89 @@
     ]
   },
   {
+    "game": "Space Hulk",
+    "platform": "Amiga",
+    "developers": [
+      "Nick Wilson"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1993,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Space_Hulk",
+    "links": [
+      {
+        "title": "Space Hulk (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2026"
+      },
+      {
+        "title": "Space Hulk",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1334",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_07.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_08.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_09.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_10.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_11.png",
+          "https://www.lemonamiga.com/games/media/screens/full/space_hulk/space_hulk_12.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.breifing",
+        "song_link": "UnExoticA/Space_Hulk/mod.breifing",
+        "size": 58660,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      },
+      {
+        "song": "mod.debrief",
+        "song_link": "UnExoticA/Space_Hulk/mod.debrief",
+        "size": 67992,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      },
+      {
+        "song": "mod.hulk2",
+        "song_link": "UnExoticA/Space_Hulk/mod.hulk2",
+        "size": 264160,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      },
+      {
+        "song": "mod.loader",
+        "song_link": "UnExoticA/Space_Hulk/mod.loader",
+        "size": 18100,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      },
+      {
+        "song": "mod.wepon",
+        "song_link": "UnExoticA/Space_Hulk/mod.wepon",
+        "size": 45718,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      },
+      {
+        "song": "mod.win",
+        "song_link": "UnExoticA/Space_Hulk/mod.win",
+        "size": 97856,
+        "composer": "Jason Whitely",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhitely_Jason%2FSpace_Hulk.lha"
+      }
+    ]
+  },
+  {
     "game": "Spear of Destiny",
     "platform": "PC",
     "developers": [
@@ -50960,6 +52719,45 @@
         "size": 192244,
         "composer": "Richard Joseph",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoseph_Richard%2FSpeedball_2.lha"
+      }
+    ]
+  },
+  {
+    "game": "Spy Who Loved Me, The",
+    "platform": "Amiga",
+    "developers": [
+      "The Kremlin"
+    ],
+    "publishers": [
+      "DoMark"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/The_Spy_Who_Loved_Me",
+    "links": [
+      {
+        "title": "Spy Who Loved Me, The (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/2080"
+      },
+      {
+        "title": "Spy Who Loved Me, The",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=991",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/spy_who_loved_me/spy_who_loved_me_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/spy_who_loved_me/spy_who_loved_me_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/spy_who_loved_me/spy_who_loved_me_03.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "mod.bond",
+        "song_link": "UnExoticA/Spy_Who_Loved_Me/mod.bond",
+        "size": 96044,
+        "composer": "Matt Furniss",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FSpy_Who_Loved_Me.lha"
       }
     ]
   },
@@ -55564,6 +57362,49 @@
     ]
   },
   {
+    "game": "Thundercats",
+    "platform": "Amiga",
+    "developers": [
+      "Elite"
+    ],
+    "publishers": [
+      "Elite"
+    ],
+    "year": 1988,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Thundercats_(game)",
+    "links": [
+      {
+        "title": "ThunderCats (OCS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1393"
+      },
+      {
+        "title": "ThunderCats",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1057",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_06.png",
+          "https://www.lemonamiga.com/games/media/screens/full/thundercats/thundercats_07.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "dw.Thundercats",
+        "song_link": "UnExoticA/Thundercats/dw.Thundercats",
+        "size": 30418,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FThundercats.lha"
+      }
+    ]
+  },
+  {
     "game": "Times of Lore",
     "platform": "PC",
     "developers": [
@@ -55932,6 +57773,81 @@
         "size": 2320,
         "composer": "Pierre-Eric Loriaux",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLoriaux_Pierre-Eric%2FToki.lha"
+      }
+    ]
+  },
+  {
+    "game": "Total Recall",
+    "platform": "Amiga",
+    "developers": [
+      "Ocean"
+    ],
+    "publishers": [
+      "Ocean"
+    ],
+    "year": 1990,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Total_Recall",
+    "links": [
+      {
+        "title": "Total Recall (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1475"
+      },
+      {
+        "title": "Total Recall",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1074",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/total_recall/total_recall_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/total_recall/total_recall_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/total_recall/total_recall_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/total_recall/total_recall_04.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "dw.game_over",
+        "song_link": "UnExoticA/Total_Recall/dw.game_over",
+        "size": 34984,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
+      },
+      {
+        "song": "dw.ingame_1",
+        "song_link": "UnExoticA/Total_Recall/dw.ingame_1",
+        "size": 65100,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
+      },
+      {
+        "song": "dw.ingame_2",
+        "song_link": "UnExoticA/Total_Recall/dw.ingame_2",
+        "size": 33014,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
+      },
+      {
+        "song": "dw.ingame_3",
+        "song_link": "UnExoticA/Total_Recall/dw.ingame_3",
+        "size": 54026,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
+      },
+      {
+        "song": "dw.ingame_4",
+        "song_link": "UnExoticA/Total_Recall/dw.ingame_4",
+        "size": 44766,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
+      },
+      {
+        "song": "dw.intro",
+        "song_link": "UnExoticA/Total_Recall/dw.intro",
+        "size": 167808,
+        "composer": "David Whittaker",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FTotal_Recall.lha"
       }
     ]
   },
@@ -58127,6 +60043,167 @@
         "size": 116874,
         "composer": "Allan Kirkeby",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FKirkeby_Allan%2FUltimate_Pinball_Quest.lha"
+      }
+    ]
+  },
+  {
+    "game": "Universe",
+    "platform": "Amiga",
+    "developers": [
+      "Core Design"
+    ],
+    "publishers": [
+      "Core Design"
+    ],
+    "year": 1994,
+    "source": "UnExoticA",
+    "source_link": "https://www.exotica.org.uk/wiki/Universe_(game)",
+    "links": [
+      {
+        "title": "Universe (ECS)",
+        "site": "Hall Of Light",
+        "url": "http://hol.abime.net/1815"
+      },
+      {
+        "title": "Universe",
+        "site": "Lemon Amiga",
+        "url": "http://www.lemonamiga.com/games/details.php?id=1098",
+        "gallery": [
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_01.png",
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_02.png",
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_03.png",
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_04.png",
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_05.png",
+          "https://www.lemonamiga.com/games/media/screens/full/universe/universe_06.png"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "np2.Universe-Ingame_01",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_01",
+        "size": 59998,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_02",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_02",
+        "size": 57800,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_03",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_03",
+        "size": 64336,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_04",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_04",
+        "size": 72520,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_05",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_05",
+        "size": 45110,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_06",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_06",
+        "size": 56948,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_07",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_07",
+        "size": 74286,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_08",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_08",
+        "size": 37610,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_09",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_09",
+        "size": 72146,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_10",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_10",
+        "size": 27796,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_11",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_11",
+        "size": 40556,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_12",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_12",
+        "size": 54756,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_13",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_13",
+        "size": 65402,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_14",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_14",
+        "size": 67660,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_15",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_15",
+        "size": 55908,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_16",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_16",
+        "size": 54898,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Ingame_17",
+        "song_link": "UnExoticA/Universe/np2.Universe-Ingame_17",
+        "size": 15642,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
+      },
+      {
+        "song": "np2.Universe-Title",
+        "song_link": "UnExoticA/Universe/np2.Universe-Title",
+        "size": 68810,
+        "composer": "Martin Iveson",
+        "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FIveson_Martin%2FUniverse.lha"
       }
     ]
   },
@@ -61597,69 +63674,6 @@
         "size": 61612,
         "composer": "David Whittaker",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FXenon.lha"
-      }
-    ]
-  },
-  {
-    "game": "Xenon 2: Megablast",
-    "platform": "Amiga",
-    "developers": [
-      "Bitmap Brothers"
-    ],
-    "publishers": [
-      "Renegade"
-    ],
-    "year": "1986",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTIyNg==",
-    "links": [
-      {
-        "title": "Xenon 2: Megablast",
-        "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/277/xenon-2-megablast/",
-        "gallerySection": "Amiga screenshots",
-        "gallery": [
-          "https://cdn.mobygames.com/caef69e0-bede-11ed-9c42-02420a000140.webp",
-          "https://cdn.mobygames.com/726b3550-bf66-11ed-9521-02420a000152.webp",
-          "https://cdn.mobygames.com/ccd9abb2-bede-11ed-9c42-02420a000140.webp",
-          "https://cdn.mobygames.com/ce433f0e-bede-11ed-9c42-02420a000140.webp",
-          "https://cdn.mobygames.com/72a91a32-bf66-11ed-9521-02420a000152.webp",
-          "https://cdn.mobygames.com/72e53dc8-bf66-11ed-9521-02420a000152.webp",
-          "https://cdn.mobygames.com/73bbba6a-bf66-11ed-9521-02420a000152.webp",
-          "https://cdn.mobygames.com/ca605516-bede-11ed-9c42-02420a000140.webp"
-        ]
-      }
-    ],
-    "songs": [
-      {
-        "song": "BOMB_THE_BASS.MOD",
-        "song_link": "World of Game MODs/Amiga/Xenon 2 Megablast/BOMB_THE_BASS.MOD",
-        "size": 173350,
-        "composer": "Frederic Motte, Mercy of Exellence, Bejrut, Pyratronik"
-      },
-      {
-        "song": "Xenon 2 - Megablast.mod",
-        "song_link": "World of Game MODs/Amiga/Xenon 2 Megablast/Xenon 2 - Megablast.mod",
-        "size": 365222,
-        "composer": "Frederic Motte, Mercy of Exellence, Bejrut, Pyratronik"
-      },
-      {
-        "song": "leixen2.mod",
-        "song_link": "World of Game MODs/Amiga/Xenon 2 Megablast/leixen2.mod",
-        "size": 82814,
-        "composer": "Frederic Motte, Mercy of Exellence, Bejrut, Pyratronik"
-      },
-      {
-        "song": "miniblas.mod",
-        "song_link": "World of Game MODs/Amiga/Xenon 2 Megablast/miniblas.mod",
-        "size": 54644,
-        "composer": "Frederic Motte, Mercy of Exellence, Bejrut, Pyratronik"
-      },
-      {
-        "song": "xenon2.xm",
-        "song_link": "World of Game MODs/Amiga/Xenon 2 Megablast/xenon2.xm",
-        "size": 466473,
-        "composer": "Frederic Motte, Mercy of Exellence, Bejrut, Pyratronik"
       }
     ]
   },
