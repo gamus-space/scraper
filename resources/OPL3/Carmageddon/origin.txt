@@ -1,0 +1,2 @@
+copy from \data\sound
+copy from main directory

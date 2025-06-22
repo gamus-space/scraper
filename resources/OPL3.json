@@ -167,6 +167,70 @@
     ]
   },
   {
+    "game": "Carmageddon",
+    "platform": "PC",
+    "developers": [
+      "Stainless Games"
+    ],
+    "publishers": [
+      "Sales Curve Interactive",
+      "Interplay Productions"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Carmageddon/MELODIC-demo.BNK", "resources/OPL3/Carmageddon/DRUM-demo.BNK"],
+    "songs": [
+      {
+        "song": "CARMID03.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID03.HMI",
+        "size": 18591,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID04.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID04.HMI",
+        "size": 20131,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID10.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID10.HMI",
+        "size": 18713,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID12.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID12.HMI",
+        "size": 16888,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID13.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID13.HMI",
+        "size": 19301,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID14.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID14.HMI",
+        "size": 21448,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID15.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID15.HMI",
+        "size": 20669,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID16.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID16.HMI",
+        "size": 8873,
+        "composer": "Lee Groves"
+      }
+    ]
+  },
+  {
     "game": "Chips Challenge",
     "platform": "PC",
     "developers": [
@@ -649,6 +713,373 @@
     ]
   },
   {
+    "game": "Descent",
+    "platform": "PC",
+    "developers": [
+      "Parallax Software"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Descent",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/692/descent/"
+      }
+    ],
+    "samples": ["resources/OPL3/Descent/melodic.bnk", "resources/OPL3/Descent/drum.bnk"],
+    "songs": [
+      {
+        "song": "briefing.hmp",
+        "song_link": "resources/OPL3/Descent/briefing.hmp",
+        "size": 30719,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "credits.hmp",
+        "song_link": "resources/OPL3/Descent/credits.hmp",
+        "size": 18685,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmp",
+        "song_link": "resources/OPL3/Descent/descent.hmp",
+        "size": 72597,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmq",
+        "song_link": "resources/OPL3/Descent/descent.hmq",
+        "size": 58526,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "endgame.hmp",
+        "song_link": "resources/OPL3/Descent/endgame.hmp",
+        "size": 36316,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "endgame.hmq",
+        "song_link": "resources/OPL3/Descent/endgame.hmq",
+        "size": 24077,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "endlevel.hmp",
+        "song_link": "resources/OPL3/Descent/endlevel.hmp",
+        "size": 9216,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "endlevel.hmq",
+        "song_link": "resources/OPL3/Descent/endlevel.hmq",
+        "size": 7635,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game01.hmp",
+        "song_link": "resources/OPL3/Descent/game01.hmp",
+        "size": 61523,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game01.hmq",
+        "song_link": "resources/OPL3/Descent/game01.hmq",
+        "size": 56613,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game02.hmp",
+        "song_link": "resources/OPL3/Descent/game02.hmp",
+        "size": 96129,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game02.hmq",
+        "song_link": "resources/OPL3/Descent/game02.hmq",
+        "size": 68749,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game03.hmp",
+        "song_link": "resources/OPL3/Descent/game03.hmp",
+        "size": 59668,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game03.hmq",
+        "song_link": "resources/OPL3/Descent/game03.hmq",
+        "size": 56912,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game04.hmp",
+        "song_link": "resources/OPL3/Descent/game04.hmp",
+        "size": 55450,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game05.hmp",
+        "song_link": "resources/OPL3/Descent/game05.hmp",
+        "size": 47718,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game06.hmp",
+        "song_link": "resources/OPL3/Descent/game06.hmp",
+        "size": 102892,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game07.hmp",
+        "song_link": "resources/OPL3/Descent/game07.hmp",
+        "size": 87779,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game08.hmp",
+        "song_link": "resources/OPL3/Descent/game08.hmp",
+        "size": 46287,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game08.hmq",
+        "song_link": "resources/OPL3/Descent/game08.hmq",
+        "size": 41528,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/rickmelo.bnk", "resources/OPL3/Descent/rickdrum.bnk"]
+      },
+      {
+        "song": "game09.hmp",
+        "song_link": "resources/OPL3/Descent/game09.hmp",
+        "size": 122575,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game10.hmp",
+        "song_link": "resources/OPL3/Descent/game10.hmp",
+        "size": 166106,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game11.hmp",
+        "song_link": "resources/OPL3/Descent/game11.hmp",
+        "size": 52908,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game11.hmq",
+        "song_link": "resources/OPL3/Descent/game11.hmq",
+        "size": 57530,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game12.hmp",
+        "song_link": "resources/OPL3/Descent/game12.hmp",
+        "size": 50973,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game13.hmp",
+        "song_link": "resources/OPL3/Descent/game13.hmp",
+        "size": 40853,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game13.hmq",
+        "song_link": "resources/OPL3/Descent/game13.hmq",
+        "size": 39892,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game14.hmp",
+        "song_link": "resources/OPL3/Descent/game14.hmp",
+        "size": 82307,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game14.hmq",
+        "song_link": "resources/OPL3/Descent/game14.hmq",
+        "size": 60094,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game15.hmp",
+        "song_link": "resources/OPL3/Descent/game15.hmp",
+        "size": 35431,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game16.hmp",
+        "song_link": "resources/OPL3/Descent/game16.hmp",
+        "size": 43646,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game17.hmp",
+        "song_link": "resources/OPL3/Descent/game17.hmp",
+        "size": 32504,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game18.hmp",
+        "song_link": "resources/OPL3/Descent/game18.hmp",
+        "size": 74000,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game18.hmq",
+        "song_link": "resources/OPL3/Descent/game18.hmq",
+        "size": 75410,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game19.hmp",
+        "song_link": "resources/OPL3/Descent/game19.hmp",
+        "size": 54506,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game20.hmp",
+        "song_link": "resources/OPL3/Descent/game20.hmp",
+        "size": 38307,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game21.hmp",
+        "song_link": "resources/OPL3/Descent/game21.hmp",
+        "size": 56844,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game21.hmq",
+        "song_link": "resources/OPL3/Descent/game21.hmq",
+        "size": 47104,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      },
+      {
+        "song": "game22.hmp",
+        "song_link": "resources/OPL3/Descent/game22.hmp",
+        "size": 46876,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game22.hmq",
+        "song_link": "resources/OPL3/Descent/game22.hmq",
+        "size": 40524,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent/hammelo.bnk", "resources/OPL3/Descent/hamdrum.bnk"]
+      }
+    ]
+  },
+  {
+    "game": "Descent II",
+    "platform": "PC",
+    "developers": [
+      "Parallax Software"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Descent II/melodic.bnk", "resources/OPL3/Descent II/drum.bnk"],
+    "songs": [
+      {
+        "song": "briefing.hmp",
+        "song_link": "resources/OPL3/Descent II/briefing.hmp",
+        "size": 23634,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent II/d2melod.bnk", "resources/OPL3/Descent II/d2drums.bnk"]
+      },
+      {
+        "song": "credits.hmp",
+        "song_link": "resources/OPL3/Descent II/credits.hmp",
+        "size": 41014,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmp",
+        "song_link": "resources/OPL3/Descent II/descent.hmp",
+        "size": 86949,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmq",
+        "song_link": "resources/OPL3/Descent II/descent.hmq",
+        "size": 72772,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent II/d2melod.bnk", "resources/OPL3/Descent II/d2drums.bnk"]
+      },
+      {
+        "song": "game01.hmp",
+        "song_link": "resources/OPL3/Descent II/game01.hmp",
+        "size": 38897,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game01.hmq",
+        "song_link": "resources/OPL3/Descent II/game01.hmq",
+        "size": 48329,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent II/d2melod.bnk", "resources/OPL3/Descent II/d2drums.bnk"]
+      },
+      {
+        "song": "game02.hmp",
+        "song_link": "resources/OPL3/Descent II/game02.hmp",
+        "size": 138047,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game02.hmq",
+        "song_link": "resources/OPL3/Descent II/game02.hmq",
+        "size": 128598,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent II/d2melod.bnk", "resources/OPL3/Descent II/d2drums.bnk"]
+      },
+      {
+        "song": "game03.hmp",
+        "song_link": "resources/OPL3/Descent II/game03.hmp",
+        "size": 134525,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game03.hmq",
+        "song_link": "resources/OPL3/Descent II/game03.hmq",
+        "size": 107423,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": ["resources/OPL3/Descent II/d2melod.bnk", "resources/OPL3/Descent II/d2drums.bnk"]
+      },
+      {
+        "song": "game04.hmp",
+        "song_link": "resources/OPL3/Descent II/game04.hmp",
+        "size": 33648,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game04.hmq",
+        "song_link": "resources/OPL3/Descent II/game04.hmq",
+        "size": 32953,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      }
+    ]
+  },
+  {
     "game": "Diggers",
     "platform": "PC",
     "developers": [
@@ -678,6 +1109,82 @@
         "song_link": "resources/OPL3/Diggers/dpctitad.mdi",
         "size": 14047,
         "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
+    "game": "Fatal Racing",
+    "platform": "PC",
+    "developers": [
+        "Gremlin Interactive"
+    ],
+    "publishers": [
+        "Gremlin Interactive"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Fatal Racing",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/685/whiplash/"
+      }
+    ],
+    "samples": ["resources/samples/Fatal Racing/MELODIC.BNK", "resources/samples/Fatal Racing/DRUM.BNK"],
+    "songs": [
+      {
+        "song": "INGAME1.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME1.HMP",
+        "size": 38827,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME2.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME2.HMP",
+        "size": 70691,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME3.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME3.HMP",
+        "size": 43664,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME4.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME4.HMP",
+        "size": 39676,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "LEADBORD.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/LEADBORD.HMP",
+        "size": 25043,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "OPTIONS.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/OPTIONS.HMP",
+        "size": 46028,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "TITLE.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/TITLE.HMP",
+        "size": 24753,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "WINONE.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/WINONE.HMP",
+        "size": 11764,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "WINTWO.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/WINTWO.HMP",
+        "size": 27741,
+        "composer": "Neil Biggin"
       }
     ]
   },
@@ -1521,6 +2028,114 @@
         "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_008.mdi",
         "size": 18266,
         "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
+    "game": "Magic Carpet",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Magic Carpet/INST.BNK", "resources/OPL3/Magic Carpet/DRUM.BNK"],
+    "songs": [
+      {
+        "song": "GAME1.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME1.HMP",
+        "size": 23888,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME2.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME2.HMP",
+        "size": 23952,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME3.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME3.HMP",
+        "size": 13392,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO4.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO4.HMP",
+        "size": 7696,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO5.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO5.HMP",
+        "size": 2912,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO6.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO6.HMP",
+        "size": 13888,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SETUP.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/SETUP.HMP",
+        "size": 12352,
+        "composer": "Russell Shaw"
+      }
+    ]
+  },
+  {
+    "game": "Magic Carpet 2",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": "resources/OPL3/Magic Carpet 2/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "CUTS.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/CUTS.XMI",
+        "size": 1312,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME1.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME1.XMI",
+        "size": 10342,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME2.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME2.XMI",
+        "size": 43612,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME3.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME3.XMI",
+        "size": 14920,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/INTRO.XMI",
+        "size": 5968,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SETUP.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/SETUP.XMI",
+        "size": 4440,
+        "composer": "Russell Shaw"
       }
     ]
   },
@@ -4050,7 +4665,7 @@
         "url": "https://www.mobygames.com/game/621/screamer/"
       }
     ],
-    "samples": ["resources/OPL3/Screamer/MELODIC.BNK", "resources/OPL3/Screamer/DRUM.BNK"],
+    "samples": ["resources/samples/Screamer/MELODIC.BNK", "resources/samples/Screamer/DRUM.BNK"],
     "songs": [
       {
         "song": "MUSIC1.HMP",
@@ -4093,6 +4708,286 @@
         "song_link": "resources/OPL3/Screamer/MUSIC7.HMP",
         "size": 20644,
         "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "SimCity 2000",
+    "platform": "PC",
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Maxis"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "songs": [
+      {
+        "song": "20000.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20000.XMI#1",
+        "size": 2220,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20000.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20000.XMI",
+        "size": 2220,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20001.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20001.XMI#1",
+        "size": 3356,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20001.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20001.XMI",
+        "size": 3356,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20002.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20002.XMI#1",
+        "size": 442,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20002.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20002.XMI",
+        "size": 442,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20003.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20003.XMI#1",
+        "size": 1430,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20003.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20003.XMI",
+        "size": 1430,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20004.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20004.XMI#1",
+        "size": 3372,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20004.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20004.XMI",
+        "size": 3372,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20005.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20005.XMI#1",
+        "size": 612,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20005.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20005.XMI",
+        "size": 612,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20006.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20006.XMI#1",
+        "size": 968,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20006.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20006.XMI",
+        "size": 968,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20007.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20007.XMI#1",
+        "size": 4434,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20007.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20007.XMI",
+        "size": 4434,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20008.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20008.XMI#1",
+        "size": 4366,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20008.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20008.XMI",
+        "size": 4366,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20009.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20009.XMI#1",
+        "size": 738,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20009.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20009.XMI",
+        "size": 738,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20010.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20010.XMI#1",
+        "size": 1002,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20010.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20010.XMI",
+        "size": 1002,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20011.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20011.XMI#1",
+        "size": 3904,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20011.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20011.XMI",
+        "size": 3904,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20012.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20012.XMI#1",
+        "size": 2978,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20012.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20012.XMI",
+        "size": 2978,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20013.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20013.XMI#1",
+        "size": 1844,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20013.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20013.XMI",
+        "size": 1844,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20014.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20014.XMI#1",
+        "size": 1184,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20014.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20014.XMI",
+        "size": 1184,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20015.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20015.XMI#1",
+        "size": 458,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20015.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20015.XMI",
+        "size": 458,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20016.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20016.XMI#1",
+        "size": 638,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20016.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20016.XMI",
+        "size": 638,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20017.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20017.XMI#1",
+        "size": 1726,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20017.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20017.XMI",
+        "size": 1726,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20018.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20018.XMI#1",
+        "size": 7072,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20018.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20018.XMI",
+        "size": 7072,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
       }
     ]
   },
@@ -5213,6 +6108,533 @@
     ]
   },
   {
+    "game": "Ultima Underworld II: Labyrinth of Worlds",
+    "platform": "PC",
+    "developers": [
+      "LookingGlass Technologies"
+    ],
+    "publishers": [
+      "Origin Systems"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "samples": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UW.AD",
+    "songs": [
+      {
+        "song": "UWA01.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA01.XMI",
+        "size": 7910,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA02.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA02.XMI",
+        "size": 1300,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA03.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA03.XMI",
+        "size": 2376,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA04.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA04.XMI",
+        "size": 2030,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA05.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA05.XMI",
+        "size": 2270,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA06.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA06.XMI",
+        "size": 274,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA07.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA07.XMI",
+        "size": 856,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA10.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA10.XMI",
+        "size": 8926,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA11.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA11.XMI",
+        "size": 3574,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA12.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA12.XMI",
+        "size": 2022,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA13.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA13.XMI",
+        "size": 3792,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA14.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA14.XMI",
+        "size": 5116,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA15.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA15.XMI",
+        "size": 3898,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA16.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA16.XMI",
+        "size": 3092,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA17.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA17.XMI",
+        "size": 7698,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA30.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA30.XMI",
+        "size": 1280,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA31.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA31.XMI",
+        "size": 2748,
+        "composer": "Jon Blackley, Dan Schmidt"
+      }
+    ]
+  },
+  {
+    "game": "Ultima VII: The Black Gate",
+    "platform": "PC",
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Origin Systems"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "samples": "resources/OPL3/Ultima VII - The Black Gate/XMIDI.AD",
+    "songs": [
+      {
+        "song": "ADLIBMUS_001.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_001.mid",
+        "size": 4725,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_002.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_002.mid",
+        "size": 12619,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_003.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_003.mid",
+        "size": 3304,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_004.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_004.mid",
+        "size": 5150,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_005.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_005.mid",
+        "size": 1123,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_006.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_006.mid",
+        "size": 1178,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_007.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_007.mid",
+        "size": 9453,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_008.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_008.mid",
+        "size": 6723,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_009.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_009.mid",
+        "size": 5073,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_010.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_010.mid",
+        "size": 877,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_011.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_011.mid",
+        "size": 984,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_012.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_012.mid",
+        "size": 647,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_013.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_013.mid",
+        "size": 2949,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_014.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_014.mid",
+        "size": 4708,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_015.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_015.mid",
+        "size": 1727,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_016.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_016.mid",
+        "size": 2339,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_017.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_017.mid",
+        "size": 2194,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_018.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_018.mid",
+        "size": 2474,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_019.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_019.mid",
+        "size": 8175,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_020.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_020.mid",
+        "size": 6787,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_021.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_021.mid",
+        "size": 1386,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_022.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_022.mid",
+        "size": 4482,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_023.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_023.mid",
+        "size": 1963,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_024.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_024.mid",
+        "size": 2162,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_025.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_025.mid",
+        "size": 2677,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_026.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_026.mid",
+        "size": 4027,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_027.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_027.mid",
+        "size": 2848,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_028.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_028.mid",
+        "size": 2273,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_029.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_029.mid",
+        "size": 3768,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_030.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_030.mid",
+        "size": 6795,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_031.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_031.mid",
+        "size": 1466,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_032.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_032.mid",
+        "size": 3327,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_033.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_033.mid",
+        "size": 743,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_034.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_034.mid",
+        "size": 1152,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_035.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_035.mid",
+        "size": 1502,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_036.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_036.mid",
+        "size": 6994,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_037.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_037.mid",
+        "size": 1101,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_038.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_038.mid",
+        "size": 4181,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_039.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_039.mid",
+        "size": 3417,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_040.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_040.mid",
+        "size": 4372,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_041.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_041.mid",
+        "size": 4705,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_042.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_042.mid",
+        "size": 5019,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_043.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_043.mid",
+        "size": 4336,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_044.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_044.mid",
+        "size": 4854,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_045.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_045.mid",
+        "size": 47,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_046.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_046.mid",
+        "size": 2981,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_047.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_047.mid",
+        "size": 7327,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_048.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_048.mid",
+        "size": 19886,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_049.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_049.mid",
+        "size": 1963,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_050.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_050.mid",
+        "size": 581,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_051.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_051.mid",
+        "size": 743,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_052.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_052.mid",
+        "size": 304,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_053.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_053.mid",
+        "size": 355,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_001.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_001.mid",
+        "size": 497,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_002.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_002.mid",
+        "size": 1342,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_003.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_003.mid",
+        "size": 22324,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_004.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_004.mid",
+        "size": 3452,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_005.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_005.mid",
+        "size": 24708,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_006.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_006.mid",
+        "size": 10474,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ENDSCORE.XMI",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ENDSCORE.XMI",
+        "size": 18346,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      }
+    ]
+  },
+  {
+    "game": "Virtua Cop 2",
+    "platform": "PC",
+    "developers": [
+      "Sega AM2"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Virtua Cop 2",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/961/virtua-cop-2/",
+        "gallerySection": "Windows screenshots"
+      }
+    ],
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "SONG1.MDS",
+        "song_link": "resources/OPL3/Virtua Cop 2/SONG1.MDS",
+        "size": 97496,
+        "composer": "Maki Morrow"
+      },
+      {
+        "song": "SONG2.MDS",
+        "song_link": "resources/OPL3/Virtua Cop 2/SONG2.MDS",
+        "size": 14020,
+        "composer": "Maki Morrow"
+      }
+    ]
+  },
+  {
     "game": "Windows 95",
     "platform": "PC",
     "developers": [
@@ -5326,6 +6748,804 @@
         "song_link": "resources/OPL3/Windows ME/TOWN.MID",
         "size": 22097,
         "composer": "Microsoft"
+      }
+    ]
+  },
+  {
+    "game": "Witchaven",
+    "platform": "PC",
+    "developers": [
+        "Capstone Software"
+    ],
+    "publishers": [
+        "Intracorp Entertainment"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Witchaven/MELODIC.BNK", "resources/OPL3/Witchaven/DRUM.BNK"],
+    "songs": [
+      {
+        "song": "SONGS.1.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.1.HMP",
+        "size": 16216,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.2.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.2.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.3.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.3.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.4.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.4.HMP",
+        "size": 22882,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.5.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.5.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.6.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.6.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.7.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.7.HMP",
+        "size": 22882,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.8.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.8.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.9.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.9.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.10.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.10.HMP",
+        "size": 17166,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.11.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.11.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.12.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.12.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.13.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.13.HMP",
+        "size": 19220,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.14.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.14.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.15.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.15.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.16.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.16.HMP",
+        "size": 18684,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.17.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.17.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.18.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.18.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.19.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.19.HMP",
+        "size": 9610,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.20.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.20.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.21.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.21.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.22.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.22.HMP",
+        "size": 11387,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.23.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.23.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.24.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.24.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.25.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.25.HMP",
+        "size": 13377,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.26.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.26.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.27.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.27.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.28.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.28.HMP",
+        "size": 5533,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.29.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.29.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.30.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.30.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.31.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.31.HMP",
+        "size": 4900,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.32.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.32.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.33.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.33.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.34.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.34.HMP",
+        "size": 7020,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.35.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.35.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.36.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.36.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.37.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.37.HMP",
+        "size": 22104,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.38.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.38.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.39.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.39.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.40.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.40.HMP",
+        "size": 23553,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.41.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.41.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.42.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.42.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.43.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.43.HMP",
+        "size": 23553,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.44.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.44.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.45.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.45.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.46.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.46.HMP",
+        "size": 16216,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.47.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.47.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.48.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.48.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.49.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.49.HMP",
+        "size": 6199,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.50.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.50.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.51.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.51.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.52.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.52.HMP",
+        "size": 6199,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.53.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.53.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.54.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.54.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.55.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.55.HMP",
+        "size": 15813,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.56.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.56.HMP",
+        "size": 15746,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.57.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.57.HMP",
+        "size": 15797,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.58.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.58.HMP",
+        "size": 15813,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.59.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.59.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.60.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.60.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      }
+    ]
+  },
+  {
+    "game": "Witchaven II",
+    "platform": "PC",
+    "developers": [
+        "Capstone Software"
+    ],
+    "publishers": [
+        "Intracorp Entertainment"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "samples": ["resources/OPL3/Witchaven II/MELODIC.BNK", "resources/OPL3/Witchaven II/DRUM.BNK"],
+    "songs": [
+      {
+        "song": "F_SONGS.1.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.1.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.2.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.2.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.3.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.3.HMP",
+        "size": 9223,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.4.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.4.HMP",
+        "size": 17044,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.5.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.5.HMP",
+        "size": 7958,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.6.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.6.HMP",
+        "size": 3440,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.7.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.7.HMP",
+        "size": 9488,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.8.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.8.HMP",
+        "size": 5316,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.9.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.9.HMP",
+        "size": 11138,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.10.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.10.HMP",
+        "size": 5452,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.11.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.11.HMP",
+        "size": 19928,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.12.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.12.HMP",
+        "size": 10717,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.13.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.13.HMP",
+        "size": 5093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.14.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.14.HMP",
+        "size": 7313,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.15.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.15.HMP",
+        "size": 5692,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.16.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.16.HMP",
+        "size": 10375,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.17.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.17.HMP",
+        "size": 10840,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.18.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.18.HMP",
+        "size": 2966,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.19.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.19.HMP",
+        "size": 7159,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.20.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.20.HMP",
+        "size": 12722,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.21.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.21.HMP",
+        "size": 3433,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.22.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.22.HMP",
+        "size": 3427,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.23.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.23.HMP",
+        "size": 11400,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.24.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.24.HMP",
+        "size": 9372,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.25.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.25.HMP",
+        "size": 4383,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.26.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.26.HMP",
+        "size": 2172,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.27.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.27.HMP",
+        "size": 7093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.28.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.28.HMP",
+        "size": 7689,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.29.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.29.HMP",
+        "size": 4174,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.30.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.30.HMP",
+        "size": 11138,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.31.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.31.HMP",
+        "size": 30432,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.32.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.32.HMP",
+        "size": 27114,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.33.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.33.HMP",
+        "size": 3982,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.34.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.34.HMP",
+        "size": 8142,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.35.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.35.HMP",
+        "size": 10272,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.36.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.36.HMP",
+        "size": 12667,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.37.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.37.HMP",
+        "size": 7313,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.38.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.38.HMP",
+        "size": 10840,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.39.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.39.HMP",
+        "size": 17044,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.40.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.40.HMP",
+        "size": 9372,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.41.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.41.HMP",
+        "size": 3440,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.42.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.42.HMP",
+        "size": 2966,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.43.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.43.HMP",
+        "size": 10377,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.44.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.44.HMP",
+        "size": 6272,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.45.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.45.HMP",
+        "size": 8387,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.46.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.46.HMP",
+        "size": 5093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.47.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.47.HMP",
+        "size": 7093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.48.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.48.HMP",
+        "size": 19928,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.49.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.49.HMP",
+        "size": 3433,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.50.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.50.HMP",
+        "size": 2172,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.51.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.51.HMP",
+        "size": 7689,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.52.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.52.HMP",
+        "size": 10717,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.53.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.53.HMP",
+        "size": 4174,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.54.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.54.HMP",
+        "size": 7958,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.55.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.55.HMP",
+        "size": 9488,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.56.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.56.HMP",
+        "size": 5316,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.57.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.57.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.58.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.58.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.59.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.59.HMP",
+        "size": 9381,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.60.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.60.HMP",
+        "size": 30432,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.61.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.61.HMP",
+        "size": 1312,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.62.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.62.HMP",
+        "size": 1312,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.63.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.63.HMP",
+        "size": 20525,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.64.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.64.HMP",
+        "size": 20525,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.65.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.65.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.66.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.66.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.67.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.67.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.68.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.68.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
       }
     ]
   }

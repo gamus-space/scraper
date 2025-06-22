@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "run": "node index.js",
+    "clear-cache": "rm -rf data/_cache"
   },
   "author": "krzykos",
   "license": "BSD-2-Clause",
