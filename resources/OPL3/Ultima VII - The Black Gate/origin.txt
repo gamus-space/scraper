@@ -1,0 +1,2 @@
+rip from \static\ADLIBMUS.DAT and \static\INTROADM.DAT
+copy from \static

@@ -17,7 +17,7 @@ console.log(JSON.stringify(dirs.map(dir => ({
 	publishers: [],
 	year: 0,
 	source: "",
-	songs: fs.readdirSync(dir).map(file => ({
+	songs: fs.readdirSync(dir).sort((a, b) => a.localeCompare(b, undefined, { numeric: true })).map(file => ({
 		song: file,
 		song_link: path.join(dir, file).replace(/\\/g, '/'),
 		size: fs.statSync(path.join(dir, file)).size,

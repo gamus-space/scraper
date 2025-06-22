@@ -57,13 +57,15 @@ const LINKS_FLAT = [
 	{ title: 'Pinball World', site: 'MobyGames', url: 'https://www.mobygames.com/game/24135/pinball-world/' },
 	{ title: 'Prehistorik 2', site: 'MobyGames', url: 'https://www.mobygames.com/game/525/prehistorik-2/' },
 	{ title: 'Psycho Pinball', site: 'MobyGames', url: 'https://www.mobygames.com/game/4944/psycho-pinball/' },
-	{ title: 'Screamer', site: 'MobyGames', url: 'https://www.mobygames.com/game/621/screamer/' },
 	{ title: 'Super Bubble Mania', site: 'MobyGames', url: 'https://www.mobygames.com/game/35492/super-bubble-mania/' },
 	{ title: 'Teenagent', site: 'MobyGames', url: 'https://www.mobygames.com/game/6423/teen-agent/' },
 	{ title: 'Terminal Velocity', site: 'MobyGames', url: 'https://www.mobygames.com/game/635/terminal-velocity/' },
 	{ title: 'Tux Racer', site: 'MobyGames', url: 'https://www.mobygames.com/game/3021/tux-racer/', gallerySection: 'Windows screenshots' },
 	// PC Windows
 	{ title: 'Jazz Jackrabbit 2: The Secret Files', site: 'MobyGames', url: 'https://www.mobygames.com/game/9554/jazz-jackrabbit-2-the-secret-files/', gallerySection: 'Windows screenshots' },
+	// MIDI
+	{ title: 'Hexen II', site: 'MobyGames', url: 'https://www.mobygames.com/game/813/hexen-ii/', gallerySection: 'Windows screenshots' },
+	{ title: 'Hexen II: Portal of Praevus', site: 'MobyGames', url: 'https://www.mobygames.com/game/814/hexen-ii-mission-pack-portal-of-praevus/', gallerySection: 'Windows screenshots' },
 ];
 const LINKS = groupBy(LINKS_FLAT, ({ title }) => title);
 
@@ -140,6 +142,8 @@ async function fetchGame(url, source, options) {
 	console.log(game, tunesCount, { gallery: galleryCount });
 	if (galleryCount === 0 && !EMPTY_GALLERY.includes(game))
 		throw new Error('empty gallery');
+	const metaSource = options.source ?? source;
+	const samples = options.samples ? { samples: options.samples } : {};
 	const songs = files.map(file => ({
 		song: file,
 		song_link: `${source}/${gameDir}/${file}`,
@@ -147,7 +151,7 @@ async function fetchGame(url, source, options) {
 		composer: composers.join(', '),
 	})).map(song => splitSong(song, Uint8Array.from(fs.readFileSync(`../${song.song_link}`)))).flat();
 
-	return { game, platform, developers, publishers, year, source, source_link: url, links, songs };
+	return { game, platform, developers, publishers, year, source: metaSource, source_link: url, links, ...samples, songs };
 }
 
 function splitSong(song, file) {
@@ -278,7 +282,6 @@ async function fetchWogMods(source) {
 		'Pinball World': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODA5',
 		'Prehistorik 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=ODIz',
 		'Psycho Pinball': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQwMDA=',
-		'Screamer': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx',
 		'Super Bubble Mania': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQ0Nzk=',
 		'Teenagent': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM2OTI=',
 		'Terminal Velocity': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA2Ng==',
@@ -289,18 +292,23 @@ async function fetchWogMods(source) {
 		'Jazz Jackrabbit 2: The Secret Files': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM4MDU=',
 		//'Jazz Jackrabbit 3': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5MjI=',
 	};
+	const midiGames = {
+		'Hexen 2': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTg3Mg==',
+		'Hexen 2: Portal of Praevus': 'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNzA=',
+	};
 	const gameOptions = {
-		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy': { game: 'All New World Of Lemmings' },
-		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx': { game: 'Screamer' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NDY3': { game: 'Franko: The Crazy Revenge' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTg3Mg==': { game: 'Hexen II', source: 'World of Game MIDs', samples: 'resources/samples/Windows/msadlib.bnk' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNzA=': { game: 'Hexen II: Portal of Praevus', source: 'World of Game MIDs', samples: 'resources/samples/Windows/msadlib.bnk' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTU3': { game: 'Skidmarks 2' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA0Nw==': { game: 'Super TaeKwonDo Master' },
 	};
 	const commonOptions = {
 		platformMap: { 'PC Dos': 'PC', 'PC Windows': 'PC' },
 	};
-	const games = { ...newGames, ...pcDosGames, ...pcWindowsGames };
+	const games = { ...newGames, ...pcDosGames, ...pcWindowsGames, ...midiGames };
 	return (await sequential(Object.values(games).map(game => () =>
 		fetchGame(game, source, { ...commonOptions, ...gameOptions[game] })
 	))).filter(game => game);

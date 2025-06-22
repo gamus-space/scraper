@@ -22,7 +22,7 @@ const FIXED_LINKS = Object.fromEntries(Object.entries(groupBy(FIXED_LINKS_FLAT, 
 
 const EMPTY_GALLERY = [];
 
-async function fetchGame({ url, composer, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
+async function fetchGame({ url, composer, publishers, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
 	const html = await (await fetch(url)).text();
 	const doc = new dom().parseFromString(html);
 	const infoTable = xpath.select1('//div[@id="mw-content-text"]/table[1]', doc);
@@ -34,8 +34,8 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 	const developers = [xpath.select('normalize-space(./tr[normalize-space(./td[1]) = "Developer:"]/td[2])', metricsTable)];
 
 	const releasesTitle = xpath.select1('//div[@id="mw-content-text"]//h2[span/@id="Releases"]', doc);
-	const releasesTables = xpath.select('./following-sibling::*/descendant-or-self::table//table', releasesTitle);
-	const publishers = [...new Set(releasesTables.map(table => xpath.select1('normalize-space(./tr[normalize-space(./td[1]) = "Publisher:"]/td[2])', table)))];
+	const releasesTables = releasesTitle && xpath.select('./following-sibling::*/descendant-or-self::table//table', releasesTitle);
+	const metaPublishers = publishers ?? [...new Set(releasesTables.map(table => xpath.select1('normalize-space(./tr[normalize-space(./td[1]) = "Publisher:"]/td[2])', table)))];
 
 	const ripTitle = xpath.select1('//div[@id="mw-content-text"]//h3[span/@id="Game_Rip"]', doc);
 	const mainDownloadLink = xpath.select1('string(./following-sibling::*/descendant-or-self::table[1]//a[normalize-space(text()) = "Download"]/@href)', ripTitle);
@@ -79,7 +79,7 @@ async function fetchGame({ url, composer, song_pattern, song_count, song_ignore,
 	})).map(song => splitSong(song, game)).flat();
 	const samplesLink = samples != undefined ? { samples } : {};
 
-	return { game, platform, developers, publishers, year, source, source_link: url, links, ...samplesLink, songs };
+	return { game, platform, developers, publishers: metaPublishers, year, source, source_link: url, links, ...samplesLink, songs };
 }
 
 function splitSong(song, game) {
@@ -224,9 +224,11 @@ async function fetchVgmpf(source) {
 	];
 	const xmiGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Blackthorne_(DOS)', composer: 'Glenn Stafford', song_pattern: /^Blackthorne-DOS\/xmi\/[^/]+\.xmi/, song_count: 26, samples: 'resources/samples/Blackthorne/BTHORNE.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Hi_Octane_(DOS)', composer: 'Russell Shaw', song_pattern: /^original\/[^/]+\.xmi/, song_count: 5, samples: 'resources/samples/Hi-Octane/SAMPLE.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Jagged_Alliance_(DOS)', composer: 'Steve Wener', song_pattern: /^originals\/[^/]+\.XMI/, song_count: 6, samples: 'resources/samples/Jagged Alliance/MADLAB.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Hospital_(DOS)', composer: 'Russell Shaw, Adrian Moore', song_pattern: /^XMI\/[^/]+\.xmi/, song_count: 8, samples: 'resources/samples/Theme Hospital/SAMPLE.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)', composer: ' Dave Bean, Alan Premselaar, Glenn Stafford, Rick Jackson', song_pattern: /^original\/(465|466|470|471|475|476|480|481|485|486|495|496|499|500|501|505|506|510|511)\.xmi/, song_count: 19, samples: 'resources/samples/Lost Vikings/VIKINGS.AD' },
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ultima_Underworld:_The_Stygian_Abyss_(DOS)', composer: 'George Sanger, David Govett', song_pattern: /^2[^/]+\.xmi|^Originals\/Drivers\/uw.ad/, song_count: 12+1, samples: 'VGMPF/PC/Ultima Underworld The Stygian Abyss/uw.ad', song_ignore: /[^/]+\.ad/ },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=WarCraft:_Orcs_%26_Humans_(DOS)', composer: 'Chris Palmer, Glenn Stafford, Gregory Alper, Rick Jackson', song_pattern: /^2[^/]+\.xmi/, song_count: 15, samples: 'resources/samples/Warcraft/WARCRAFT.AD' },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=WarCraft_II:_Tides_of_Darkness_(DOS)', composer: 'Glenn Stafford', song_pattern: /^XMI\/1[^/]+\.xmi/, song_count: 17, samples: 'resources/samples/Warcraft 2/WARCRAFT.AD' },
 	];
@@ -243,6 +245,9 @@ async function fetchVgmpf(source) {
 	const hmpGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Theme_Park_(DOS)', composer: 'Russell Shaw', song_pattern: /^originals\/(extracted\/OPL\/[^/]+\.HMP|[^/]+\.BNK)/, song_count: 27+2, samples: ['VGMPF/PC/Theme Park/INST.BNK', 'VGMPF/PC/Theme Park/DRUM.BNK'], song_ignore: /[^/]+\.BNK/ },
 	];
+	const hmiGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=The_Elder_Scrolls_II:_Daggerfall_(DOS)', composer: 'Eric Heberling, Andy Warr', publishers: ['Bethesda Softworks'], song_pattern: /^[^/]+\.HMI/, song_count: 131, samples: ['resources/samples/Elder Scrolls II - Daggerfall/MELODIC.BNK', 'resources/samples/Elder Scrolls II - Daggerfall/DRUM.BNK'] },
+	];
 	const heradGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Dune_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/(AdLib Gold\/[^/]+\.AGD|AdLib-SoundBlaster\/[^/]+\.SDB)/, song_count: 9+9 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=KGB_(DOS)', composer: 'Stéphane Picq', song_pattern: /^Originals\/Uncompressed\/AdLib-SoundBlaster\/[^/]+\.SDB/, song_count: 6 },
@@ -254,6 +259,9 @@ async function fetchVgmpf(source) {
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)', composer: 'Charles Callet', song_pattern: /^originals\/[^/]+\.ADL/, song_count: 14 },
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)', composer: 'Charles Callet', song_pattern: /^[^/]+\.adl/, song_count: 13 },
 	];
+	const ldsGames = [
+		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Tyrian_(DOS)', composer: 'Andras Molnar', song_pattern: /^[^/]+\.lds/, song_count: 41 },
+	];
 	const modGames = [
 		{ url: 'http://www.vgmpf.com/Wiki/index.php?title=Prehistorik_2_(DOS)', composer: 'Fabrice Paumier, Francis Fournier', song_pattern: /^[^/]+\.mod/, song_count: 12 },
 	];
@@ -263,12 +271,13 @@ async function fetchVgmpf(source) {
 		'http://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#tnt': { game: 'Final Doom - TNT: Evilution' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)': { game: 'Gobliins 2' },
 		'http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)': { game: 'Goblins 3' },
+		'http://www.vgmpf.com/Wiki/index.php?title=The_Elder_Scrolls_II:_Daggerfall_(DOS)': { game: 'Elder Scrolls II: Daggerfall' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_One_(DOS)': { game: 'Legend of Kyrandia: Book One, The' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)': { game: 'Legend of Kyrandia: Book Two - The Hand of Fate, The' },
 		'http://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
 		'http://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima VI' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...heradGames, ...adlCoktelVisionGames, ...modGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...hmiGames, ...heradGames, ...adlCoktelVisionGames, ...ldsGames, ...modGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
