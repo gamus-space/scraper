@@ -1,0 +1,2 @@
+copy music*.dat from \data
+decompress with ppibm.exe and slice into pieces

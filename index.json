@@ -9102,6 +9102,129 @@
     ]
   },
   {
+    "game": "Carmageddon",
+    "platform": "PC",
+    "developers": [
+      "Stainless Games"
+    ],
+    "publishers": [
+      "Sales Curve Interactive",
+      "Interplay Productions"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Carmageddon",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/367/carmageddon/",
+        "gallery": [
+          "https://cdn.mobygames.com/6b968c74-abc6-11ed-9e47-02420a00019f.webp",
+          "https://cdn.mobygames.com/6edc3da2-abc6-11ed-9ae2-02420a0001a0.webp",
+          "https://cdn.mobygames.com/f5f60cfa-abf8-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/f00dd854-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/2465d9fe-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/51cb73d0-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/53632db4-ac0d-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/4f9f0efa-ac0d-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/fc98aa2c-ac0c-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/539dddb0-ac0d-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/4fd9f10a-ac0d-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/53d8edf6-ac0d-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/4fb60358-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/500132b0-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/504322e2-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/5084df02-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/50c9a4c0-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/f9d6a456-ac0c-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/510df4a4-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/5146860c-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/fc536200-ac0c-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/51875704-ac0d-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/9ada04ae-ab65-11ed-bc2b-02420a000182.webp",
+          "https://cdn.mobygames.com/5d368222-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/5fe1fdbc-ac18-11ed-9271-02420a000133.webp",
+          "https://cdn.mobygames.com/603f418e-ac18-11ed-9271-02420a000133.webp",
+          "https://cdn.mobygames.com/5dcdb296-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/24c3f408-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/25509692-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/2595f1a6-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/25fa1d5c-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/265b9e42-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/26e43450-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/27eae420-abf8-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/54ba4994-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/58325012-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/58b002c8-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/592fece0-ac18-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/f3040fec-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/f557034e-abf8-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/f3974d48-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/f52eca64-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/f59f0a7c-abf8-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/f57b27e2-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/f5bde69a-abf8-11ed-b4f3-02420a000135.webp",
+          "https://cdn.mobygames.com/f52f6262-abf8-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/f00d1824-abf8-11ed-8d2f-02420a00012e.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Carmageddon/MELODIC-demo.BNK",
+      "resources/OPL3/Carmageddon/DRUM-demo.BNK"
+    ],
+    "songs": [
+      {
+        "song": "CARMID03.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID03.HMI",
+        "size": 18591,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID04.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID04.HMI",
+        "size": 20131,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID10.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID10.HMI",
+        "size": 18713,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID12.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID12.HMI",
+        "size": 16888,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID13.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID13.HMI",
+        "size": 19301,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID14.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID14.HMI",
+        "size": 21448,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID15.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID15.HMI",
+        "size": 20669,
+        "composer": "Lee Groves"
+      },
+      {
+        "song": "CARMID16.HMI",
+        "song_link": "resources/OPL3/Carmageddon/CARMID16.HMI",
+        "size": 8873,
+        "composer": "Lee Groves"
+      }
+    ]
+  },
+  {
     "game": "Castle Master",
     "platform": "Amiga",
     "developers": [
@@ -11969,7 +12092,11 @@
         "title": "Chip's Challenge",
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/5012/chips-challenge/",
-        "gallerySection": "Windows 3.x screenshots"
+        "gallerySection": "Windows 16-bit screenshots",
+        "gallery": [
+          "https://cdn.mobygames.com/cb161fb0-ab77-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/c73e86f2-ab77-11ed-81e3-02420a000199.webp"
+        ]
       }
     ],
     "samples": "resources/samples/Windows/msadlib.bnk",
@@ -15713,6 +15840,482 @@
     ]
   },
   {
+    "game": "Descent",
+    "platform": "PC",
+    "developers": [
+      "Parallax Software"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Descent",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/692/descent/",
+        "gallery": [
+          "https://cdn.mobygames.com/ceb2789c-ab6a-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/d481b2ce-ab6a-11ed-91fb-02420a00019f.webp",
+          "https://cdn.mobygames.com/cf4303d0-ab6a-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/5d9ba1bc-ab77-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/5de51cd4-ab77-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/5917d142-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/598d3626-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/59e49ba0-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/5ac9e7dc-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/5dc99af4-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/5faeac74-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/60d6adae-ab77-11ed-a061-02420a00019d.webp",
+          "https://cdn.mobygames.com/fc98e660-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fcdce68a-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fd1f71d0-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fd72418a-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fdacc062-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fde63900-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fe1b1526-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/fe77afe8-ac0a-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/f8fdb8b4-ac0a-11ed-b351-02420a00012e.webp",
+          "https://cdn.mobygames.com/f934a310-ac0a-11ed-b351-02420a00012e.webp",
+          "https://cdn.mobygames.com/f9664b90-ac0a-11ed-b351-02420a00012e.webp",
+          "https://cdn.mobygames.com/f99e9ec8-ac0a-11ed-b351-02420a00012e.webp",
+          "https://cdn.mobygames.com/f733813c-c3a0-11ed-9226-02420a000121.webp",
+          "https://cdn.mobygames.com/cc2e68c6-c3a0-11ed-9226-02420a000121.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Descent/melodic.bnk",
+      "resources/OPL3/Descent/drum.bnk"
+    ],
+    "songs": [
+      {
+        "song": "briefing.hmp",
+        "song_link": "resources/OPL3/Descent/briefing.hmp",
+        "size": 30719,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "credits.hmp",
+        "song_link": "resources/OPL3/Descent/credits.hmp",
+        "size": 18685,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmp",
+        "song_link": "resources/OPL3/Descent/descent.hmp",
+        "size": 72597,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmq",
+        "song_link": "resources/OPL3/Descent/descent.hmq",
+        "size": 58526,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "endgame.hmp",
+        "song_link": "resources/OPL3/Descent/endgame.hmp",
+        "size": 36316,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "endgame.hmq",
+        "song_link": "resources/OPL3/Descent/endgame.hmq",
+        "size": 24077,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "endlevel.hmp",
+        "song_link": "resources/OPL3/Descent/endlevel.hmp",
+        "size": 9216,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "endlevel.hmq",
+        "song_link": "resources/OPL3/Descent/endlevel.hmq",
+        "size": 7635,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game01.hmp",
+        "song_link": "resources/OPL3/Descent/game01.hmp",
+        "size": 61523,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game01.hmq",
+        "song_link": "resources/OPL3/Descent/game01.hmq",
+        "size": 56613,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game02.hmp",
+        "song_link": "resources/OPL3/Descent/game02.hmp",
+        "size": 96129,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game02.hmq",
+        "song_link": "resources/OPL3/Descent/game02.hmq",
+        "size": 68749,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game03.hmp",
+        "song_link": "resources/OPL3/Descent/game03.hmp",
+        "size": 59668,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game03.hmq",
+        "song_link": "resources/OPL3/Descent/game03.hmq",
+        "size": 56912,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game04.hmp",
+        "song_link": "resources/OPL3/Descent/game04.hmp",
+        "size": 55450,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game05.hmp",
+        "song_link": "resources/OPL3/Descent/game05.hmp",
+        "size": 47718,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game06.hmp",
+        "song_link": "resources/OPL3/Descent/game06.hmp",
+        "size": 102892,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game07.hmp",
+        "song_link": "resources/OPL3/Descent/game07.hmp",
+        "size": 87779,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game08.hmp",
+        "song_link": "resources/OPL3/Descent/game08.hmp",
+        "size": 46287,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game08.hmq",
+        "song_link": "resources/OPL3/Descent/game08.hmq",
+        "size": 41528,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/rickmelo.bnk",
+          "resources/OPL3/Descent/rickdrum.bnk"
+        ]
+      },
+      {
+        "song": "game09.hmp",
+        "song_link": "resources/OPL3/Descent/game09.hmp",
+        "size": 122575,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game10.hmp",
+        "song_link": "resources/OPL3/Descent/game10.hmp",
+        "size": 166106,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game11.hmp",
+        "song_link": "resources/OPL3/Descent/game11.hmp",
+        "size": 52908,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game11.hmq",
+        "song_link": "resources/OPL3/Descent/game11.hmq",
+        "size": 57530,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game12.hmp",
+        "song_link": "resources/OPL3/Descent/game12.hmp",
+        "size": 50973,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game13.hmp",
+        "song_link": "resources/OPL3/Descent/game13.hmp",
+        "size": 40853,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game13.hmq",
+        "song_link": "resources/OPL3/Descent/game13.hmq",
+        "size": 39892,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game14.hmp",
+        "song_link": "resources/OPL3/Descent/game14.hmp",
+        "size": 82307,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game14.hmq",
+        "song_link": "resources/OPL3/Descent/game14.hmq",
+        "size": 60094,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game15.hmp",
+        "song_link": "resources/OPL3/Descent/game15.hmp",
+        "size": 35431,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game16.hmp",
+        "song_link": "resources/OPL3/Descent/game16.hmp",
+        "size": 43646,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game17.hmp",
+        "song_link": "resources/OPL3/Descent/game17.hmp",
+        "size": 32504,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game18.hmp",
+        "song_link": "resources/OPL3/Descent/game18.hmp",
+        "size": 74000,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game18.hmq",
+        "song_link": "resources/OPL3/Descent/game18.hmq",
+        "size": 75410,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game19.hmp",
+        "song_link": "resources/OPL3/Descent/game19.hmp",
+        "size": 54506,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game20.hmp",
+        "song_link": "resources/OPL3/Descent/game20.hmp",
+        "size": 38307,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game21.hmp",
+        "song_link": "resources/OPL3/Descent/game21.hmp",
+        "size": 56844,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game21.hmq",
+        "song_link": "resources/OPL3/Descent/game21.hmq",
+        "size": 47104,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      },
+      {
+        "song": "game22.hmp",
+        "song_link": "resources/OPL3/Descent/game22.hmp",
+        "size": 46876,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game22.hmq",
+        "song_link": "resources/OPL3/Descent/game22.hmq",
+        "size": 40524,
+        "composer": "Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent/hammelo.bnk",
+          "resources/OPL3/Descent/hamdrum.bnk"
+        ]
+      }
+    ]
+  },
+  {
+    "game": "Descent II",
+    "platform": "PC",
+    "developers": [
+      "Parallax Software"
+    ],
+    "publishers": [
+      "Interplay"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Descent II",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/694/descent-ii/",
+        "gallery": [
+          "https://cdn.mobygames.com/a94c125e-ac0d-11ed-bdca-02420a000133.webp",
+          "https://cdn.mobygames.com/a39a8742-ac20-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/ae760ca8-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/a40f2dae-ac20-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/ac1e6f18-ac0d-11ed-bdca-02420a000133.webp",
+          "https://cdn.mobygames.com/aca33c48-ac0d-11ed-bdca-02420a000133.webp",
+          "https://cdn.mobygames.com/a5a442da-ac20-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/b156f2c8-abfb-11ed-a161-02420a000136.webp",
+          "https://cdn.mobygames.com/a6c7fd50-ac20-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/a7e41232-ac20-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/b3d9e2da-abfb-11ed-a161-02420a000136.webp",
+          "https://cdn.mobygames.com/b571dd28-abfb-11ed-a161-02420a000136.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Descent II/melodic.bnk",
+      "resources/OPL3/Descent II/drum.bnk"
+    ],
+    "songs": [
+      {
+        "song": "briefing.hmp",
+        "song_link": "resources/OPL3/Descent II/briefing.hmp",
+        "size": 23634,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent II/d2melod.bnk",
+          "resources/OPL3/Descent II/d2drums.bnk"
+        ]
+      },
+      {
+        "song": "credits.hmp",
+        "song_link": "resources/OPL3/Descent II/credits.hmp",
+        "size": 41014,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmp",
+        "song_link": "resources/OPL3/Descent II/descent.hmp",
+        "size": 86949,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "descent.hmq",
+        "song_link": "resources/OPL3/Descent II/descent.hmq",
+        "size": 72772,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent II/d2melod.bnk",
+          "resources/OPL3/Descent II/d2drums.bnk"
+        ]
+      },
+      {
+        "song": "game01.hmp",
+        "song_link": "resources/OPL3/Descent II/game01.hmp",
+        "size": 38897,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game01.hmq",
+        "song_link": "resources/OPL3/Descent II/game01.hmq",
+        "size": 48329,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent II/d2melod.bnk",
+          "resources/OPL3/Descent II/d2drums.bnk"
+        ]
+      },
+      {
+        "song": "game02.hmp",
+        "song_link": "resources/OPL3/Descent II/game02.hmp",
+        "size": 138047,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game02.hmq",
+        "song_link": "resources/OPL3/Descent II/game02.hmq",
+        "size": 128598,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent II/d2melod.bnk",
+          "resources/OPL3/Descent II/d2drums.bnk"
+        ]
+      },
+      {
+        "song": "game03.hmp",
+        "song_link": "resources/OPL3/Descent II/game03.hmp",
+        "size": 134525,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game03.hmq",
+        "song_link": "resources/OPL3/Descent II/game03.hmq",
+        "size": 107423,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles",
+        "samples": [
+          "resources/OPL3/Descent II/d2melod.bnk",
+          "resources/OPL3/Descent II/d2drums.bnk"
+        ]
+      },
+      {
+        "song": "game04.hmp",
+        "song_link": "resources/OPL3/Descent II/game04.hmp",
+        "size": 33648,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      },
+      {
+        "song": "game04.hmq",
+        "song_link": "resources/OPL3/Descent II/game04.hmq",
+        "size": 32953,
+        "composer": "Dan Wentz, Ken Allen, Brian Luzietti, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles, Larry Peacock, Leslie Spitzer, Jim Torres, Tim Wiles"
+      }
+    ]
+  },
+  {
     "game": "Desert Strike",
     "platform": "Amiga",
     "developers": [
@@ -18772,6 +19375,1006 @@
     ]
   },
   {
+    "game": "Elder Scrolls II: Daggerfall",
+    "platform": "PC",
+    "developers": [
+      "Bethesda Softworks"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "year": 1996,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=The_Elder_Scrolls_II:_Daggerfall_(DOS)",
+    "links": [
+      {
+        "title": "Elder Scrolls II: Daggerfall",
+        "site": "MobyGames",
+        "url": "http://www.mobygames.com/game/elder-scrolls-chapter-ii-daggerfall",
+        "gallery": [
+          "https://cdn.mobygames.com/5334a5dc-abe7-11ed-b57a-02420a000130.webp",
+          "https://cdn.mobygames.com/2d7ff240-ac02-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/2d52a24a-ac02-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/a34ace6a-2512-11f0-bca2-02420a0001d4.webp",
+          "https://cdn.mobygames.com/2e83bf7a-2511-11f0-8c33-02420a0001d2.webp",
+          "https://cdn.mobygames.com/5afd9ca6-2511-11f0-8c33-02420a0001d2.webp",
+          "https://cdn.mobygames.com/2f3fcbd2-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/6fa70372-2511-11f0-862b-02420a0001d1.webp",
+          "https://cdn.mobygames.com/b4f210de-2511-11f0-862b-02420a0001d1.webp",
+          "https://cdn.mobygames.com/e3ae1840-ac01-11ed-b7c8-02420a000136.webp",
+          "https://cdn.mobygames.com/9a442d76-2511-11f0-8572-02420a0001d2.webp",
+          "https://cdn.mobygames.com/c9e7a6de-2511-11f0-9a72-02420a0001d3.webp",
+          "https://cdn.mobygames.com/f73aff78-2511-11f0-96bf-02420a0001d2.webp",
+          "https://cdn.mobygames.com/2ea6eb1a-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/2d477d0c-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/3261af92-ac02-11ed-833b-02420a000131.webp",
+          "https://cdn.mobygames.com/2dedc9d2-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/15961fc0-2512-11f0-9a72-02420a0001d3.webp",
+          "https://cdn.mobygames.com/2e510958-2512-11f0-bca2-02420a0001d4.webp",
+          "https://cdn.mobygames.com/dc94c9e6-ac01-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/2ff7352e-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/04ebc6e4-ab88-11ed-93d8-02420a000198.webp",
+          "https://cdn.mobygames.com/e1e9930e-ac01-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/326c9f06-ac02-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/310b55e4-ac02-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/e455d760-ac01-11ed-b7c8-02420a000136.webp",
+          "https://cdn.mobygames.com/e4076d6e-ac01-11ed-b7c8-02420a000136.webp",
+          "https://cdn.mobygames.com/325bfc50-ac02-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/30cb811c-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/5b00057c-abe7-11ed-ac61-02420a00012e.webp",
+          "https://cdn.mobygames.com/e4ae4b3e-ac01-11ed-b7c8-02420a000136.webp",
+          "https://cdn.mobygames.com/31e47df6-ac02-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/2ed7820c-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/e5cc42f0-ac01-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/e0706a7a-ac01-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/2e758f98-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/e00c6822-ac01-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/e3e8b928-ac01-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/2d18f0c2-ac02-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/6cdba300-ab9c-11ed-93d8-02420a000198.webp",
+          "https://cdn.mobygames.com/323474b4-ac02-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/6caa257e-c1d5-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/2cec9b4e-ac02-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/2cc321d8-ac02-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/308b2090-ac02-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/2fc2129a-ac02-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/31307932-ac02-11ed-833b-02420a000131.webp",
+          "https://cdn.mobygames.com/9c90d278-ac00-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/2f0a6f8c-ac02-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/30f8b8ee-ac02-11ed-aeca-02420a000130.webp"
+        ]
+      },
+      {
+        "title": "Elder Scrolls II: Daggerfall",
+        "site": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall"
+      }
+    ],
+    "samples": [
+      "resources/samples/Elder Scrolls II - Daggerfall/MELODIC.BNK",
+      "resources/samples/Elder Scrolls II - Daggerfall/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "MIDI_0000.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0000.HMI",
+        "size": 19356,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0001.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0001.HMI",
+        "size": 7580,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0002.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0002.HMI",
+        "size": 6834,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0003.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0003.HMI",
+        "size": 4551,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0004.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0004.HMI",
+        "size": 3372,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0005.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0005.HMI",
+        "size": 10659,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0006.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0006.HMI",
+        "size": 8073,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0007.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0007.HMI",
+        "size": 9394,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0008.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0008.HMI",
+        "size": 17658,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0009.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0009.HMI",
+        "size": 10357,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0010.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0010.HMI",
+        "size": 3318,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0011.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0011.HMI",
+        "size": 4882,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0012.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0012.HMI",
+        "size": 6976,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0013.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0013.HMI",
+        "size": 11065,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0014.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0014.HMI",
+        "size": 9520,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0015.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0015.HMI",
+        "size": 7850,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0016.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0016.HMI",
+        "size": 19465,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0017.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0017.HMI",
+        "size": 13794,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0018.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0018.HMI",
+        "size": 7748,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0019.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0019.HMI",
+        "size": 8672,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0020.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0020.HMI",
+        "size": 14716,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0021.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0021.HMI",
+        "size": 6173,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0022.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0022.HMI",
+        "size": 7487,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0023.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0023.HMI",
+        "size": 7521,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0024.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0024.HMI",
+        "size": 6810,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0025.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0025.HMI",
+        "size": 1890,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0026.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0026.HMI",
+        "size": 6333,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0027.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0027.HMI",
+        "size": 11656,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0028.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0028.HMI",
+        "size": 4123,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0029.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0029.HMI",
+        "size": 3851,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0030.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0030.HMI",
+        "size": 3559,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0031.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0031.HMI",
+        "size": 6366,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0032.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0032.HMI",
+        "size": 14701,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0033.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0033.HMI",
+        "size": 7561,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0034.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0034.HMI",
+        "size": 19356,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0035.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0035.HMI",
+        "size": 14695,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0036.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0036.HMI",
+        "size": 7528,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0037.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0037.HMI",
+        "size": 6370,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0038.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0038.HMI",
+        "size": 5692,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0039.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0039.HMI",
+        "size": 6484,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0040.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0040.HMI",
+        "size": 6721,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0041.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0041.HMI",
+        "size": 7501,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0042.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0042.HMI",
+        "size": 7106,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0043.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0043.HMI",
+        "size": 6286,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0044.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0044.HMI",
+        "size": 4352,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0045.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0045.HMI",
+        "size": 10138,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0046.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0046.HMI",
+        "size": 2711,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0047.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0047.HMI",
+        "size": 21469,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0048.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0048.HMI",
+        "size": 2571,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0049.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0049.HMI",
+        "size": 6946,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0050.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0050.HMI",
+        "size": 7894,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0051.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0051.HMI",
+        "size": 6451,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0052.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0052.HMI",
+        "size": 26069,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0053.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0053.HMI",
+        "size": 13598,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0054.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0054.HMI",
+        "size": 19795,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0055.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0055.HMI",
+        "size": 34662,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0056.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0056.HMI",
+        "size": 9394,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0057.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0057.HMI",
+        "size": 12276,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0058.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0058.HMI",
+        "size": 8990,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0059.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0059.HMI",
+        "size": 11030,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0060.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0060.HMI",
+        "size": 6892,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0061.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0061.HMI",
+        "size": 1274,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0062.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0062.HMI",
+        "size": 1588,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0063.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0063.HMI",
+        "size": 6957,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0064.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0064.HMI",
+        "size": 7669,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0065.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0065.HMI",
+        "size": 7114,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0066.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0066.HMI",
+        "size": 10138,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0067.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0067.HMI",
+        "size": 4882,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0068.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0068.HMI",
+        "size": 8142,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0069.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0069.HMI",
+        "size": 9539,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0070.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0070.HMI",
+        "size": 8373,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0071.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0071.HMI",
+        "size": 9690,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0072.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0072.HMI",
+        "size": 8342,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0073.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0073.HMI",
+        "size": 6892,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0074.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0074.HMI",
+        "size": 12424,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0075.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0075.HMI",
+        "size": 12925,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0076.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0076.HMI",
+        "size": 10432,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0077.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0077.HMI",
+        "size": 6957,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0078.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0078.HMI",
+        "size": 10680,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0079.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0079.HMI",
+        "size": 17658,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0080.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0080.HMI",
+        "size": 12950,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0081.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0081.HMI",
+        "size": 10680,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0082.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0082.HMI",
+        "size": 4349,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0083.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0083.HMI",
+        "size": 2711,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0084.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0084.HMI",
+        "size": 21464,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0085.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0085.HMI",
+        "size": 7499,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0086.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0086.HMI",
+        "size": 2205,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0087.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0087.HMI",
+        "size": 8142,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0088.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0088.HMI",
+        "size": 22602,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0089.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0089.HMI",
+        "size": 8653,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0090.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0090.HMI",
+        "size": 6333,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0091.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0091.HMI",
+        "size": 7487,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0092.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0092.HMI",
+        "size": 6286,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0093.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0093.HMI",
+        "size": 8539,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0094.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0094.HMI",
+        "size": 4551,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0095.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0095.HMI",
+        "size": 9138,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0096.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0096.HMI",
+        "size": 12950,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0097.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0097.HMI",
+        "size": 6976,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0098.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0098.HMI",
+        "size": 9009,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0099.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0099.HMI",
+        "size": 3851,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0100.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0100.HMI",
+        "size": 6266,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0101.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0101.HMI",
+        "size": 10105,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0102.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0102.HMI",
+        "size": 10432,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0103.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0103.HMI",
+        "size": 8672,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0104.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0104.HMI",
+        "size": 7221,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0105.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0105.HMI",
+        "size": 26069,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0106.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0106.HMI",
+        "size": 13598,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0107.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0107.HMI",
+        "size": 6810,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0108.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0108.HMI",
+        "size": 7863,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0109.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0109.HMI",
+        "size": 4076,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0110.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0110.HMI",
+        "size": 2571,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0111.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0111.HMI",
+        "size": 3318,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0112.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0112.HMI",
+        "size": 14855,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0113.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0113.HMI",
+        "size": 7167,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0114.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0114.HMI",
+        "size": 11035,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0115.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0115.HMI",
+        "size": 3559,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0116.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0116.HMI",
+        "size": 6451,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0117.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0117.HMI",
+        "size": 13794,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0118.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0118.HMI",
+        "size": 19465,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0119.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0119.HMI",
+        "size": 10779,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0120.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0120.HMI",
+        "size": 5281,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0121.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0121.HMI",
+        "size": 14014,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0122.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0122.HMI",
+        "size": 10631,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0123.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0123.HMI",
+        "size": 7134,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0124.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0124.HMI",
+        "size": 7221,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0125.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0125.HMI",
+        "size": 10105,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0126.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0126.HMI",
+        "size": 8301,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0127.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0127.HMI",
+        "size": 12683,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0128.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0128.HMI",
+        "size": 14063,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0129.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0129.HMI",
+        "size": 8568,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      },
+      {
+        "song": "MIDI_0130.HMI",
+        "song_link": "VGMPF/PC/Elder Scrolls II Daggerfall/MIDI_0130.HMI",
+        "size": 10776,
+        "composer": "Eric Heberling, Andy Warr",
+        "source_archive": "http://www.vgmpf.com/Rips/Daggerfall-DOS.zip"
+      }
+    ]
+  },
+  {
     "game": "Elf",
     "platform": "Amiga",
     "developers": [
@@ -20242,6 +21845,102 @@
         "size": 11516,
         "composer": "David Joiner",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FJoiner_David%2FFaery_Tale_Adventure.lha"
+      }
+    ]
+  },
+  {
+    "game": "Fatal Racing",
+    "platform": "PC",
+    "developers": [
+      "Gremlin Interactive"
+    ],
+    "publishers": [
+      "Gremlin Interactive"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Fatal Racing",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Fatal_Racing"
+      },
+      {
+        "title": "Fatal Racing",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/685/whiplash/",
+        "gallery": [
+          "https://cdn.mobygames.com/0bf7acfe-ab6b-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/3a99a8ec-abe7-11ed-96e1-02420a00012d.webp",
+          "https://cdn.mobygames.com/0c7b7c50-ab6b-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/07688154-ab6b-11ed-9e18-02420a00019a.webp",
+          "https://cdn.mobygames.com/01aa2c4a-ab6b-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/d4670450-ab89-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/030a47a0-ab6b-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/0338b432-ab6b-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/0385b610-ab6b-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/03b09b64-ab6b-11ed-b430-02420a0001a0.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/samples/Fatal Racing/MELODIC.BNK",
+      "resources/samples/Fatal Racing/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "INGAME1.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME1.HMP",
+        "size": 38827,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME2.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME2.HMP",
+        "size": 70691,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME3.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME3.HMP",
+        "size": 43664,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "INGAME4.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/INGAME4.HMP",
+        "size": 39676,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "LEADBORD.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/LEADBORD.HMP",
+        "size": 25043,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "OPTIONS.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/OPTIONS.HMP",
+        "size": 46028,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "TITLE.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/TITLE.HMP",
+        "size": 24753,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "WINONE.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/WINONE.HMP",
+        "size": 11764,
+        "composer": "Neil Biggin"
+      },
+      {
+        "song": "WINTWO.HMP",
+        "song_link": "resources/OPL3/Fatal Racing/WINTWO.HMP",
+        "size": 27741,
+        "composer": "Neil Biggin"
       }
     ]
   },
@@ -22487,6 +24186,11 @@
     "source_link": "https://www.exotica.org.uk/wiki/Gobliiins",
     "links": [
       {
+        "title": "Gobliiins",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Gobliiins"
+      },
+      {
         "title": "Gobliiins (ECS)",
         "site": "Hall Of Light",
         "url": "http://hol.abime.net/2750"
@@ -22525,6 +24229,11 @@
     "year": 1992,
     "source": "gamus",
     "links": [
+      {
+        "title": "Gobliins 2: The Prince Buffoon",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Gobliins_2:_The_Prince_Buffoon"
+      },
       {
         "title": "Gobliins 2: The Prince Buffoon",
         "site": "Lemon Amiga",
@@ -22580,6 +24289,11 @@
     "source": "VGMPF",
     "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Gobliins_2:_The_Prince_Buffoon_(DOS)",
     "links": [
+      {
+        "title": "Gobliins 2: The Prince Buffoon",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Gobliins_2:_The_Prince_Buffoon"
+      },
       {
         "title": "Gobliins 2",
         "site": "MobyGames",
@@ -22714,6 +24428,11 @@
     "links": [
       {
         "title": "Goblins 3",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Goblins_3"
+      },
+      {
+        "title": "Goblins 3",
         "site": "Lemon Amiga",
         "url": "https://www.lemonamiga.com/games/details.php?id=460",
         "gallery": [
@@ -22761,6 +24480,11 @@
     "source": "VGMPF",
     "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)",
     "links": [
+      {
+        "title": "Goblins 3",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Goblins_3"
+      },
       {
         "title": "Goblins 3",
         "site": "MobyGames",
@@ -24162,6 +25886,261 @@
     ]
   },
   {
+    "game": "Hexen II",
+    "platform": "PC",
+    "developers": [
+      "Raven Software",
+      "Raven"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "year": "1997",
+    "source": "World of Game MIDs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTg3Mg==",
+    "links": [
+      {
+        "title": "Hexen II",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Hexen_II"
+      },
+      {
+        "title": "Hexen II",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/813/hexen-ii/",
+        "gallerySection": "Windows screenshots",
+        "gallery": [
+          "https://cdn.mobygames.com/8bb1023a-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/47032c30-ac0e-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/4759461a-ac0e-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/8bf8b35a-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8c4b5362-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8c92df70-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8ce03e28-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8d29d5b0-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8d6fde84-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8ab86f22-ac0d-11ed-b6e7-02420a000135.webp",
+          "https://cdn.mobygames.com/8daf646e-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8defd92c-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8e31e060-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/8e76bfe6-ac0e-11ed-8a97-02420a00012d.webp",
+          "https://cdn.mobygames.com/88f53052-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/894d3892-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8c0355e4-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8c3ff2f6-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8127628c-ac0e-11ed-b83f-02420a000135.webp",
+          "https://cdn.mobygames.com/8c7b5ddc-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8cb645b4-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/113313ac-ab6b-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/829db2ec-ac0e-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/2268bba6-ab73-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/8d40ebf6-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8b9c5f74-ac0e-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/8d84a4ea-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8dc033d4-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8df712c8-ac0e-11ed-9899-02420a000134.webp"
+        ]
+      }
+    ],
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "Casa1.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casa1.mid",
+        "size": 8489,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casa2.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casa2.mid",
+        "size": 19745,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casa3.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casa3.mid",
+        "size": 7174,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casa4.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casa4.mid",
+        "size": 9079,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casb1.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casb1.mid",
+        "size": 18475,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casb2.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casb2.mid",
+        "size": 29401,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Casb3.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Casb3.mid",
+        "size": 12291,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Egyp1.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Egyp1.mid",
+        "size": 26173,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Egyp2.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Egyp2.mid",
+        "size": 10892,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Egyp3.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Egyp3.mid",
+        "size": 15155,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Meso1.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Meso1.mid",
+        "size": 14272,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Meso2.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Meso2.mid",
+        "size": 17005,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Meso3.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Meso3.mid",
+        "size": 19642,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Roma1.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Roma1.mid",
+        "size": 21038,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Roma2.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Roma2.mid",
+        "size": 22486,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "Roma3.mid",
+        "song_link": "World of Game MODs/PC/Hexen II/Roma3.mid",
+        "size": 15683,
+        "composer": "Kevin Schilder"
+      }
+    ]
+  },
+  {
+    "game": "Hexen II: Portal of Praevus",
+    "platform": "PC",
+    "developers": [
+      "Raven Software"
+    ],
+    "publishers": [
+      "Activision",
+      "ID Software"
+    ],
+    "year": "1998",
+    "source": "World of Game MIDs",
+    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNzA=",
+    "links": [
+      {
+        "title": "Hexen II: Portal of Praevus",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Hexen_II:_Portal_of_Praevus"
+      },
+      {
+        "title": "Hexen II: Portal of Praevus",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/814/hexen-ii-mission-pack-portal-of-praevus/",
+        "gallerySection": "Windows screenshots",
+        "gallery": [
+          "https://cdn.mobygames.com/8e3b5db6-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8e78124c-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8eb2abe6-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8efbbdc2-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8f3f2de6-ac0e-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/8f7ea520-ac0e-11ed-9899-02420a000134.webp"
+        ]
+      }
+    ],
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "h2mp01.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp01.mid",
+        "size": 15694,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp02.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp02.mid",
+        "size": 15152,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp03.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp03.mid",
+        "size": 22150,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp04.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp04.mid",
+        "size": 20921,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp05.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp05.mid",
+        "size": 8939,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp06.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp06.mid",
+        "size": 19518,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp07.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp07.mid",
+        "size": 22697,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp08.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp08.mid",
+        "size": 14553,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp09.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp09.mid",
+        "size": 18521,
+        "composer": "Kevin Schilder"
+      },
+      {
+        "song": "h2mp10.mid",
+        "song_link": "World of Game MODs/PC/Hexen II Portal of Praevus/h2mp10.mid",
+        "size": 12061,
+        "composer": "Kevin Schilder"
+      }
+    ]
+  },
+  {
     "game": "Hexen: Beyond Heretic",
     "platform": "PC",
     "developers": [
@@ -24175,6 +26154,11 @@
     "source": "VGMPF",
     "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Hexen:_Beyond_Heretic_(DOS)",
     "links": [
+      {
+        "title": "Hexen: Beyond Heretic",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Hexen:_Beyond_Heretic"
+      },
       {
         "title": "Hexen: Beyond Heretic",
         "site": "MobyGames",
@@ -24478,6 +26462,74 @@
         "size": 14062,
         "composer": "Kevin Schilder",
         "source_archive": "http://www.vgmpf.com/Rips/Hexen-DOS.zip"
+      }
+    ]
+  },
+  {
+    "game": "Hi Octane",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog Productions, Ltd."
+    ],
+    "publishers": [],
+    "year": 1995,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Hi_Octane_(DOS)",
+    "links": [
+      {
+        "title": "Hi Octane",
+        "site": "MobyGames",
+        "url": "http://www.mobygames.com/game/dos/hi-octane",
+        "gallery": [
+          "https://cdn.mobygames.com/4eb499c8-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/4f05cd7a-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/4f6192f4-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/5035b020-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/508b7f14-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/5176665a-ab73-11ed-a5ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/c1882d7a-abb4-11ed-8ed2-02420a0001a0.webp",
+          "https://cdn.mobygames.com/b6c3a890-abfc-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/b793db1e-abfc-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/b75aab50-abfc-11ed-803a-02420a000131.webp"
+        ]
+      }
+    ],
+    "samples": "resources/samples/Hi-Octane/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "tgame1.xmi",
+        "song_link": "VGMPF/PC/Hi Octane/tgame1.xmi",
+        "size": 23210,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5c/Hi_Octane_%28DOS%29.zip"
+      },
+      {
+        "song": "tgame2.xmi",
+        "song_link": "VGMPF/PC/Hi Octane/tgame2.xmi",
+        "size": 20636,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5c/Hi_Octane_%28DOS%29.zip"
+      },
+      {
+        "song": "tgame3.xmi",
+        "song_link": "VGMPF/PC/Hi Octane/tgame3.xmi",
+        "size": 22432,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5c/Hi_Octane_%28DOS%29.zip"
+      },
+      {
+        "song": "tgame4.xmi",
+        "song_link": "VGMPF/PC/Hi Octane/tgame4.xmi",
+        "size": 18024,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5c/Hi_Octane_%28DOS%29.zip"
+      },
+      {
+        "song": "tintro2.xmi",
+        "song_link": "VGMPF/PC/Hi Octane/tintro2.xmi",
+        "size": 5034,
+        "composer": "Russell Shaw",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/5/5c/Hi_Octane_%28DOS%29.zip"
       }
     ]
   },
@@ -29344,7 +31396,8 @@
     ],
     "publishers": [
       "Virgin Games, Inc.",
-      "Virgin Games, Ltd."
+      "Virgin Games, Ltd.",
+      "Acer Third Wave Publishing Co., Ltd."
     ],
     "year": 1992,
     "source": "VGMPF",
@@ -33466,6 +35519,187 @@
         "song_link": "resources/OPL3/Lure of the Temptress/disk4.vga_008.mdi",
         "size": 18266,
         "composer": "Richard Joseph"
+      }
+    ]
+  },
+  {
+    "game": "Magic Carpet",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Magic Carpet",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/361/magic-carpet/",
+        "gallery": [
+          "https://cdn.mobygames.com/9eaadb38-ab76-11ed-beab-02420a000199.webp",
+          "https://cdn.mobygames.com/9f4a2152-ab76-11ed-beab-02420a000199.webp",
+          "https://cdn.mobygames.com/5dab1828-ac20-11ed-9584-02420a000136.webp",
+          "https://cdn.mobygames.com/5df9d8c8-ac20-11ed-9584-02420a000136.webp",
+          "https://cdn.mobygames.com/7cc44f3a-ac17-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/8026b99c-ac17-11ed-87d3-02420a000134.webp",
+          "https://cdn.mobygames.com/84bb2308-ac17-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/96c28b36-ac17-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/2567c03e-c286-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/81000acc-bf08-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/25970556-c286-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/25cd4224-c286-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/25f02956-c286-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/98ee9924-c286-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/07e97bf4-bf09-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/7c949a98-bf08-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/024ce7e0-c287-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/a5a2f506-bf08-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/f896dfd6-c271-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/027732c0-c287-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/340099bc-c287-11ed-bae4-02420a0001a1.webp",
+          "https://cdn.mobygames.com/04cbbde2-c288-11ed-bae4-02420a0001a1.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Magic Carpet/INST.BNK",
+      "resources/OPL3/Magic Carpet/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "GAME1.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME1.HMP",
+        "size": 23888,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME2.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME2.HMP",
+        "size": 23952,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME3.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/GAME3.HMP",
+        "size": 13392,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO4.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO4.HMP",
+        "size": 7696,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO5.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO5.HMP",
+        "size": 2912,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO6.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/INTRO6.HMP",
+        "size": 13888,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SETUP.HMP",
+        "song_link": "resources/OPL3/Magic Carpet/SETUP.HMP",
+        "size": 12352,
+        "composer": "Russell Shaw"
+      }
+    ]
+  },
+  {
+    "game": "Magic Carpet 2",
+    "platform": "PC",
+    "developers": [
+      "Bullfrog"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Magic Carpet 2: The Netherworlds",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/790/magic-carpet-2-the-netherworlds/",
+        "gallery": [
+          "https://cdn.mobygames.com/a0854952-ab76-11ed-beab-02420a000199.webp",
+          "https://cdn.mobygames.com/a25b666c-ab76-11ed-beab-02420a000199.webp",
+          "https://cdn.mobygames.com/a2aabac8-ab76-11ed-beab-02420a000199.webp",
+          "https://cdn.mobygames.com/a304502e-ab76-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/a3e761b6-ab76-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/a403a06a-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a4863fd4-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a4f60d64-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a56f44e0-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a6299d04-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a6c4a2e0-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a72724ec-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a7ac36fa-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a81db26c-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/a8754a04-ab76-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/ce52718e-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/cf4f7820-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/cfd5a972-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d0cf4536-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d1505e78-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d2cd0e4a-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d3e6b9e8-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d535a214-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/d6a160ca-ab76-11ed-ba04-02420a00019f.webp",
+          "https://cdn.mobygames.com/cc01c768-ab76-11ed-8d2b-02420a00019e.webp",
+          "https://cdn.mobygames.com/cc9037a0-ab76-11ed-8d2b-02420a00019e.webp",
+          "https://cdn.mobygames.com/cd4cc424-ab76-11ed-8d2b-02420a00019e.webp",
+          "https://cdn.mobygames.com/cf73967e-ab76-11ed-8d2b-02420a00019e.webp",
+          "https://cdn.mobygames.com/d04cc106-ab76-11ed-8d2b-02420a00019e.webp",
+          "https://cdn.mobygames.com/9a77ad90-e62d-11ef-8b4d-02420a000170.webp"
+        ]
+      }
+    ],
+    "samples": "resources/OPL3/Magic Carpet 2/SAMPLE.AD",
+    "songs": [
+      {
+        "song": "CUTS.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/CUTS.XMI",
+        "size": 1312,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME1.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME1.XMI",
+        "size": 10342,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME2.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME2.XMI",
+        "size": 43612,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "GAME3.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/GAME3.XMI",
+        "size": 14920,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "INTRO.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/INTRO.XMI",
+        "size": 5968,
+        "composer": "Russell Shaw"
+      },
+      {
+        "song": "SETUP.XMI",
+        "song_link": "resources/OPL3/Magic Carpet 2/SETUP.XMI",
+        "size": 4440,
+        "composer": "Russell Shaw"
       }
     ]
   },
@@ -47517,6 +49751,11 @@
     "links": [
       {
         "title": "Screamer",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Screamer"
+      },
+      {
+        "title": "Screamer",
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/621/screamer/",
         "gallery": [
@@ -47543,8 +49782,8 @@
       }
     ],
     "samples": [
-      "resources/OPL3/Screamer/MELODIC.BNK",
-      "resources/OPL3/Screamer/DRUM.BNK"
+      "resources/samples/Screamer/MELODIC.BNK",
+      "resources/samples/Screamer/DRUM.BNK"
     ],
     "songs": [
       {
@@ -47587,59 +49826,6 @@
         "song": "MUSIC7.HMP",
         "song_link": "resources/OPL3/Screamer/MUSIC7.HMP",
         "size": 20644,
-        "composer": "Allister Brimble"
-      }
-    ]
-  },
-  {
-    "game": "Screamer",
-    "platform": "PC",
-    "developers": [
-      "Milestone",
-      "Grafitti",
-      "Graffiti"
-    ],
-    "publishers": [
-      "Virgin",
-      "Virgin Games",
-      "Virgin Interactive Entertainment"
-    ],
-    "year": "1995",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=OTEx",
-    "links": [
-      {
-        "title": "Screamer",
-        "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/621/screamer/",
-        "gallery": [
-          "https://cdn.mobygames.com/1d0f5c26-ab6b-11ed-9505-02420a00019c.webp",
-          "https://cdn.mobygames.com/1d36b442-ab6b-11ed-9505-02420a00019c.webp",
-          "https://cdn.mobygames.com/1d65618e-ab6b-11ed-9505-02420a00019c.webp",
-          "https://cdn.mobygames.com/1e58ce5a-ab6b-11ed-9505-02420a00019c.webp",
-          "https://cdn.mobygames.com/1e7dfffe-ab6b-11ed-9505-02420a00019c.webp",
-          "https://cdn.mobygames.com/b0c2ed3c-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/b0f6e3b2-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/b129be68-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/b1608cf4-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/b190da3a-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/b1c63cfc-abf9-11ed-927d-02420a00012f.webp",
-          "https://cdn.mobygames.com/9458f3c6-abfe-11ed-833b-02420a000131.webp",
-          "https://cdn.mobygames.com/952dae18-abfe-11ed-897b-02420a00012d.webp",
-          "https://cdn.mobygames.com/94f7726c-abfe-11ed-897b-02420a00012d.webp",
-          "https://cdn.mobygames.com/941c8cba-abfe-11ed-833b-02420a000131.webp",
-          "https://cdn.mobygames.com/6e74906e-ac1e-11ed-b351-02420a00012e.webp",
-          "https://cdn.mobygames.com/6ee80b5c-ac1e-11ed-b351-02420a00012e.webp",
-          "https://cdn.mobygames.com/6e696770-ac1e-11ed-803a-02420a000131.webp",
-          "https://cdn.mobygames.com/6f53cd74-ac1e-11ed-b351-02420a00012e.webp"
-        ]
-      }
-    ],
-    "songs": [
-      {
-        "song": "screamer.mod",
-        "song_link": "World of Game MODs/PC/Screamer/screamer.mod",
-        "size": 151804,
         "composer": "Allister Brimble"
       }
     ]
@@ -50228,6 +52414,321 @@
         "size": 46946,
         "composer": "Barry Leitch",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FLeitch_Barry%2FSilk_Worm.lha"
+      }
+    ]
+  },
+  {
+    "game": "SimCity 2000",
+    "platform": "PC",
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Maxis"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "SimCity 2000",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/657/simcity-2000/",
+        "gallery": [
+          "https://cdn.mobygames.com/7159465a-ab72-11ed-b721-02420a00019b.webp",
+          "https://cdn.mobygames.com/71b186f8-ab72-11ed-b721-02420a00019b.webp",
+          "https://cdn.mobygames.com/72093de4-ab72-11ed-b721-02420a00019b.webp",
+          "https://cdn.mobygames.com/72658da6-ab72-11ed-b721-02420a00019b.webp",
+          "https://cdn.mobygames.com/8e341aea-ac15-11ed-803a-02420a000131.webp",
+          "https://cdn.mobygames.com/8ea92128-ac15-11ed-803a-02420a000131.webp",
+          "https://cdn.mobygames.com/8ee30b7c-ac15-11ed-803a-02420a000131.webp",
+          "https://cdn.mobygames.com/964302a0-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/9680f114-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/f2c32082-aba7-11ed-87d1-02420a000197.webp",
+          "https://cdn.mobygames.com/96bd2de6-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/96ffc124-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/9740e0a0-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/97788866-ac15-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/d41747c4-ab72-11ed-91fb-02420a00019f.webp",
+          "https://cdn.mobygames.com/62c3a72e-ac1d-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/63ce059c-ac1d-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/5b23b86a-ac1d-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/60f74ff4-ac1d-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/638690ea-ac1d-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/5b6b2290-ac1d-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/5bbeb81a-ac1d-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/6150e672-ac1d-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/5c201b3c-ac1d-11ed-aeca-02420a000130.webp",
+          "https://cdn.mobygames.com/61a213da-ac1d-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/61f9f42e-ac1d-11ed-902e-02420a00012d.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "20000.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20000.XMI#1",
+        "size": 2220,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20000.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20000.XMI",
+        "size": 2220,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20001.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20001.XMI#1",
+        "size": 3356,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20001.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20001.XMI",
+        "size": 3356,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20002.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20002.XMI#1",
+        "size": 442,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20002.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20002.XMI",
+        "size": 442,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20003.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20003.XMI#1",
+        "size": 1430,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20003.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20003.XMI",
+        "size": 1430,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20004.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20004.XMI#1",
+        "size": 3372,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20004.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20004.XMI",
+        "size": 3372,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20005.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20005.XMI#1",
+        "size": 612,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20005.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20005.XMI",
+        "size": 612,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20006.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20006.XMI#1",
+        "size": 968,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20006.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20006.XMI",
+        "size": 968,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20007.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20007.XMI#1",
+        "size": 4434,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20007.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20007.XMI",
+        "size": 4434,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20008.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20008.XMI#1",
+        "size": 4366,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20008.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20008.XMI",
+        "size": 4366,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20009.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20009.XMI#1",
+        "size": 738,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20009.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20009.XMI",
+        "size": 738,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20010.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20010.XMI#1",
+        "size": 1002,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20010.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20010.XMI",
+        "size": 1002,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20011.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20011.XMI#1",
+        "size": 3904,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20011.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20011.XMI",
+        "size": 3904,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20012.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20012.XMI#1",
+        "size": 2978,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20012.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20012.XMI",
+        "size": 2978,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20013.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20013.XMI#1",
+        "size": 1844,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20013.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20013.XMI",
+        "size": 1844,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20014.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20014.XMI#1",
+        "size": 1184,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20014.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20014.XMI",
+        "size": 1184,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20015.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20015.XMI#1",
+        "size": 458,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20015.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20015.XMI",
+        "size": 458,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20016.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20016.XMI#1",
+        "size": 638,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20016.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20016.XMI",
+        "size": 638,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20017.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20017.XMI#1",
+        "size": 1726,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20017.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20017.XMI",
+        "size": 1726,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
+      },
+      {
+        "song": "20018.XMI OPL2",
+        "song_link": "resources/OPL3/SimCity 2000/20018.XMI#1",
+        "size": 7072,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.ad"
+      },
+      {
+        "song": "20018.XMI OPL3",
+        "song_link": "resources/OPL3/SimCity 2000/20018.XMI",
+        "size": 7072,
+        "composer": "Sue Kasper, Brian Conrad, Justin McCormick",
+        "samples": "resources/OPL3/SimCity 2000/gm.opl"
       }
     ]
   },
@@ -59447,6 +61948,354 @@
     ]
   },
   {
+    "game": "Tyrian",
+    "platform": "PC",
+    "developers": [
+      "Eclipse Software"
+    ],
+    "publishers": [
+      "Epic MegaGames, Inc.",
+      "CDV Software Entertainment AG",
+      "Manaccom"
+    ],
+    "year": 1995,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Tyrian_(DOS)",
+    "links": [
+      {
+        "title": "Tyrian",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/dos/tyrian",
+        "gallery": [
+          "https://cdn.mobygames.com/839e9232-ab74-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/83f1f440-ab74-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/8448c82e-ab74-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/84a9c6f6-ab74-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/84f66128-ab74-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/76b13e6c-ab74-11ed-91fb-02420a00019f.webp",
+          "https://cdn.mobygames.com/8d1d1962-ab6c-11ed-b325-02420a00019e.webp",
+          "https://cdn.mobygames.com/782d1e66-abf9-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/785e1688-abf9-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/78a73fac-abf9-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/78e8e880-abf9-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/791ff4d8-abf9-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/74a51b36-abf9-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/d2d7e416-ac05-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/d3026c04-ac05-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/d3362aa8-ac05-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/d3653a82-ac05-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/d3978438-ac05-11ed-893a-02420a00012f.webp",
+          "https://cdn.mobygames.com/ce6c3508-ac05-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/31075052-bf1c-11ed-9c42-02420a000140.webp"
+        ]
+      },
+      {
+        "title": "Tyrian",
+        "site": "GameFAQs",
+        "url": "https://gamefaqs.gamespot.com/pc/564490-tyrian%20gamefaqs.com/pc/564490-tyrian"
+      },
+      {
+        "title": "Tyrian",
+        "site": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tyrian_%28video_game%29"
+      },
+      {
+        "title": "Tyrian",
+        "site": "Bandcamp",
+        "url": "https://alexanderbrandon.bandcamp.com/album/tyrian-original-soundtrack"
+      }
+    ],
+    "songs": [
+      {
+        "song": "01 - Asteroid Dance Part 2.lds",
+        "song_link": "VGMPF/PC/Tyrian/01 - Asteroid Dance Part 2.lds",
+        "size": 4255,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "02 - Asteroid Dance Part 1.lds",
+        "song_link": "VGMPF/PC/Tyrian/02 - Asteroid Dance Part 1.lds",
+        "size": 8305,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "03 - Buy-Sell Music.lds",
+        "song_link": "VGMPF/PC/Tyrian/03 - Buy-Sell Music.lds",
+        "size": 2188,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "04 - Camanis.lds",
+        "song_link": "VGMPF/PC/Tyrian/04 - Camanis.lds",
+        "size": 5911,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "05 - Camanise.lds",
+        "song_link": "VGMPF/PC/Tyrian/05 - Camanise.lds",
+        "size": 1767,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "06 - Deli Shop Quartet.lds",
+        "song_link": "VGMPF/PC/Tyrian/06 - Deli Shop Quartet.lds",
+        "size": 4405,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "07 - Deli Shop Quartet No. 2.lds",
+        "song_link": "VGMPF/PC/Tyrian/07 - Deli Shop Quartet No. 2.lds",
+        "size": 1309,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "08 - Ending Number 1.lds",
+        "song_link": "VGMPF/PC/Tyrian/08 - Ending Number 1.lds",
+        "size": 2169,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "09 - Ending Number 2.lds",
+        "song_link": "VGMPF/PC/Tyrian/09 - Ending Number 2.lds",
+        "size": 16262,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "10 - End of Level.lds",
+        "song_link": "VGMPF/PC/Tyrian/10 - End of Level.lds",
+        "size": 682,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "11 - Game Over Solo.lds",
+        "song_link": "VGMPF/PC/Tyrian/11 - Game Over Solo.lds",
+        "size": 317,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "12 - Gryphons of the West.lds",
+        "song_link": "VGMPF/PC/Tyrian/12 - Gryphons of the West.lds",
+        "size": 4884,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "13 - Somebody Pick Up the Gryphone.lds",
+        "song_link": "VGMPF/PC/Tyrian/13 - Somebody Pick Up the Gryphone.lds",
+        "size": 1370,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "14 - Gyges, Will You Please Help Me.lds",
+        "song_link": "VGMPF/PC/Tyrian/14 - Gyges, Will You Please Help Me.lds",
+        "size": 7156,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "15 - I Speak Gygese.lds",
+        "song_link": "VGMPF/PC/Tyrian/15 - I Speak Gygese.lds",
+        "size": 1324,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "16 - Halloween Ramble.lds",
+        "song_link": "VGMPF/PC/Tyrian/16 - Halloween Ramble.lds",
+        "size": 3522,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "17 - Tunneling Trolls.lds",
+        "song_link": "VGMPF/PC/Tyrian/17 - Tunneling Trolls.lds",
+        "size": 6135,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "18 - Tyrian, the Level.lds",
+        "song_link": "VGMPF/PC/Tyrian/18 - Tyrian, the Level.lds",
+        "size": 3839,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "19 - The MusicMan.lds",
+        "song_link": "VGMPF/PC/Tyrian/19 - The MusicMan.lds",
+        "size": 930,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "20 - The Navigator.lds",
+        "song_link": "VGMPF/PC/Tyrian/20 - The Navigator.lds",
+        "size": 2365,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "21 - Come Back to Me, Savara.lds",
+        "song_link": "VGMPF/PC/Tyrian/21 - Come Back to Me, Savara.lds",
+        "size": 7563,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "22 - Come Back Again to Savara.lds",
+        "song_link": "VGMPF/PC/Tyrian/22 - Come Back Again to Savara.lds",
+        "size": 1459,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "23 - Space Journey 1.lds",
+        "song_link": "VGMPF/PC/Tyrian/23 - Space Journey 1.lds",
+        "size": 5488,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "24 - Space Journey 2.lds",
+        "song_link": "VGMPF/PC/Tyrian/24 - Space Journey 2.lds",
+        "size": 4402,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "25 - The Final Edge.lds",
+        "song_link": "VGMPF/PC/Tyrian/25 - The Final Edge.lds",
+        "size": 5254,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "26 - Start5.lds",
+        "song_link": "VGMPF/PC/Tyrian/26 - Start5.lds",
+        "size": 2553,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "27 - Parlance.lds",
+        "song_link": "VGMPF/PC/Tyrian/27 - Parlance.lds",
+        "size": 2823,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "28 - Torm - The Gathering.lds",
+        "song_link": "VGMPF/PC/Tyrian/28 - Torm - The Gathering.lds",
+        "size": 3231,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "29 - Transon.lds",
+        "song_link": "VGMPF/PC/Tyrian/29 - Transon.lds",
+        "size": 6391,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "30 - Tyrian - The Song.lds",
+        "song_link": "VGMPF/PC/Tyrian/30 - Tyrian - The Song.lds",
+        "size": 10224,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "31 - Zanac3.lds",
+        "song_link": "VGMPF/PC/Tyrian/31 - Zanac3.lds",
+        "size": 294,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "32 - Zanacs.lds",
+        "song_link": "VGMPF/PC/Tyrian/32 - Zanacs.lds",
+        "size": 4988,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "33 - Return Me to Savara.lds",
+        "song_link": "VGMPF/PC/Tyrian/33 - Return Me to Savara.lds",
+        "size": 4090,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "34 - High Score Table.lds",
+        "song_link": "VGMPF/PC/Tyrian/34 - High Score Table.lds",
+        "size": 514,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "35 - One Mustn't Fall.lds",
+        "song_link": "VGMPF/PC/Tyrian/35 - One Mustn't Fall.lds",
+        "size": 2621,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "36 - Sarah's Song.lds",
+        "song_link": "VGMPF/PC/Tyrian/36 - Sarah's Song.lds",
+        "size": 1877,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "37 - A Field For Mag.lds",
+        "song_link": "VGMPF/PC/Tyrian/37 - A Field For Mag.lds",
+        "size": 2137,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "38 - Rock Garden.lds",
+        "song_link": "VGMPF/PC/Tyrian/38 - Rock Garden.lds",
+        "size": 4181,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "39 - Quest For Peace.lds",
+        "song_link": "VGMPF/PC/Tyrian/39 - Quest For Peace.lds",
+        "size": 1501,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "40 - Composition In Q.lds",
+        "song_link": "VGMPF/PC/Tyrian/40 - Composition In Q.lds",
+        "size": 931,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      },
+      {
+        "song": "41 - Beer.lds",
+        "song_link": "VGMPF/PC/Tyrian/41 - Beer.lds",
+        "size": 1699,
+        "composer": "Andras Molnar",
+        "source_archive": "http://www.vgmpf.com/Rips/Tyrian-DOS.zip"
+      }
+    ]
+  },
+  {
     "game": "UFO: Enemy Unknown",
     "platform": "Amiga",
     "developers": [
@@ -59576,6 +62425,334 @@
         "size": 40380,
         "composer": "Rudolf Stember",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FStember_Rudolf%2FUgh.lha"
+      }
+    ]
+  },
+  {
+    "game": "Ultima Underworld II: Labyrinth of Worlds",
+    "platform": "PC",
+    "developers": [
+      "LookingGlass Technologies"
+    ],
+    "publishers": [
+      "Origin Systems"
+    ],
+    "year": 1993,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Ultima Underworld II: Labyrinth of Worlds",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/691/ultima-underworld-ii-labyrinth-of-worlds/",
+        "gallery": [
+          "https://cdn.mobygames.com/4c2e21ec-ac09-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/4c853784-ac09-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/396c618c-ab8b-11ed-8048-02420a000198.webp",
+          "https://cdn.mobygames.com/680948ce-ac09-11ed-87d3-02420a000134.webp",
+          "https://cdn.mobygames.com/7b3c077e-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/2576d04e-ab8c-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/70e62e1c-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/d34aea44-ac08-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/d3e087fc-ac08-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/7115da36-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/2e497834-ab8c-11ed-9377-02420a000197.webp",
+          "https://cdn.mobygames.com/75b18090-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/4bc006bc-ac09-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/4bf348ce-ac09-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/7ab12fc8-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/78988344-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/714615de-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/739f15b0-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/73650064-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/717bf6ae-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/94c2a2a2-ac09-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/5b08929c-ac09-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/732356be-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/72e3777e-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/71b27580-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/7297fcae-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/71e2b57e-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/9495d81c-ac09-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/72158db4-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/725a2992-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/f074d0c6-ac08-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/722077e2-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/7249a720-ac09-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/67124614-ab8c-11ed-99ae-02420a00019e.webp",
+          "https://cdn.mobygames.com/ed167e66-ac08-11ed-9eb0-02420a000136.webp",
+          "https://cdn.mobygames.com/7afa9406-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/71e753f4-ac09-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/ec20f964-ac08-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/f9186206-ac08-11ed-ac61-02420a00012e.webp",
+          "https://cdn.mobygames.com/7427798c-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/792af800-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/39007e66-ab65-11ed-ac0c-02420a00016b.webp",
+          "https://cdn.mobygames.com/79b1f53a-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/7a0b23c6-ac09-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/6d6e2050-ab8c-11ed-87ec-02420a00019c.webp",
+          "https://cdn.mobygames.com/7a7b8422-ac09-11ed-bbce-02420a000133.webp"
+        ]
+      }
+    ],
+    "samples": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UW.AD",
+    "songs": [
+      {
+        "song": "UWA01.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA01.XMI",
+        "size": 7910,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA02.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA02.XMI",
+        "size": 1300,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA03.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA03.XMI",
+        "size": 2376,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA04.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA04.XMI",
+        "size": 2030,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA05.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA05.XMI",
+        "size": 2270,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA06.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA06.XMI",
+        "size": 274,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA07.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA07.XMI",
+        "size": 856,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA10.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA10.XMI",
+        "size": 8926,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA11.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA11.XMI",
+        "size": 3574,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA12.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA12.XMI",
+        "size": 2022,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA13.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA13.XMI",
+        "size": 3792,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA14.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA14.XMI",
+        "size": 5116,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA15.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA15.XMI",
+        "size": 3898,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA16.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA16.XMI",
+        "size": 3092,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA17.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA17.XMI",
+        "size": 7698,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA30.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA30.XMI",
+        "size": 1280,
+        "composer": "Jon Blackley, Dan Schmidt"
+      },
+      {
+        "song": "UWA31.XMI",
+        "song_link": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UWA31.XMI",
+        "size": 2748,
+        "composer": "Jon Blackley, Dan Schmidt"
+      }
+    ]
+  },
+  {
+    "game": "Ultima Underworld: The Stygian Abyss",
+    "platform": "PC",
+    "developers": [
+      "Blue Sky Productions"
+    ],
+    "publishers": [
+      "Origin Systems, Inc."
+    ],
+    "year": 1992,
+    "source": "VGMPF",
+    "source_link": "http://www.vgmpf.com/Wiki/index.php?title=Ultima_Underworld:_The_Stygian_Abyss_(DOS)",
+    "links": [
+      {
+        "title": "Ultima Underworld: The Stygian Abyss",
+        "site": "MobyGames",
+        "url": "http://www.mobygames.com/game/ultima-underworld-the-stygian-abyss",
+        "gallery": [
+          "https://cdn.mobygames.com/658497c4-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/65baadfa-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/47cfaeac-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/488ff838-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/4e37e5ac-abf2-11ed-b57a-02420a000130.webp",
+          "https://cdn.mobygames.com/65f19ffe-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/64a9c798-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/48cfddae-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/492cdf86-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/49ba166c-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/4a26dd06-abf2-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/6624ffc0-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/666050ca-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/47d3ed32-abf2-11ed-aca6-02420a000132.webp",
+          "https://cdn.mobygames.com/669151ac-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/66f2fe98-ac0a-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/62c44f98-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/62f0115a-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/6320971c-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/4ba32176-abf2-11ed-b075-02420a00012f.webp",
+          "https://cdn.mobygames.com/4bd8d3c0-abf2-11ed-b075-02420a00012f.webp",
+          "https://cdn.mobygames.com/4c0c83be-abf2-11ed-b075-02420a00012f.webp",
+          "https://cdn.mobygames.com/4c8f74b8-abf2-11ed-b075-02420a00012f.webp",
+          "https://cdn.mobygames.com/634d9d8e-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/6647585e-ac0a-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/4802bdd8-abf2-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/64e91998-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/63d48cf4-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/65245f8a-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/666fb970-ac0a-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/65617b5e-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/6691ba66-ac0a-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/659ff604-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/65deb4e8-ac0a-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/e31dcf82-ab99-11ed-a44e-02420a000199.webp",
+          "https://cdn.mobygames.com/64064a64-ac0a-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/64380af4-ac0a-11ed-b950-02420a00012d.webp"
+        ]
+      },
+      {
+        "title": "Ultima Underworld: The Stygian Abyss",
+        "site": "GameFAQs",
+        "url": "http://www.gamefaqs.com/pc/562665-ultima-underworld-the-stygian-abyss"
+      },
+      {
+        "title": "Ultima Underworld: The Stygian Abyss",
+        "site": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ultima_Underworld"
+      }
+    ],
+    "samples": "VGMPF/PC/Ultima Underworld The Stygian Abyss/uw.ad",
+    "songs": [
+      {
+        "song": "201 - Introduction.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/201 - Introduction.xmi",
+        "size": 5944,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "202 - Dark Abyss.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/202 - Dark Abyss.xmi",
+        "size": 5100,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "203 - Descent.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/203 - Descent.xmi",
+        "size": 5626,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "204 - Wanderer.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/204 - Wanderer.xmi",
+        "size": 4016,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "205 - Battlefield.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/205 - Battlefield.xmi",
+        "size": 3672,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "206 - Combat.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/206 - Combat.xmi",
+        "size": 5486,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "207 - Injured.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/207 - Injured.xmi",
+        "size": 4652,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "208 - Armed.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/208 - Armed.xmi",
+        "size": 2888,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "209 - Victory.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/209 - Victory.xmi",
+        "size": 434,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "210 - Death.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/210 - Death.xmi",
+        "size": 1010,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "211 - Fleeing.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/211 - Fleeing.xmi",
+        "size": 784,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
+      },
+      {
+        "song": "212 - Maps & Legends.xmi",
+        "song_link": "VGMPF/PC/Ultima Underworld The Stygian Abyss/212 - Maps & Legends.xmi",
+        "size": 1978,
+        "composer": "George Sanger, David Govett",
+        "source_archive": "http://www.vgmpf.com/Wiki/images/4/42/Ultima_Underworld_-_Stygian_Abyss%2C_The_%28DOS%29.zip"
       }
     ]
   },
@@ -59924,6 +63101,429 @@
         "size": 18060,
         "composer": "Matt Furniss",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FFurniss_Matt%2FUltima_6.lha"
+      }
+    ]
+  },
+  {
+    "game": "Ultima VII: The Black Gate",
+    "platform": "PC",
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Origin Systems"
+    ],
+    "year": 1992,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Ultima VII: The Black Gate",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/608/ultima-vii-the-black-gate/",
+        "gallery": [
+          "https://cdn.mobygames.com/495bd66a-ac01-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/498410f8-ac01-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/71f13d72-abc0-11ed-aa5a-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4fe3db82-abec-11ed-a484-02420a000130.webp",
+          "https://cdn.mobygames.com/6c2f82b2-abfd-11ed-b206-02420a000131.webp",
+          "https://cdn.mobygames.com/4a020008-ac01-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/50dae2b0-abec-11ed-a484-02420a000130.webp",
+          "https://cdn.mobygames.com/4d8a4730-ac01-11ed-9b47-02420a000133.webp",
+          "https://cdn.mobygames.com/50177fdc-abec-11ed-a484-02420a000130.webp",
+          "https://cdn.mobygames.com/60b77318-abfd-11ed-a484-02420a000130.webp",
+          "https://cdn.mobygames.com/3f150cbe-ab9b-11ed-8bb9-02420a000197.webp",
+          "https://cdn.mobygames.com/5f9a022a-abfd-11ed-833b-02420a000131.webp",
+          "https://cdn.mobygames.com/bd776034-ab9b-11ed-b6ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/51a2b036-abfd-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/0a9a5c26-abed-11ed-b57a-02420a000130.webp",
+          "https://cdn.mobygames.com/cf2db6ce-abec-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/ba3aa9e6-abe9-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/ba72de10-abe9-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/a6035cdc-abe6-11ed-98b0-02420a000130.webp",
+          "https://cdn.mobygames.com/ba9e1814-abe9-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/baec99f8-abe9-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/bb2231c6-abe9-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/62b78b32-abec-11ed-b013-02420a00012e.webp",
+          "https://cdn.mobygames.com/cee7f602-abec-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/cea527c8-abec-11ed-bbce-02420a000133.webp",
+          "https://cdn.mobygames.com/c61ff7e6-abeb-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/4bc04d72-abfd-11ed-a710-02420a000136.webp",
+          "https://cdn.mobygames.com/41ef7ef8-abfd-11ed-a631-02420a000135.webp",
+          "https://cdn.mobygames.com/0b576d3e-abed-11ed-98c7-02420a000138.webp",
+          "https://cdn.mobygames.com/0b1ecb64-abed-11ed-98c7-02420a000138.webp",
+          "https://cdn.mobygames.com/8ce50db2-abec-11ed-b7c8-02420a000136.webp",
+          "https://cdn.mobygames.com/0aefa5d2-abed-11ed-98c7-02420a000138.webp",
+          "https://cdn.mobygames.com/18914812-ab6b-11ed-bddc-02420a00019e.webp",
+          "https://cdn.mobygames.com/4c9a419a-ac01-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/4d6204be-ac01-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/5166fe3e-ac01-11ed-9f52-02420a000130.webp",
+          "https://cdn.mobygames.com/2e6ff4fa-ab8c-11ed-9201-02420a00019c.webp",
+          "https://cdn.mobygames.com/784d3420-ab8c-11ed-a218-02420a00019e.webp",
+          "https://cdn.mobygames.com/5201e71e-ac01-11ed-9f52-02420a000130.webp"
+        ]
+      }
+    ],
+    "samples": "resources/OPL3/Ultima VII - The Black Gate/XMIDI.AD",
+    "songs": [
+      {
+        "song": "ADLIBMUS_001.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_001.mid",
+        "size": 4725,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_002.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_002.mid",
+        "size": 12619,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_003.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_003.mid",
+        "size": 3304,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_004.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_004.mid",
+        "size": 5150,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_005.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_005.mid",
+        "size": 1123,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_006.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_006.mid",
+        "size": 1178,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_007.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_007.mid",
+        "size": 9453,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_008.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_008.mid",
+        "size": 6723,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_009.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_009.mid",
+        "size": 5073,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_010.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_010.mid",
+        "size": 877,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_011.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_011.mid",
+        "size": 984,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_012.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_012.mid",
+        "size": 647,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_013.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_013.mid",
+        "size": 2949,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_014.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_014.mid",
+        "size": 4708,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_015.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_015.mid",
+        "size": 1727,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_016.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_016.mid",
+        "size": 2339,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_017.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_017.mid",
+        "size": 2194,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_018.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_018.mid",
+        "size": 2474,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_019.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_019.mid",
+        "size": 8175,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_020.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_020.mid",
+        "size": 6787,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_021.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_021.mid",
+        "size": 1386,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_022.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_022.mid",
+        "size": 4482,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_023.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_023.mid",
+        "size": 1963,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_024.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_024.mid",
+        "size": 2162,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_025.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_025.mid",
+        "size": 2677,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_026.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_026.mid",
+        "size": 4027,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_027.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_027.mid",
+        "size": 2848,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_028.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_028.mid",
+        "size": 2273,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_029.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_029.mid",
+        "size": 3768,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_030.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_030.mid",
+        "size": 6795,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_031.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_031.mid",
+        "size": 1466,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_032.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_032.mid",
+        "size": 3327,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_033.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_033.mid",
+        "size": 743,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_034.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_034.mid",
+        "size": 1152,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_035.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_035.mid",
+        "size": 1502,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_036.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_036.mid",
+        "size": 6994,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_037.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_037.mid",
+        "size": 1101,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_038.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_038.mid",
+        "size": 4181,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_039.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_039.mid",
+        "size": 3417,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_040.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_040.mid",
+        "size": 4372,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_041.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_041.mid",
+        "size": 4705,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_042.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_042.mid",
+        "size": 5019,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_043.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_043.mid",
+        "size": 4336,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_044.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_044.mid",
+        "size": 4854,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_045.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_045.mid",
+        "size": 47,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_046.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_046.mid",
+        "size": 2981,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_047.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_047.mid",
+        "size": 7327,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_048.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_048.mid",
+        "size": 19886,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_049.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_049.mid",
+        "size": 1963,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_050.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_050.mid",
+        "size": 581,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_051.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_051.mid",
+        "size": 743,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_052.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_052.mid",
+        "size": 304,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ADLIBMUS_053.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ADLIBMUS_053.mid",
+        "size": 355,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_001.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_001.mid",
+        "size": 497,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_002.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_002.mid",
+        "size": 1342,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_003.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_003.mid",
+        "size": 22324,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_004.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_004.mid",
+        "size": 3452,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_005.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_005.mid",
+        "size": 24708,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "INTROADM_006.mid",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/INTROADM_006.mid",
+        "size": 10474,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
+      },
+      {
+        "song": "ENDSCORE.XMI",
+        "song_link": "resources/OPL3/Ultima VII - The Black Gate/ENDSCORE.XMI",
+        "size": 18346,
+        "composer": "Dana Karl Glover, Kirk Winterrowd, Herman Miller"
       }
     ]
   },
@@ -61242,6 +64842,85 @@
     ]
   },
   {
+    "game": "Virtua Cop 2",
+    "platform": "PC",
+    "developers": [
+      "Sega AM2"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "year": 1997,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Virtua Cop 2",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Virtua_Cop_2"
+      },
+      {
+        "title": "Virtua Cop 2",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/961/virtua-cop-2/",
+        "gallerySection": "Windows screenshots",
+        "gallery": [
+          "https://cdn.mobygames.com/233efbb0-ac10-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/85311644-ac0d-11ed-83f5-02420a000134.webp",
+          "https://cdn.mobygames.com/e269a3ca-ac0e-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/451c16e2-ac0f-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/52cab3c4-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/531525bc-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/53547b5e-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/5391fe8e-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/e4fc1a8c-ac0e-11ed-9eb0-02420a000136.webp",
+          "https://cdn.mobygames.com/53cd8238-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/54089594-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/543bc2ca-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/22878a3e-ac10-11ed-941d-02420a000132.webp",
+          "https://cdn.mobygames.com/54719c4c-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/54aa7062-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/54ee7fbe-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/872a24cc-ac0d-11ed-af3d-02420a00012f.webp",
+          "https://cdn.mobygames.com/44045bfc-ac0f-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/5533920c-ac10-11ed-902e-02420a00012d.webp",
+          "https://cdn.mobygames.com/09c1f6a8-ac1d-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/09fbba0a-ac1d-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/0a63fcbe-ac1d-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/0a962716-ac1d-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/0ad595f4-ac1d-11ed-8949-02420a00012e.webp",
+          "https://cdn.mobygames.com/03c3364a-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/074260a2-ac1d-11ed-a12e-02420a000130.webp",
+          "https://cdn.mobygames.com/043b711e-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/0363f7ac-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/ab1bce1c-ab72-11ed-ac16-02420a000199.webp",
+          "https://cdn.mobygames.com/06aba202-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/07189cc2-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/0767a2f4-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/08286296-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/0777238c-ac1d-11ed-a12e-02420a000130.webp",
+          "https://cdn.mobygames.com/087521e4-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/08cb5190-ac1d-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/0b26cdf2-ac1d-11ed-8949-02420a00012e.webp"
+        ]
+      }
+    ],
+    "samples": "resources/samples/Windows/msadlib.bnk",
+    "songs": [
+      {
+        "song": "SONG1.MDS",
+        "song_link": "resources/OPL3/Virtua Cop 2/SONG1.MDS",
+        "size": 97496,
+        "composer": "Maki Morrow"
+      },
+      {
+        "song": "SONG2.MDS",
+        "song_link": "resources/OPL3/Virtua Cop 2/SONG2.MDS",
+        "size": 14020,
+        "composer": "Maki Morrow"
+      }
+    ]
+  },
+  {
     "game": "Wacky Wheels",
     "platform": "PC",
     "developers": [
@@ -62498,6 +66177,866 @@
         "size": 5148,
         "composer": "Kris Hatlelid",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FHatlelid_Kris%2FWings_of_Fury.lha"
+      }
+    ]
+  },
+  {
+    "game": "Witchaven",
+    "platform": "PC",
+    "developers": [
+      "Capstone Software"
+    ],
+    "publishers": [
+      "Intracorp Entertainment"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Witchaven",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/3318/witchaven/",
+        "gallery": [
+          "https://cdn.mobygames.com/d4c76b54-abf9-11ed-b85a-02420a000135.webp",
+          "https://cdn.mobygames.com/d4ee7384-abf9-11ed-b85a-02420a000135.webp",
+          "https://cdn.mobygames.com/d49990c6-abf9-11ed-b85a-02420a000135.webp",
+          "https://cdn.mobygames.com/d998f22e-abf9-11ed-9584-02420a000136.webp",
+          "https://cdn.mobygames.com/dcfd7516-abf9-11ed-a484-02420a000130.webp",
+          "https://cdn.mobygames.com/1de3f0aa-ac0e-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/e5ebbf10-ac0e-11ed-9941-02420a000133.webp",
+          "https://cdn.mobygames.com/b1c25e9c-ac0e-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/b092c5e8-ac0e-11ed-87d3-02420a000134.webp",
+          "https://cdn.mobygames.com/013d9946-ac0f-11ed-87d3-02420a000134.webp",
+          "https://cdn.mobygames.com/1e5a3134-ac0e-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/e9bf175c-ab6b-11ed-96f9-02420a00019a.webp",
+          "https://cdn.mobygames.com/63afbf5e-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/63d8ebfe-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/64215132-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/4bc255c4-ac0f-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/20455190-ac0e-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/213a30e2-ac0f-11ed-9915-02420a000134.webp",
+          "https://cdn.mobygames.com/422e403a-ab6b-11ed-b6ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/611925c8-ac10-11ed-96e1-02420a00012d.webp",
+          "https://cdn.mobygames.com/6454963c-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/64819b82-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/64b3bef0-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/64f2d0ae-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/652f6cda-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/66290f42-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/666f7806-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/66a76702-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/67bccc2c-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/680bf7fc-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/2071ebec-ac0e-11ed-bdca-02420a000133.webp",
+          "https://cdn.mobygames.com/683d4654-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/6889734e-ac10-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/d089cde6-ab6a-11ed-b165-02420a000198.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Witchaven/MELODIC.BNK",
+      "resources/OPL3/Witchaven/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "SONGS.1.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.1.HMP",
+        "size": 16216,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.2.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.2.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.3.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.3.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.4.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.4.HMP",
+        "size": 22882,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.5.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.5.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.6.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.6.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.7.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.7.HMP",
+        "size": 22882,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.8.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.8.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.9.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.9.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.10.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.10.HMP",
+        "size": 17166,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.11.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.11.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.12.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.12.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.13.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.13.HMP",
+        "size": 19220,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.14.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.14.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.15.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.15.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.16.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.16.HMP",
+        "size": 18684,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.17.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.17.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.18.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.18.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.19.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.19.HMP",
+        "size": 9610,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.20.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.20.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.21.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.21.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.22.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.22.HMP",
+        "size": 11387,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.23.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.23.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.24.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.24.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.25.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.25.HMP",
+        "size": 13377,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.26.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.26.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.27.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.27.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.28.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.28.HMP",
+        "size": 5533,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.29.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.29.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.30.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.30.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.31.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.31.HMP",
+        "size": 4900,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.32.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.32.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.33.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.33.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.34.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.34.HMP",
+        "size": 7020,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.35.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.35.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.36.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.36.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.37.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.37.HMP",
+        "size": 22104,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.38.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.38.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.39.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.39.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.40.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.40.HMP",
+        "size": 23553,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.41.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.41.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.42.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.42.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.43.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.43.HMP",
+        "size": 23553,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.44.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.44.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.45.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.45.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.46.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.46.HMP",
+        "size": 16216,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.47.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.47.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.48.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.48.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.49.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.49.HMP",
+        "size": 6199,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.50.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.50.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.51.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.51.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.52.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.52.HMP",
+        "size": 6199,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.53.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.53.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.54.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.54.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.55.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.55.HMP",
+        "size": 15813,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.56.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.56.HMP",
+        "size": 15746,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.57.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.57.HMP",
+        "size": 15797,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.58.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.58.HMP",
+        "size": 15813,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.59.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.59.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      },
+      {
+        "song": "SONGS.60.HMP",
+        "song_link": "resources/OPL3/Witchaven/SONGS.60.HMP",
+        "size": 1374,
+        "composer": "Joe Abbati"
+      }
+    ]
+  },
+  {
+    "game": "Witchaven II",
+    "platform": "PC",
+    "developers": [
+      "Capstone Software"
+    ],
+    "publishers": [
+      "Intracorp Entertainment"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Witchaven II: Blood Vengeance",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/3514/witchaven-ii-blood-vengeance/",
+        "gallery": [
+          "https://cdn.mobygames.com/4b1a9948-ab91-11ed-b325-02420a00019e.webp",
+          "https://cdn.mobygames.com/42cc218a-ab91-11ed-ba50-02420a000199.webp",
+          "https://cdn.mobygames.com/33b69a40-ab91-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4c5e73b0-ab91-11ed-9e18-02420a00019a.webp"
+        ]
+      }
+    ],
+    "samples": [
+      "resources/OPL3/Witchaven II/MELODIC.BNK",
+      "resources/OPL3/Witchaven II/DRUM.BNK"
+    ],
+    "songs": [
+      {
+        "song": "F_SONGS.1.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.1.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.2.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.2.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.3.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.3.HMP",
+        "size": 9223,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.4.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.4.HMP",
+        "size": 17044,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.5.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.5.HMP",
+        "size": 7958,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.6.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.6.HMP",
+        "size": 3440,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.7.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.7.HMP",
+        "size": 9488,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.8.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.8.HMP",
+        "size": 5316,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.9.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.9.HMP",
+        "size": 11138,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.10.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.10.HMP",
+        "size": 5452,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.11.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.11.HMP",
+        "size": 19928,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.12.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.12.HMP",
+        "size": 10717,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.13.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.13.HMP",
+        "size": 5093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.14.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.14.HMP",
+        "size": 7313,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.15.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.15.HMP",
+        "size": 5692,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.16.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.16.HMP",
+        "size": 10375,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.17.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.17.HMP",
+        "size": 10840,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.18.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.18.HMP",
+        "size": 2966,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.19.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.19.HMP",
+        "size": 7159,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.20.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.20.HMP",
+        "size": 12722,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.21.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.21.HMP",
+        "size": 3433,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.22.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.22.HMP",
+        "size": 3427,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.23.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.23.HMP",
+        "size": 11400,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.24.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.24.HMP",
+        "size": 9372,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.25.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.25.HMP",
+        "size": 4383,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.26.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.26.HMP",
+        "size": 2172,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.27.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.27.HMP",
+        "size": 7093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.28.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.28.HMP",
+        "size": 7689,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.29.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.29.HMP",
+        "size": 4174,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.30.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.30.HMP",
+        "size": 11138,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.31.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.31.HMP",
+        "size": 30432,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.32.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.32.HMP",
+        "size": 27114,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.33.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.33.HMP",
+        "size": 3982,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.34.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.34.HMP",
+        "size": 8142,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.35.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.35.HMP",
+        "size": 10272,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.36.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.36.HMP",
+        "size": 12667,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.37.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.37.HMP",
+        "size": 7313,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.38.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.38.HMP",
+        "size": 10840,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.39.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.39.HMP",
+        "size": 17044,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.40.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.40.HMP",
+        "size": 9372,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.41.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.41.HMP",
+        "size": 3440,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.42.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.42.HMP",
+        "size": 2966,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.43.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.43.HMP",
+        "size": 10377,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.44.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.44.HMP",
+        "size": 6272,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.45.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.45.HMP",
+        "size": 8387,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.46.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.46.HMP",
+        "size": 5093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.47.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.47.HMP",
+        "size": 7093,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.48.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.48.HMP",
+        "size": 19928,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.49.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.49.HMP",
+        "size": 3433,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.50.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.50.HMP",
+        "size": 2172,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.51.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.51.HMP",
+        "size": 7689,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.52.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.52.HMP",
+        "size": 10717,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.53.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.53.HMP",
+        "size": 4174,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.54.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.54.HMP",
+        "size": 7958,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.55.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.55.HMP",
+        "size": 9488,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.56.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.56.HMP",
+        "size": 5316,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.57.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.57.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.58.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.58.HMP",
+        "size": 9113,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.59.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.59.HMP",
+        "size": 9381,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.60.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.60.HMP",
+        "size": 30432,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.61.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.61.HMP",
+        "size": 1312,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.62.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.62.HMP",
+        "size": 1312,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.63.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.63.HMP",
+        "size": 20525,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.64.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.64.HMP",
+        "size": 20525,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.65.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.65.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.66.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.66.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.67.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.67.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
+      },
+      {
+        "song": "F_SONGS.68.HMP",
+        "song_link": "resources/OPL3/Witchaven II/F_SONGS.68.HMP",
+        "size": 2981,
+        "composer": "Joe Abbati, Steve Newton"
       }
     ]
   },
