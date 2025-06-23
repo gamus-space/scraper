@@ -178,6 +178,13 @@
     ],
     "year": 1997,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Carmageddon",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/367/carmageddon/"
+      }
+    ],
     "samples": ["resources/OPL3/Carmageddon/MELODIC-demo.BNK", "resources/OPL3/Carmageddon/DRUM-demo.BNK"],
     "songs": [
       {
@@ -246,7 +253,7 @@
         "title": "Chip's Challenge",
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/5012/chips-challenge/",
-        "gallerySection": "Windows 3.x screenshots"
+        "gallerySection": "Windows 16-bit screenshots"
       }
     ],
     "samples": "resources/samples/Windows/msadlib.bnk",
@@ -998,6 +1005,13 @@
     ],
     "year": 1996,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Descent II",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/694/descent-ii/"
+      }
+    ],
     "samples": ["resources/OPL3/Descent II/melodic.bnk", "resources/OPL3/Descent II/drum.bnk"],
     "songs": [
       {
@@ -2042,6 +2056,13 @@
     ],
     "year": 1994,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Magic Carpet",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/361/magic-carpet/"
+      }
+    ],
     "samples": ["resources/OPL3/Magic Carpet/INST.BNK", "resources/OPL3/Magic Carpet/DRUM.BNK"],
     "songs": [
       {
@@ -2099,6 +2120,13 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Magic Carpet 2: The Netherworlds",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/790/magic-carpet-2-the-netherworlds/"
+      }
+    ],
     "samples": "resources/OPL3/Magic Carpet 2/SAMPLE.AD",
     "songs": [
       {
@@ -4722,6 +4750,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "SimCity 2000",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/657/simcity-2000/"
+      }
+    ],
     "songs": [
       {
         "song": "20000.XMI OPL2",
@@ -6118,6 +6153,13 @@
     ],
     "year": 1993,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Ultima Underworld II: Labyrinth of Worlds",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/691/ultima-underworld-ii-labyrinth-of-worlds/"
+      }
+    ],
     "samples": "resources/OPL3/Ultima Underworld II - Labyrinth of Worlds/UW.AD",
     "songs": [
       {
@@ -6235,6 +6277,13 @@
     ],
     "year": 1992,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Ultima VII: The Black Gate",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/608/ultima-vii-the-black-gate/"
+      }
+    ],
     "samples": "resources/OPL3/Ultima VII - The Black Gate/XMIDI.AD",
     "songs": [
       {
@@ -6762,6 +6811,13 @@
     ],
     "year": 1995,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Witchaven",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/3318/witchaven/"
+      }
+    ],
     "samples": ["resources/OPL3/Witchaven/MELODIC.BNK", "resources/OPL3/Witchaven/DRUM.BNK"],
     "songs": [
       {
@@ -7137,6 +7193,13 @@
     ],
     "year": 1996,
     "source": "gamus",
+    "links": [
+      {
+        "title": "Witchaven II: Blood Vengeance",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/3514/witchaven-ii-blood-vengeance/"
+      }
+    ],
     "samples": ["resources/OPL3/Witchaven II/MELODIC.BNK", "resources/OPL3/Witchaven II/DRUM.BNK"],
     "songs": [
       {
