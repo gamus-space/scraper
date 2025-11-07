@@ -299,8 +299,8 @@ async function fetchWogMods(source) {
 	const gameOptions = {
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NjMy': { game: 'All New World Of Lemmings' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=NDY3': { game: 'Franko: The Crazy Revenge' },
-		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTg3Mg==': { game: 'Hexen II', source: 'World of Game MIDs', samples: 'resources/samples/Windows/msadlib.bnk' },
-		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNzA=': { game: 'Hexen II: Portal of Praevus', source: 'World of Game MIDs', samples: 'resources/samples/Windows/msadlib.bnk' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTg3Mg==': { game: 'Hexen II', source: 'World of Game MIDs', samples: 'resources/samples/Windows/fat2.bnk' },
+		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQxNzA=': { game: 'Hexen II: Portal of Praevus', source: 'World of Game MIDs', samples: 'resources/samples/Windows/fat2.bnk' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTQyMzg=': { game: 'Holiday Lemmings 1994' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=OTU3': { game: 'Skidmarks 2' },
 		'http://www.mirsoft.info/gmb/music_info.php?id_ele=MTA0Nw==': { game: 'Super TaeKwonDo Master' },
