@@ -20,6 +20,9 @@ const sources = {
 
 const PREPEND_LINKS = {
 	'Battle Arena Toshinden': [{ title: 'Battle Arena Toshinden', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Battle_Arena_Toshinden' }],
+	'Blood': [{ title: 'Blood', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Blood' }],
+	'Carmageddon': [{ title: 'Carmageddon', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Carmageddon' }],
+	'Descent II': [{ title: 'Descent II', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Descent_II' }],
 	'Fatal Racing': [{ title: 'Fatal Racing', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Fatal_Racing' }],
 	'Gobliiins': [{ title: 'Gobliiins', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Gobliiins' }],
 	'Gobliins 2': [{ title: 'Gobliins 2: The Prince Buffoon', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Gobliins_2:_The_Prince_Buffoon' }],
@@ -29,6 +32,7 @@ const PREPEND_LINKS = {
 	'Hexen II: Portal of Praevus': [{ title: 'Hexen II: Portal of Praevus', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Hexen_II:_Portal_of_Praevus' }],
 	'Mortal Kombat': [{ title: 'Mortal Kombat', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Mortal_Kombat' }],
 	'Screamer': [{ title: 'Screamer', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Screamer' }],
+	'Shadow Warrior': [{ title: 'Shadow Warrior', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Shadow_Warrior' }],
 	'Super Street Fighter II Turbo': [{ title: 'Super Street Fighter II Turbo', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Super_Street_Fighter_II_Turbo' }],
 	'Virtua Cop 2': [{ title: 'Virtua Cop 2', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Virtua_Cop_2' }],
 	'Warcraft: Orcs & Humans': [{ title: 'Warcraft: Orcs & Humans', site: 'Gamus Pro', url: 'https://pro.gamus.space/PC/Warcraft:_Orcs_&_Humans' }],
