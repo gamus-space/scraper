@@ -72,7 +72,7 @@ async function fetchGame(url, source) {
 	if (GAME_DUPLICATES.includes(url))
 		return null;
 
-	const html = await (await fetch(url)).text();
+	const html = await (await fetch(url, { headers: { Cookie: 'verified=1' } })).text();
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
 	const title = normalizeName(xpath.select("normalize-space(.//tr[1]/th/i)", infobox));
