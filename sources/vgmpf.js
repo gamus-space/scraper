@@ -42,6 +42,7 @@ async function fetchGame({ url, composer, publishers, song_pattern, song_count, 
 	const altDownloadLink = xpath.select1('string(./following-sibling::p//a[normalize-space(text()) = "Download Rip"]/@href)', ripTitle);
 	const downloadLink = altDownloadLink || mainDownloadLink;
 	const downloadUrl = new URL(downloadLink, url);
+	downloadUrl.protocol = 'https:';
 
 	const gameDir = `${platform}/${game.replace(/:/g, '')}`;
 	try {
