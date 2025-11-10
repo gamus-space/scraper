@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
-    "clear-cache": "rm -rf data/_cache"
+    "clear-cache": "rm -rf data/_cache",
+    "postinstall": "patch-package"
   },
   "author": "krzykos",
   "license": "BSD-2-Clause",
   "devDependencies": {
     "node-fetch": "^2.6.1",
+    "patch-package": "^8.0.1",
     "xmldom": "^0.6.0",
     "xpath": "0.0.32"
   },
