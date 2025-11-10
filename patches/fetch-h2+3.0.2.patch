@@ -1,0 +1,13 @@
+diff --git a/node_modules/fetch-h2/dist/lib/context.js b/node_modules/fetch-h2/dist/lib/context.js
+index 33276ad..3e35519 100644
+--- a/node_modules/fetch-h2/dist/lib/context.js
++++ b/node_modules/fetch-h2/dist/lib/context.js
+@@ -254,7 +254,7 @@ class Context {
+         }, request);
+     }
+     parseInput(input) {
+-        const { hostname, origin, port, protocol, url } = (0, utils_1.parseInput)(typeof input !== "string" ? input.url : input);
++        const { hostname, origin, port, protocol, url } = (0, utils_1.parseInput)(typeof input !== "string" ? input.href : input);
+         const defaultHttp = this._httpProtocol;
+         if ((protocol === "http" && defaultHttp === "http1")
+             || protocol === "http1")

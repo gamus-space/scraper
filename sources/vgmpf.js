@@ -50,7 +50,7 @@ async function fetchGame({ url, composer, publishers, song_pattern, song_count, 
 	let files = fs.readdirSync(gameDir).sort();
 	if (files.length < song_count) {
 		console.log(`downloading ${downloadUrl} ...`);
-		const archive = await (await fetch(downloadUrl)).arrayBuffer();
+		const archive = await (await fetch2(downloadUrl)).arrayBuffer();
 		const entries = new AdmZip(Buffer.from(archive)).getEntries().filter(entry => entry.entryName.match(song_pattern));
 		entries.forEach(entry => {
 			fs.writeFileSync(`${gameDir}/${entry.name}`, entry.getData());
