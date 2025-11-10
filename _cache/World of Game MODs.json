@@ -5110,7 +5110,7 @@
         ]
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "Casa1.mid",
@@ -5239,7 +5239,7 @@
         ]
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "h2mp01.mid",

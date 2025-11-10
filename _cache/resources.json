@@ -356,7 +356,7 @@
         ]
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "CANYON.MID",
@@ -7596,7 +7596,7 @@
         ]
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "SONG1.MDS",
@@ -7642,7 +7642,7 @@
         ]
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "Bach's Brandenburg Concerto No. 3.rmi",
@@ -7718,7 +7718,7 @@
         "url": "https://www.mobygames.com/game/48100/microsoft-windows-me-included-games/"
       }
     ],
-    "samples": "resources/samples/Windows/msadlib.bnk",
+    "samples": "resources/samples/Windows/fat2.bnk",
     "songs": [
       {
         "song": "FLOURISH.MID",
