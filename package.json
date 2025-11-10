@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.5.9",
+    "fetch-h2": "^3.0.2",
     "fs-extra": "^10.1.0"
   }
 }
