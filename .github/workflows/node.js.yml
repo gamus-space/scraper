@@ -25,7 +25,9 @@ jobs:
         cache-name: cache-data
       with:
         path: ./data
-        key: ${{ runner.os }}-deploy-${{ env.cache-name }}
+        key: ${{ runner.os }}-deploy-${{ env.cache-name }}-${{ github.run_id }}
+        restore-keys: |
+          ${{ runner.os }}-deploy-${{ env.cache-name }}
 
     - run: npm ci
     - run: npm run run
