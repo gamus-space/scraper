@@ -129,8 +129,9 @@ async function fetchGame(url, source) {
 			return undefined;
 		}
 	};
+	let archives;
 	try {
-		const archives = await Promise.all(urls.map(async (link, i) => {
+		archives = await Promise.all(urls.map(async (link, i) => {
 			const url = new URL(link);
 			url.protocol = 'https:';
 			if (songsData[i].every(songDownloaded))
@@ -139,6 +140,7 @@ async function fetchGame(url, source) {
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
 		}));
 	} catch(e) {
+		console.error('ABORTED! restart required');
 		aborted = true;
 		return null;
 	}
