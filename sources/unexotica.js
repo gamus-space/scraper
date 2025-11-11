@@ -3,7 +3,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const process = require('node:process');
-const { setTimeout } = require('node:timers/promises');
 
 const AdmZip = require('adm-zip');
 const fetch = require('node-fetch');
@@ -72,12 +71,13 @@ function normalizeName(name) {
 async function fetchGame(url, source) {
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
+	const timeoutSignal = AbortSignal.timeout(60_000);
 	if (GAME_DUPLICATES.includes(url) || aborted)
 		return null;
 
 	let html;
 	try {
-		html = await (await fetch(url, { headers: { Cookie: 'verified=1' } })).text();
+		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
 	} catch(e) {
 		console.error('ABORTED! restart required');
 		aborted = true;
@@ -144,7 +144,7 @@ async function fetchGame(url, source) {
 			if (songsData[i].every(songDownloaded))
 				return null;
 			console.info(`downloading ${url} ...`);
-			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
+			return LHA.read(new Uint8Array(await (await fetch(url.href, { signal: timeoutSignal })).arrayBuffer()));
 		}));
 	} catch(e) {
 		console.error('ABORTED! restart required');
