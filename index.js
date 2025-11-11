@@ -66,8 +66,10 @@ updateSources.push('resources');
 		process.chdir(path.join(DATA, source));
 		const data = await sources[source](source);
 		process.chdir(path.join('..', '..'));
-		result.unshift(data);
-		fs.writeFileSync(cachePath, JSON.stringify(data, null, 2));
+		if (data) {
+			result.unshift(data);
+			fs.writeFileSync(cachePath, JSON.stringify(data, null, 2));
+		}
 	}
 	const db = result.flat().sort((g1, g2) => g1.game <= g2.game ? -1 : 1).map(game => ({
 		...game,
