@@ -1,8 +1,9 @@
 'use strict';
 
-const fs = require('fs');
-const path = require('path');
-const process = require('process');
+const fs = require('node:fs');
+const path = require('node:path');
+const process = require('node:process');
+const { setTimeout } = require('node:timers/promises');
 
 const AdmZip = require('adm-zip');
 const fetch = require('node-fetch');
@@ -136,6 +137,8 @@ async function fetchGame(url, source) {
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
 		} catch(e) {
 			console.error('error:', e);
+			console.error('waiting 5min...');
+			await setTimeout(5 * 60 * 1000);
 			console.error('retrying...');
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
 		}
