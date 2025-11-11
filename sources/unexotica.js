@@ -669,7 +669,8 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Zool_-_Ninja_of_the_%22Nth%22_Dimension',
 		'https://www.exotica.org.uk/wiki/Zool_2',
 	];
-	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
+	const result = (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
+	return aborted ? undefined : result;
 };
 
 exports.fetchUnexotica = fetchUnexotica;
