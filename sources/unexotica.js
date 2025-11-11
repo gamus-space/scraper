@@ -137,8 +137,8 @@ async function fetchGame(url, source) {
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
 		} catch(e) {
 			console.error('error:', e);
-			console.error('waiting 5min...');
-			await setTimeout(5 * 60 * 1000);
+			console.error('waiting 15min...');
+			await setTimeout(15 * 60 * 1000);
 			console.error('retrying...');
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
 		}
