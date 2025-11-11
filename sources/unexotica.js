@@ -63,6 +63,8 @@ const NAME_OVERRIDE = {
 	'Xenon 2': 'Xenon 2: Megablast',
 };
 
+let aborted = false;
+
 function normalizeName(name) {
 	return NAME_OVERRIDE[name] ?? name.replace(/^(The)\s+(.*)$/, '$2, $1');
 }
@@ -70,7 +72,7 @@ function normalizeName(name) {
 async function fetchGame(url, source) {
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
-	if (GAME_DUPLICATES.includes(url))
+	if (GAME_DUPLICATES.includes(url) || aborted)
 		return null;
 
 	const html = await (await fetch(url, { headers: { Cookie: 'verified=1' } })).text();
@@ -127,22 +129,19 @@ async function fetchGame(url, source) {
 			return undefined;
 		}
 	};
-	const archives = await Promise.all(urls.map(async (link, i) => {
-		const url = new URL(link);
-		url.protocol = 'https:';
-		if (songsData[i].every(songDownloaded))
-			return null;
-		console.info(`downloading ${url} ...`);
-		try {
+	try {
+		const archives = await Promise.all(urls.map(async (link, i) => {
+			const url = new URL(link);
+			url.protocol = 'https:';
+			if (songsData[i].every(songDownloaded))
+				return null;
+			console.info(`downloading ${url} ...`);
 			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
-		} catch(e) {
-			console.error('error:', e);
-			console.error('waiting 15min...');
-			await setTimeout(15 * 60 * 1000);
-			console.error('retrying...');
-			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
-		}
-	}));
+		}));
+	} catch(e) {
+		aborted = true;
+		return null;
+	}
 	const songs = songsData.map((songs, i) => songs.map(song => {
 		const downloaded = songDownloaded(song);
 		if (downloaded) {
