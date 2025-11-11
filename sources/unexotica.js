@@ -132,7 +132,13 @@ async function fetchGame(url, source) {
 		if (songsData[i].every(songDownloaded))
 			return null;
 		console.info(`downloading ${url} ...`);
-		return LHA.read(new Uint8Array(await (await fetch(url)).arrayBuffer()));
+		try {
+			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
+		} catch(e) {
+			console.error('error:', e);
+			console.error('retrying...');
+			return LHA.read(new Uint8Array(await (await fetch(url.href)).arrayBuffer()));
+		}
 	}));
 	const songs = songsData.map((songs, i) => songs.map(song => {
 		const downloaded = songDownloaded(song);
