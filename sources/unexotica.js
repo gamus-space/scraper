@@ -126,7 +126,9 @@ async function fetchGame(url, source) {
 			return undefined;
 		}
 	};
-	const archives = await Promise.all(urls.map(async (url, i) => {
+	const archives = await Promise.all(urls.map(async (link, i) => {
+		const url = new URL(link);
+		url.protocol = 'https:';
 		if (songsData[i].every(songDownloaded))
 			return null;
 		console.info(`downloading ${url} ...`);
