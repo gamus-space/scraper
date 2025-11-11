@@ -75,7 +75,14 @@ async function fetchGame(url, source) {
 	if (GAME_DUPLICATES.includes(url) || aborted)
 		return null;
 
-	const html = await (await fetch(url, { headers: { Cookie: 'verified=1' } })).text();
+	let html;
+	try {
+		html = await (await fetch(url, { headers: { Cookie: 'verified=1' } })).text();
+	} catch(e) {
+		console.error('ABORTED! restart required');
+		aborted = true;
+		return null;
+	}
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
 	const title = normalizeName(xpath.select("normalize-space(.//tr[1]/th/i)", infobox));
