@@ -25,7 +25,7 @@ jobs:
         cache-name: cache-data
       with:
         path: ./data
-        key: ${{ runner.os }}-deploy-${{ env.cache-name }}-${{ github.run_id }}
+        key: ${{ runner.os }}-deploy-${{ env.cache-name }}-${{ github.run_id }}-${{ github.run_attempt }}
         restore-keys: |
           ${{ runner.os }}-deploy-${{ env.cache-name }}
 
