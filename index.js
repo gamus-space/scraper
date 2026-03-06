@@ -7,6 +7,7 @@ const saveGalleryCache = require('./lib/gallery').saveGalleryCache;
 const getResources = require('./sources/resources').getResources;
 const fetchUnexotica = require('./sources/unexotica').fetchUnexotica;
 const fetchVgmpf = require('./sources/vgmpf').fetchVgmpf;
+const fetchVGMRips = require('./sources/vgmrips').fetchVGMRips;
 const fetchWogMods = require('./sources/wog_mods').fetchWogMods;
 
 const DATA = 'data';
@@ -16,6 +17,7 @@ const sources = {
 	'VGMPF': fetchVgmpf,
 	'World of Game MODs': fetchWogMods,
 	'UnExoticA': fetchUnexotica,
+	'VGMRips': fetchVGMRips,
 };
 
 const PREPEND_LINKS = {

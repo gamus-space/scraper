@@ -58,6 +58,7 @@ const EMPTY_GALLERY = [
 
 const NAME_OVERRIDE = {
 	'A Prehistoric Tale': 'Prehistoric Tale, A',
+	'Jim Power in "Mutant Planet"': 'Jim Power',
 	'Legend of Kyrandia': 'Legend of Kyrandia: Book One, The',
 	'Xenon 2': 'Xenon 2: Megablast',
 };
