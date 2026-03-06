@@ -12,7 +12,7 @@ const xpath = require('xpath');
 const amiga = require('../lib/amiga');
 const { countGalleries, fetchGalleries } = require('../lib/gallery');
 const LHA = require('../lib/lha');
-const { sequential, takeUntil } = require('../lib/utils');
+const { sequential, sleep, takeUntil } = require('../lib/utils');
 
 const PLATFORM = 'Amiga';
 
@@ -70,6 +70,8 @@ function normalizeName(name) {
 }
 
 async function fetchGame(url, source) {
+	await sleep(Math.floor(Math.random() * 3000) + 2000);
+
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
 	const timeoutSignal = AbortSignal.timeout(60_000);
