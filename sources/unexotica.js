@@ -78,19 +78,17 @@ async function fetchGame(url, source) {
 
 	let html;
 	try {
-		fs.mkdirSync(`../../cache/source/${source}/`, { recursive: true });
+		fs.mkdirSync(`../_cache/${source}/`, { recursive: true });
 	} catch {}
-	const cachePath = `../../cache/source/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
+	const cachePath = `../_cache/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
-		console.log('cache hit', cachePath);
 	}
 
 	try {
 		if (!html) {
 			html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
 			fs.writeFileSync(cachePath, html);
-			console.log('cache store', cachePath);
 		}
 	} catch(e) {
 		console.error('ABORTED! restart required');
