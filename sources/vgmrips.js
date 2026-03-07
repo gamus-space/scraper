@@ -101,11 +101,17 @@ async function fetchGame(url, source, options) {
     const table = xpath.select1("//table[contains(@class, 'playlist')]", doc);
     const rows = xpath.select(".//tr[@id]", table);
 
+    const songLinks = rows.map(row => xpath.select1("string(./td[contains(@class, 'links')]//a/@href)", row));
+    const links = await fetchGalleries(LINKS[game] ?? []);
+    const galleryCount = countGalleries(links);
+    console.log(game, songLinks.length, { gallery: galleryCount });
+    if (galleryCount === 0 && !EMPTY_GALLERY.includes(game))
+        throw new Error('empty gallery');
+
     const gameDir = `${platform}/${game.replace(/:/g, '')}`;
     try {
         fs.mkdirSync(gameDir, { recursive: true });
     } catch {}
-    const songLinks = rows.map(row => xpath.select1("string(./td[contains(@class, 'links')]//a/@href)", row));
     let files = fs.readdirSync(gameDir).sort();
     if (files.length < songLinks.length) {
         const archiveLink = xpath.select1("string(//a[normalize-space(text()) = 'Download']/@href)", doc);
@@ -117,12 +123,6 @@ async function fetchGame(url, source, options) {
         });
         files = fs.readdirSync(gameDir).sort();
     }
-
-    const links = await fetchGalleries(LINKS[game] ?? []);
-    const galleryCount = countGalleries(links);
-    console.log(game, files.length, { gallery: galleryCount });
-    if (galleryCount === 0 && !EMPTY_GALLERY.includes(game))
-        throw new Error('empty gallery');
 
     const songs = files.map(file => ({
         song: file,
