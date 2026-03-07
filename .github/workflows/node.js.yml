@@ -34,7 +34,7 @@ jobs:
 
     - name: Run
       run: npm run run
-      continue-on-error: true
+      #continue-on-error: true
 
     - name: Save cache
       uses: actions/cache/save@v4
