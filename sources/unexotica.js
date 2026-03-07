@@ -63,8 +63,6 @@ const NAME_OVERRIDE = {
 	'Xenon 2': 'Xenon 2: Megablast',
 };
 
-let aborted = false;
-
 function normalizeName(name) {
 	return NAME_OVERRIDE[name] ?? name.replace(/^(The)\s+(.*)$/, '$2, $1');
 }
@@ -73,7 +71,7 @@ async function fetchGame(url, source) {
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
 	const timeoutSignal = AbortSignal.timeout(60_000);
-	if (GAME_DUPLICATES.includes(url) || aborted)
+	if (GAME_DUPLICATES.includes(url))
 		return null;
 
 	let html;
@@ -83,17 +81,9 @@ async function fetchGame(url, source) {
 	const cachePath = `../_cache/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
-	}
-
-	try {
-		if (!html) {
-			html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
-			fs.writeFileSync(cachePath, html);
-		}
-	} catch(e) {
-		console.error('ABORTED! restart required');
-		aborted = true;
-		return null;
+	} else {
+		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
+		fs.writeFileSync(cachePath, html);
 	}
 
 	const doc = new dom().parseFromString(html);
@@ -149,21 +139,16 @@ async function fetchGame(url, source) {
 			return undefined;
 		}
 	};
-	let archives;
-	try {
-		archives = await Promise.all(urls.map(async (link, i) => {
-			const url = new URL(link);
-			url.protocol = 'https:';
-			if (songsData[i].every(songDownloaded))
-				return null;
-			console.info(`downloading ${url} ...`);
-			return LHA.read(new Uint8Array(await (await fetch(url.href, { signal: timeoutSignal })).arrayBuffer()));
-		}));
-	} catch(e) {
-		console.error('ABORTED! restart required');
-		aborted = true;
-		return null;
-	}
+
+	const archives = await Promise.all(urls.map(async (link, i) => {
+		const url = new URL(link);
+		url.protocol = 'https:';
+		if (songsData[i].every(songDownloaded))
+			return null;
+		console.info(`downloading ${url} ...`);
+		return LHA.read(new Uint8Array(await (await fetch(url.href, { signal: timeoutSignal })).arrayBuffer()));
+	}));
+
 	const songs = songsData.map((songs, i) => songs.map(song => {
 		const downloaded = songDownloaded(song);
 		if (downloaded) {
@@ -682,8 +667,7 @@ async function fetchUnexotica(source) {
 		'https://www.exotica.org.uk/wiki/Zool_-_Ninja_of_the_%22Nth%22_Dimension',
 		'https://www.exotica.org.uk/wiki/Zool_2',
 	];
-	const result = (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
-	return aborted ? undefined : result;
+	return (await sequential(games.map(game => () => fetchGame(game, source)))).filter(game => game);
 };
 
 exports.fetchUnexotica = fetchUnexotica;
