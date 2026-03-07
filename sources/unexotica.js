@@ -12,7 +12,7 @@ const xpath = require('xpath');
 const amiga = require('../lib/amiga');
 const { countGalleries, fetchGalleries } = require('../lib/gallery');
 const LHA = require('../lib/lha');
-const { sequential, sleep, takeUntil } = require('../lib/utils');
+const { sequential, takeUntil } = require('../lib/utils');
 
 const PLATFORM = 'Amiga';
 
@@ -70,8 +70,6 @@ function normalizeName(name) {
 }
 
 async function fetchGame(url, source) {
-	await sleep(Math.floor(Math.random() * 3000) + 2000);
-
 	const samplesBundle = /(^|\/)(rjp|jpn|mdat)(\.)/;
 	const samplesPrefix = { rjp: 'smp', jpn: 'smp', mdat: 'smpl' };
 	const timeoutSignal = AbortSignal.timeout(60_000);
@@ -80,12 +78,23 @@ async function fetchGame(url, source) {
 
 	let html;
 	try {
-		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
+		fs.mkdirSync(`../../cache/source/${source}/`, { recursive: true });
+	} catch {}
+	const cachePath = `../../cache/source/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
+	if (fs.existsSync(cachePath))
+		html = fs.readFileSync(cachePath, 'utf-8');
+
+	try {
+		if (!html) {
+			html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
+			fs.writeFileSync(cachePath, html);
+		}
 	} catch(e) {
 		console.error('ABORTED! restart required');
 		aborted = true;
 		return null;
 	}
+
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
 	const title = normalizeName(xpath.select("normalize-space(.//tr[1]/th/i)", infobox));
