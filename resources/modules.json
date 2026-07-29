@@ -853,5 +853,498 @@
         "samples": "resources/modules/Amiga/Ween The Prophecy/WEEN.INS"
       }
     ]
+  },
+  {
+    "game": "Aladdin",
+    "platform": "PC",
+    "developers": ["Virgin"],
+    "publishers": ["Virgin"],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Disney's Aladdin",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/2069/disneys-aladdin/"
+      }
+    ],
+    "songs": [
+      {
+        "song": "LEVEL.AMF #1",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#1",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #2",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#2",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #3",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#3",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #4",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#4",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #5",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#5",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #6",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#6",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #7",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#7",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #8",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#8",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #9",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#9",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #10",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#10",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #11",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#11",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "WNW.AMF",
+        "song_link": "resources/modules/PC/Aladdin/WNW.AMF.br",
+        "size": 292684,
+        "composer": "Andrew Barnabas"
+      }
+    ]
+  },
+  {
+    "game": "Alien Breed: Tower Assault",
+    "platform": "PC",
+    "developers": ["Team 17"],
+    "publishers": ["Team 17"],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Alien Breed: Tower Assault",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/4219/alien-breed-tower-assault/"
+      }
+    ],
+    "songs": [
+      {
+        "song": "TITLE.AMF",
+        "song_link": "resources/modules/PC/Alien Breed - Tower Assault/TITLE.AMF.br",
+        "size": 59293,
+        "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Regret",
+    "platform": "PC",
+    "developers": ["Origin"],
+    "publishers": ["Origin"],
+    "year": 1996,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Crusader: No Regret",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/852/crusader-no-regret/"
+      }
+    ],
+    "songs": [
+      {
+        "song": "D3.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/D3.AMF.br",
+        "size": 416546,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DARK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DARK.AMF.br",
+        "size": 233022,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DEMO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DEMO.AMF.br",
+        "size": 389742,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DISTORT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DISTORT.AMF.br",
+        "size": 325474,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "INTENT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/INTENT.AMF.br",
+        "size": 281390,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "METAL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/METAL.AMF.br",
+        "size": 420832,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "MK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/MK.AMF.br",
+        "size": 274320,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "NINTH.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/NINTH.AMF.br",
+        "size": 438010,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PARTY.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PARTY.AMF.br",
+        "size": 266120,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PHIL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PHIL.AMF.br",
+        "size": 334352,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "REGRET.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/REGRET.AMF.br",
+        "size": 516576,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RETRO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RETRO.AMF.br",
+        "size": 264226,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RHYTHM.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RHYTHM.AMF.br",
+        "size": 372700,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SILVER.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SILVER.AMF.br",
+        "size": 362876,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE.AMF.br",
+        "size": 327390,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE2.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE2.AMF.br",
+        "size": 306694,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STINT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STINT.AMF.br",
+        "size": 383926,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STRAIGHT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STRAIGHT.AMF.br",
+        "size": 315846,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "TECHNO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/TECHNO.AMF.br",
+        "size": 193872,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "THIRD.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/THIRD.AMF.br",
+        "size": 182450,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "XMAS.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/XMAS.AMF.br",
+        "size": 325934,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Remorse",
+    "platform": "PC",
+    "developers": ["Origin"],
+    "publishers": ["Origin"],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Crusader: No Remorse",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/851/crusader-no-remorse/"
+      }
+    ],
+    "songs": [
+      {
+        "song": "CRED.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/CRED.AMF.br",
+        "size": 337076,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M01.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M01.AMF.br",
+        "size": 368770,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M02.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M02.AMF.br",
+        "size": 199228,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M03.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M03.AMF.br",
+        "size": 294088,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M04.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M04.AMF.br",
+        "size": 247900,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M05.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M05.AMF.br",
+        "size": 282446,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M06.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M06.AMF.br",
+        "size": 82896,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M07.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M07.AMF.br",
+        "size": 149001,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M08.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M08.AMF.br",
+        "size": 143584,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M09.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M09.AMF.br",
+        "size": 347676,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M10.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M10.AMF.br",
+        "size": 172090,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M11.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M11.AMF.br",
+        "size": 287020,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M12.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M12.AMF.br",
+        "size": 139774,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M13.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M13.AMF.br",
+        "size": 338074,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M14.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M14.AMF.br",
+        "size": 219378,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M15.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M15.AMF.br",
+        "size": 304862,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16A.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16A.AMF.br",
+        "size": 248710,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16B.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16B.AMF.br",
+        "size": 208960,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16C.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16C.AMF.br",
+        "size": 229746,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "MENU.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/MENU.AMF.br",
+        "size": 275960,
+        "composer": "Dan Grandpre, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Micro Machines 2: Turbo Tournament",
+    "platform": "PC",
+    "developers": ["Supersonic Software"],
+    "publishers": ["Codemasters", "Ocean"],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Micro Machines 2: Turbo Tournament",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/627/micro-machines-2-turbo-tournament/"
+      }
+    ],
+    "songs": [
+      {
+        "song": "BONUS.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#1",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "BONUS.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#2",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "BONUS.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#3",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "GAME.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#1",
+        "size": 174771,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "GAME.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#2",
+        "size": 174771,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#1",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#2",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#3",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #4",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#4",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #5",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#5",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#1",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#2",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#3",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "WINGAME.MUS",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/WINGAME.MUS.br",
+        "size": 303947,
+        "composer": "Tim Bartlett"
+      }
+    ]
   }
 ]
