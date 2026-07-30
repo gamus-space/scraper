@@ -82,10 +82,10 @@ async function fetchGame(url, source) {
 		fs.mkdirSync(`../_cache/${source}/`, { recursive: true });
 	} catch {}
 	const cachePath = `../_cache/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
-	// if (fs.existsSync(cachePath)) {
-	// 	html = fs.readFileSync(cachePath, 'utf-8');
-	// }
-	if (!html || html.includes('<title>Verifying...</title>')) {
+	if (fs.existsSync(cachePath)) {
+		html = fs.readFileSync(cachePath, 'utf-8');
+	}
+	if (!COOKIES || !html || html.includes('<title>Verifying...</title>')) {
 		const response = await fetch(url, { signal: timeoutSignal, headers: { Cookie: COOKIES?.map(c => c.split(';')[0]).join('; ') } });
 		html = await response.text();
 		fs.writeFileSync(cachePath, html);
