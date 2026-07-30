@@ -82,9 +82,9 @@ async function fetchGame(url, source) {
 		fs.mkdirSync(`../_cache/${source}/`, { recursive: true });
 	} catch {}
 	const cachePath = `../_cache/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
-	if (fs.existsSync(cachePath)) {
-		html = fs.readFileSync(cachePath, 'utf-8');
-	}
+	// if (fs.existsSync(cachePath)) {
+	// 	html = fs.readFileSync(cachePath, 'utf-8');
+	// }
 	if (!html || html.includes('<title>Verifying...</title>')) {
 		const response = await fetch(url, { signal: timeoutSignal, headers: { Cookie: COOKIES?.map(c => c.split(';')[0]).join('; ') } });
 		html = await response.text();
@@ -157,7 +157,7 @@ async function fetchGame(url, source) {
 		if (songsData[i].every(songDownloaded))
 			return null;
 		console.info(`downloading ${url} ...`);
-		return LHA.read(new Uint8Array(await (await fetch(url.href, { signal: timeoutSignal })).arrayBuffer()));
+		return LHA.read(new Uint8Array(await (await fetch(url.href, { signal: timeoutSignal, headers: { Cookie: COOKIES?.map(c => c.split(';')[0]).join('; ') } })).arrayBuffer()));
 	}));
 
 	const songs = songsData.map((songs, i) => songs.map(song => {
