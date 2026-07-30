@@ -82,10 +82,11 @@ async function fetchGame(url, source) {
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
 	}
-	if (html.includes("<title>Verifying...</title>")) {
+	if (!html || html.includes("<title>Verifying...</title>")) {
 		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1785531421.9blHhCBKFLdLCtEtxJdMT0WjrvU=' } })).text();
 		fs.writeFileSync(cachePath, html);
 	}
+	console.log(html);
 
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
