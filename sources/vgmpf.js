@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const { URL } = require('url');
+const { setTimeout } = require('node:timers/promises');
 
 const AdmZip = require('adm-zip');
 const { fetch: fetch2 } = require('fetch-h2');
@@ -24,6 +25,11 @@ const EMPTY_GALLERY = [];
 
 async function fetchGame({ url, composer, publishers, song_pattern, song_count, song_ignore, rate, samples }, source, options) {
 	const html = await (await fetch2(url)).text();
+	if (html.includes('This site is experiencing technical difficulties')) {
+		console.log('retry...')
+		await setTimeout(2000);
+		return fetchGame({ url, composer, publishers, song_pattern, song_count, song_ignore, rate, samples }, source, options);
+	}
 	const doc = new dom().parseFromString(html);
 	const infoTable = xpath.select1('//div[@id="mw-content-text"]/table[1]', doc);
 	const game = options.game || xpath.select('normalize-space(./tr[1]/td)', infoTable);
@@ -266,6 +272,15 @@ async function fetchVgmpf(source) {
 	const modGames = [
 		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=Prehistorik_2_(DOS)', composer: 'Fabrice Paumier, Francis Fournier', song_pattern: /^[^/]+\.mod/, song_count: 12 },
 	];
+	const amfGames = [
+		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=Cannon_Fodder_2_(DOS)', composer: 'Richard Joseph, Jon Hare', song_pattern: /^[^/]+\.amf/, song_count: 7 },
+		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=The_Lion_King_(DOS)', composer: 'Allister Brimble', song_pattern: /^[^/]+\.amf/, song_count: 15 },
+	];
+	const psmGames = [
+		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=Jazz_Jackrabbit_(DOS)', composer: 'Robert Allen', song_pattern: /^[^/]+\.psm/, song_count: 38 },
+		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=One_Must_Fall:_2097_(DOS)', composer: 'Kenny Chou', song_pattern: /^[^/]+\.psm/, song_count: 7 },
+		{ url: 'https://www.vgmpf.com/Wiki/index.php?title=Epic_Pinball_(DOS)', composer: 'Robert Allen', song_pattern: /^[^/]+\.psm/, song_count: 15 },
+	];
 	const gameOptions = {
 		'https://www.vgmpf.com/Wiki/index.php?title=Dune_II:_The_Building_of_a_Dynasty_(DOS)': { game: 'Dune II' },
 		'https://www.vgmpf.com/Wiki/index.php?title=Final_DOOM_(DOS)#plutonia': { game: 'Final Doom - The Plutonia Experiment' },
@@ -276,9 +291,10 @@ async function fetchVgmpf(source) {
 		'https://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_One_(DOS)': { game: 'Legend of Kyrandia: Book One, The' },
 		'https://www.vgmpf.com/Wiki/index.php?title=The_Legend_of_Kyrandia:_Book_Two_-_Hand_of_Fate_(DOS)': { game: 'Legend of Kyrandia: Book Two - The Hand of Fate, The' },
 		'https://www.vgmpf.com/Wiki/index.php?title=The_Lost_Vikings_(DOS)': { game: 'Lost Vikings, The'},
+		'https://www.vgmpf.com/Wiki/index.php?title=The_Lion_King_(DOS)': { game: 'Lion King, The'},
 		'https://www.vgmpf.com/Wiki/index.php?title=Ultima_VI:_The_False_Prophet_(DOS)': { game: 'Ultima VI' },
 	};
-	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...hmiGames, ...heradGames, ...adlCoktelVisionGames, ...ldsGames, ...modGames];
+	const games = [...imfGames, ...musGames, ...mGames, ...adlWestwoodGames, ...mdiGames, ...xmiGames, ...midGames, ...klmGames, ...hmpGames, ...hmiGames, ...heradGames, ...adlCoktelVisionGames, ...ldsGames, ...modGames, ...amfGames, ...psmGames];
 	return (await sequential(games.map(game => () =>
 		fetchGame(game, source, { ...gameOptions[game.url] })
 	))).filter(game => game);
