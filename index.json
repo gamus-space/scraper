@@ -921,6 +921,117 @@
   },
   {
     "game": "Aladdin",
+    "platform": "PC",
+    "developers": [
+      "Virgin"
+    ],
+    "publishers": [
+      "Virgin"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Disney's Aladdin",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/2069/disneys-aladdin/",
+        "gallery": [
+          "https://cdn.mobygames.com/0673190e-ab65-11ed-9feb-02420a000169.webp",
+          "https://cdn.mobygames.com/b49c1556-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/b66bc0d4-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/7fa146b2-ab78-11ed-8ed2-02420a0001a0.webp",
+          "https://cdn.mobygames.com/b936deca-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/ba8d0b0a-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/bbf03c10-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/a3d77f26-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a50c400c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a73a8f1e-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a86a793a-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a9d2ac0c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/ab137a9c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/b9f83296-abad-11ed-99ae-02420a00019e.webp",
+          "https://cdn.mobygames.com/bb4a3ad6-abad-11ed-99ae-02420a00019e.webp",
+          "https://cdn.mobygames.com/c044baf2-abad-11ed-99ae-02420a00019e.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "LEVEL.AMF #1",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#1",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #2",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#2",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #3",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#3",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #4",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#4",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #5",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#5",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #6",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#6",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #7",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#7",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #8",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#8",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #9",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#9",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #10",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#10",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #11",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#11",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "WNW.AMF",
+        "song_link": "resources/modules/PC/Aladdin/WNW.AMF.br",
+        "size": 292684,
+        "composer": "Andrew Barnabas"
+      }
+    ]
+  },
+  {
+    "game": "Aladdin",
     "platform": "Amiga",
     "developers": [
       "Disney Software"
@@ -1593,6 +1704,57 @@
         "size": 88606,
         "composer": "Allister Brimble",
         "source_archive": "http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FBrimble_Allister%2FAlien_Breed_SE.lha"
+      }
+    ]
+  },
+  {
+    "game": "Alien Breed: Tower Assault",
+    "platform": "PC",
+    "developers": [
+      "Team 17"
+    ],
+    "publishers": [
+      "Team 17"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Alien Breed: Tower Assault",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/4219/alien-breed-tower-assault/",
+        "gallery": [
+          "https://cdn.mobygames.com/ea39ac6c-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/eb8f0b20-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/ecc38f48-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/ee4d2c84-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/efad8cc2-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/f1397ef2-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/f27ec538-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/09b633be-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/f30b9c10-ab64-11ed-9620-02420a000175.webp",
+          "https://cdn.mobygames.com/0c2edc9a-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/0cea0c7c-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/fe9d63bc-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/fef2e332-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/ff61720c-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/ffacb8c0-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/00ab202c-ab77-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/0112a562-ab77-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/f8b502a8-ac06-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/fb227d86-ac06-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/f69ffae0-ac06-11ed-8ce3-02420a000131.webp",
+          "https://cdn.mobygames.com/f8de1a80-ac06-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/fb502204-ac06-11ed-962d-02420a000135.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "TITLE.AMF",
+        "song_link": "resources/modules/PC/Alien Breed - Tower Assault/TITLE.AMF.br",
+        "size": 59293,
+        "composer": "Allister Brimble"
       }
     ]
   },
@@ -9575,6 +9737,107 @@
   },
   {
     "game": "Cannon Fodder 2",
+    "platform": "PC",
+    "developers": [
+      "Sensible Software"
+    ],
+    "publishers": [
+      "Virgin Interactive Entertainment, Inc.",
+      "Virgin Interactive Entertainment, Ltd."
+    ],
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "https://www.vgmpf.com/Wiki/index.php?title=Cannon_Fodder_2_(DOS)",
+    "links": [
+      {
+        "title": "Cannon Fodder 2",
+        "site": "MobyGames",
+        "url": "http://www.mobygames.com/game/dos/cannon-fodder-2",
+        "gallery": [
+          "https://cdn.mobygames.com/39e57780-ab76-11ed-be6f-02420a000197.webp",
+          "https://cdn.mobygames.com/9a52b882-ab65-11ed-8ad3-02420a000184.webp",
+          "https://cdn.mobygames.com/34512ab2-ab76-11ed-9d80-02420a00019a.webp",
+          "https://cdn.mobygames.com/36ac712c-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/3760a58e-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/38c8cbae-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/3987a6b4-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/3a4ca7c0-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/3b4b5e5a-ab76-11ed-bc1c-02420a00019a.webp",
+          "https://cdn.mobygames.com/550c290c-abb0-11ed-8b70-02420a00019a.webp",
+          "https://cdn.mobygames.com/57f335de-abb0-11ed-8b70-02420a00019a.webp",
+          "https://cdn.mobygames.com/476a3e92-abb0-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/491dfc56-abb0-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4aecc3fa-abb0-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4cebacac-abb0-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4e92af24-abb0-11ed-9ab3-02420a0001a0.webp",
+          "https://cdn.mobygames.com/4ffd2966-abb0-11ed-9ab3-02420a0001a0.webp"
+        ]
+      },
+      {
+        "title": "Cannon Fodder 2",
+        "site": "GameFAQs",
+        "url": "http://www.gamefaqs.com/pc/921934-cannon-fodder-2"
+      },
+      {
+        "title": "Cannon Fodder 2",
+        "site": "Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cannon_Fodder_2"
+      }
+    ],
+    "songs": [
+      {
+        "song": "01 - Title.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/01 - Title.amf",
+        "size": 351179,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "02 - Menu.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/02 - Menu.amf",
+        "size": 34251,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "03 - Heli Animation.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/03 - Heli Animation.amf",
+        "size": 37953,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "04 - Win Zone.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/04 - Win Zone.amf",
+        "size": 18807,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "05 - Game Over.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/05 - Game Over.amf",
+        "size": 33227,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "06 - Loader.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/06 - Loader.amf",
+        "size": 58718,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      },
+      {
+        "song": "07 - Win Level.amf",
+        "song_link": "VGMPF/PC/Cannon Fodder 2/07 - Win Level.amf",
+        "size": 19767,
+        "composer": "Richard Joseph, Jon Hare",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/6/68/Cannon_Fodder_2_%28DOS%29.zip"
+      }
+    ]
+  },
+  {
+    "game": "Cannon Fodder 2",
     "platform": "Amiga",
     "developers": [
       "Sensible Software"
@@ -15361,13 +15624,10 @@
       "Origin"
     ],
     "publishers": [
-      "Electronic Arts",
-      "Origin",
-      "EA"
+      "Origin"
     ],
-    "year": "1996",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjky",
+    "year": 1996,
+    "source": "gamus",
     "links": [
       {
         "title": "Crusader: No Regret",
@@ -15400,129 +15660,129 @@
     ],
     "songs": [
       {
-        "song": "D3.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/D3.MOD",
-        "size": 414968,
+        "song": "D3.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/D3.AMF.br",
+        "size": 416546,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "DARK.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/DARK.MOD",
-        "size": 231444,
+        "song": "DARK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DARK.AMF.br",
+        "size": 233022,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "DEMO.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/DEMO.MOD",
-        "size": 388164,
+        "song": "DEMO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DEMO.AMF.br",
+        "size": 389742,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "DISTORT.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/DISTORT.MOD",
-        "size": 323896,
+        "song": "DISTORT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DISTORT.AMF.br",
+        "size": 325474,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "INTENT.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/INTENT.MOD",
-        "size": 279812,
+        "song": "INTENT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/INTENT.AMF.br",
+        "size": 281390,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "METAL.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/METAL.MOD",
-        "size": 419254,
+        "song": "METAL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/METAL.AMF.br",
+        "size": 420832,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "MK.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/MK.MOD",
-        "size": 272742,
+        "song": "MK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/MK.AMF.br",
+        "size": 274320,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "NINTH.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/NINTH.MOD",
-        "size": 436432,
+        "song": "NINTH.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/NINTH.AMF.br",
+        "size": 438010,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "PARTY.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/PARTY.MOD",
-        "size": 264542,
+        "song": "PARTY.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PARTY.AMF.br",
+        "size": 266120,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "PHIL.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/PHIL.MOD",
-        "size": 332774,
+        "song": "PHIL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PHIL.AMF.br",
+        "size": 334352,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "REGRET.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/REGRET.MOD",
-        "size": 514998,
+        "song": "REGRET.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/REGRET.AMF.br",
+        "size": 516576,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "RETRO.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/RETRO.MOD",
-        "size": 262648,
+        "song": "RETRO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RETRO.AMF.br",
+        "size": 264226,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "RHYTHM.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/RHYTHM.MOD",
-        "size": 371122,
+        "song": "RHYTHM.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RHYTHM.AMF.br",
+        "size": 372700,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "SILVER.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/SILVER.MOD",
-        "size": 361298,
+        "song": "SILVER.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SILVER.AMF.br",
+        "size": 362876,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "SPACE.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/SPACE.MOD",
-        "size": 325812,
+        "song": "SPACE.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE.AMF.br",
+        "size": 327390,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "SPACE2.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/SPACE2.MOD",
-        "size": 305116,
+        "song": "SPACE2.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE2.AMF.br",
+        "size": 306694,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "STINT.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/STINT.MOD",
-        "size": 382348,
+        "song": "STINT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STINT.AMF.br",
+        "size": 383926,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "STRAIGHT.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/STRAIGHT.MOD",
-        "size": 314268,
+        "song": "STRAIGHT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STRAIGHT.AMF.br",
+        "size": 315846,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "TECHNO.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/TECHNO.MOD",
-        "size": 192294,
+        "song": "TECHNO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/TECHNO.AMF.br",
+        "size": 193872,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "THIRD.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/THIRD.MOD",
-        "size": 180872,
+        "song": "THIRD.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/THIRD.AMF.br",
+        "size": 182450,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       },
       {
-        "song": "XMAS.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Regret/XMAS.MOD",
-        "size": 324356,
+        "song": "XMAS.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/XMAS.AMF.br",
+        "size": 325934,
         "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
       }
     ]
@@ -15531,17 +15791,13 @@
     "game": "Crusader: No Remorse",
     "platform": "PC",
     "developers": [
-      "Origin",
-      "Realtime Associates"
+      "Origin"
     ],
     "publishers": [
-      "Electronic Arts",
-      "Origin",
-      "EA"
+      "Origin"
     ],
-    "year": "1995",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=Mjkz",
+    "year": 1995,
+    "source": "gamus",
     "links": [
       {
         "title": "Crusader: No Remorse",
@@ -15576,129 +15832,123 @@
     ],
     "songs": [
       {
-        "song": "CRED.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/CRED.MOD",
-        "size": 335498,
+        "song": "CRED.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/CRED.AMF.br",
+        "size": 337076,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M01.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M01.MOD",
-        "size": 367192,
+        "song": "M01.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M01.AMF.br",
+        "size": 368770,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M02.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M02.MOD",
-        "size": 197650,
+        "song": "M02.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M02.AMF.br",
+        "size": 199228,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M03.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M03.MOD",
-        "size": 292510,
+        "song": "M03.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M03.AMF.br",
+        "size": 294088,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M04.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M04.MOD",
-        "size": 246322,
+        "song": "M04.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M04.AMF.br",
+        "size": 247900,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M05.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M05.MOD",
-        "size": 280868,
+        "song": "M05.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M05.AMF.br",
+        "size": 282446,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M06.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M06.MOD",
-        "size": 81318,
+        "song": "M06.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M06.AMF.br",
+        "size": 82896,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M07.MOD #1",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD#1",
-        "size": 147423,
+        "song": "M07.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M07.AMF.br",
+        "size": 149001,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M07.MOD #18",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M07.MOD#18",
-        "size": 147423,
+        "song": "M08.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M08.AMF.br",
+        "size": 143584,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M08.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M08.MOD",
-        "size": 142006,
+        "song": "M09.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M09.AMF.br",
+        "size": 347676,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M09.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M09.MOD",
-        "size": 346098,
+        "song": "M10.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M10.AMF.br",
+        "size": 172090,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M10.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M10.MOD",
-        "size": 170512,
+        "song": "M11.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M11.AMF.br",
+        "size": 287020,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M11.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M11.MOD",
-        "size": 285442,
+        "song": "M12.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M12.AMF.br",
+        "size": 139774,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M12.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M12.MOD",
-        "size": 138196,
+        "song": "M13.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M13.AMF.br",
+        "size": 338074,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M13.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M13.MOD",
-        "size": 336496,
+        "song": "M14.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M14.AMF.br",
+        "size": 219378,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M14.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M14.MOD",
-        "size": 217800,
+        "song": "M15.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M15.AMF.br",
+        "size": 304862,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M15.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M15.MOD",
-        "size": 303284,
+        "song": "M16A.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16A.AMF.br",
+        "size": 248710,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M16A.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16A.MOD",
-        "size": 247132,
+        "song": "M16B.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16B.AMF.br",
+        "size": 208960,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M16B.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16B.MOD",
-        "size": 207382,
+        "song": "M16C.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16C.AMF.br",
+        "size": 229746,
         "composer": "Dan Grandpre, Andrew Sega"
       },
       {
-        "song": "M16C.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/M16C.MOD",
-        "size": 228168,
-        "composer": "Dan Grandpre, Andrew Sega"
-      },
-      {
-        "song": "MENU.MOD",
-        "song_link": "World of Game MODs/PC/Crusader No Remorse/MENU.MOD",
-        "size": 274382,
+        "song": "MENU.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/MENU.AMF.br",
+        "size": 275960,
         "composer": "Dan Grandpre, Andrew Sega"
       }
     ]
@@ -22858,20 +23108,21 @@
     "game": "Epic Pinball",
     "platform": "PC",
     "developers": [
-      "Epic Megagames",
-      "James Schmalz"
+      "Digital Extremes, Inc."
     ],
     "publishers": [
-      "Epic Megagames"
+      "Epic MegaGames, Inc.",
+      "WizardWorks Software",
+      "xLand Games"
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NDAx",
+    "year": 1993,
+    "source": "VGMPF",
+    "source_link": "https://www.vgmpf.com/Wiki/index.php?title=Epic_Pinball_(DOS)",
     "links": [
       {
         "title": "Epic Pinball",
         "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/263/epic-pinball/",
+        "url": "http://www.mobygames.com/game/dos/epic-pinball",
         "gallery": [
           "https://cdn.mobygames.com/3f743120-bf2e-11ed-9c42-02420a000140.webp",
           "https://cdn.mobygames.com/c54613d8-ab72-11ed-b951-02420a000197.webp",
@@ -22915,104 +23166,123 @@
           "https://cdn.mobygames.com/bcc7d0b4-befc-11ed-9c42-02420a000140.webp",
           "https://cdn.mobygames.com/bbdf4d9e-befc-11ed-9c42-02420a000140.webp"
         ]
+      },
+      {
+        "title": "Epic Pinball",
+        "site": "GameFAQs",
+        "url": "http://www.gamefaqs.com/pc/579112-epic-pinball"
+      },
+      {
+        "title": "Epic Pinball",
+        "site": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epic_Pinball"
       }
     ],
     "songs": [
       {
-        "song": "SONG0.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG0.S3M",
-        "size": 111104,
-        "composer": "Robert Allen"
+        "song": "01 - Title.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/01 - Title.psm",
+        "size": 115895,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG00.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG00.S3M",
-        "size": 134928,
-        "composer": "Robert Allen"
+        "song": "02 - Android.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/02 - Android.psm",
+        "size": 66896,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG1.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG1.S3M",
-        "size": 61856,
-        "composer": "Robert Allen"
+        "song": "03 - Pot of Gold.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/03 - Pot of Gold.psm",
+        "size": 49374,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG10.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG10.S3M",
-        "size": 122880,
-        "composer": "Robert Allen"
+        "song": "04 - Excalibur.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/04 - Excalibur.psm",
+        "size": 178082,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG11.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG11.S3M",
-        "size": 140560,
-        "composer": "Robert Allen"
+        "song": "05 - Crash and Burn.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/05 - Crash and Burn.psm",
+        "size": 153871,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG12.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG12.S3M",
-        "size": 112384,
-        "composer": "Robert Allen"
+        "song": "06 - Magic.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/06 - Magic.psm",
+        "size": 20018,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG13.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG13.S3M",
-        "size": 61648,
-        "composer": "Robert Allen"
+        "song": "07 - Jungle Pinball.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/07 - Jungle Pinball.psm",
+        "size": 145994,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG1a.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG1a.S3M",
-        "size": 58976,
-        "composer": "Robert Allen"
+        "song": "08 - Deep Sea.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/08 - Deep Sea.psm",
+        "size": 120516,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG2.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG2.S3M",
-        "size": 47424,
-        "composer": "Robert Allen"
+        "song": "09 - Enigma.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/09 - Enigma.psm",
+        "size": 48923,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG3.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG3.S3M",
-        "size": 173920,
-        "composer": "Robert Allen"
+        "song": "10 - Cyborgirl.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/10 - Cyborgirl.psm",
+        "size": 86068,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG4.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG4.S3M",
-        "size": 150960,
-        "composer": "Robert Allen"
+        "song": "11 - Pangaea.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/11 - Pangaea.psm",
+        "size": 124903,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG5.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG5.S3M",
-        "size": 18352,
-        "composer": "Robert Allen"
+        "song": "12 - Space Journey.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/12 - Space Journey.psm",
+        "size": 144593,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG6.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG6.S3M",
-        "size": 141424,
-        "composer": "Robert Allen"
+        "song": "13 - Toy Factory.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/13 - Toy Factory.psm",
+        "size": 114671,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG7.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG7.S3M",
-        "size": 117024,
-        "composer": "Robert Allen"
+        "song": "14 - African Safari.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/14 - African Safari.psm",
+        "size": 63870,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       },
       {
-        "song": "SONG8.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG8.S3M",
-        "size": 46912,
-        "composer": "Robert Allen"
-      },
-      {
-        "song": "SONG9.S3M",
-        "song_link": "World of Game MODs/PC/Epic Pinball/SONG9.S3M",
-        "size": 83920,
-        "composer": "Robert Allen"
+        "song": "15 - Shareware Message.psm",
+        "song_link": "VGMPF/PC/Epic Pinball/15 - Shareware Message.psm",
+        "size": 134804,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/2a/Epic_Pinball_%28DOS%29.zip"
       }
     ]
   },
@@ -32084,21 +32354,20 @@
     "game": "Jazz Jackrabbit",
     "platform": "PC",
     "developers": [
-      "Epic Megagames",
-      "Game Titan"
+      "Epic MegaGames, Inc."
     ],
     "publishers": [
-      "Epic Megagames",
-      "Jaleco"
+      "Epic MegaGames, Inc.",
+      "Romware GmbH"
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NTc2",
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "https://www.vgmpf.com/Wiki/index.php?title=Jazz_Jackrabbit_(DOS)",
     "links": [
       {
         "title": "Jazz Jackrabbit",
         "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/902/jazz-jackrabbit/",
+        "url": "https://www.mobygames.com/game/dos/jazz-jackrabbit",
         "gallery": [
           "https://cdn.mobygames.com/6f3ad2fa-ab75-11ed-a061-02420a00019d.webp",
           "https://cdn.mobygames.com/6f9647d4-ab75-11ed-a061-02420a00019d.webp",
@@ -32127,206 +32396,284 @@
           "https://cdn.mobygames.com/7174bb4e-ab75-11ed-ab77-02420a000198.webp",
           "https://cdn.mobygames.com/7204586c-ab75-11ed-ab77-02420a000198.webp"
         ]
+      },
+      {
+        "title": "Jazz Jackrabbit",
+        "site": "GameFAQs",
+        "url": "https://gamefaqs.gamespot.com/pc/565038-jazz-jackrabbit"
+      },
+      {
+        "title": "Jazz Jackrabbit",
+        "site": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jazz_Jackrabbit"
       }
     ],
     "songs": [
       {
-        "song": "BONUS.S3M",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/BONUS.S3M",
-        "size": 94224,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "bonus.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/bonus.psm",
+        "size": 98008,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Battleships.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Battleships.s3m",
-        "size": 137440,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "boss.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/boss.psm",
+        "size": 92474,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Boss.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Boss.s3m",
-        "size": 89920,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "endlevel.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/endlevel.psm",
+        "size": 58884,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Chrysilis.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Chrysilis.s3m",
-        "size": 112592,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "endsong.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/endsong.psm",
+        "size": 116964,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Deckstar.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Deckstar.s3m",
-        "size": 96256,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "menusng.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/menusng.psm",
+        "size": 79609,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Deserto.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Deserto.s3m",
-        "size": 97952,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "secret.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/secret.psm",
+        "size": 118670,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Diamondus.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Diamondus.s3m",
-        "size": 78976,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song0.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song0.psm",
+        "size": 80880,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Dreempipes.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Dreempipes.s3m",
-        "size": 124896,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song1.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song1.psm",
+        "size": 115746,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "EndLevel.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/EndLevel.s3m",
-        "size": 58080,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song10.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song10.psm",
+        "size": 116890,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Ending.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Ending.s3m",
-        "size": 113408,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song11.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song11.psm",
+        "size": 32824,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Exoticus.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Exoticus.s3m",
-        "size": 37616,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song12.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song12.psm",
+        "size": 104832,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Fanolint.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Fanolint.s3m",
-        "size": 117712,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song13.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song13.psm",
+        "size": 126639,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Industrius.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Industrius.s3m",
-        "size": 116096,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song14.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song14.psm",
+        "size": 93774,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Jungrock.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Jungrock.s3m",
-        "size": 52864,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song15.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song15.psm",
+        "size": 142898,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Lagunicus.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Lagunicus.s3m",
-        "size": 61648,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song16.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song16.psm",
+        "size": 62047,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Letni.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Letni.s3m",
-        "size": 72208,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song17.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song17.psm",
+        "size": 119943,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Marbelara.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Marbelara.s3m",
-        "size": 53904,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song2.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song2.psm",
+        "size": 165133,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Medivo.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Medivo.s3m",
-        "size": 116640,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song3.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song3.psm",
+        "size": 103343,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Megairbase.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Megairbase.s3m",
-        "size": 60048,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song4.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song4.psm",
+        "size": 50450,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Menu.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Menu.s3m",
-        "size": 74720,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song5.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song5.psm",
+        "size": 95589,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Muckamok.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Muckamok.s3m",
-        "size": 82304,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song6.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song6.psm",
+        "size": 55003,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Nippius.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Nippius.s3m",
-        "size": 93360,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song7.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song7.psm",
+        "size": 75093,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Orbitus.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Orbitus.s3m",
-        "size": 30576,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song8.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song8.psm",
+        "size": 119976,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Pezrock.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Pezrock.s3m",
-        "size": 102336,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "song9.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/song9.psm",
+        "size": 55861,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Raneforus.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Raneforus.s3m",
-        "size": 129312,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd0.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd0.psm",
+        "size": 41478,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Scraparap.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Scraparap.s3m",
-        "size": 91584,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd1.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd1.psm",
+        "size": 122024,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Sluggion.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Sluggion.s3m",
-        "size": 111520,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd2.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd2.psm",
+        "size": 85383,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Stonar.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Stonar.s3m",
-        "size": 103600,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd3.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd3.psm",
+        "size": 133771,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Technoir.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Technoir.s3m",
-        "size": 160720,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd4.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd4.psm",
+        "size": 110339,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Tubelectric.S3M",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Tubelectric.S3M",
-        "size": 99344,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd5.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd5.psm",
+        "size": 101981,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "Turtemple.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/Turtemple.s3m",
-        "size": 48272,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd6.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd6.psm",
+        "size": 102774,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "XMas 1.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/XMas 1.s3m",
-        "size": 137760,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd7.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd7.psm",
+        "size": 102391,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       },
       {
-        "song": "XMas 2.s3m",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit/XMas 2.s3m",
-        "size": 83040,
-        "composer": "Robert Allen, Joshua Jensen"
+        "song": "songcd8.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/songcd8.psm",
+        "size": 63614,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
+      },
+      {
+        "song": "xm2.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/xm2.psm",
+        "size": 140563,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
+      },
+      {
+        "song": "xm3.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/xm3.psm",
+        "size": 86521,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
+      },
+      {
+        "song": "xmas2.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/xmas2.psm",
+        "size": 136849,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
+      },
+      {
+        "song": "xmas3.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/xmas3.psm",
+        "size": 181650,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
+      },
+      {
+        "song": "xmbonus.psm",
+        "song_link": "VGMPF/PC/Jazz Jackrabbit/xmbonus.psm",
+        "size": 40760,
+        "composer": "Robert Allen",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/e/ea/Jazz_Jackrabbit_%28DOS%29.zip"
       }
     ]
   },
@@ -32388,72 +32735,6 @@
         "song_link": "World of Game MODs/PC/Jazz Jackrabbit 2 The Secret Files/Haunted.it",
         "size": 729284,
         "composer": "Alexander Brandon"
-      }
-    ]
-  },
-  {
-    "game": "Jazz Jackrabbit: Holiday Hare 1994",
-    "platform": "PC",
-    "developers": [
-      "Epic Megagames"
-    ],
-    "publishers": [
-      "Epic Megagames"
-    ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTc=",
-    "links": [
-      {
-        "title": "Jazz Jackrabbit: Holiday Hare 1994",
-        "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/10026/jazz-jackrabbit-holiday-hare-1994/",
-        "gallery": [
-          "https://cdn.mobygames.com/79ca0330-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/898da7b0-abe6-11ed-b013-02420a00012e.webp",
-          "https://cdn.mobygames.com/73ad1ef6-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/8995bb3a-abe6-11ed-a484-02420a000130.webp",
-          "https://cdn.mobygames.com/88a99750-abe6-11ed-b013-02420a00012e.webp",
-          "https://cdn.mobygames.com/742b4b82-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/75a8b1e8-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/79d4c6b2-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7a342bd4-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7b5eea6c-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7bd88f34-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7c32ba36-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7cb1aeea-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7d0bb0e8-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/7d725776-ab75-11ed-ba04-02420a00019f.webp",
-          "https://cdn.mobygames.com/750aa5f2-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/75abd5c6-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/762c85cc-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/76950a34-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/7718f75e-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/77ccc0a4-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/783548d6-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/78ed8efa-ab75-11ed-8bb9-02420a000197.webp",
-          "https://cdn.mobygames.com/7954c4e4-ab75-11ed-8bb9-02420a000197.webp"
-        ]
-      }
-    ],
-    "songs": [
-      {
-        "song": "XMAS2.IT",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS2.IT",
-        "size": 132771,
-        "composer": "Robert Allen, Joshua Jensen"
-      },
-      {
-        "song": "XMAS2_enhanced.it",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS2_enhanced.it",
-        "size": 99204,
-        "composer": "Robert Allen, Joshua Jensen"
-      },
-      {
-        "song": "XMAS3.IT",
-        "song_link": "World of Game MODs/PC/Jazz Jackrabbit Holiday Hare 1994/XMAS3.IT",
-        "size": 174957,
-        "composer": "Robert Allen, Joshua Jensen"
       }
     ]
   },
@@ -35328,6 +35609,11 @@
     "links": [
       {
         "title": "Lemmings",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Lemmings"
+      },
+      {
+        "title": "Lemmings",
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/683/lemmings/",
         "gallerySection": "Amiga screenshots",
@@ -35494,6 +35780,11 @@
     "source": "UnExoticA",
     "source_link": "https://www.exotica.org.uk/wiki/Lemmings",
     "links": [
+      {
+        "title": "Lemmings",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Lemmings"
+      },
       {
         "title": "Lemmings (ECS)",
         "site": "Hall Of Light",
@@ -35927,6 +36218,11 @@
     "source": "VGMRips",
     "source_link": "https://vgmrips.net/packs/pack/lemmings-series-ibm-pc-at",
     "links": [
+      {
+        "title": "Lemmings",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Lemmings"
+      },
       {
         "title": "Lemmings",
         "site": "MobyGames",
@@ -37289,36 +37585,20 @@
     "game": "Lion King, The",
     "platform": "PC",
     "developers": [
-      "Westwood Studios",
-      "Virgin Interactive",
-      "Virgin",
-      "Westwood",
-      "Disney Soft",
-      "Paradox",
-      "Virgin Interactive Entertainment"
+      "East Point Software"
     ],
     "publishers": [
-      "Activision",
-      "Virgin Interactive",
-      "Sega",
-      "Disney Software",
-      "Virgin",
-      "Nintendo",
-      "Virgin Games",
-      "Disney",
-      "The Walt Disney Company",
-      "Walt Disney Company",
-      "Virgin Interactive Entertainment",
-      "Buena Vista"
+      "Virgin Interactive Entertainment (Europe) Ltd.",
+      "Virgin Interactive Entertainment, Inc."
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTQ=",
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "https://www.vgmpf.com/Wiki/index.php?title=The_Lion_King_(DOS)",
     "links": [
       {
         "title": "Lion King, The",
         "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/2077/the-lion-king/",
+        "url": "https://www.mobygames.com/game/dos/lion-king",
         "gallery": [
           "https://cdn.mobygames.com/0e5cea5a-ab79-11ed-9ab3-02420a0001a0.webp",
           "https://cdn.mobygames.com/0ecb15a2-ab79-11ed-9ab3-02420a0001a0.webp",
@@ -37333,92 +37613,118 @@
           "https://cdn.mobygames.com/debfcff2-ab77-11ed-93d8-02420a000198.webp",
           "https://cdn.mobygames.com/df1abd68-ab77-11ed-93d8-02420a000198.webp"
         ]
+      },
+      {
+        "title": "Lion King, The",
+        "site": "GameFAQs",
+        "url": "https://gamefaqs.gamespot.com/pc/577198-the-lion-king"
       }
     ],
     "songs": [
       {
-        "song": "BUGHUNT.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/BUGHUNT.S3M",
-        "size": 38400,
-        "composer": "Allister Brimble"
+        "song": "bughunt.amf",
+        "song_link": "VGMPF/PC/Lion King, The/bughunt.amf",
+        "size": 37230,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "BUGTOSS.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/BUGTOSS.S3M",
-        "size": 18576,
-        "composer": "Allister Brimble"
+        "song": "bugtoss.amf",
+        "song_link": "VGMPF/PC/Lion King, The/bugtoss.amf",
+        "size": 17744,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "DEATH.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/DEATH.S3M",
-        "size": 25424,
-        "composer": "Allister Brimble"
+        "song": "continue.amf",
+        "song_link": "VGMPF/PC/Lion King, The/continue.amf",
+        "size": 29879,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION1.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION1.S3M",
-        "size": 51056,
-        "composer": "Allister Brimble"
+        "song": "death.amf",
+        "song_link": "VGMPF/PC/Lion King, The/death.amf",
+        "size": 24783,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION10.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION10.S3M",
-        "size": 60080,
-        "composer": "Allister Brimble"
+        "song": "hoohah.amf",
+        "song_link": "VGMPF/PC/Lion King, The/hoohah.amf",
+        "size": 39393,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION2.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION2.S3M",
-        "size": 73312,
-        "composer": "Allister Brimble"
+        "song": "lion1.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion1.amf",
+        "size": 49887,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION3.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION3.S3M",
-        "size": 64976,
-        "composer": "Allister Brimble"
+        "song": "lion10.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion10.amf",
+        "size": 59292,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION4.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION4.S3M",
-        "size": 67248,
-        "composer": "Allister Brimble"
+        "song": "lion2.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion2.amf",
+        "size": 68411,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION5.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION5.S3M",
-        "size": 71648,
-        "composer": "Allister Brimble"
+        "song": "lion3.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion3.amf",
+        "size": 63805,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION6.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION6.S3M",
-        "size": 65568,
-        "composer": "Allister Brimble"
+        "song": "lion4.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion4.amf",
+        "size": 65330,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION7.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION7.S3M",
-        "size": 48448,
-        "composer": "Allister Brimble"
+        "song": "lion5.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion5.amf",
+        "size": 70676,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION8.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION8.S3M",
-        "size": 57024,
-        "composer": "Allister Brimble"
+        "song": "lion6.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion6.amf",
+        "size": 60583,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "LION9.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/LION9.S3M",
-        "size": 42016,
-        "composer": "Allister Brimble"
+        "song": "lion7.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion7.amf",
+        "size": 47437,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       },
       {
-        "song": "TITLE.S3M",
-        "song_link": "World of Game MODs/PC/Lion King, The/TITLE.S3M",
-        "size": 88832,
-        "composer": "Allister Brimble"
+        "song": "lion9.amf",
+        "song_link": "VGMPF/PC/Lion King, The/lion9.amf",
+        "size": 54056,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
+      },
+      {
+        "song": "title.amf",
+        "song_link": "VGMPF/PC/Lion King, The/title.amf",
+        "size": 88301,
+        "composer": "Allister Brimble",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/9/9e/Lion_King_%28DOS%29.zip"
       }
     ]
   },
@@ -40841,9 +41147,8 @@
       "Codemasters",
       "Ocean"
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=MTM5OTk=",
+    "year": 1994,
+    "source": "gamus",
     "links": [
       {
         "title": "Micro Machines 2: Turbo Tournament",
@@ -40897,63 +41202,87 @@
     ],
     "songs": [
       {
-        "song": "01-TITLE_mm2title.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/01-TITLE_mm2title.mod",
-        "size": 511616,
+        "song": "BONUS.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#1",
+        "size": 228741,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "02-PRESENT_getready.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/02-PRESENT_getready.mod",
-        "size": 189692,
+        "song": "BONUS.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#2",
+        "size": 228741,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "03-PRESENT_getreadylittle.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/03-PRESENT_getreadylittle.mod",
-        "size": 142714,
+        "song": "BONUS.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#3",
+        "size": 228741,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "04-PRESENT_ditty.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/04-PRESENT_ditty.mod",
-        "size": 286566,
+        "song": "GAME.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#1",
+        "size": 174771,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "05-PRESENT_lostlife.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/05-PRESENT_lostlife.mod",
-        "size": 101682,
+        "song": "GAME.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#2",
+        "size": 174771,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "06-PRESENT_gameover.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/06-PRESENT_gameover.mod",
-        "size": 209154,
+        "song": "PRESENT.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#1",
+        "size": 591710,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "07-BONUS_bonuslevel.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/07-BONUS_bonuslevel.mod",
-        "size": 92090,
+        "song": "PRESENT.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#2",
+        "size": 591710,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "08-GAME_playoff.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/08-GAME_playoff.mod",
-        "size": 51200,
+        "song": "PRESENT.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#3",
+        "size": 591710,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "09-GAME_winner.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/09-GAME_winner.mod",
-        "size": 171064,
+        "song": "PRESENT.MUS #4",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#4",
+        "size": 591710,
         "composer": "Tim Bartlett"
       },
       {
-        "song": "10-WINGAME_wingame.mod",
-        "song_link": "World of Game MODs/PC/Micro Machines 2 Turbo Tournament/10-WINGAME_wingame.mod",
-        "size": 307464,
+        "song": "PRESENT.MUS #5",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#5",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#1",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#2",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#3",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "WINGAME.MUS",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/WINGAME.MUS.br",
+        "size": 303947,
         "composer": "Tim Bartlett"
       }
     ]
@@ -43105,22 +43434,28 @@
     ]
   },
   {
-    "game": "One Must Fall 2097",
+    "game": "One Must Fall: 2097",
     "platform": "PC",
     "developers": [
       "Diversions Entertainment"
     ],
     "publishers": [
-      "Epic Megagames"
+      "Epic MegaGames, Inc.",
+      "Diversions Entertainment"
     ],
-    "year": "1994",
-    "source": "World of Game MODs",
-    "source_link": "http://www.mirsoft.info/gmb/music_info.php?id_ele=NzYz",
+    "year": 1994,
+    "source": "VGMPF",
+    "source_link": "https://www.vgmpf.com/Wiki/index.php?title=One_Must_Fall:_2097_(DOS)",
     "links": [
       {
-        "title": "One Must Fall 2097",
+        "title": "One Must Fall: 2097",
+        "site": "One Must Fall Wiki",
+        "url": "http://onemustfall.wikia.com/wiki/One_Must_Fall:_2097"
+      },
+      {
+        "title": "One Must Fall: 2097",
         "site": "MobyGames",
-        "url": "https://www.mobygames.com/game/234/one-must-fall-2097/",
+        "url": "http://www.mobygames.com/game/dos/one-must-fall-2097",
         "gallery": [
           "https://cdn.mobygames.com/f271090e-ab7b-11ed-a5ec-02420a00019b.webp",
           "https://cdn.mobygames.com/f2dd19e6-ab7b-11ed-a5ec-02420a00019b.webp",
@@ -43152,62 +43487,67 @@
           "https://cdn.mobygames.com/58bd044c-abf9-11ed-b83f-02420a000135.webp",
           "https://cdn.mobygames.com/589a654a-abf9-11ed-b83f-02420a000135.webp"
         ]
+      },
+      {
+        "title": "One Must Fall: 2097",
+        "site": "GameFAQs",
+        "url": "http://www.gamefaqs.com/pc/918490-one-must-fall-2097"
+      },
+      {
+        "title": "One Must Fall: 2097",
+        "site": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Must_Fall:_2097"
       }
     ],
     "songs": [
       {
-        "song": "01-PRELUDE.MOD",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/01-PRELUDE.MOD",
-        "size": 22248,
-        "composer": "Kenny Chou"
+        "song": "01 - Menu.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/01 - Menu.psm",
+        "size": 123656,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "02-INTRO.MOD",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/02-INTRO.MOD",
-        "size": 33801,
-        "composer": "Kenny Chou"
+        "song": "02 - Arena - Stadium.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/02 - Arena - Stadium.psm",
+        "size": 98900,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "03-MENU.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/03-MENU.S3M",
-        "size": 113936,
-        "composer": "Kenny Chou"
+        "song": "03 - Arena - Danger Room.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/03 - Arena - Danger Room.psm",
+        "size": 102435,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "04-ARENA0.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/04-ARENA0.S3M",
-        "size": 91328,
-        "composer": "Kenny Chou"
+        "song": "04 - Arena - Power Plant.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/04 - Arena - Power Plant.psm",
+        "size": 76776,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "05-ARENA1.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/05-ARENA1.S3M",
-        "size": 98912,
-        "composer": "Kenny Chou"
+        "song": "05 - Arena - Fire Pit.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/05 - Arena - Fire Pit.psm",
+        "size": 83105,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "06-ARENA2.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/06-ARENA2.S3M",
-        "size": 73040,
-        "composer": "Kenny Chou"
+        "song": "06 - Arena - Desert.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/06 - Arena - Desert.psm",
+        "size": 103428,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       },
       {
-        "song": "07-ARENA3.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/07-ARENA3.S3M",
-        "size": 78352,
-        "composer": "Kenny Chou"
-      },
-      {
-        "song": "08-ARENA4.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/08-ARENA4.S3M",
-        "size": 100320,
-        "composer": "Kenny Chou"
-      },
-      {
-        "song": "09-END.S3M",
-        "song_link": "World of Game MODs/PC/One Must Fall 2097/09-END.S3M",
-        "size": 125504,
-        "composer": "Kenny Chou"
+        "song": "07 - End.psm",
+        "song_link": "VGMPF/PC/One Must Fall 2097/07 - End.psm",
+        "size": 119231,
+        "composer": "Kenny Chou",
+        "source_archive": "https://www.vgmpf.com/Wiki/images/2/28/One_Must_Fall_-_2097_%28DOS%29.zip"
       }
     ]
   },
@@ -54741,6 +55081,11 @@
     "source": "gamus",
     "links": [
       {
+        "title": "Secret of Monkey Island",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Secret_of_Monkey_Island"
+      },
+      {
         "title": "The Secret of Monkey Island",
         "site": "MobyGames",
         "url": "https://www.mobygames.com/game/616/the-secret-of-monkey-island/",
@@ -54908,6 +55253,11 @@
     "source": "UnExoticA",
     "source_link": "https://www.exotica.org.uk/wiki/The_Secret_of_Monkey_Island",
     "links": [
+      {
+        "title": "Secret of Monkey Island",
+        "site": "Gamus Pro",
+        "url": "https://pro.gamus.space/PC/Secret_of_Monkey_Island"
+      },
       {
         "title": "Secret Of Monkey Island, The (ECS)",
         "site": "Hall Of Light",

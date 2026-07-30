@@ -9548,5 +9548,653 @@
         "samples": "resources/modules/Amiga/Ween The Prophecy/WEEN.INS"
       }
     ]
+  },
+  {
+    "game": "Aladdin",
+    "platform": "PC",
+    "developers": [
+      "Virgin"
+    ],
+    "publishers": [
+      "Virgin"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Disney's Aladdin",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/2069/disneys-aladdin/",
+        "gallery": [
+          "https://cdn.mobygames.com/0673190e-ab65-11ed-9feb-02420a000169.webp",
+          "https://cdn.mobygames.com/b49c1556-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/b66bc0d4-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/7fa146b2-ab78-11ed-8ed2-02420a0001a0.webp",
+          "https://cdn.mobygames.com/b936deca-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/ba8d0b0a-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/bbf03c10-abad-11ed-8e21-02420a00019b.webp",
+          "https://cdn.mobygames.com/a3d77f26-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a50c400c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a73a8f1e-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a86a793a-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/a9d2ac0c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/ab137a9c-abad-11ed-b951-02420a000197.webp",
+          "https://cdn.mobygames.com/b9f83296-abad-11ed-99ae-02420a00019e.webp",
+          "https://cdn.mobygames.com/bb4a3ad6-abad-11ed-99ae-02420a00019e.webp",
+          "https://cdn.mobygames.com/c044baf2-abad-11ed-99ae-02420a00019e.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "LEVEL.AMF #1",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#1",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #2",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#2",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #3",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#3",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #4",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#4",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #5",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#5",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #6",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#6",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #7",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#7",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #8",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#8",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #9",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#9",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #10",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#10",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "LEVEL.AMF #11",
+        "song_link": "resources/modules/PC/Aladdin/LEVEL.AMF.br#11",
+        "size": 218380,
+        "composer": "Andrew Barnabas"
+      },
+      {
+        "song": "WNW.AMF",
+        "song_link": "resources/modules/PC/Aladdin/WNW.AMF.br",
+        "size": 292684,
+        "composer": "Andrew Barnabas"
+      }
+    ]
+  },
+  {
+    "game": "Alien Breed: Tower Assault",
+    "platform": "PC",
+    "developers": [
+      "Team 17"
+    ],
+    "publishers": [
+      "Team 17"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Alien Breed: Tower Assault",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/4219/alien-breed-tower-assault/",
+        "gallery": [
+          "https://cdn.mobygames.com/ea39ac6c-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/eb8f0b20-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/ecc38f48-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/ee4d2c84-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/efad8cc2-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/f1397ef2-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/f27ec538-abcd-11ed-bd13-02420a00019c.webp",
+          "https://cdn.mobygames.com/09b633be-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/f30b9c10-ab64-11ed-9620-02420a000175.webp",
+          "https://cdn.mobygames.com/0c2edc9a-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/0cea0c7c-ab77-11ed-b042-02420a00019f.webp",
+          "https://cdn.mobygames.com/fe9d63bc-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/fef2e332-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/ff61720c-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/ffacb8c0-ab76-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/00ab202c-ab77-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/0112a562-ab77-11ed-9d05-02420a000198.webp",
+          "https://cdn.mobygames.com/f8b502a8-ac06-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/fb227d86-ac06-11ed-962d-02420a000135.webp",
+          "https://cdn.mobygames.com/f69ffae0-ac06-11ed-8ce3-02420a000131.webp",
+          "https://cdn.mobygames.com/f8de1a80-ac06-11ed-a599-02420a000132.webp",
+          "https://cdn.mobygames.com/fb502204-ac06-11ed-962d-02420a000135.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "TITLE.AMF",
+        "song_link": "resources/modules/PC/Alien Breed - Tower Assault/TITLE.AMF.br",
+        "size": 59293,
+        "composer": "Allister Brimble"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Regret",
+    "platform": "PC",
+    "developers": [
+      "Origin"
+    ],
+    "publishers": [
+      "Origin"
+    ],
+    "year": 1996,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Crusader: No Regret",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/852/crusader-no-regret/",
+        "gallery": [
+          "https://cdn.mobygames.com/8cfd390c-ac0d-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/8d7246b6-ac0d-11ed-bc39-02420a000131.webp",
+          "https://cdn.mobygames.com/8895fb56-ac0d-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/88dd492e-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/893f1668-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8a87292a-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8aea9708-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8b281290-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8b6ee148-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/4ea5cfce-bed3-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/8bab763a-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/63c3609c-bec9-11ed-9c42-02420a000140.webp",
+          "https://cdn.mobygames.com/8beee924-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8c25c5e8-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8c5c8c0e-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8c97d91c-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8cda85be-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8d12b858-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/87d7d86e-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/8823b9e6-c252-11ed-ab6b-02420a000194.webp",
+          "https://cdn.mobygames.com/88699fe2-c252-11ed-ab6b-02420a000194.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "D3.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/D3.AMF.br",
+        "size": 416546,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DARK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DARK.AMF.br",
+        "size": 233022,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DEMO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DEMO.AMF.br",
+        "size": 389742,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "DISTORT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/DISTORT.AMF.br",
+        "size": 325474,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "INTENT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/INTENT.AMF.br",
+        "size": 281390,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "METAL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/METAL.AMF.br",
+        "size": 420832,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "MK.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/MK.AMF.br",
+        "size": 274320,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "NINTH.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/NINTH.AMF.br",
+        "size": 438010,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PARTY.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PARTY.AMF.br",
+        "size": 266120,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "PHIL.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/PHIL.AMF.br",
+        "size": 334352,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "REGRET.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/REGRET.AMF.br",
+        "size": 516576,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RETRO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RETRO.AMF.br",
+        "size": 264226,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "RHYTHM.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/RHYTHM.AMF.br",
+        "size": 372700,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SILVER.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SILVER.AMF.br",
+        "size": 362876,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE.AMF.br",
+        "size": 327390,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "SPACE2.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/SPACE2.AMF.br",
+        "size": 306694,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STINT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STINT.AMF.br",
+        "size": 383926,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "STRAIGHT.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/STRAIGHT.AMF.br",
+        "size": 315846,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "TECHNO.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/TECHNO.AMF.br",
+        "size": 193872,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "THIRD.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/THIRD.AMF.br",
+        "size": 182450,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      },
+      {
+        "song": "XMAS.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Regret/XMAS.AMF.br",
+        "size": 325934,
+        "composer": "Dan Grandpre, Todd Parsons, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Crusader: No Remorse",
+    "platform": "PC",
+    "developers": [
+      "Origin"
+    ],
+    "publishers": [
+      "Origin"
+    ],
+    "year": 1995,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Crusader: No Remorse",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/851/crusader-no-remorse/",
+        "gallery": [
+          "https://cdn.mobygames.com/d8e503a4-ab6d-11ed-8b6f-02420a00019c.webp",
+          "https://cdn.mobygames.com/d2f8ee24-ab6d-11ed-9201-02420a00019c.webp",
+          "https://cdn.mobygames.com/89af6e8c-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/89df80ae-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8a10e432-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8a7b59f2-ac0d-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/8a58a6be-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8ae319e8-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8bbd987a-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8bf588d4-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8c26b01c-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8c5a7ba4-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8cbc3150-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8cf0e710-ac0d-11ed-ad33-02420a00012d.webp",
+          "https://cdn.mobygames.com/8cfb281a-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/9c433edc-ab6a-11ed-b165-02420a000198.webp",
+          "https://cdn.mobygames.com/8db10fcc-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/0b0ecbc4-ab75-11ed-837d-02420a00019b.webp",
+          "https://cdn.mobygames.com/8ddeac8e-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8e0e9516-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/3d9bfbcc-ab6e-11ed-b6ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/8e4469b6-ac0d-11ed-b444-02420a000134.webp",
+          "https://cdn.mobygames.com/8f051e18-ac0d-11ed-b444-02420a000134.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "CRED.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/CRED.AMF.br",
+        "size": 337076,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M01.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M01.AMF.br",
+        "size": 368770,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M02.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M02.AMF.br",
+        "size": 199228,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M03.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M03.AMF.br",
+        "size": 294088,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M04.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M04.AMF.br",
+        "size": 247900,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M05.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M05.AMF.br",
+        "size": 282446,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M06.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M06.AMF.br",
+        "size": 82896,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M07.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M07.AMF.br",
+        "size": 149001,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M08.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M08.AMF.br",
+        "size": 143584,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M09.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M09.AMF.br",
+        "size": 347676,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M10.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M10.AMF.br",
+        "size": 172090,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M11.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M11.AMF.br",
+        "size": 287020,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M12.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M12.AMF.br",
+        "size": 139774,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M13.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M13.AMF.br",
+        "size": 338074,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M14.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M14.AMF.br",
+        "size": 219378,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M15.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M15.AMF.br",
+        "size": 304862,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16A.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16A.AMF.br",
+        "size": 248710,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16B.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16B.AMF.br",
+        "size": 208960,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "M16C.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/M16C.AMF.br",
+        "size": 229746,
+        "composer": "Dan Grandpre, Andrew Sega"
+      },
+      {
+        "song": "MENU.AMF",
+        "song_link": "resources/modules/PC/Crusader - No Remorse/MENU.AMF.br",
+        "size": 275960,
+        "composer": "Dan Grandpre, Andrew Sega"
+      }
+    ]
+  },
+  {
+    "game": "Micro Machines 2: Turbo Tournament",
+    "platform": "PC",
+    "developers": [
+      "Supersonic Software"
+    ],
+    "publishers": [
+      "Codemasters",
+      "Ocean"
+    ],
+    "year": 1994,
+    "source": "gamus",
+    "links": [
+      {
+        "title": "Micro Machines 2: Turbo Tournament",
+        "site": "MobyGames",
+        "url": "https://www.mobygames.com/game/627/micro-machines-2-turbo-tournament/",
+        "gallery": [
+          "https://cdn.mobygames.com/1caf407a-ab7f-11ed-be6f-02420a000197.webp",
+          "https://cdn.mobygames.com/6e0623a6-ac03-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/6e372d16-ac03-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/6e665e24-ac03-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/244e058c-ab7f-11ed-b6ec-02420a00019b.webp",
+          "https://cdn.mobygames.com/6e914774-ac03-11ed-8d2f-02420a00012e.webp",
+          "https://cdn.mobygames.com/294be00e-ab7f-11ed-b165-02420a000198.webp",
+          "https://cdn.mobygames.com/688e3080-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/68b80306-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/68f15296-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/440e6f88-ab7f-11ed-934f-02420a0001a0.webp",
+          "https://cdn.mobygames.com/27934374-ab7f-11ed-b9d3-02420a00019b.webp",
+          "https://cdn.mobygames.com/691c7700-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/9301c9be-ab7f-11ed-8048-02420a000198.webp",
+          "https://cdn.mobygames.com/698245f8-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/69a98bea-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/6ae5ae58-ac03-11ed-a12e-02420a000130.webp",
+          "https://cdn.mobygames.com/4e74c8dc-ab7f-11ed-87d1-02420a000197.webp",
+          "https://cdn.mobygames.com/2adb1e7c-abba-11ed-9d80-02420a00019a.webp",
+          "https://cdn.mobygames.com/6b2f709c-ac03-11ed-a12e-02420a000130.webp",
+          "https://cdn.mobygames.com/16a15c6e-abba-11ed-be6f-02420a000197.webp",
+          "https://cdn.mobygames.com/207b833a-ab7f-11ed-b325-02420a00019e.webp",
+          "https://cdn.mobygames.com/2ad40780-ab7f-11ed-b9d3-02420a00019b.webp",
+          "https://cdn.mobygames.com/f67b885a-ab7e-11ed-b430-02420a0001a0.webp",
+          "https://cdn.mobygames.com/365602e6-ac03-11ed-b83f-02420a000135.webp",
+          "https://cdn.mobygames.com/3b76fac8-ac03-11ed-82af-02420a000136.webp",
+          "https://cdn.mobygames.com/368a6af4-ac03-11ed-b83f-02420a000135.webp",
+          "https://cdn.mobygames.com/3562c3ba-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/358e2406-ac03-11ed-9899-02420a000134.webp",
+          "https://cdn.mobygames.com/6d8a96fa-ac03-11ed-b950-02420a00012d.webp",
+          "https://cdn.mobygames.com/45769b28-ac03-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/45ad50d2-ac03-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/45d837b6-ac03-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/46094d2e-ac03-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/66296ef4-ac03-11ed-927d-02420a00012f.webp",
+          "https://cdn.mobygames.com/469e9a32-ac03-11ed-80b1-02420a000133.webp",
+          "https://cdn.mobygames.com/463d3a6c-ac03-11ed-897b-02420a00012d.webp",
+          "https://cdn.mobygames.com/4d540786-ac03-11ed-9b47-02420a000133.webp",
+          "https://cdn.mobygames.com/403bd10a-ac03-11ed-83c1-02420a000131.webp",
+          "https://cdn.mobygames.com/6b8e7920-ac03-11ed-9c12-02420a00012f.webp",
+          "https://cdn.mobygames.com/43b23d88-ac03-11ed-92cb-02420a000132.webp",
+          "https://cdn.mobygames.com/43e857c4-ac03-11ed-92cb-02420a000132.webp"
+        ]
+      }
+    ],
+    "songs": [
+      {
+        "song": "BONUS.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#1",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "BONUS.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#2",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "BONUS.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/BONUS.MUS.br#3",
+        "size": 228741,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "GAME.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#1",
+        "size": 174771,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "GAME.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/GAME.MUS.br#2",
+        "size": 174771,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#1",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#2",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#3",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #4",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#4",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "PRESENT.MUS #5",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/PRESENT.MUS.br#5",
+        "size": 591710,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #1",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#1",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #2",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#2",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "TITLE.MUS #3",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/TITLE.MUS.br#3",
+        "size": 692033,
+        "composer": "Tim Bartlett"
+      },
+      {
+        "song": "WINGAME.MUS",
+        "song_link": "resources/modules/PC/Micro Machines 2 - Turbo Tournament/WINGAME.MUS.br",
+        "size": 303947,
+        "composer": "Tim Bartlett"
+      }
+    ]
   }
 ]
