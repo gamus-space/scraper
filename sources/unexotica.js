@@ -3,6 +3,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const process = require('node:process');
+const { setTimeout } = require('node:timers/promises');
 
 const AdmZip = require('adm-zip');
 const fetch = require('node-fetch');
@@ -63,6 +64,8 @@ const NAME_OVERRIDE = {
 	'Xenon 2': 'Xenon 2: Megablast',
 };
 
+let COOKIES;
+
 function normalizeName(name) {
 	return NAME_OVERRIDE[name] ?? name.replace(/^(The)\s+(.*)$/, '$2, $1');
 }
@@ -82,11 +85,17 @@ async function fetchGame(url, source) {
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
 	}
-	if (!html || html.includes("<title>Verifying...</title>")) {
-		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1785531421.9blHhCBKFLdLCtEtxJdMT0WjrvU=' } })).text();
+	if (!html || html.includes('<title>Verifying...</title>')) {
+		const response = await fetch(url, { signal: timeoutSignal, headers: { Cookie: COOKIES?.map(c => c.split(';')[0]).join('; ') } });
+		html = await response.text();
 		fs.writeFileSync(cachePath, html);
+		if (html.includes('<title>Verifying...</title>')) {
+			COOKIES = response.headers.raw()['set-cookie'];
+			console.log('retry...')
+			await setTimeout(1000);
+			return fetchGame(url, source);
+		}
 	}
-	console.log(html);
 
 	const doc = new dom().parseFromString(html);
 	const infobox = xpath.select1("//table[contains(@class, 'infobox')]", doc);
