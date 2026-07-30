@@ -82,7 +82,8 @@ async function fetchGame(url, source) {
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
 	} else {
-		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1785531421.9blHhCBKFLdLCtEtxJdMT0WjrvU=' } })).text();
+		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
+		console.log(html)
 		fs.writeFileSync(cachePath, html);
 	}
 
