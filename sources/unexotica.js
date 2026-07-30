@@ -81,9 +81,9 @@ async function fetchGame(url, source) {
 	const cachePath = `../_cache/${source}/` + url.match(/\/([^\/]+)$/)[1] + '.html';
 	if (fs.existsSync(cachePath)) {
 		html = fs.readFileSync(cachePath, 'utf-8');
-	} else {
-		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1' } })).text();
-		console.log(html)
+	}
+	if (html.includes("<title>Verifying...</title>")) {
+		html = await (await fetch(url, { signal: timeoutSignal, headers: { Cookie: 'verified=1785531421.9blHhCBKFLdLCtEtxJdMT0WjrvU=' } })).text();
 		fs.writeFileSync(cachePath, html);
 	}
 
